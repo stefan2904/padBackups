@@ -1,10 +1,11 @@
 #!/bin/bash
 
+# update urls-list, etc
+git pull
 
   BACKUPDIR=backup
   TMPDIR=.
   URLS=urls.list
-# URL=http://pad.constantvzw.org/p/conversations.clilley/export/txt
 
 
  for URL in `cat $URLS`
@@ -48,6 +49,7 @@
 
  done
 
+ # push new backups
  git push
 
  exit 0;
