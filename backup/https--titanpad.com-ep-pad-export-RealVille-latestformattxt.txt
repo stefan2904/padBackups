@@ -1,0 +1,384 @@
+realraum @ Chaos Communication Camp 2015
+        the Grazers
+        
+        When: From August 13th to August 17th 2015
+        Where: Ziegeleipark Mildenberg, Ziegelei 10, 16792 Zehdenick "near" Berlin
+        
+        Wiki: https://events.ccc.de/camp/2015/wiki/Village:RealVille
+        Phone: https://www.eventphone.de
+        There must be an Engel: https://engelsystem.de/
+        Pre-Camp: http://www.guckes.net/camp2015/pre-camp.html
+        
+        Location-Info: https://events.ccc.de/camp/2015/wiki/Static:Location
+        Area-Map: https://events.ccc.de/camp/2015/wiki/extensions/EventMap/map.png
+        
+        Site: http://bit.ly/virtualCampTour
+        Plan-Draft: https://bit.ly/campAufbauDraft
+        Aerial: https://bit.ly/campVonOben
+
+
+--------------------------------------------------------------------------------
+2n Orga-Meetup:    2015-06-28, 18:00 @ realraum
+http://grical.realraum.at/e/show/659/
+
+Agenda:
+ * Metalab Status
+ * Transport
+   * ETA / ETD
+   * Vehicle?
+   * Social Ride Sharing?
+ * Village
+   * Big Tent?
+   * Equipment Status 
+   * Define & Delegate what to bring
+   * Assign People & Stuff to Cars (later?)
+ * RealVille-fee
+   * Transport of Stuff (via cars)
+   * Infrastructure we buy
+   * (Start money for 24h breakfast)
+ * Q & A
+ * Fancy Stuff / Flag / Cups ...
+ * Projects
+ * Anything else?
+
+--------------------------------------------------------------------------------
+TODO:
+ * Open Questions (please answer below):
+   * [Village] what stuff to bring for the village?
+   * [Transport] how to transport stuff?
+   * [Transport] how to transport people?
+   * [Transport] when do we arrive/leave?
+   * [Transport] who is the build up / tear down team (needs more holidays!)
+   * [Transport] who has a drivers license for big trailer (or bus?)
+     * one guy from bagru (Michi)
+
+ * all: find out who is coming, how & what they can bring
+ * all: where do we buy the sofa(s) if renting is expensive?
+   * cheap sofa for 2 at 16€: http://www.amazon.de/Royalbeach-22016-aufblasbar-ZWEIER-aufgeblasen/dp/B00169DEHA/ref=sr_1_1?ie=UTF8&qid=1434970204&sr=8-1&keywords=aufblasbares+sofa
+   * 50€ for 2-3 people sitting and convertible bed for 2: http://www.amazon.de/Intex-Aufblasm%C3%B6bel-Ausziehbares-Sofa-Pull-Out/dp/B00649COM8/ref=sr_1_3?ie=UTF8&qid=1434970204&sr=8-3&keywords=aufblasbares+sofa
+ * stefan: ask metalab about fee for sharing infrastructure (+ transport?)
+   * no fee if we bring stuff and transport our stuff
+   * still fee for 24h breakfast of course
+ * stefan: ask metalab to add us as related village on their wiki-page
+   * done
+ * stefan: ask metalab about 24/7 breakfast
+   * will happen, car needed => we have one
+ * stefan: ask metalab about docking our big-tent to theirs
+   * ack. needs onsite management
+
+ * nicoo: asks metalab about network & power needs (via mailinglist, see bottom)
+ * nicoo: tell metalab we are evaluating what we can bring wrt. network/power (via mailinglist, see bottom)
+   * 10GbE/SFP+ && GBICs auf Kupfer/SM: no
+   * power cables (bagru?)
+   * fuse boxes + overvoltage protection
+   * 32A distribution box (see with Christian)
+   * network cables (see with BaGru)
+   * switches
+     * 48 ports GbE Nortel Baystack 5510
+     * 16 ports GbE Linksys from Alex ?
+     * Table-top Gbe switches from nicoo (1), peterpotzi (2), hannes (1)
+
+ * xro: finds out if they have their company car ("ziemlich wahrscheinlich")
+   * 3 people + their stuff (+small village stuff)
+
+ * bagru: trailer? big trailer?
+   * We would prefer not to drive with a trailer.
+
+ * bagru: find out what equipment can they bring (cables? power?)
+   * We would volunteer to arrange power distribution. We will bring something like this:
+   * http://www.pollin.de/shop/dt/MzQ0ODM0OTk-/Haustechnik/Installationsmaterial/Steckdosenleisten/Starkstrom_Wandverteiler_FIXO_I_32A_16A.html
+
+ * bagru: Does BaGru have tents + sleeping bag surplus?
+   * We will take two "pavillions" along with us, and we want to rent a table and 6-8 chairs for it.
+
+ * bagru: how much to ship a palette to camp/from camp to graz (how early to send?)
+   * Two days early, this includes pickup on place and delivery to camp:
+   * costs about 100-150 EUR per EURO Palette
+
+
+ * patrick: does he join us + what about his bus (+ trailer?)
+   * Bus is owned by Lucas, which is used for a concurrent trip with Lucas, Tom and Friends :-(
+   * we could use trailer from patrick's parents (25€ for the annual inspection)
+   * He will check the finances in July and decide then if he joins (he would like to).
+   * he can provide the sun sails anyway, no matter if he joins the camp.
+   * If he is in, he well have time to join the preparation and cleanup group.
+
+ * peterpötzi: organize a flag
+   * really, really cheap (150x90cm, 14€, free shipping) for flag with custom logo
+   * http://www.aliexpress.com/item/Custom-flag-150X90cm-3x5FT-120g-100D-Polyester-cheap-price-and-high-quality-free-shipping-history-flag/32228755936.html?spm=2114.32010308.4.16.5kaYDC
+   * Also in other sizes http://www.aliexpress.com/store/group/Different-SIzes/1442309_259752275.html?isFreeShip=y&SortType=price_asc
+   * We can upload our logo as svg. Look at the pictures, it is reinforced with metal eyelets, should survice camp
+   * Order asap, because it would take up to 4 weeks to get it
+   * Let it be made (sewed) for 30€ + material cost from SaSa
+ * peterpötzi: organize cups (we want ~50)
+   * barcamp got theirs for 461€ for 500 from http://www.mehrwegbecher.com/detail/product/mehrwegbecher-05l-pp-transparent.html
+ * peterpötzi: collect prices for minivan/trailer
+   * Via carsharing 24/7
+     * VW Transporter 9-seats for 40€/day (https://carsharing247.com/community/profil/7538-Dagobert_Jakob only accessible with registration)
+     * ~240€ bus, 200€ oil == 50€ /person
+   * from SaSa:
+     * http://www.sixt.at/mietwagen/oesterreich/graz/graz
+     * http://www.zipcar.at/zipcar-wien-promo2?gclid=CLLt5oL8k8YCFUcOwwodbBYALw#how-it-works
+     * http://www.zipcar.at/zipcar-wien-promo2?gclid=CLLt5oL8k8YCFUcOwwodbBYALw#how-it-works
+   * Alternatively: RealVille-fee for all RealVille-inhabitants
+ * peterpötzi: collect prices for ~3x6m tent (with walls (& floor?))
+   * Rent: https://events.ccc.de/camp/2015/wiki/Rent_a_Tent
+     * too expensive
+   * Buy: 
+     * Tents with 3x6m
+     * http://www.amazon.de/Pavillon-champagner-Faltpavillon-Seitenteile-wasserdichtes/dp/B003AMERTK/ref=sr_1_5?ie=UTF8&qid=1434561301&sr=8-5&keywords=3x6m+pavillon
+     * http://www.amazon.de/Partyzelt-Meter-Planen-Fenstern-Gest%C3%A4nge/dp/B0019F5BO0/ref=sr_1_17?ie=UTF8&qid=1434561301&sr=8-17-spons&keywords=3x6m+pavillon
+     * 220 - 280€ (10-15€ / villager)
+     * both with good rating on amazon (also the most expensive ones on amazon)
+   * Alternatively: RealVille-fee for all RealVille-inhabitants
+
+ * ccc: rent tent or buy tent
+   * prices: https://events.ccc.de/camp/2015/wiki/Rent_a_Tent
+   * tables + chairs
+
+ * post pictures to http://realville.soup.io/
+ * win!
+
+
+--------------------------------------------------------------------------------
+Village Location:
+ * Next to / together with Metalab https://metalab.at/wiki/CCCamp2015
+ * Open for other 'Graz' projects/people
+
+
+--------------------------------------------------------------------------------
+Village Inhabitants (~20):
+ * stefan: time to build up; no drivers-license; has to be in Graz on the 19th
+ * nicoo: at DebConf afterwards
+ * peterTheOne: somewhere else afterwards
+ * peter pötzi
+   * +1 guest Horst Petschenig
+ * xro
+ * jampo
+ * daniel (from berlin - homunkolloss)
+ * 
+ * +5~7 from BIS/Bagru
+ * 
+ * patrick?
+ * n0v0id: Thu-Mon; most likely via plane
+ * 
+ * equinox?
+ * martin jost?
+ * gasti?
+ * auphonic georg?
+ * Murdelta?
+ * 
+ * ~15 people (according to mitgliederabend 2015-05-11)
+ * 
+ * sandra+1, transport via metalab
+ * alex funkfeuer at least in spirit
+ * you? via car/truck? can you transport stuff?
+
+--------------------------------------------------------------------------------
+CarPool / Wer kann Leute und Equipment transportieren:
+ * xro: car for 3: xro, martin, ? + their equipment
+ * patrick: bus
+ * patrick: trailer from his parents
+ * bagru?
+ * rent something?
+
+Graz Convoy:
+ * xro car + patrick trailer
+ * 
+
+Costs: http://www.spritkostenrechner.de/
+(split by Village Inhabitants)
+
+--------------------------------------------------------------------------------
+Public Transport:
+
+http://www.fromAtoB.de/
+
+ * Train: from Graz
+   * ~39€ (to Ziegeleipark one-way, via Wien/Prag, via bahn.de)
+   * ~128€ (to Ziegeleipark and back, via Wien/Prag, via bahn.de)
+
+ * Train: Flexible
+   * 154€ Interrail http://www.interrail.eu/interrail-passes/one-country-pass/germany
+   * 39€ / 69€ Sommerticket http://www.oebb.at/de/Services/Neu_fuer_Sie/Das_OeBB_Sommerticket/ 
+
+ * Train: from Berlin
+   * http://www.vbb.de
+   * from Mainstation via RE to Oranienburg, via RB to Zehdenick Bahnhof, via Bus to Ziegeleipark
+   * 1:22 / ~7€ from Berlin Mainstation
+
+ * Plane: from Graz
+   * http://www.checkfelix.com/flights/GRZ-BER/2015-08-11-flexible-1day-before/2015-08-18-flexible-1day-after
+   * ~120€ (to TXL)
+
+ * Bus (via Vienna to Berlin ZOB)
+   * ~9€ to/from Vienna (meinfernbus.at)
+   * 22~42 € to Berlin (meinfernbus.at)
+   * 22~42 € from Berlin (meinfernbus.at)
+
+
+--------------------------------------------------------------------------------
+Stuff to bring for the Village (how?):
+ * Inspiration: https://metalab.at/wiki/CCCamp2015/Orga
+ * share infrastructure with Metalab
+   * community tents / hackcenter tent
+   * shared food storage / refrigerator/ kitchen
+   * power
+   * wired network
+
+ * power/network cables ("distribution stuff")
+   * switch/"network distribution"
+   * "power distribution"
+   * ups/usv + fuse boxes + overvoltage protection
+   * all the cables
+ * big tent (rent it or buy it?)
+ * solar sail
+ * rain protection / Stretch-Foil 
+ * light / LEDs / power
+
+ * cooling
+   * fridge?
+   * peter pötzl's water cooling (for mate/makava/beer/water)
+   * xro's cooling boxes (for food etc.)
+ * pizzaoven (sandra)
+
+ * plates, knife/fork/spoon
+ * cords
+ * ducktape
+ * cups! (buy realraum cups?)
+ * (big) garbage bags
+
+ * first-aid kit (from a car?) / patches
+
+ * phone(s) for the village?
+ * display which displays sms at the village?
+
+ * 24hrs Breakfast???
+   * together with metalab
+
+ * STICKERRRRRZ !
+   * +big box
+
+ * beverage:
+   * 1337 mate? (definately)
+   * makava (xro)
+   * eule bier?
+   * tschunk supply?
+
+ * fancy stuff / nice to have:
+   * realraum/realville flag/banner?
+   * mur.at/mursat/helsinki flag/banner?
+   * laser-to-the-sky?
+   * "servierwagerl with big weels"
+
+ * Pool
+   * http://www.amazon.de/Intex-Aufstellpool-Easy-Pools%C2%AE-Blau/dp/B001TL0MSO/ref=sr_1_3?ie=UTF8&qid=1435005075&sr=8-3&keywords=intex+easy+pool
+   * or http://www.amazon.de/Intex-Aufstellpool-Easy-Pools%C2%AE-Blau/dp/B0009V7PXK/ref=sr_1_1?ie=UTF8&qid=1435005075&sr=8-1&keywords=intex+easy+pool
+
+
+--------------------------------------------------------------------------------
+Stuff to bring for you:
+ * label your stuff!
+ * rain or shine?
+
+ * tent! sleepingbag! mat!
+   * lock for your tent?
+ * put your clothes in a bag! bring backup clothes!
+
+ * Space blankets (for your tent!)
+ * cords
+ * ducktape
+ * additional stuff for tents (tent peg, pole/post, ...)
+
+ * gsm/dect phone(s)!
+ * r0ket
+
+ * hammock (hängematte)
+   * enough trees to mount them?
+
+ * please use/edit this list https://metalab.at/wiki/CCCamp2015/Stuff_to_Bring
+ * or read https://github.com/MacLemon/CongressChecklist
+ * --> update https://github.com/realraum/CampChecklist
+
+ * http://www.abifestival.de/packliste/
+ * http://www.festival.co.at/packliste/
+ * http://www.ringrocker.com/festival-packliste.php
+ * ...
+
+
+--------------------------------------------------------------------------------
+Project Ideas:
+ * Document all the things somewhere?
+ * + post pictures to http://realville.soup.io/
+
+ * Inspiration: https://metalab.at/wiki/CCCamp2011
+ * Selfie-Bot
+ * Stickerbox!, ~all
+ * "ask people before taking pictures/video" sign
+ * EL-wire, ~stefan
+   * clothes
+   * realraum sign
+   * realraum flag
+ * raspberry Pi + sensors in a tent (temperature! humidity!)
+   * SpaceAPI for the Village?
+ * make the invisible visible:
+   * https://www.flickr.com/photos/timo/5481050939/
+   * wifi?
+   * noise?
+   * logo!
+     * measure distance or play timed pixel-sequence?
+ * 3d print some shower hooks
+ * solar panel?
+ * flashing 'blue' light + small "dome" / shielding
+ * ventilator
+   * +persistence of vision?
+ * flexible tube + interesting liquids + light
+ * worldmap (without borders) + pins for people to tag themselves?
+ * Powerpoint Karaoke
+
+ * http://www.thingiverse.com/glitchpudding/collections/camping/page:1
+
+ * SMS-Shell ~stefan
+ * encrypted food via IP via Seidenstraße ~nicoo
+ * Urban Game ~stefan
+ * Geocache ~stefan, xro
+ * Dead-Drop? ~stefan
+ * Mini-Drone Fleet + MachineLearning, ~stefan, xro
+ * Pool?
+ * Couch?
+
+ * (interactive) blinky stuff
+ * music stuff
+
+Links:
+ * Update 1: https://mailman.wirdorange.org/pipermail/realraum/2015-June/002283.html
+ * Update 2: https://mailman.wirdorange.org/pipermail/realraum/2015-June/002298.html
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Requests from Metalab:
+
+Metalab-Hackercons-List: 
+https://lists.metalab.at/mailman/listinfo/hackercons
+
+Falls ihr 10GbE/SFP+ Equipment habt und mitnehmen wollt wäre das sehr cool,
+Gbit Switches haben wir zumindest einen, und 100M Switches mit GBit uplink
+gibt es genug. (GBICs auf Kupfer/SM wäre auch cool)
+
+Bezüglich Strom werden wir schauen, da wissen wir noch nicht sicher, ob wir
+32A bzw. 64A Verteiler bekommen.
+
+Message-ID: <1946824.Ddv29zyjI9@datacop-desktop>
+=> nicoo is checking on this
+
+Leiwandville probably gets:
+ * 32A CEE 400V, or
+ * 64A CEE 400V from the power-toilet
+
+People who understand "electricity": peter pötzl, (thomas|bernhard) krug
+
+
+
+
+
