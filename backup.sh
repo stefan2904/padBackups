@@ -48,7 +48,7 @@
 
  done
 
-
+ git push
 
  exit 0;
 
