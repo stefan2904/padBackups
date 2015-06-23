@@ -109,7 +109,8 @@ TODO:
    * Also in other sizes http://www.aliexpress.com/store/group/Different-SIzes/1442309_259752275.html?isFreeShip=y&SortType=price_asc
    * We can upload our logo as svg. Look at the pictures, it is reinforced with metal eyelets, should survice camp
    * Order asap, because it would take up to 4 weeks to get it
-   * Let it be made (sewed) for 30€ + material cost from SaSa
+   * Let it be made (sewed) for 30€ + material cost - from SaSa
+     * sew in mount for wire?
  * peterpötzi: organize cups (we want ~50)
    * barcamp got theirs for 461€ for 500 from http://www.mehrwegbecher.com/detail/product/mehrwegbecher-05l-pp-transparent.html
  * peterpötzi: collect prices for minivan/trailer
@@ -130,6 +131,7 @@ TODO:
      * http://www.amazon.de/Partyzelt-Meter-Planen-Fenstern-Gest%C3%A4nge/dp/B0019F5BO0/ref=sr_1_17?ie=UTF8&qid=1434561301&sr=8-17-spons&keywords=3x6m+pavillon
      * 220 - 280€ (10-15€ / villager)
      * both with good rating on amazon (also the most expensive ones on amazon)
+     * Hofer 100€ for up to five persons: https://www.hofer.at/de/angebote/ab-donnerstag-25062015/detailseite/ps/p/adventuridge-5-personen-zelt/
    * Alternatively: RealVille-fee for all RealVille-inhabitants
 
  * ccc: rent tent or buy tent
@@ -156,13 +158,13 @@ Village Inhabitants (~20):
  * xro
  * jampo
  * daniel (from berlin - homunkolloss)
+ * equinox (51%)
  * 
  * +5~7 from BIS/Bagru
  * 
  * patrick?
  * n0v0id: Thu-Mon; most likely via plane
  * 
- * equinox?
  * martin jost?
  * gasti?
  * auphonic georg?
