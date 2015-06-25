@@ -1,4 +1,4 @@
-realraum @ Chaos Communication Camp 2015
+trealraum @ Chaos Communication Camp 2015
         the Grazers
         
         When: From August 13th to August 17th 2015
@@ -22,6 +22,7 @@ realraum @ Chaos Communication Camp 2015
 http://grical.realraum.at/e/show/659/
 
 Agenda:
+ * Status
  * Metalab Status
  * Transport
    * ETA / ETD
@@ -132,7 +133,7 @@ TODO:
      * http://www.amazon.de/Partyzelt-Meter-Planen-Fenstern-Gest%C3%A4nge/dp/B0019F5BO0/ref=sr_1_17?ie=UTF8&qid=1434561301&sr=8-17-spons&keywords=3x6m+pavillon
      * 220 - 280€ (10-15€ / villager)
      * both with good rating on amazon (also the most expensive ones on amazon)
-     * Hofer 100€ for up to five persons: https://www.hofer.at/de/angebote/ab-donnerstag-25062015/detailseite/ps/p/adventuridge-5-personen-zelt/
+     * Hofer 100€ for up to five persons: https://www.hofer.at/de/angebote/ab-donnerstag-25062015/detailseite/ps/p/adventuridge-5-personen-zelt/ (this is a tent not a pavillon)
    * Alternatively: RealVille-fee for all RealVille-inhabitants
 
  * ccc: rent tent or buy tent
