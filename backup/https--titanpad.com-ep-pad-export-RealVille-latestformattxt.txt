@@ -165,7 +165,7 @@ Village Inhabitants (~20):
  * +5~7 from BIS/Bagru
  * 
  * patrick?
- * n0v0id: Thu-Mon; most likely via plane
+ * n0v0id: via plane GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55 with http://airberlin.com
  * 
  * martin jost?
  * gasti?
@@ -214,6 +214,7 @@ http://www.fromAtoB.de/
  * Plane: from Graz
    * http://www.checkfelix.com/flights/GRZ-BER/2015-08-11-flexible-1day-before/2015-08-18-flexible-1day-after
    * ~120€ (to TXL)
+   * n0v0id is flying: GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55 with http://airberlin.com
 
  * Bus (via Vienna to Berlin ZOB)
    * ~9€ to/from Vienna (meinfernbus.at)
