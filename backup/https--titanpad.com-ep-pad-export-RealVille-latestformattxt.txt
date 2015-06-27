@@ -115,6 +115,7 @@ TODO:
      * why, we would get it cheaper in China?
  * peterpötzi: organize cups (we want ~50)
    * barcamp got theirs for 461€ for 500 from http://www.mehrwegbecher.com/detail/product/mehrwegbecher-05l-pp-transparent.html
+   * jampo requested quanta costa
  * peterpötzi: collect prices for minivan/trailer
    * Via carsharing 24/7
      * VW Transporter 9-seats for 40€/day (https://carsharing247.com/community/profil/7538-Dagobert_Jakob only accessible with registration)
@@ -160,12 +161,12 @@ Village Inhabitants (~20):
  * xro
  * jampo
  * daniel (from berlin - homunkolloss)
- * equinox (51%)
+ * n0v0id: via plane GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55 with http://airberlin.com
+ * equinox (52%)
  * 
  * +5~7 from BIS/Bagru
  * 
  * patrick?
- * n0v0id: via plane GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55 with http://airberlin.com
  * 
  * martin jost?
  * gasti?
