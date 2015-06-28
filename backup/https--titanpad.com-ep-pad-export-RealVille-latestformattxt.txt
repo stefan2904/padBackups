@@ -62,7 +62,7 @@ TODO:
    * [Transport] how to transport people?
      * train, plane, bus (see below)
    * [Transport] when do we arrive/leave?
-     * RealRaum Convoay + BuildUp Crew: tuesday evening
+     * RealRaum Convoy + BuildUp Crew: tuesday evening
      * BuildUp: 11. August
      * TearDown: 18. August
    * [Transport] who is the build up / tear down team (needs more holidays!)
