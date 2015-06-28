@@ -1,12 +1,13 @@
 "RealVille 2015 ThingsToBring && Shopping List",,,,,
 What,Assignee,Status,Quantity,"Unit price (€)",Source
-Couch,,,1-2,16,http://www.amazon.de/Royalbeach-22016-aufblasbar-ZWEIER-aufgeblasen/dp/B00169DEHA/ref=sr_1_1?ie=UTF8&qid=1434970204&sr=8-1&keywords=aufblasbares+sofa
+Couch,,,1-2+,16,http://www.amazon.de/Royalbeach-22016-aufblasbar-ZWEIER-aufgeblasen/dp/B00169DEHA/ref=sr_1_1?ie=UTF8&qid=1434970204&sr=8-1&keywords=aufblasbares+sofa
 ,,,,50,http://www.amazon.de/Intex-Aufblasm%C3%B6bel-Ausziehbares-Sofa-Pull-Out/dp/B00649COM8/ref=sr_1_3?ie=UTF8&qid=1434970204&sr=8-3&keywords=aufblasbares+sofa
-"Tent ?",,,1,~300?,"3x6m tent"
+"Tent with wall ?",,,1,~300?,"3x6m tent"
+"Pump + compressor",xro,ok,,,"xro + r³"
 "EL Wire",stefan,ok,"all the",~1$/meter,AliExpress
 "LED strips?",nicoo,,,,"Will ask mich about cost"
 Cups,jampo,,50/100,150/180,
-Flag,jampo,,2,15,"AliExpress, Logo + URL (white on black?)"
+"r3 Flag",jampo,,2,15,"AliExpress, Logo + URL (white on black?)"
 Flagpole,xro,ok,1,0,"Realraum / 0xFF"
 Stickers,jampo,ok,all,0,"all the r3 stickers from realraum "
 Stickerbox,stefan,,1,0,
@@ -16,3 +17,22 @@ Stickerbox,stefan,,1,0,
 "Catalyst 3500",nicoo,ok,1,0,"Need to find a copper GBic for it"
 "Network cabling (>= cat 5e)",nicoo,~,"ALL THE CABLZ",0,"PeterP & bagru"
 "Sun Sails",xro,?,2,,"most probably just have to ask patrick"
+"power cables",nicoo,~,,0,"bagru ?"
+"power distribution",nicoo,ok,1,0,bagru
+"fuse boxes + overvoltage protection",nicoo,~,,0,"bagru ? equinox ?"
+medkit,xro,ok,1,,"in xro car"
+"Space blanket (Rettungsdecken)",xro,,10,,
+"Duck tape",xro,,3,,
+"Extra tent hooks (Heringe)",xro,,,,
+"Big Canvas/Tarp (Plane)",,,,,"for transport + protecting stuff in case of $rain"
+"(Big) Trash bags",,,,,
+"Stretch Foil",,,"some rolles",,
+"light for community tent (fairy lights?)",peterTO,,,,"cable powered + maybe some battery powered backup"
+Pizzaoven,sandra,,,,
+"stuff to clean the kitchen (&tents?)",,,,,
+"Big metal boxes (cantines)",nicoo,"ok (at least 1)",2,0,
+makava,,transport?,,,"inform gebi early enough :P transport via matalab?"
+"fire extinguisher",xro,ok,,,"small in car"
+Paper/Pens/Signs/Tixo...,,,,,
+Hammer,,,,,
+trailer,patrick,,1,25,
