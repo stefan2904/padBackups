@@ -36,3 +36,4 @@ makava,,transport?,,,"inform gebi early enough :P transport via matalab?"
 Paper/Pens/Signs/Tixo...,,,,,
 Hammer,,,,,
 trailer,patrick,,1,25,
+abspannseile,xro,,,,
