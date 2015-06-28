@@ -55,7 +55,7 @@ Agenda:
 TODO:
  * Open Questions (please answer below):
    * [Village] what stuff to bring for the village?
-     * see below
+     * see below && https://ethercalc.org/RealVille
    * [Transport] how to transport stuff?
      * xro car + patrick trailer
      * bagru bus
@@ -70,10 +70,14 @@ TODO:
      * TearDown: xro+2, jakob, (stefan)
 
 
- * Village Inhabitants: Make List + set Deadline
- * Village Fee: Calculate fee + suggest to inhabitants
- * Set Deadline for paying the fee (~1week upfront)
- * Create Shoppinglist:
+ * stefan: Village Inhabitants: Make List + set Deadline
+
+ * jampo & stefan: Village Fee: Calculate fee + suggest to inhabitants
+ * jampo & stefan: Set Deadline for paying the fee (~1week upfront)
+
+ * PeterTO: collect fee, keep track of money in & out
+
+ * all: Fill out Shoppinglist:
    * https://ethercalc.org/RealVille
 
 
@@ -94,12 +98,9 @@ OLD TODOS:
 
  * nicoo: asks metalab about network & power needs (via mailinglist, see bottom)
  * nicoo: tell metalab we are evaluating what we can bring wrt. network/power (via mailinglist, see bottom)
-   * 10GbE/SFP+ && GBICs auf Kupfer/SM: no NOC prefers no fiber anyways
    * Multiple GbE aggregation -> Ask NOC on day 0.
-   * power cables: bagru has some & 16A distribution box
-   * fuse boxes + overvoltage protection
+   * 
    * 32A distribution box (see with Christian)
-   * network cables (see with BaGru)
 
  * xro: finds out if they have their company car ("ziemlich wahrscheinlich")
    * 3 people + their stuff (+small village stuff)
@@ -286,6 +287,7 @@ Stuff to bring for the Village (how?):
  * plates, knife/fork/spoon
  * cooking pot
  * boxes / ikea bag / ...
+   * http://www.mr-bricolage.fr/media/catalog/product/cache/2/image/900x/9df78eab33525d08d6e5fb8d27136e95/4/1/410000_cantine_verte_std_100_cm.jpg
  * cords
  * ducktape
  * cups! (buy realraum cups?)
