@@ -1,4 +1,4 @@
-trealraum @ Chaos Communication Camp 2015
+realraum @ Chaos Communication Camp 2015
         the Grazers
         
         When: From August 13th to August 17th 2015
@@ -24,18 +24,27 @@ http://grical.realraum.at/e/show/659/
 Agenda:
  * Status
  * Metalab Status
+   * see mails
  * Transport
    * ETA / ETD
+     * tbd
    * Vehicle?
+     * xro car + patrick trailer
+     * bagru car + no trailer
    * Social Ride Sharing?
+     * not needed
  * Village
    * Big Tent?
    * Equipment Status 
+     * 
+     * fridge: no?
    * Define & Delegate what to bring
    * Assign People & Stuff to Cars (later?)
  * RealVille-fee
    * Transport of Stuff (via cars)
+   * 25€ for Patrick trailer
    * Infrastructure we buy
+   * (maybe) small fee for metalab
    * (Start money for 24h breakfast)
  * Q & A
  * Fancy Stuff / Flag / Cups ...
@@ -46,13 +55,30 @@ Agenda:
 TODO:
  * Open Questions (please answer below):
    * [Village] what stuff to bring for the village?
+     * see below
    * [Transport] how to transport stuff?
+     * xro car + patrick trailer
+     * bagru bus
    * [Transport] how to transport people?
+     * train, plane, bus (see below)
    * [Transport] when do we arrive/leave?
+     * RealRaum Convoay + BuildUp Crew: tuesday evening
+     * BuildUp: 11. August
+     * TearDown: 18. August
    * [Transport] who is the build up / tear down team (needs more holidays!)
-   * [Transport] who has a drivers license for big trailer (or bus?)
-     * one guy from bagru (Michi)
+     * BuildUp: xro+2, jakob, stefan, PeterTO, (nicoo)
+     * TearDown: xro+2, jakob, (stefan)
 
+
+ * Village Inhabitants: Make List + set Deadline
+ * Village Fee: Calculate fee + suggest to inhabitants
+ * Set Deadline for paying the fee (~1week upfront)
+ * Create Shoppinglist:
+   * https://ethercalc.org/RealVille
+
+
+
+OLD TODOS:
  * all: find out who is coming, how & what they can bring
  * all: where do we buy the sofa(s) if renting is expensive?
    * cheap sofa for 2 at 16€: http://www.amazon.de/Royalbeach-22016-aufblasbar-ZWEIER-aufgeblasen/dp/B00169DEHA/ref=sr_1_1?ie=UTF8&qid=1434970204&sr=8-1&keywords=aufblasbares+sofa
@@ -61,7 +87,6 @@ TODO:
    * no fee if we bring stuff and transport our stuff
    * still fee for 24h breakfast of course
  * stefan: ask metalab to add us as related village on their wiki-page
-   * done
  * stefan: ask metalab about 24/7 breakfast
    * will happen, car needed => we have one
  * stefan: ask metalab about docking our big-tent to theirs
@@ -69,15 +94,12 @@ TODO:
 
  * nicoo: asks metalab about network & power needs (via mailinglist, see bottom)
  * nicoo: tell metalab we are evaluating what we can bring wrt. network/power (via mailinglist, see bottom)
-   * 10GbE/SFP+ && GBICs auf Kupfer/SM: no
-   * power cables (bagru?)
+   * 10GbE/SFP+ && GBICs auf Kupfer/SM: no NOC prefers no fiber anyways
+   * Multiple GbE aggregation -> Ask NOC on day 0.
+   * power cables: bagru has some & 16A distribution box
    * fuse boxes + overvoltage protection
    * 32A distribution box (see with Christian)
    * network cables (see with BaGru)
-   * switches
-     * 48 ports GbE Nortel Baystack 5510
-     * 16 ports GbE Linksys from Alex ?
-     * Table-top Gbe switches from nicoo (1), peterpotzi (2), hannes (1)
 
  * xro: finds out if they have their company car ("ziemlich wahrscheinlich")
    * 3 people + their stuff (+small village stuff)
@@ -88,9 +110,11 @@ TODO:
  * bagru: find out what equipment can they bring (cables? power?)
    * We would volunteer to arrange power distribution. We will bring something like this:
    * http://www.pollin.de/shop/dt/MzQ0ODM0OTk-/Haustechnik/Installationsmaterial/Steckdosenleisten/Starkstrom_Wandverteiler_FIXO_I_32A_16A.html
+   * +cee cable (long enough? everything fused and stuff?)
 
  * bagru: Does BaGru have tents + sleeping bag surplus?
    * We will take two "pavillions" along with us, and we want to rent a table and 6-8 chairs for it.
+   * Two 3x3 meter HTU pavilions without side-walls
 
  * bagru: how much to ship a palette to camp/from camp to graz (how early to send?)
    * Two days early, this includes pickup on place and delivery to camp:
@@ -113,9 +137,11 @@ TODO:
    * Let it be made (sewed) for 30€ + material cost - from SaSa
      * sew in mount for wire?
      * why, we would get it cheaper in China?
+
  * peterpötzi: organize cups (we want ~50)
    * barcamp got theirs for 461€ for 500 from http://www.mehrwegbecher.com/detail/product/mehrwegbecher-05l-pp-transparent.html
    * jampo requested quanta costa
+
  * peterpötzi: collect prices for minivan/trailer
    * Via carsharing 24/7
      * VW Transporter 9-seats for 40€/day (https://carsharing247.com/community/profil/7538-Dagobert_Jakob only accessible with registration)
@@ -125,6 +151,7 @@ TODO:
      * http://www.zipcar.at/zipcar-wien-promo2?gclid=CLLt5oL8k8YCFUcOwwodbBYALw#how-it-works
      * http://www.zipcar.at/zipcar-wien-promo2?gclid=CLLt5oL8k8YCFUcOwwodbBYALw#how-it-works
    * Alternatively: RealVille-fee for all RealVille-inhabitants
+
  * peterpötzi: collect prices for ~3x6m tent (with walls (& floor?))
    * Rent: https://events.ccc.de/camp/2015/wiki/Rent_a_Tent
      * too expensive
@@ -139,6 +166,9 @@ TODO:
 
  * ccc: rent tent or buy tent
    * prices: https://events.ccc.de/camp/2015/wiki/Rent_a_Tent
+     * "Each square meter costs 18€ for 5 days. Setup costs 262€, transport 72€."
+     * rather expensive
+     * 2,5EUR/folding chair is reasonable
    * tables + chairs
 
  * post pictures to http://realville.soup.io/
@@ -189,7 +219,7 @@ CarPool / Wer kann Leute und Equipment transportieren:
 
 Graz Convoy:
  * xro car + patrick trailer
- * 
+ * bagru car + no trailer
 
 Costs: http://www.spritkostenrechner.de/
 (split by Village Inhabitants)
@@ -239,8 +269,13 @@ Stuff to bring for the Village (how?):
    * all the cables
  * big tent (rent it or buy it?)
  * solar sail
+   * Tarp (so we have 3 Tarp/Sunsail for Lounge Area. Depends on bringing the other two)
+ * (inflatable) sofas!
+   * all the sofas!
+   * 2 inflatable Couch (so we have a 2nd and 3rd one)
  * rain protection / Stretch-Foil 
  * light / LEDs / power
+   * light for tent
 
  * cooling
    * fridge?
@@ -249,6 +284,8 @@ Stuff to bring for the Village (how?):
  * pizzaoven (sandra)
 
  * plates, knife/fork/spoon
+ * cooking pot
+ * boxes / ikea bag / ...
  * cords
  * ducktape
  * cups! (buy realraum cups?)
@@ -361,6 +398,7 @@ Links:
  * Update 2: https://mailman.wirdorange.org/pipermail/realraum/2015-June/002298.html
 
 
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Requests from Metalab:
@@ -384,7 +422,24 @@ Leiwandville probably gets:
 
 People who understand "electricity": peter pötzl, (thomas|bernhard) krug
 
+--------------------------------------------------------------------------------
+Answers from Bagru:
+
+wir werden nen ford transit o.ä. mieten, 
+
+die zwei pavillions sind die von der htu, dh die sind je 3x3m, seitenwände haben sie afaik nicht, 
+wir planen die nur als aufenthaltsraum, 
+ => whats the case with insurance
+ => lounge for bagru or for everyone?
+ => side walls are necessary even for lounge tent
+ 
+wirklich platz um zusätzlich zeug mitzunehmen hanem wir nicht, 
+ => assume: no other stuff except bagru stuff
+
+wir bringen ein/zwei gbit switches für die tische mit, sowie einen anschluskasten/schwammerl cee -> schuko mit sicherungen und fi schalter mit
 
 
-
+wir werden auch ein cee kabel brauchen, damit wir das schwammerl beim metalab? anschließen können?
+das können wir auch mitnehmen
+=> bagru brings cee cacle
 
