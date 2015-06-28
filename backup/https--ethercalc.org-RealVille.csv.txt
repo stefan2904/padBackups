@@ -1,0 +1,18 @@
+"RealVille 2015 ThingsToBring && Shopping List",,,,,
+What,Assignee,Status,Quantity,"Unit price (€)",Source
+Couch,,,1-2,16,http://www.amazon.de/Royalbeach-22016-aufblasbar-ZWEIER-aufgeblasen/dp/B00169DEHA/ref=sr_1_1?ie=UTF8&qid=1434970204&sr=8-1&keywords=aufblasbares+sofa
+,,,,50,http://www.amazon.de/Intex-Aufblasm%C3%B6bel-Ausziehbares-Sofa-Pull-Out/dp/B00649COM8/ref=sr_1_3?ie=UTF8&qid=1434970204&sr=8-3&keywords=aufblasbares+sofa
+"Tent ?",,,1,~300?,"3x6m tent"
+"EL Wire",stefan,ok,"all the",~1$/meter,AliExpress
+"LED strips?",nicoo,,,,"Will ask mich about cost"
+Cups,jampo,,50/100,150/180,
+Flag,jampo,,2,15,"AliExpress, Logo + URL (white on black?)"
+Flagpole,xro,ok,1,0,"Realraum / 0xFF"
+Stickers,jampo,ok,all,0,"all the r3 stickers from realraum "
+Stickerbox,stefan,,1,0,
+"Cooling Box",peterP,,1,?,"cooling system to cool mate"
+"Big GbE switch",nicoo,"1 ok",2,0,"48 ports Nortel Baystack 5510, 24 ports Linksys"
+"Tabletop GbE switches",nicoo,"1 ok",4,0,"nicoo (1) + peterp (2) + hannes (1)"
+"Catalyst 3500",nicoo,ok,1,0,"Need to find a copper GBic for it"
+"Network cabling (>= cat 5e)",nicoo,~,"ALL THE CABLZ",0,"PeterP & bagru"
+"Sun Sails",xro,?,2,,"most probably just have to ask patrick"
