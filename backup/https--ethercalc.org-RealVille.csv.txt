@@ -11,7 +11,7 @@ Cups,jampo,,50/100,150/180,http://www.mehrwegbecher.com/detail/product/mehrwegbe
 Flagpole,xro,ok,1,0,"Realraum / 0xFF"
 Stickers,jampo,ok,all,0,"all the r3 stickers from realraum "
 Stickerbox,stefan,,1,0,
-"Cooling Box",peterP,,1,?,"cooling system to cool mate"
+"Cooling Box",peterP,,1,?,"cooling system to cool mate (can cool 10l water from 25° to 0° in 4h)"
 "Big GbE switch",nicoo,"1 ok",2,0,"48 ports Nortel Baystack 5510, 24 ports Linksys"
 "Tabletop GbE switches",nicoo,"1 ok",4,0,"nicoo (1) + peterp (2) + hannes (1)"
 "Catalyst 3500",nicoo,ok,1,0,"Need to find a copper GBic for it"
