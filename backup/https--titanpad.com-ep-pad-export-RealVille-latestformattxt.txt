@@ -53,60 +53,39 @@ Agenda:
 
 --------------------------------------------------------------------------------
 TODO:
- * Open Questions (please answer below):
-   * [Village] what stuff to bring for the village?
-     * see below && https://ethercalc.org/RealVille
-   * [Transport] how to transport stuff?
-     * xro car + patrick trailer
-     * bagru bus
-   * [Transport] how to transport people?
-     * train, plane, bus (see below)
-   * [Transport] when do we arrive/leave?
-     * RealRaum Convoy + BuildUp Crew: tuesday evening
-     * BuildUp: 11. August
-     * TearDown: 18. August
-   * [Transport] who is the build up / tear down team (needs more holidays!)
-     * BuildUp: xro+2, jakob, stefan, PeterTO, (nicoo)
-     * TearDown: xro+2, jakob, (stefan)
 
+ * next meeting?
 
  * stefan: Village Inhabitants: Make List + set Deadline
+   * https://ethercalc.org/RealVilleInhabitants
 
  * jampo & stefan: Village Fee: Calculate fee + suggest to inhabitants
+   * https://ethercalc.org/RealVilleFinance
  * jampo & stefan: Set Deadline for paying the fee (~1week upfront)
 
  * PeterTO: collect fee, keep track of money in & out
+
+ * ?: 'negotiate' fee with metalab & bagru
 
  * all: Fill out Shoppinglist:
    * https://ethercalc.org/RealVille
 
 
 
-OLD TODOS:
- * all: find out who is coming, how & what they can bring
- * all: where do we buy the sofa(s) if renting is expensive?
-   * cheap sofa for 2 at 16€: http://www.amazon.de/Royalbeach-22016-aufblasbar-ZWEIER-aufgeblasen/dp/B00169DEHA/ref=sr_1_1?ie=UTF8&qid=1434970204&sr=8-1&keywords=aufblasbares+sofa
-   * 50€ for 2-3 people sitting and convertible bed for 2: http://www.amazon.de/Intex-Aufblasm%C3%B6bel-Ausziehbares-Sofa-Pull-Out/dp/B00649COM8/ref=sr_1_3?ie=UTF8&qid=1434970204&sr=8-3&keywords=aufblasbares+sofa
+OLD TODOS (cleaned up):
+
  * stefan: ask metalab about fee for sharing infrastructure (+ transport?)
    * no fee if we bring stuff and transport our stuff
    * still fee for 24h breakfast of course
- * stefan: ask metalab to add us as related village on their wiki-page
  * stefan: ask metalab about 24/7 breakfast
    * will happen, car needed => we have one
  * stefan: ask metalab about docking our big-tent to theirs
    * ack. needs onsite management
 
- * nicoo: asks metalab about network & power needs (via mailinglist, see bottom)
  * nicoo: tell metalab we are evaluating what we can bring wrt. network/power (via mailinglist, see bottom)
    * Multiple GbE aggregation -> Ask NOC on day 0.
    * 
    * 32A distribution box (see with Christian)
-
- * xro: finds out if they have their company car ("ziemlich wahrscheinlich")
-   * 3 people + their stuff (+small village stuff)
-
- * bagru: trailer? big trailer?
-   * We would prefer not to drive with a trailer.
 
  * bagru: find out what equipment can they bring (cables? power?)
    * We would volunteer to arrange power distribution. We will bring something like this:
@@ -135,13 +114,12 @@ OLD TODOS:
    * Also in other sizes http://www.aliexpress.com/store/group/Different-SIzes/1442309_259752275.html?isFreeShip=y&SortType=price_asc
    * We can upload our logo as svg. Look at the pictures, it is reinforced with metal eyelets, should survice camp
    * Order asap, because it would take up to 4 weeks to get it
-   * Let it be made (sewed) for 30€ + material cost - from SaSa
-     * sew in mount for wire?
-     * why, we would get it cheaper in China?
+   * => jampo will order 2 flags
 
  * peterpötzi: organize cups (we want ~50)
    * barcamp got theirs for 461€ for 500 from http://www.mehrwegbecher.com/detail/product/mehrwegbecher-05l-pp-transparent.html
    * jampo requested quanta costa
+     * 150€ for 5, 180€ for 100
 
  * peterpötzi: collect prices for minivan/trailer
    * Via carsharing 24/7
@@ -151,7 +129,6 @@ OLD TODOS:
      * http://www.sixt.at/mietwagen/oesterreich/graz/graz
      * http://www.zipcar.at/zipcar-wien-promo2?gclid=CLLt5oL8k8YCFUcOwwodbBYALw#how-it-works
      * http://www.zipcar.at/zipcar-wien-promo2?gclid=CLLt5oL8k8YCFUcOwwodbBYALw#how-it-works
-   * Alternatively: RealVille-fee for all RealVille-inhabitants
 
  * peterpötzi: collect prices for ~3x6m tent (with walls (& floor?))
    * Rent: https://events.ccc.de/camp/2015/wiki/Rent_a_Tent
@@ -163,7 +140,7 @@ OLD TODOS:
      * 220 - 280€ (10-15€ / villager)
      * both with good rating on amazon (also the most expensive ones on amazon)
      * Hofer 100€ for up to five persons: https://www.hofer.at/de/angebote/ab-donnerstag-25062015/detailseite/ps/p/adventuridge-5-personen-zelt/ (this is a tent not a pavillon)
-   * Alternatively: RealVille-fee for all RealVille-inhabitants
+   * => Alternatively: 2~4 pavilions from bagru
 
  * ccc: rent tent or buy tent
    * prices: https://events.ccc.de/camp/2015/wiki/Rent_a_Tent
@@ -174,11 +151,7 @@ OLD TODOS:
 
  * post pictures to http://realville.soup.io/
  * win!
-
-TODO große plastiktischdecken!
-
-
-
+ * 
 
 --------------------------------------------------------------------------------
 Village Location:
