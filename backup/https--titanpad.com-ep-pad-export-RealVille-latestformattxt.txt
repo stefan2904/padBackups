@@ -187,32 +187,10 @@ Village Location:
 
 
 --------------------------------------------------------------------------------
-Village Inhabitants (~20):
- * stefan: time to build up; no drivers-license; has to be in Graz on the 19th
- * nicoo: at DebConf afterwards
- * peterTheOne: somewhere else afterwards
- * peter pötzi
-   * +1 guest Horst Petschenig
- * xro
- * jampo
- * daniel (from berlin - homunkolloss)
- * n0v0id: via plane GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55 with http://airberlin.com
- * equinox (52%)
- * 
- * +5~7 from BIS/Bagru
- * 
- * patrick?
- * 
- * martin jost?
- * gasti?
- * auphonic georg?
- * Murdelta?
- * 
- * ~15 people (according to mitgliederabend 2015-05-11)
- * 
- * sandra+1, transport via metalab
- * alex funkfeuer at least in spirit
- * you? via car/truck? can you transport stuff?
+Village Inhabitants:
+
+http://ethercalc.org/RealVilleInhabitants
+
 
 --------------------------------------------------------------------------------
 CarPool / Wer kann Leute und Equipment transportieren:
