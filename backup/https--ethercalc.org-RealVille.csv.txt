@@ -6,7 +6,7 @@ Couch,,,1-2+,16,http://www.amazon.de/Royalbeach-22016-aufblasbar-ZWEIER-aufgebla
 "Pump + compressor",xro,ok,,,"xro + r³"
 "EL Wire",stefan,ok,"all the",~1$/meter,AliExpress
 "LED strips?",nicoo,,,,"Will ask mich about cost"
-Cups,jampo,,50/100,150/180,
+Cups,jampo,,50/100,150/180,http://www.mehrwegbecher.com/detail/product/mehrwegbecher-05l-pp-transparent.html
 "r3 Flag",jampo,,2,15,"AliExpress, Logo + URL (white on black?)"
 Flagpole,xro,ok,1,0,"Realraum / 0xFF"
 Stickers,jampo,ok,all,0,"all the r3 stickers from realraum "
@@ -42,3 +42,4 @@ abspannseile,xro,,,,
 "black UV resistant Buckets to protect Baustellenverteiler",,,,,
 "long extension cords to bring power to every tent (ipxx not necessary)",,,,,
 Edding,,,,,
+"große plastiktischdecken",,,,,
