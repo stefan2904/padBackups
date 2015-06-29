@@ -115,7 +115,7 @@ OLD TODOS:
 
  * bagru: Does BaGru have tents + sleeping bag surplus?
    * We will take two "pavillions" along with us, and we want to rent a table and 6-8 chairs for it.
-   * Two 3x3 meter HTU pavilions without side-walls
+   * Two 3x3 meter HTU pavilions with side-walls
 
  * bagru: how much to ship a palette to camp/from camp to graz (how early to send?)
    * Two days early, this includes pickup on place and delivery to camp:
@@ -174,6 +174,10 @@ OLD TODOS:
 
  * post pictures to http://realville.soup.io/
  * win!
+
+TODO große plastiktischdecken!
+
+
 
 
 --------------------------------------------------------------------------------
