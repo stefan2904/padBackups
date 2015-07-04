@@ -8,7 +8,7 @@ jampo,"2015-08-11, Evening","2015-08-18, Evening","in in BER","BuildUp, TearDown
 PeterP,,,,,r3
 "Horst Petschenig","with PeterP","with PeterP","with PeterP",,ext
 homunkolloss,,,"lives in BER",,ex-r3
-n0v0id,"2015-08-12, Evening","2015-08-18, Afternoon","GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55",,ext
+"n0v0id (not r3ville?)","2015-08-12, Evening","2015-08-18, Afternoon","GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55",,ext
 equinox?,,,,"BuildUp, TearDown, all things Infrastructure",r3-nightshift
 patrick?,,,,,r3
 gasti?,,,,,0xff
@@ -18,3 +18,44 @@ gasti?,,,,,0xff
 "Fabian S","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Michael G","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Julian R","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,aa,,,,
