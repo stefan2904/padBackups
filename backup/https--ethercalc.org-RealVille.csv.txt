@@ -16,14 +16,14 @@ Stickerbox,stefan,,1,0,
 "Tabletop GbE switches",nicoo,"1 ok",4,0,"nicoo (1) + peterp (2) + hannes (1)"
 "Catalyst 3500",nicoo,ok,1,0,"Need to find a copper GBic for it"
 "Network cabling (>= cat 5e)",nicoo,~,"ALL THE CABLZ",0,"PeterP & bagru"
-"Sun Sails",xro,?,2,,"most probably just have to ask patrick"
+"Sun Sails",xro,?,2,,"are at patricks parents home, will get them in the week before the camp"
 "power cables",nicoo,~,,0,"bagru ?"
 "power distribution",nicoo,ok,1,0,bagru
 "fuse boxes + overvoltage protection",nicoo,~,,0,"bagru ? equinox ?"
-medkit,xro,ok,1,,"in xro car"
-"Space blanket (Rettungsdecken)",xro,,10,,
+medkit,xro,ok,1,,"in xro car, another in xro's camping equipment, more to be assembled by xro"
+"Space blanket (Rettungsdecken)",xro,,10,,"20 pcs ordered"
 "Duck tape",xro,,3,,
-"Extra tent hooks (Heringe)",xro,,,,
+"Extra tent hooks (Heringe)",xro,,,,"got some 20 pcs"
 "Big Canvas/Tarp (Plane)",,,,,"for transport + protecting stuff in case of $rain"
 "(Big) Trash bags",,,,,
 "Stretch Foil",,,"some rolles",,
