@@ -9,7 +9,24 @@ Moderation: todo
 
 Agenda/TO (~45 Minuten):
 
+ * 1 Jahr regelmäßige CryptoParty in Graz \o/
+   * https://cryptoparty.at/graz:archiv
  * 
+ * Finanzen: Endlich abrechnen (Olaf, Stefan, et al.)
+   * TODO: Termin ausmachen?
+ * 
+ * Flyer: Wo sind die? Haben wir noch welche? (Anton?) --> spektral
+ * 
+ * Etherpad-Backups (Stefan)
+   * https://github.com/stefan2904/padBackups/tree/master/backup
+ * 
+ * Status Vortrag Urania (Gunter)
+ * 
+ * Status Netidee (Marc, Stefan)
+ * 
+ * Nächste CryptoParty: 3. August (wer ist da? Programm? Outdoor?)
+ * 
+ * Heute: Was machen wir heute? (Marc, Gunter)
  * 
  * <add your Agenda here (add high-priority TOPs above low-priority TOPs>
 
@@ -18,7 +35,7 @@ TODOs (immer gleich eine Person & Deadline zuweisen!):
  * 
 
 Protokoll:
- * Angemeldet: Marc, 
+ * Angemeldet: Marc, Stefan, gunter, Bernhard, Ralf, 
  * Anwesend:
  * Entschuldigt: 
 
