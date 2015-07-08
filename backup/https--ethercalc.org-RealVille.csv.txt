@@ -22,7 +22,7 @@ Stickerbox,stefan,,1,0,
 "fuse boxes + overvoltage protection",nicoo,~,,0,"bagru ? equinox ?"
 medkit,xro,ok,1,,"in xro car, another in xro's camping equipment, more to be assembled by xro"
 "Space blanket (Rettungsdecken)",xro,,10,,"20 pcs ordered"
-"Duck tape",xro,,3,,
+"Duck tape",xro,,3,,"bought them today"
 "Extra tent hooks (Heringe)",xro,,,,"got some 20 pcs"
 "Big Canvas/Tarp (Plane)",,,,,"for transport + protecting stuff in case of $rain"
 "(Big) Trash bags",,,,,
