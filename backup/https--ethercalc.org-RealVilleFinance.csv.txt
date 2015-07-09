@@ -1,13 +1,17 @@
 "RealVille-Fee for non-Bagru-people",,,,,
 ,,,,,
-"Sum €",346.523,,,,
-Persons,12,,,,
-"Food + Wood",2,,24,"+12 from bagru?",
-"€ / Person",30.87691666666667,,,,
+"Sum €",432.874,,,,
+Persons,11,,,,
+"Food + Wood",2,,22,"+12 from bagru?",
+"€ / Person",41.35218181818182,,,,
 ,,,,,
 What?,Quantity,"€ each","€ sum",Info,
-"Transport xro",1922,0.1215,233.523,"Diesel, 7~9l / 100km, 1.35€ per liter",
+"Transport xro",1922,0.11699999999999999,224.874,"Diesel, 7~9l / 100km, 1.35€ per liter",
 "Maut and stuff?",2,14,28,approx,
 "Trailer Cert",1,25,25,"patrick parent trailer",
-"Table from CCC",1.5,25,37.5,"https://events.ccc.de/camp/2015/wiki/Rent_a_Tent ","3 in total, 50:50 r3:bagru"
-"Chairs from CCC",9,2.5,22.5,https://events.ccc.de/camp/2015/wiki/Rent_a_Tent,"15 in total, 9:6 r3:bagru"
+"Table from CCC",2,25,50,"https://events.ccc.de/camp/2015/wiki/Rent_a_Tent ","3 in total, 50:50 r3:bagru"
+"Chairs from CCC",6,2.5,15,https://events.ccc.de/camp/2015/wiki/Rent_a_Tent,"12 in total, 6:6 r3:bagru"
+Sofa,2,20,40,,
+,,,0,,
+Misc,1,50,50,,
+,,,0,,
