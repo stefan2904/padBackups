@@ -4,7 +4,7 @@ nicoo,"2015-08-11, Evening","2015-08-17, --> DebConf",plane,(BuildUp),r3-nightsh
 PeterTO,"2015-08-11, Evening",,,BuildUp,r3-minion
 xro,"2015-08-11, Evening","2015-08-18, Evening","r3 convoy","BuildUp, TearDown",r3
 jampo,"2015-08-11, Evening","2015-08-18, Evening","in in BER","BuildUp, TearDown",r3
-"martin jost?","with xro","with xro","r3 convoy","BuildUp, TearDown",r3-olga
+"martin jost +1","with xro","with xro","r3 convoy","BuildUp, TearDown",r3-olga
 PeterP,,,,,r3
 "Horst Petschenig","with PeterP","with PeterP","with PeterP",,ext
 homunkolloss,,,"lives in BER",,ex-r3
