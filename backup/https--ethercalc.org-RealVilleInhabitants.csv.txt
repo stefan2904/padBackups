@@ -18,7 +18,7 @@ gasti?,,,,,0xff
 "Fabian S","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Michael G","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Julian R","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
-,,,,,
+"Christian M",42227,,plane,,
 ,,,,,
 ,,,,,
 ,,,,,
