@@ -19,7 +19,7 @@ gasti?,,,,,0xff
 "Michael G","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Julian R","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Christian M",42227,,plane,,
-,,,,,
+"Christoph / Stratos","with xro if 4 people fit into car or by plane",,"car or plane or train or teleporter",,
 ,,,,,
 ,,,,,
 ,,,,,
