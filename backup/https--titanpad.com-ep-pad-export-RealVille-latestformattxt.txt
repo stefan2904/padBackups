@@ -193,7 +193,7 @@ http://www.fromAtoB.de/
    * 154€ Interrail http://www.interrail.eu/interrail-passes/one-country-pass/germany
    * 39€ / 69€ Sommerticket http://www.oebb.at/de/Services/Neu_fuer_Sie/Das_OeBB_Sommerticket/ 
 
- * Train: from Berlin
+ * Train: Berlin - Ziegeleipark
    * http://www.vbb.de
    * from Mainstation via RE to Oranienburg, via RB to Zehdenick Bahnhof, via Bus to Ziegeleipark
    * 1:22 / ~7€ from Berlin Mainstation
@@ -203,10 +203,10 @@ http://www.fromAtoB.de/
    * ~120€ (to TXL)
    * n0v0id is flying: GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55 with http://airberlin.com
 
- * Bus (via Vienna to Berlin ZOB)
-   * ~9€ to/from Vienna (meinfernbus.at)
-   * 22~42 € to Berlin (meinfernbus.at)
-   * 22~42 € from Berlin (meinfernbus.at)
+ * Bus (Graz - Vienna - Berlin ZOB)
+   * ~9€ Graz to/from Vienna (meinfernbus.at)
+   * 22~42 € Vienna to/from Berlin (meinfernbus.at)
+
 
 
 --------------------------------------------------------------------------------
