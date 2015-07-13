@@ -1,7 +1,7 @@
 ID,ETA,ETD,"Mean of transportation",projects?,Group
 stefan,"2015-08-11, Evening","2015-08-18, Noon","train / plane","BuildUp, (TearDown)",r3-nightshift
 nicoo,"2015-08-11, Evening","2015-08-17, --> DebConf",plane,(BuildUp),r3-nightshift
-PeterTO,"2015-08-11, Evening",,,BuildUp,r3-minion
+PeterTO,"2015-08-11, Evening",,train?,BuildUp,r3-minion
 xro,"2015-08-11, Evening","2015-08-18, Evening","r3 convoy","BuildUp, TearDown",r3
 jampo,"2015-08-11, Evening","2015-08-18, Evening","in in BER","BuildUp, TearDown",r3
 "martin jost +1","with xro","with xro","r3 convoy","BuildUp, TearDown",r3-olga
@@ -18,8 +18,8 @@ gasti?,,,,,0xff
 "Fabian S","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Michael G","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Julian R","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
-"Christian M",42227,,plane,,
-"Christoph / Stratos","with xro in car",,car,,
+"Christian M",42227,,plane,,ext
+"Christoph / Stratos","with xro in car",,car,,?
 ,,,,,
 ,,,,,
 ,,,,,
