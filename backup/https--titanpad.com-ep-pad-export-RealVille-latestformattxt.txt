@@ -168,7 +168,7 @@ http://ethercalc.org/RealVilleInhabitants
 --------------------------------------------------------------------------------
 CarPool / Wer kann Leute und Equipment transportieren:
  * xro: car for 3: xro, martin, ? + their equipment
- * equinox: car for 4: equinox, ?, ?, ? + their stuff
+ * equinox: car for 4: equinox, verr?, ?, ? + their stuff
  * patrick: bus
  * patrick: trailer from his parents
  * bagru?
