@@ -168,6 +168,7 @@ http://ethercalc.org/RealVilleInhabitants
 --------------------------------------------------------------------------------
 CarPool / Wer kann Leute und Equipment transportieren:
  * xro: car for 3: xro, martin, ? + their equipment
+ * equinox: car for 4: equinox, ?, ?, ? + their stuff
  * patrick: bus
  * patrick: trailer from his parents
  * bagru?
@@ -175,6 +176,7 @@ CarPool / Wer kann Leute und Equipment transportieren:
 
 Graz Convoy:
  * xro car + patrick trailer
+ * equinox car + no trailer
  * bagru car + no trailer
 
 Costs: http://www.spritkostenrechner.de/
