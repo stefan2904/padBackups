@@ -170,8 +170,8 @@ CarPool / Wer kann Leute und Equipment transportieren:
  * xro: car for 3: xro, martin, ? + their equipment
  * equinox:
    * car for 4: 
-     * getting there: equinox, verr?, nicoo, pitanga + their stuff
-     * getting back: equinox, verr?, ?, ? + their stuff
+     * getting there: equinox, verr, nicoo, pitanga + their stuff
+     * getting back: equinox, verrr, jampo?, ? + their stuff
  * patrick: bus
  * patrick: trailer from his parents
  * bagru?
