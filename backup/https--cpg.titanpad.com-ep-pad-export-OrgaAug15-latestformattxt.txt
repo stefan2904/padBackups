@@ -1,7 +1,4 @@
-CryptoParty Graz - Orgatreffen (3. August 2015, 18:00 s.t. @ ?)
-
-
-!!! Location evtl Forum Stadtpark (Balkon 1. Stock) - tba !!!
+CryptoParty Graz - Orgatreffen (3. August 2015, 18:00 s.t. @ spektral)
 
 
 Vorheriges Treffen: https://cpg.titanpad.com/OrgaJuli15
@@ -12,11 +9,9 @@ Moderation: tbd
 
 Agenda/TO (~45 Minuten):
 
- * Finanzen: Endlich abrechnen (Olaf, Stefan, et al.)
+ * Finanzen:  abgerechnet (Olaf, Stefan, et al.)
 
  * Status Vortrag Urania (Gunter)
-
- * Status Netidee (Marc, Stefan)
 
  * Status Move Festival 2016 (via Paul)
    * https://www.facebook.com/movefestival
@@ -25,7 +20,8 @@ Agenda/TO (~45 Minuten):
 
  * Heute: Was machen wir heute? (Gunter, ?)
 
- * Update zum Elevate Festival 2015
+ * Update zum Elevate Festival 2015 (marc, stefan)
+   * realraum?
 
  * <add your Agenda here (add high-priority TOPs above low-priority TOPs>
 
