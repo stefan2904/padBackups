@@ -1,0 +1,14 @@
+Crypto Currencies based on the Grøstl hash function:
+
+Grøstl-Info: http://www.groestl.info/
+
+ * GroestlCoin: http://www.groestlcoin.org/
+ * Diamond: https://cryptocointalk.com/topic/2228-diamond-dmd-information/
+ * AtheistCoin: https://cryptocointalk.com/topic/12219-atheistcoin-ath-information/
+ * FairCoin: https://cryptocointalk.com/topic/14817-faircoin-fac-information/
+ * Quark: http://coinwiki.info/en/Quark 
+ * SecureCoin: http://minerbuddy.com/coins/SRC
+ * IceBerg Coin: https://altcoinherald.com/icebergcoin-icb-keeps-equipment-cool/
+ * TalkCoin: http://tac.nonce-pool.com/
+
+
