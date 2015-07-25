@@ -16,14 +16,14 @@ Stickerbox,stefan,,1,0,
 "Tabletop GbE switches",nicoo,"1 ok",4,0,"nicoo (1) + peterp (2) + hannes (1)"
 "Catalyst 3500",nicoo,ok,1,0,"Need to find a copper GBic for it"
 "Network cabling (>= cat 5e)",nicoo,~,"ALL THE CABLZ",0,"PeterP & bagru"
-"Sun Sails",xro,?,2,,"are at patricks parents home, will get them in the week before the camp"
+"Sun Sails",xro,"patrick will deliver with Anhänger prior to camp",2,,"are at patricks parents home, will get them in the week before the camp"
 "power cables",nicoo,~,,0,"bagru ?"
 "power distribution",nicoo,ok,1,0,bagru
 "fuse boxes + overvoltage protection",nicoo,~,,0,"bagru ? equinox ?"
 medkit,xro,ok,1,,"in xro car, another in xro's camping equipment, more to be assembled by xro"
 "Space blanket (Rettungsdecken)",xro,,10,,"20 pcs ordered"
-"Duct tape",xro,,3,,"bought them today"
-"Extra tent hooks (Heringe)",xro,,,,"got some 20 pcs"
+"Duct tape",xro,ok,3,,"bought them today"
+"Extra tent hooks (Heringe)",xro,ok,20,,"got some 20 pcs"
 "Big Canvas/Tarp (Plane)",,,,,"for transport + protecting stuff in case of $rain"
 "(Big) Trash bags",,,,,
 "Stretch Foil",,,"some rolles",,
@@ -34,10 +34,10 @@ Pizzaoven,sandra,,,,
 makava,,transport?,,,"inform gebi early enough :P transport via matalab?"
 "fire extinguisher",xro,ok,,,"small in car"
 Paper/Pens/Signs/Tixo...,,,,,
-Hammer,,,,,
+Hammer,xro,ok,,,
 trailer,patrick,,1,25,"borrow form patrick's parents"
-abspannseile,xro,,,,
-"Absperrband und Besetztschilder",xro,,,,
+abspannseile,xro,ok,,,
+"Absperrband und Besetztschilder",xro,ok,,,
 "Küchenrollen,Putzpapier",,,,,
 "black UV resistant Buckets to protect Baustellenverteiler",,,,,
 "long extension cords to bring power to every tent (ipxx not necessary)",,,,,
