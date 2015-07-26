@@ -1,13 +1,34 @@
 **Q&A queer feminist geek irc meetup 26.07.2015**
 
 **Code of Conduct (CoC)**
-Someone suggested the queer feminist geek village could help the CCC get their CoC, which they don't have. Some of us object that the CCC should think up one on their own and that this cannot come from outside of the organizers' group.
-let's create something like this with single rules from our CoC: [[http://carecards.me/]]
-sirenensang will draw them
-**__let's read our call and try to decide here which sentences should be printed!__**
+Someone suggested the queer feminist geek village could help the CCC get their CoC, which they don't have. Some of us object to the scenario "We write a CoC for them and tell them what to do", and that the CCC should think up one on their own and that this cannot come from outside of the organizers' group.
+It might be a good idea to still have a meetup/workshop to discuss the CoC situation, and if there are any strategies we could try to convince some more CCC people that their events should have a CoC.
+let's create something for our village like this with single rules from our CoC: [[http://carecards.me/]] - like "Ask for pronouns!", "Don't assume other's sexuality!", "Don't police other's appearance!".
+sirenensang (and others?) will try to draw them (most likely in the camp)
+obaz will draft a CoC and submit it to the list. Afterwards, we'll try to decide which sentences should be printed.
     
 **Tent:**
-Currently Lena is thinking about buying something like this: [[http://german.alibaba.com/product-gs/bell-tent-100-cotton-canvas-611727673.html]] (price ca. 100 euro for a small one, ca. 300 for a bigger one). We all agree to buy the bigger model, and if we manage to find some more tents for free, it will be helpful.
+Currently Lena is thinking about buying something like this: [[http://]]www.obelink.de/zelte/gruppenzelte/sahara-500.html?category_params=s_company%3D2%26category_id%3D2693 (price ca. 100 euro for a small one, ca. 300 for a bigger one). We all agree to buy the bigger model, and if we manage to find some more tents for free, it w
+
+**Supplies:**
+There will be plenty of supermarkets around (see [[https://events.ccc.de/camp/2015/wiki/POIs]] ), so people who arrive by car can stock up during the camp, hopefully. :) We might have some tea and coffee around, too, so don't forget your mugs!
+It would also be awesome if somebody wanted to organize some shared food supply. Currently we don't know too much about who has cooking equipment, but maybe somebody can bring something? (Gas-based is much better than electricity-based, since power is a very limited resource at the camp.)
+
+**Wanted:**
+A button machine would be cool, so we can make name and pronoun buttons. It would also be great to have a printer. In case you bring something like this, please add yourself to the section below in the pad.
+The CCCamp badge ([[https://events.ccc.de/2015/07/10/rad1o/]] ) will have a very small display, but maybe somebody programs it to show a name (e.g. scrolling through the screen).
+
+**Workshops/Sessions:**
+We entered the Queer Education workshop and a Bi empowerment workshop to the Wiki, because each has a person organizing and feeling responsible for them. If some of you want to organize and feel responsible for a particular workshop, please add it to the "workshops" section below and either add it to the wiki page, ask somebody to do it, or write to our mailing list.
+
+We'll keep meeting in irc on Sundays.
+**From next time, we'll meet in Autistici/Inventati's IRC network.**
+*  Why? Because their IRC server has better privacy options, and some people do not  feel comfortable connecting to the Freenode IRC. Also it's run by an activist collective, see [[http://www.autistici.org/en/index.html]]
+* Instructions are here:[[http://www.autistici.org/it/stuff/man_irc/index.html]]
+* Hidden service: wi7qkxyrdpu5cmvr.onion (port 9999)
+* Howto for xchat, with instructions for Tor in the end: [[http://www.autistici.org/en/stuff/man_irc/xchat.html]]
+* Web interface run by another autonomous server: [[https://webirc.indivia.net/cgiirc/irc.cgi]]
+
 
 +++++++++++++++++++++++++++++++++++++++++++
 
@@ -107,7 +128,7 @@ Currently Lena is thinking about buying something like this: [[http://german.ali
   * 
 
 **WORKSHOPS**
-  * SchLAu workshop (education project for schools - enlightening the cis Heten)
+  * SchLAu workshop (education project for schools - enlightening the cis Heten) (siri & lena?)
     * One Session in german, one in english?
   * Bi Empowerment (Theresa)
 
