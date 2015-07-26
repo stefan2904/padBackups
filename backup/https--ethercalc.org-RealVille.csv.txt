@@ -23,7 +23,7 @@ Stickerbox,stefan,,1,0,
 medkit,xro,ok,1,,"in xro car, another in xro's camping equipment, more to be assembled by xro"
 "Space blanket (Rettungsdecken)",xro,,10,,"20 pcs ordered"
 "Duct tape",xro,ok,3,,"bought them today"
-"Extra tent hooks (Heringe)",xro,ok,20,,"got some 20 pcs"
+"Extra tent hooks (Heringe)",xro,ok,36,,
 "Big Canvas/Tarp (Plane)",,,,,"for transport + protecting stuff in case of $rain"
 "(Big) Trash bags",,,,,
 "Stretch Foil",,,"some rolles",,
@@ -34,10 +34,10 @@ Pizzaoven,sandra,,,,
 makava,,transport?,,,"inform gebi early enough :P transport via matalab?"
 "fire extinguisher",xro,ok,,,"small in car"
 Paper/Pens/Signs/Tixo...,,,,,
-Hammer,xro,ok,,,
+Hammer,xro,ok,,,"r3 Rückschlagfreier Hammer"
 trailer,patrick,,1,25,"borrow form patrick's parents"
 abspannseile,xro,ok,,,
-"Absperrband und Besetztschilder",xro,ok,,,
+"Absperrband und Besetztschilder",xro,ok,,,"todo: schilder lasercutten"
 "Küchenrollen,Putzpapier",,,,,
 "black UV resistant Buckets to protect Baustellenverteiler",,,,,
 "long extension cords to bring power to every tent (ipxx not necessary)",,,,,
