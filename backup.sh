@@ -51,6 +51,7 @@ git pull
         fi
     else
         echo "HTTP Status Code Failed:" $HTTPSTATUSCODE
+        rm $EPDUMPFILE
     fi
 
 
