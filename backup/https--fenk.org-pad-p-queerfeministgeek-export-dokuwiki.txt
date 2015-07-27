@@ -12,7 +12,7 @@ Currently Lena is thinking about buying something like this: [[http://]]www.obel
 
 **Supplies:**
 There will be plenty of supermarkets around (see [[https://events.ccc.de/camp/2015/wiki/POIs]] ), so people who arrive by car can stock up during the camp, hopefully. :) We might have some tea and coffee around, too, so don't forget your mugs!
-It would also be awesome if somebody wanted to organize some shared food supply. Currently we don't know too much about who has cooking equipment, but maybe somebody can bring something? (Gas-based is much better than electricity-based, since power is a very limited resource at the camp.)
+It would also be awesome if somebody wanted to organize some shared food supply. Currently we don't know too much about who has cooking equipment, but maybe somebody can bring something? (Gas-based is much better than electricity-based, since power is a very limited resource at the camp. Post-chat note: in the wiki at [[https://events.ccc.de/2015/07/21/power-distribution/]] it says: "Certain devices are not allowed in general: (...) large electric kitchen appliances (stoves, refrigerators, freezer, hobs, dishwashers)")
 
 **Wanted:**
 <del>A button machine would be cool, so we can make name and pronoun buttons.</del> UPDATE: Theresa can bring a 25mm button machine. Who wants to order the raw material and design some pronoun buttons or similar? Of course, if you can bring a BIGGER button machine, that also can't hurt. :)
@@ -111,7 +111,8 @@ We'll keep meeting in irc on Sundays.
     * multi-color led lighting strips
     * blankets
     * power consumption meter
-    * maybe: mattresses (if I have spare capacitry in my car. could be useful for the self defense workshop and/or cuddle party)
+    * maybe: mattresses (if I have spare capacitry in my car. could be useful for the self defense workshop and/or cuddle party.)
+    * 5 port USB charger
   * Theresa
     * Fabric and fabric pens (for a banner, so people recognize our village)
     * Paper and some pens (for a workshop schedule thingy)
