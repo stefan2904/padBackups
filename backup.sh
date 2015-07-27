@@ -30,20 +30,28 @@ git pull
          touch $BACKUPFILE
          git add $BACKUPFILE 
     fi
-  
-    wget --no-check-certificate -O ${TMPDIR}/${NAME}.tmp $URL > /dev/null 2>&1
+
+    echo "${NAME}: Loading.."
+    HTTPSTATUSCODE="$(wget -S --no-check-certificate -O ${TMPDIR}/${NAME}.tmp $URL 2>&1 | grep "HTTP/" | tail -1 | awk '{print $2}')"
     MD5EPDUMP=`md5sum $EPDUMPFILE | cut -d " " -f 1`
-  
-    if [ $MD5BACKUP != $MD5EPDUMP ]; then
-  
-         mv $EPDUMPFILE $BACKUPFILE
-         GITM="$URL backed up on "`date +%d.%m.%Y\ %H:%M:%S`
-         echo $GITM
-         git commit -m "$GITM" $BACKUPFILE
-  
+
+    if (( $HTTPSTATUSCODE < 300 )) && (($HTTPSTATUSCODE >= 200 )); then
+    echo "HTTP Status Code Success:" $HTTPSTATUSCODE
+
+        if [ $MD5BACKUP != $MD5EPDUMP ]; then
+
+             mv $EPDUMPFILE $BACKUPFILE
+             GITM="$URL backed up on "`date +%d.%m.%Y\ %H:%M:%S`
+             echo "Backed up on "`date +%d.%m.%Y\ %H:%M:%S`
+             git commit -m "$GITM" $BACKUPFILE
+
+        else
+            echo "Backup up-to-date"
+            rm $EPDUMPFILE
+        fi
     else
-         echo "${NAME}: Backup up-to-date"
-         rm $EPDUMPFILE
+        echo "HTTP Status Code Failed:" $HTTPSTATUSCODE
+        rm $EPDUMPFILE
     fi
 
 
