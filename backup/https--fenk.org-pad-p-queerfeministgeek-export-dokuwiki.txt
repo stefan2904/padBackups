@@ -15,7 +15,8 @@ There will be plenty of supermarkets around (see [[https://events.ccc.de/camp/20
 It would also be awesome if somebody wanted to organize some shared food supply. Currently we don't know too much about who has cooking equipment, but maybe somebody can bring something? (Gas-based is much better than electricity-based, since power is a very limited resource at the camp.)
 
 **Wanted:**
-A button machine would be cool, so we can make name and pronoun buttons. It would also be great to have a printer. In case you bring something like this, please add yourself to the section below in the pad.
+<del>A button machine would be cool, so we can make name and pronoun buttons.</del> UPDATE: Theresa can bring a 25mm button machine. Who wants to order the raw material and design some pronoun buttons or similar? Of course, if you can bring a BIGGER button machine, that also can't hurt. :)
+It would also be great to have a printer. In case you bring something like this, please add yourself to the section below in the pad.
 The CCCamp badge ([[https://events.ccc.de/2015/07/10/rad1o/]] ) will have a very small display, but maybe somebody programs it to show a name (e.g. scrolling through the screen).
 
 **Workshops/Sessions:**
@@ -138,6 +139,7 @@ We'll keep meeting in irc on Sundays.
 (Stuff that nobody brings yet, but we really want)
   * A gas cooker, so we can make tea? obaz can bring a kettle for tea
   * How about some possibility to print out propaganda?
+  * raw material for printing buttons, and designs.
 
 
 **Call for DJs, VJs, artists and performers:**
