@@ -21,6 +21,10 @@ realraum @ Chaos Communication Camp 2015
 2n Orga-Meetup:    2015-06-28, 18:00 @ realraum
 http://grical.realraum.at/e/show/659/
 
+
+--------------------------------------------------------------------------------
+3rd Orga-Meetup:    2015-08-02, 18:00 @ realraum
+
 Agenda:
  * Status
  * Metalab Status
