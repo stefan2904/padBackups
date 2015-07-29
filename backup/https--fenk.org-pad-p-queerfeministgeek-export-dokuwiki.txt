@@ -41,11 +41,11 @@ We'll keep meeting in irc on Sundays.
   * Who's coming to the CCCamp?
     * 7 people indicate that they're coming :)
   * Is this your first time?
-    * first time to CCC events: 2 people
+    * first time to CCC events: 2 people +1
     * been to CCCongress but not camp: 3 people +1 +1
     * been to CCCamp 2011 and congress: 1 person +1
   * Where are you from?
-    * Outside of Germany: 3 +1 (but originally from Germany) +1
+    * Outside of Germany: 3 +1 (but originally from Germany) +1+1(belgium)
     * Germany: 3
   * What are our projects?
     * Queersplaining: queer people explaining concepts
@@ -97,6 +97,7 @@ We'll keep meeting in irc on Sundays.
     * stefan (probably)
   * 12th (Day 0) +1
     * stoopt
+    * ooooo
   * 13th (Day 1)
   * Later than Day 1
   * 14th (evening)
@@ -134,6 +135,13 @@ We'll keep meeting in irc on Sundays.
     * a Lichterkette
     * free hugs
   * (not sure yet, depends on how she gets there)
+  * ooooo
+    * microtik/network switch
+    * audio goodies: looper/mic/axoloti/chaoslooper with bodycontrol
+    * soldering iron+multimeter
+    * brainwave device
+    * cables
+  * 
   * 
 **BOOKS and other reading material:**
   * 
@@ -147,6 +155,7 @@ We'll keep meeting in irc on Sundays.
 
 **WORKSHOP / SESSION SUGGESTIONS:**
   * <Your idea here>
+  * Anarchaserver intro+story+ daily worksession
 
 
 **WANTED:**
@@ -163,6 +172,7 @@ __for our list:__
 Hi.
 At the irc meeting today, we've decided to try to organize a party at the queer feminist geek village, so if you feel like DJing, VJing or offering us one of your fantastic queer performances, or know someone who'd be interested, step forward!
   * I'm available to play some queer music and queer video clips - Pixi
+  * i wanna mc + make pink noise + can do online streaming
 
 __public call:__
 
