@@ -6,11 +6,20 @@ Text für Homepage & so:
 
 Was ist der realraum?
 
-Der realraum ist einerseits eine Community von Technik- und Bastel-begeisterten,
+Der realraum ist einerseits eine Community von Technik- und Bastel-begeisterten. Uns macht das Spielen & Experimentieren mit Technik Spaß. Wir entdecken gerne Neues und wollen von Anderen lernen. Ob Zentrifuge, Lötkolben, Byte, Sensoren, DNA, TCP-Packet, Kryptografie, 3D Drucker, Gesellschaft, Lasercutter oder Mikroskop, die Interessen sind vielseitig.
 
 Andererseits ist der realraum Räumlichkeit in der Brockmanngasse in Graz, in denen diese Community einen Ort findet, sich zu treffen, auszutauschen, zu basteln, diskutieren, oder einfach nur die Seele bei einem kühlen Mate baumeln zu lassen.
 
 Kurz gesagt: Der realraum ist ein Hackspace und Makerspace.
+
+Die meisten Veranstaltungen sind offen, der eintritt ist frei. Komm vorbei!
+
+---------------------------------------------------------------------------------------------------------
+TODO: 
+einzelne Begriffe mit Themenseiten verlinken?
+Veranstaltungen/Kalender verlinken?
+Projekte präsentieren?
+Mitglieder vorstellen?
 
 ---------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------
@@ -39,7 +48,7 @@ Im realraum geht es um ...
  * Kryptographie, Privatsphäre, Sicherheit
  * 3D-Drucker und Laser-Cutter
  * Manipulation von DNA, Bioreaktor- und Laborgerätebasteln
- * Technik, Gesellschaft und Bier
+ * Technik & Gesellschaft
  * Viele weitere Projekte von Mitgliedern (zB.: Studium, aus Drucker mach Türöffner, Funkfeuer, Raumsensoren, Kioskanzeige, ...)
 
 Kurzum: eine Wohlfühlumgebung für jede Technikerin und jeden Techniker!
