@@ -1,3 +1,23 @@
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Text für Homepage & so:
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+
+Was ist der realraum?
+
+Der realraum ist einerseits eine Community von Technik- und Bastel-begeisterten,
+
+Andererseits ist der realraum Räumlichkeit in der Brockmanngasse in Graz, in denen diese Community einen Ort findet, sich zu treffen, auszutauschen, zu basteln, diskutieren, oder einfach nur die Seele bei einem kühlen Mate baumeln zu lassen.
+
+Kurz gesagt: Der realraum ist ein Hackspace und Makerspace.
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Text für Studienführer Informatik:
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+
 Allgemeines
 Studierendenteams
 
