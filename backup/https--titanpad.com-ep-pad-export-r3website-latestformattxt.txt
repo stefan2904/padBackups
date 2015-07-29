@@ -56,6 +56,12 @@ Design
  * r3 Logo
  * ...
 
+Texte
+
+ * https://titanpad.com/realraumPR
+ * Blog-System with access for members
+   * ask everyone to write something
+   * present projects + people?
 
 Tech?
 
