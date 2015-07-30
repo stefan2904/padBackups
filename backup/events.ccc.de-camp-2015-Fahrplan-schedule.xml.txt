@@ -107,11 +107,14 @@ In einer chronologischen Auflistung der Ereignisse der letzten zwei Dekaden brin
 <type>lecture</type>
 <language>de</language>
 <abstract>Der NSA-Untersuchungsausschuss ist zum BND-Untersuchungsausschuss geworden. Wie sieht es nach einem Jahr aus? Was kam nach Eikonal? Wie prüft das BSI die Hardware des BND? Wieviele Verfassungsklagen gibt es und wieviele brauchen wir noch? Und warum wird das eigentlich nicht gestreamt?</abstract>
-<description></description>
+<description>Seit einem Jahr finden öffentliche Anhörungen des NSA-Untersuchungsausschusses statt, der mittlerweile eher ein BND-Untersuchungsausschuss ist. 
+
+Hier gibt es einen Überblick darüber, wie ein Untersuchungsausschuss funktioniert, was er kann und was nicht, um welche Themen es geht und warum die Bundesregierung immer dazwischen funkt. </description>
 <persons>
 <person id='1864'>Anne Roth</person>
 </persons>
 <links>
+<link href='http://www.bundestag.de/bundestag/ausschuesse18/ua/1untersuchungsausschuss'>Bundestag: 1. Untersuchungsausschuss</link>
 </links>
 </event>
 </room>
@@ -347,6 +350,29 @@ Some questions that we would like to see frame the discussion are:
 <links>
 </links>
 </event>
+<event guid='fc4e6338-452d-48c3-a21b-ecdcb658bce7' id='6710'>
+<date>2015-08-15T00:00:00+02:00</date>
+<start>00:00</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6710-making_coils_more_musical</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Making coils more musical</title>
+<subtitle></subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Making music with Tesla coils has become more popular as the technology has become more accessible. But can they really be considered expressive musical instruments in their own right? This talk discusses recent performances using the CHIME RED Tesla coil controller, which provides Tesla coils many synthesizer effects (including 16-note polyphony) and integration with musical robots (https://vimeo.com/123003833).</abstract>
+<description></description>
+<persons>
+<person id='5517'>Josh Bailey</person>
+</persons>
+<links>
+</links>
+</event>
 </room>
 <room name='B'>
 <event guid='bb5f6994-e54c-4a78-a1a8-571477c000b1' id='6702'>
@@ -425,6 +451,51 @@ But what about the quality of human interaction? How can we build a culture of b
 <person id='1041'>nickfarr</person>
 </persons>
 <links>
+</links>
+</event>
+<event guid='e9d2a3dd-7d47-4f6a-9475-2961e584037e' id='6642'>
+<date>2015-08-14T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>B</room>
+<slug>camp2015-6642-o_p_er_a_t_i_o_a_l_glit_c_he_s</slug>
+<recording>
+<license>Lizenz Freie Kunst http://artlibre.org/licence/lal/de/</license>
+<optout>false</optout>
+</recording>
+<title>o͈̮p̢ęr̕a͠t̶̨i͟oǹ͓̜a̵l̷ glit̶̨ć̶̛he͝s</title>
+<subtitle>How To Make Human Machine Readable</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>&lt;i&gt;...niemanden interessiert wie's funktioniert, solange es funktioniert&lt;/i&gt;
+
+Also lasst uns Fehler machen.
+----
+Diese Performance Lecture basiert auf einer &lt;a href=&quot;http://noparts.org/operational_glitches/operational_glitches.pdf&quot;&gt;essayistischen Annäherung&lt;/a&gt; an technische Bilder als ein Phänomen. Sie versucht einen Blick zurück in die Ursprünge von Rechenmaschinen als Kontrollinstrumente, sowie einen Blick in die Zukunft im kybernetischen Sinne.</abstract>
+<description>Sehe ich Welt durch andere Augen, in diesem Falle durch technische Devices, so sehe ich durch Maschinenaugen, so liegt diese Maschine zwischen mir und Welt, sprich eine mediale Ebene liegt dazwischen.
+&lt;br /&gt;
+Diese Zwischenform von Welt aber (inter-facies 'zwischen-form'), sie stellt eine Abstraktion von Raum sowie von Zeit, dar.
+&lt;br /&gt;
+Eine Vereinfachung im Sinne von &lt;i&gt;machine readable&lt;/i&gt;.
+&lt;br /&gt;
+&lt;br /&gt;
+Ich, der Mensch, betrachte ich technische Bilder, kann also nur interpretieren, was mir bereits von der jeweiligen Maschine vorinterpretiert wurde.
+Doch diese Vorinterpretation geschieht meist im Verborgenen. Für den Menschen unsichtbar. In einer so called &lt;i&gt;Black Box&lt;/i&gt;.
+&lt;br /&gt;
+Eine Möglichkeit, diese scheinbar unsichtbaren Prozesse ästhetisch zu erfahren, das heißt keiner Denkstruktur folgend, welche mechanistischen Weltbildern entsprang, stellt &lt;i&gt;glitch art&lt;/i&gt; dar:
+&lt;br /&gt;
+Entsteht ein &lt;i&gt;glitch&lt;/i&gt; während der jeweiligen Bildgenerierung so reißt mich dieser Fehler aus meiner mir vertrauten Bildwelt heraus.
+Er irritiert mich und hilft mir wieder zu erkennen, dass da was ist - zwischen mir und Welt.
+&lt;br /&gt;
+Erzeuge ich diesen &lt;i&gt;glitch&lt;/i&gt; im technischen Bild bewußt und lasse diesen durch ein technisches Bild wiederum in Erscheinung treten, so schaffe ich ein Bewußtsein-für durch ästhetische Erfahrung.
+&lt;br /&gt;
+&lt;i&gt;glitch art&lt;/i&gt; schenkt dem scheinbar Unsichtbaren also eine Form und offenbart durch diese, eine Falschheit des Glaubens an die Richtigkeit technischer Bilder.</description>
+<persons>
+<person id='5424'>Christian Heck</person>
+</persons>
+<links>
+<link href='http://noparts.org/operational_glitches/'>project_website</link>
 </links>
 </event>
 <event guid='e8f03c57-f500-492a-9028-b91acffe7695' id='6867'>
@@ -612,8 +683,48 @@ http://www.verfassung-schuetzen.de/</description>
 <persons>
 <person id='5483'>&quot;Lily&quot;</person>
 <person id='3615'>harryhalpin</person>
+<person id='5742'>Jason</person>
 </persons>
 <links>
+<link href='http://spiedupon.com/'>Spied Upon film project </link>
+<link href='http://blackhelmetproductions.net/'>Black Helmet Productions</link>
+</links>
+</event>
+<event guid='d32891ed-c3ec-41b6-a586-234f2c9ce92b' id='7035'>
+<date>2015-08-16T00:00:00+02:00</date>
+<start>00:00</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-7035-the_hills_are_alive_with_the_sound_of_hacking_don_t_wake_the_monkeys</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>The hills are alive with the sound of hacking ... don't wake the monkeys!</title>
+<subtitle>The State of the Hack in India. A place to be^W hack in the Himalayas (and at the beach!)</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>We are a community of (hill)hackers from India and all over the world. We'd like to talk about how rewarding it is to setup a tiny CCCamp in the Himalayas, and how the hands-on collaborative approach works in the indian context. We'd also like to introduce various open spaces, communities, events and dialogues that are currently active in different parts of India. The history and diversity of open movements in India is inspiring young hackers in the country to engage, contribute and learn from the global hacker movement.</abstract>
+<description>We call ourselves the hillhackers, as we regularly meet at hillhacks: a cccamp-like event in the foothills of the himalayas, focussed around hacking and making, but also very much about knowledge sharing and the whole stack of themes of the open society - besides we also do art and music, and created various school programmes, were we teach youngsters and kids. We just started last year, and invite everyone to join us!
+
+Also we want to invite you to do the same: Copy&amp;Paste the CCC/C3 approach into your community, and create your own community-driven event. that is not only for the free and open community, but that is free and open by design and by the way its organized and conducted.
+
+In our talk we'll tell you what we actually have done at hillhacks 2014 and 2015 and how we solved all the challenges facing us in the mountains, eg finding a suitable location and setup, getting network there, getting money to pay the bills, and last but not least getting &quot;the right people&quot; to do the things.
+
+After that we introduce some other community-driven events in india plus some others we are kinda feel connected to, and contiue showing you some of the rare hacker- and makerspace on the indian subcontinent, and the tech-community around it.
+
+The other half of our talk we want to use to quickly introduce some topics we find important and we are into.</description>
+<persons>
+<person id='4590'>sva</person>
+</persons>
+<links>
+<link href='http://hillhacks.in/'>hillhacks landing page</link>
+<link href='http://hackbeach.in/'>hackbeach (october-november in South India)</link>
+<link href='http://hillhacks.in/media'>pictures and videos</link>
+<link href='http://hillhacks.in/calendar'>schedule / calendar 2015</link>
+<link href='http://hillhacks.in/2014/calendar'>schedule / calendar 2014</link>
+<link href='http://hillhacks.in/topics'>List of Topics</link>
 </links>
 </event>
 </room>
@@ -737,6 +848,31 @@ enforce and defend our liberties&quot; Eduard Snowden has ask us for?</descripti
 </persons>
 <links>
 <link href='https://upribox.org'>upribox</link>
+</links>
+</event>
+<event guid='ee1c8597-45af-444e-bab6-339b3c077b89' id='6820'>
+<date>2015-08-16T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6820-mister_miss_mutig_open_stage_impro</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Mister &amp; Miss Mutig Open Stage Impro</title>
+<subtitle></subtitle>
+<track>Art &amp; Culture</track>
+<type>other</type>
+<language>de</language>
+<abstract>We, Die Improbanden, an improv group from Berlin, will perform an open stage show and ask the really courageous members of the audience to come on stage and improvise with us. Although we usually play in German, we can also perform in English, and we invite participants from the audience to play in their own native tongue.</abstract>
+<description>Wir stellen dem Publikum die Aufgabe, wirklich Mut zu zeigen. Wir, die Improbanden, fordern vier Zuschauer auf, mit uns gemeinsam auf der Bühne zu spielen. Jeder der Zuschauer bildet mit einem Improbanden ein Duo. Beide wissen nicht, was auf sie zukommen wird. In verschiedenen Runden werden die Teams Improvisationsaufgaben meistern und vom Publikum dafür Punkte erhalten. Nach und nach werden Zweierteams ausscheiden, bis nur noch ein Duo übrig ist – Mister &amp; Miss Mutig. Der Zuschauer aus dem Gewinner-Team wird dann Hauptheld einer abschließenden längeren Geschichte.
+Die Aufgabe und Herausforderung für uns Improbanden ist es, die Mitspieler fast unmerklich zu führen und sie hell erstrahlen zu lassen. Die Bühnenneulinge werden gar keine Zeit bekommen, Angst zu haben, wir machen die Mitspieler zu den Helden des Abends. Alle, auch die, die nicht weiter kommen, werden dabei als Gewinner von der Bühne gehen. Dabei wollen wir helfen, Hemmnisse abzubauen und zeigen, wie miteinander und gemeinsam schier unlösbare und riesig erscheinende Aufgaben gemeistert werden können.</description>
+<persons>
+<person id='5578'>Felix Müller</person>
+<person id='5723'>Mirko 'macro' Fichtner</person>
+</persons>
+<links>
 </links>
 </event>
 </room>
