@@ -41,6 +41,34 @@ SUMMARY:3D Printing High-Quality Low-Cost Free Medical Hardware
 LOCATION:B
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T171500
+DTSTAMP;VALUE=DATE-TIME:20150731T212928Z
+UID:c1f34fda-54f2-407c-b68c-44dafc820282@frab.cccv.de
+DESCRIPTION:Let's build a Bass Guitar! Let's not buy hardware and instead
+  learn about metal working and how to program a CNC. Let's not recreate 
+ a design but start from scratch. Let's ... do everything ourselves excep
+ t the potentiometers.
+URL:/camp/2015/Fahrplan/events/6973.html
+SUMMARY:A Hackers Approach To Building Electric Guitars
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T183000
+DTSTAMP;VALUE=DATE-TIME:20150731T212758Z
+UID:8e851e7a-d9d1-4074-a802-4e9d7a297a6a@frab.cccv.de
+DESCRIPTION:This will be a rapid-fire\, tips-and-tricks lecture on practi
+ cal prototyping.\nIt will cover a series of practical tips\, strategies 
+ & techniques\, illustrated with all the mistakes I made over the past 10
+  years designing & building stuff.  \nThe lecture  is intended for a non
+ -specialized audience with a basic understanding of what a lasercutter\,
+  a 3D-printer and a milling machine does.
+URL:/camp/2015/Fahrplan/events/6688.html
+SUMMARY:A practical prototyping primer
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T200000
 DTSTAMP;VALUE=DATE-TIME:20150731T130031Z
@@ -131,6 +159,16 @@ DESCRIPTION:Starting my new job\, I was surprised about my colleagues rea
 URL:/camp/2015/Fahrplan/events/6701.html
 SUMMARY:Building a culture of courage
 LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T114500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T111500
+DTSTAMP;VALUE=DATE-TIME:20150731T212913Z
+UID:51565c6b-399f-4cf7-9d74-7ffd5d14f7af@frab.cccv.de
+DESCRIPTION:A guide to selecting parts for your first combat robot.
+URL:/camp/2015/Fahrplan/events/6823.html
+SUMMARY:Building your First Combat Robot
+LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T110000
@@ -238,6 +276,20 @@ SUMMARY:Detecting echoes from the dawn of time
 LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T120000
+DTSTAMP;VALUE=DATE-TIME:20150731T212736Z
+UID:9d7e656f-eb6d-4355-9d26-8bcf797e6681@frab.cccv.de
+DESCRIPTION:Musical instrument designers have always brought together cut
+ ting-edge technology and a thorough understanding of ergonomics and inte
+ rfaces tailored to the needs of musicians. This talk will present an int
+ roduction on the evolution of novel musical instruments and the most imp
+ ortant design considerations.
+URL:/camp/2015/Fahrplan/events/6676.html
+SUMMARY:Digital Musical Instruments
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T174500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T171500
 DTSTAMP;VALUE=DATE-TIME:20150722T161526Z
@@ -326,6 +378,20 @@ DESCRIPTION:WLAN and mesh networking in the UHF band: More frequency spec
  .
 URL:/camp/2015/Fahrplan/events/6738.html
 SUMMARY:Freifunk in TV-Whitespace
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T210000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T200000
+DTSTAMP;VALUE=DATE-TIME:20150731T212856Z
+UID:b0be37e7-88fd-4f5c-bbd1-14b7e5f9a78d@frab.cccv.de
+DESCRIPTION:Bio-fuels from waste can be part of the solution to stabilize
+  climate change\, but inaction by governments and industry means such fu
+ els are not readily available. This talk will outline work being done to
+  solve this problem at a personal level\, by producing open source desig
+ ns for equipment for local production of bio-fuels.
+URL:/camp/2015/Fahrplan/events/6798.html
+SUMMARY:Fueling the Revolution
 LOCATION:B
 END:VEVENT
 BEGIN:VEVENT
@@ -489,6 +555,18 @@ UID:2ee47684-8114-4361-8f3e-8b61946d8335@frab.cccv.de
 DESCRIPTION:
 URL:/camp/2015/Fahrplan/events/6983.html
 SUMMARY:Infrastructure Review
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T211500
+DTSTAMP;VALUE=DATE-TIME:20150731T212930Z
+UID:ed4bcb3b-fe2d-4728-812d-a45dbd4d01db@frab.cccv.de
+DESCRIPTION:Listening to satellites and decoding is fun. We show how you 
+ can do it with an Software Defined Radio and some spare time. And we sho
+ w what interesting stuff you can expect to find.\n
+URL:/camp/2015/Fahrplan/events/6883.html
+SUMMARY:Iridium Hacking
 LOCATION:B
 END:VEVENT
 BEGIN:VEVENT
@@ -664,6 +742,19 @@ DESCRIPTION:We\, Die Improbanden\, an improv group from Berlin\, will per
 URL:/camp/2015/Fahrplan/events/6820.html
 SUMMARY:Mister & Miss Mutig Open Stage Impro
 LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T233000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T223000
+DTSTAMP;VALUE=DATE-TIME:20150731T212721Z
+UID:cdc39fc3-715d-4610-b633-3821e4762aa4@frab.cccv.de
+DESCRIPTION:Es gibt unzählige Möglichkeiten\, ein Hardwareentwicklungspro
+ jekt in den Sand zu setzen. Man muss nicht für alle davon selbst verantw
+ ortlich sein\, um daraus zu lernen. Und nicht alles\, was man irgendwo s
+ chon mal gehört hat\, ist auch wirklich richtig.
+URL:/camp/2015/Fahrplan/events/6651.html
+SUMMARY:Mythen der Elektronikentwicklung
+LOCATION:B
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T210000
