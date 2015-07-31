@@ -24,6 +24,35 @@ SUMMARY:20 Jahre c-base
 LOCATION:B
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T233000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T223000
+DTSTAMP;VALUE=DATE-TIME:20150731T082232Z
+UID:61faba33-5bfa-4c58-a864-d527c6f31b7d@frab.cccv.de
+DESCRIPTION:Despite the dramatic falls in costs of production\, medical d
+ evices have remained prohibitively expensive for all but the richest cou
+ ntries and physicians. Using 3D printing\, rapid prototyping and Free ha
+ rdware licenses\, we have been developing and releasing off-patent medic
+ al devices that perform as well as the gold standard for a fraction of t
+ he cost. In this lecture\, we discuss the history and scope of the probl
+ em\, our progress to date and how attendees can participate and make the
+ ir own medical devices.
+URL:/camp/2015/Fahrplan/events/6703.html
+SUMMARY:3D Printing High-Quality Low-Cost Free Medical Hardware
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T210000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T200000
+DTSTAMP;VALUE=DATE-TIME:20150731T130031Z
+UID:2b3d8f9e-7169-457a-b2db-834282f437f4@frab.cccv.de
+DESCRIPTION:The largest weaknesses of mobile network are well hidden from
+  users: Information exchanged between different mobile networks expose u
+ sers to fraud and privacy risks.
+URL:/camp/2015/Fahrplan/events/6785.html
+SUMMARY:Advanced interconnect attacks
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T110000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T103000
 DTSTAMP;VALUE=DATE-TIME:20150722T164436Z
@@ -37,6 +66,55 @@ DESCRIPTION:When you plan to send a rover to the moon\, there are many th
 URL:/camp/2015/Fahrplan/events/6737.html
 SUMMARY:Analogue Mission Simulations
 LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T120000
+DTSTAMP;VALUE=DATE-TIME:20150731T130037Z
+UID:f5e3e4d3-884c-453e-bd44-6d0a524313ea@frab.cccv.de
+DESCRIPTION:Join us for a fun-filled tour of source control management an
+ d services to talk about how to backdoor software.  We will focus on one
+  of the most popular\, trendy SCM tools and related services out there –
+  Git.  Nothing is sacred.  Along the way\, we will expose the risks and 
+ liabilities one is exposed to by faulty usage and deployments.  When we 
+ are finished\, you will be able to use the same tools and techniques to 
+ protect or backdoor popular open source projects or your hobby project.
+URL:/camp/2015/Fahrplan/events/6721.html
+SUMMARY:Backdooring Git
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T183000
+DTSTAMP;VALUE=DATE-TIME:20150731T082610Z
+UID:87c715bf-c6a7-4ec6-87fc-84f4d04e01b6@frab.cccv.de
+DESCRIPTION:Hydroponics on a need to know basis for the ones who aim to b
+ uild their _first_ system. This is what you need to know on the green si
+ de of hydroponics\, to then make it digital\, connected and even more au
+ tomatic. 
+URL:/camp/2015/Fahrplan/events/6959.html
+SUMMARY:Basics of hydroponics
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T210000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T200000
+DTSTAMP;VALUE=DATE-TIME:20150731T125945Z
+UID:2e6e3f84-3f82-4e72-981e-fd90e23d8112@frab.cccv.de
+DESCRIPTION:Certain file formats\, like Microsoft Word and PDF\, are know
+ n to have features that allow for outbound requests to be made when the 
+ file opens. Other file formats allow for similar interactions but are no
+ t well-known for allowing such functionality. In this talk\, we explore 
+ various file formats and their ability to make outbound requests\, as we
+ ll as what that means from a security and privacy perspective. Most inte
+ restingly\, these techniques are not built on mistakes\, but intentional
+  design decisions\, meaning that they will not be fixed as bugs. From da
+ ta loss prevention to de-anonymization to request forgery to NTLM creden
+ tial capture\, this presentation will explore what it means to have file
+ s that communicate to various endpoints when opened.
+URL:/camp/2015/Fahrplan/events/6779.html
+SUMMARY:Bugged Files
+LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
@@ -53,6 +131,19 @@ DESCRIPTION:Starting my new job\, I was surprised about my colleagues rea
 URL:/camp/2015/Fahrplan/events/6701.html
 SUMMARY:Building a culture of courage
 LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T103000
+DTSTAMP;VALUE=DATE-TIME:20150731T130050Z
+UID:afe359da-56c9-4e76-8f56-45ed406494e5@frab.cccv.de
+DESCRIPTION:This lecture will give an introduction into car hacking by ex
+ plaining the structure and the different protocols of a modern car. The 
+ different attack vectors and their relevance will be given. It is intend
+ ed as a summary and will set things into perspective. 
+URL:/camp/2015/Fahrplan/events/6854.html
+SUMMARY:Carhacking – state of the art
+LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T191500
@@ -204,6 +295,40 @@ SUMMARY:for women in "${tech[@]}"\; do
 LOCATION:B
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T211500
+DTSTAMP;VALUE=DATE-TIME:20150731T082243Z
+UID:bd4515b7-fdcf-4d9b-8fc8-0ec47f5c8a80@frab.cccv.de
+DESCRIPTION:FPGAs are becoming more and more common in research and indus
+ trial projects. They are mostly used to accelerate problems of High Perf
+ ormance Computing. But standard personal computers can also benefit from
+  them\, e.g. with cryptographic accelerators\, additional processor core
+ s\, hardware for special projects.\nThis talk describes possible benefit
+ s for FPGAs in General Purpose Computing\, and their requirements to the
+  FPGA <-> Host connection and the operating system support.
+URL:/camp/2015/Fahrplan/events/6730.html
+SUMMARY:FPGAs for everyone
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T194500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T191500
+DTSTAMP;VALUE=DATE-TIME:20150731T082334Z
+UID:f83350dc-8152-422c-921f-379b018c0fa2@frab.cccv.de
+DESCRIPTION:WLAN and mesh networking in the UHF band: More frequency spec
+ trum with greater range for better and cheaper broadband access for ever
+ yone. The digital dividend through the digitization of terrestrial TV of
+ fers an important opportunity for better coverage and more bandwidth for
+  all. Unfortunately\, the UHF-TV spectrum is being auctioned off to the 
+ big telecommunications companies. As a result\, broadband usage remains 
+ expensive. The UHF-band mesh network of the "Freifunk" open wireless rad
+ io networks community in Berlin is a first step in a different direction
+ .
+URL:/camp/2015/Fahrplan/events/6738.html
+SUMMARY:Freifunk in TV-Whitespace
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T183000
 DTSTAMP;VALUE=DATE-TIME:20150722T161323Z
@@ -275,6 +400,44 @@ SUMMARY:Hackerspace Design Patterns 2.0
 LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T183000
+DTSTAMP;VALUE=DATE-TIME:20150731T130126Z
+UID:0e66ac36-d9c6-4900-b532-4f651dd39582@frab.cccv.de
+DESCRIPTION:Hardware attacks are becoming more and more common. Attacks l
+ ike Power Analysis or Fault Injection are spread and well known nowadays
+  and the recent hacks to gaming consoles or payment systems are a proof 
+ of it.\nDespite the increasing popularity of these attacks\, the cost of
+  the required tools has been unaffordable for most security enthusiasts.
+  Projects like Chipwhisperer have significantly decreased the price of a
+  hardware-hacking setup even below the 1000€ barrier\, but it still can 
+ be too high for hackers that only wants to experiment for fun. We want t
+ o prove that money is not a concern if you want to introduce yourself to
+  hardware hacking. Is it possible to perform side channel analysis or fa
+ ult injection attacks with only 30 euros?
+URL:/camp/2015/Fahrplan/events/6711.html
+SUMMARY:Hardware attacks: hacking chips on the (very) cheap
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T210000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T200000
+DTSTAMP;VALUE=DATE-TIME:20150731T130106Z
+UID:a5f996a3-d0a7-44e7-ac1b-6373a297ccf3@frab.cccv.de
+DESCRIPTION:In this talk we'll go through many examples of targeted surve
+ illance employed by governments all around the world and we'll try to un
+ derstand the taxonomy and nature of these attacks from a technical and f
+ rom a political perspective. We'll find that many share common character
+ istics and that in many cases we have the capacity to identify\, track a
+ nd stop these attacks\, often directed against journalists\, dissidents 
+ and activists in their countries and in exile. With a little good will a
+ nd coordination\, we can all collectively have a concrete impact. Let's 
+ start now.
+URL:/camp/2015/Fahrplan/events/6848.html
+SUMMARY:Helping the Helpless
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T110000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T103000
 DTSTAMP;VALUE=DATE-TIME:20150722T161334Z
@@ -290,6 +453,35 @@ SUMMARY:How To Become A Space Hacker
 LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T211500
+DTSTAMP;VALUE=DATE-TIME:20150731T150443Z
+UID:cd66723d-23cc-40e7-9b76-f9b38dc576ab@frab.cccv.de
+DESCRIPTION:In the summer of 2013\, Guardian employees destroyed computer
+ s storing top secret documents from Snowden\, on instruction and supervi
+ sion from GCHQ. With access to the destroyed pieces\, we investigated wh
+ at GCHQ's instructions were and what we can learn from it about securely
+  eradicating data on a machine.
+URL:/camp/2015/Fahrplan/events/6799.html
+SUMMARY:How to Destroy a Laptop with Top Secrets
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T160000
+DTSTAMP;VALUE=DATE-TIME:20150731T125904Z
+UID:97cbc2a0-7d63-4d54-9ff6-fb1b8ed30380@frab.cccv.de
+DESCRIPTION:Auditing source code is not enough when build tools are thems
+ elves a target. When software can be built reproducibly\, anyone is enab
+ led to verify that binaries have actually been made from the source code
+  they claim to be made from. The lecture will present several tricks lea
+ rned while trying to make Debian — the largest collection of free softwa
+ re — build reproducibly.
+URL:/camp/2015/Fahrplan/events/6657.html
+SUMMARY:How to make your software build reproducibly
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T160000
 DTSTAMP;VALUE=DATE-TIME:20150728T084559Z
@@ -298,6 +490,38 @@ DESCRIPTION:
 URL:/camp/2015/Fahrplan/events/6983.html
 SUMMARY:Infrastructure Review
 LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T194500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T191500
+DTSTAMP;VALUE=DATE-TIME:20150731T130020Z
+UID:ba581611-85dc-4e7c-924d-3ca10fe03d48@frab.cccv.de
+DESCRIPTION:This presentation will identify and address two safety-critic
+ al problems permeating research today: lack of total free access to scho
+ larship\, and the looming threat of apprehension for trying to facilitat
+ e said free access. In other words\, this presentation will explore how 
+ to procure access to all-too-often restricted content sequestered behind
+  extortionate academic paywalls\, and how to then safely freely dissemin
+ ate said content without being apprehended. 
+URL:/camp/2015/Fahrplan/events/6766.html
+SUMMARY:Jumping the Paywall
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T120000
+DTSTAMP;VALUE=DATE-TIME:20150731T125943Z
+UID:cf32c6aa-4a0b-41dd-8103-45575f628913@frab.cccv.de
+DESCRIPTION:Smartlocks are the new way of securing doors by replacing the
+  old mechanical locks by new high-tech and\nconnected locks\, able to co
+ mmunicate with other smart devices such as smartphones\nand computers. V
+ endors argue that "key dematerialization" is the future of keys\,\nwhere
+  anybody would be able to give\, control and revoke keys for one or mult
+ iple\nlocks by using his smartphone. No more physical keys needed for a 
+ better control\, or not.
+URL:/camp/2015/Fahrplan/events/6689.html
+SUMMARY:Keys ? Where we're going we don't need keys.
+LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T181500
@@ -312,6 +536,22 @@ DESCRIPTION:Wie lassen sich schwierige Themen einfach darstellen? Ralph C
  tnehmen. Think: Sea-World!)
 URL:/camp/2015/Fahrplan/events/6987.html
 SUMMARY:Kissing – Heiße Tipps und Techniken
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T171500
+DTSTAMP;VALUE=DATE-TIME:20150731T130158Z
+UID:df27b8d8-cd90-4127-8952-cd4cfe756e38@frab.cccv.de
+DESCRIPTION:Let's Encrypt is a new free and automated certificate authori
+ ty\, launching in summer 2015.  This talk will explain how Let's Encrypt
+  works\, and show you how to use it to automate HTTPS on a range of diff
+ erent Web\, mail and other server types.  It will cover obtaining new ce
+ rtificates\, renewing them automatically\, and enabling various advanced
+  TLS security features.  We also discuss the roadmap to a Web that is HT
+ TPS by default.\n
+URL:/camp/2015/Fahrplan/events/6907.html
+SUMMARY:Let's Encrypt
 LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
@@ -352,6 +592,20 @@ DESCRIPTION:Bring your infectious enthusiasm to an audience with a short
 URL:/camp/2015/Fahrplan/events/6864.html
 SUMMARY:Lightning Talks: Day 4
 LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T183000
+DTSTAMP;VALUE=DATE-TIME:20150731T125959Z
+UID:feefa25c-12e5-4178-9c27-dbcf2afd905a@frab.cccv.de
+DESCRIPTION:Locking the Net Open: Transforming the Web into a truly distr
+ ibuted system that’s all fun\, secure and reliable.    Using Javascript\
+ , peer-to-peer tech\, bitcoin and blockchain\, we can build on top of th
+ e current web to build a system that protects reader privacy\, is reliab
+ le against hardware outages and censorship and stays fun.
+URL:/camp/2015/Fahrplan/events/6938.html
+SUMMARY:Locking the Web Open: Call for a Distributed Web
+LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T010000
@@ -442,18 +696,63 @@ SUMMARY:o͈̮p̢ęr̕a͠t̶̨i͟oǹ͓̜a̵l̷ glit̶̨ć̶̛he͝s
 LOCATION:B
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T163000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T183000
+DTSTAMP;VALUE=DATE-TIME:20150731T130003Z
+UID:a26b9be9-36ce-4a7f-9baa-4612251615c5@frab.cccv.de
+DESCRIPTION:We like to share our expirience of how you can organize your 
+ own CTF. Show you the stepstones and hopfully motivate some of you to ma
+ ke your own CTF. 
+URL:/camp/2015/Fahrplan/events/6715.html
+SUMMARY:Organize you own capture the flag competition
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T160000
-DTSTAMP;VALUE=DATE-TIME:20150725T091836Z
+DTSTAMP;VALUE=DATE-TIME:20150731T160225Z
 UID:439d64b1-b08b-4313-87f9-c469211d4206@frab.cccv.de
 DESCRIPTION:Seit Edward Snowden ist IT-Sicherheit nicht mehr nur ein Them
- a für Konzerne und Verschwörungstheoretiker.\nSie ist in den Fokus des a
- llgemeinen Interesses geraten.\nNicht nur die Marketing-Armeen deutscher
-  und europäischer Unternhmen\, sondern auch Politik und Parteien wollen 
- nun schnelles Kapital aus dem Thema schlagen.
+ a für Konzerne und Verschwörungstheoretiker. Sie ist in den Fokus des al
+ lgemeinen Interesses geraten. Nicht nur die Marketing-Armeen deutscher u
+ nd europäischer Unternehmen\, sondern auch Politik und Parteien wollen n
+ un schnelles Kapital aus dem Thema schlagen.
 URL:/camp/2015/Fahrplan/events/6762.html
 SUMMARY:Politische Lösungen für technische Probleme?
 LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T171500
+DTSTAMP;VALUE=DATE-TIME:20150731T125927Z
+UID:f76a7853-6dfa-4294-81b6-1b37a9632b67@frab.cccv.de
+DESCRIPTION:In this talk EFF Technologist Noah Swartz will present Privac
+ y Badger\, EFF's new browser extension that automatically blocks both in
+ visible trackers and spying ads. It is intended to be a minimal or zero-
+ configuration option that most Internet users can use to prevent non-con
+ sensual third party collection of their reading habits from their everyd
+ ay browser. Privacy Badger couples the recently developed HTTP Do Not Tr
+ ack opt-out header with a number of heuristics for classifying the behav
+ ior of third parties\, to automatically determine which should be blocke
+ d\, which are needed but should have cookies blocked\, and which are saf
+ e from a privacy perspective. They will also talk about the current stat
+ e of non-consensual tracking on the web\, what methods are currently bei
+ ng used to track people and exploring what alternatives we can pursue.
+URL:/camp/2015/Fahrplan/events/6733.html
+SUMMARY:Privacy Badger
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T211500
+DTSTAMP;VALUE=DATE-TIME:20150731T081911Z
+UID:54159b05-db61-4055-b2ae-f4a16559ccfe@frab.cccv.de
+DESCRIPTION:DIY electronics often means Arduinos and breadboards. But you
+  can do so much more. Things like BGA soldering\, DDRx-RAM\, HDMI and PC
+ I Express. This talk will show you how.
+URL:/camp/2015/Fahrplan/events/6634.html
+SUMMARY:Pushing the limits of DIY electronics
+LOCATION:B
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T114500
@@ -531,6 +830,30 @@ SUMMARY:Sounding rockets
 LOCATION:B
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T233000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T223000
+DTSTAMP;VALUE=DATE-TIME:20150731T170807Z
+UID:bd046a46-8398-4b6f-b4e3-34f34e6f1ecc@frab.cccv.de
+DESCRIPTION:Im Juli hat sich das Bundesverfassungsgericht mit zwei Verfas
+ sungsbeschwerden gegen das BKA-Gesetz von 2008 auseinandergesetzt. Es gi
+ ng in der mündlichen Anhörung auch wieder um den Einsatz von Staatstroja
+ nern sowie weitere Überwachungsmaßnahmen.
+URL:/camp/2015/Fahrplan/events/6995.html
+SUMMARY:Staatstrojaner in Karlsruhe
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T120000
+DTSTAMP;VALUE=DATE-TIME:20150731T130111Z
+UID:4008e932-ec3e-4112-9367-4f98c304c34b@frab.cccv.de
+DESCRIPTION:In this talk we discuss mobile media metadata and explore how
+  popular platforms modify such metadata towards different goals.
+URL:/camp/2015/Fahrplan/events/6788.html
+SUMMARY:The good\, bad\, and ugly of photo & video metadata
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T010000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T000000
 DTSTAMP;VALUE=DATE-TIME:20150729T120823Z
@@ -569,6 +892,66 @@ DESCRIPTION:A whirlwind tour of the past\, present\, and future for artif
  r knowledge about artificial intelligence is required for this talk.
 URL:/camp/2015/Fahrplan/events/6859.html
 SUMMARY:The quest for artificial general intelligence
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T160000
+DTSTAMP;VALUE=DATE-TIME:20150730T222212Z
+UID:882370ef-642d-43ba-b91d-22e9e87e9a1f@frab.cccv.de
+DESCRIPTION:We will give a introduction on what your badge can do. An ove
+ rview of the hardware details and software options as well as the histor
+ y of it's creation.
+URL:/camp/2015/Fahrplan/events/6884.html
+SUMMARY:The rad1o
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T233000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T223000
+DTSTAMP;VALUE=DATE-TIME:20150731T130120Z
+UID:2cce4d76-619d-4f60-b7e9-28e8ee9d6483@frab.cccv.de
+DESCRIPTION:With the more widespread use of encrypted HTTPS connections m
+ any software vendors intercept these connections by installing a certifi
+ cate into the user's browser. This is widely done by Antivirus applicati
+ ons\, parental filter software or ad injection software. This can go hor
+ ribly wrong\, as the examples of Superfish and Privdog have shown. But e
+ ven if implemented properly these solutions almost always decrease the s
+ ecurity of HTTPS.
+URL:/camp/2015/Fahrplan/events/6833.html
+SUMMARY:TLS interception considered harmful
+LOCATION:A
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T103000
+DTSTAMP;VALUE=DATE-TIME:20150731T130016Z
+UID:0da613d0-7df1-481f-b612-25eacadae773@frab.cccv.de
+DESCRIPTION:Proxies have been around for a while now\, but remain poorly 
+ understood. I'll share some data on how they are used\, what they are us
+ ed for\, and who uses them. To understand open proxies\, I've scanned th
+ e Internet to track their prevalence\, and monitored public statistics i
+ nterfaces to understand the machines hosting them.  ~220 TB of traffic f
+ lows through open proxies each day\, making them one of the largest over
+ lay networks in existence - especially since most operators appear to be
+  running them unintentionally.
+URL:/camp/2015/Fahrplan/events/6765.html
+SUMMARY:Understanding Open Proxies
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T194500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T191500
+DTSTAMP;VALUE=DATE-TIME:20150731T130023Z
+UID:b17ff452-d735-49b4-b91f-b8f7cd62dad2@frab.cccv.de
+DESCRIPTION:Microsoft versucht mal wieder\, diesmal unter dem Deckmantel 
+ sicheren Bootens\, den Besitzern die Kontrolle über ihre Persönlichen Co
+ mputer zu entziehen. Bei der Einführung von Windows 10 eskaliert Microso
+ ft gezielt seinen Machtanspruch und schleift bisher bewusst offengehalte
+ ne Wege für alternative Systeme. \n\nWir brauchen eine alternative Vertr
+ auensarchitektur\nund zwar schnell.\n
+URL:/camp/2015/Fahrplan/events/6813.html
+SUMMARY:Update: Vor Windows10 Update Warnung
 LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
