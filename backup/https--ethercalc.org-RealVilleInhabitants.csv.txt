@@ -5,8 +5,8 @@ PeterTO,"2015-08-11, Evening",,train?,BuildUp,r3-minion
 xro,"2015-08-11, Evening","2015-08-18, Evening","r3 convoy","BuildUp, TearDown",r3
 jampo,"2015-08-11, Evening","2015-08-18, Evening","in in BER","BuildUp, TearDown",r3
 "martin jost +1","with xro","with xro","r3 convoy","BuildUp, TearDown",r3-olga
-peterp,,,,,r3
-"Horst Petschenig","with PeterP","with PeterP","with PeterP",,ext
+peterp,,,"GRZ-TXL 2015-08-12T10:15; TXL-GRZ 2015-08-18T16:55",,r3
+"Horst Petschenig","with PeterP",,,,ext
 homunkolloss,,,"lives in BER",,ex-r3
 "n0v0id (not r3ville)","2015-08-12, Evening","2015-08-18, Afternoon","GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55",,ext
 equinox,"2015-08-11, afternoon/evening","2015-08-18, afternoon/evening","r3 convoy / equinox car (getting there: full, getting back: 1 place left)","BuildUp, TearDown, all things Infrastructure",r3-nightshift
