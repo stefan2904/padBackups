@@ -302,6 +302,35 @@ Hier gibt es einen Überblick darüber, wie ein Untersuchungsausschuss funktioni
 <link href='http://www.bundestag.de/bundestag/ausschuesse18/ua/1untersuchungsausschuss'>Bundestag: 1. Untersuchungsausschuss</link>
 </links>
 </event>
+<event guid='ed4bcb3b-fe2d-4728-812d-a45dbd4d01db' id='6883'>
+<date>2015-08-13T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>B</room>
+<slug>camp2015-6883-iridium_hacking</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Iridium Hacking</title>
+<subtitle>please don't sue us</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Listening to satellites and decoding is fun. We show how you can do it with an Software Defined Radio and some spare time. And we show what interesting stuff you can expect to find.
+</abstract>
+<description>The Iridium satellite system provides voice and data coverage to satellite phones, pagers and integrated transceivers over Earth's entire surface. It was built by Motorola over 15 years ago, and parts of it remain unchanged to this day.
+
+Broadcasting messages all over the world sounded interesting enough to take a closer look. As Iridium is a proprietary system, documentation is scarce and hard to come by. But with the rise of software defined radio we can take a peek at what happens over the air.
+
+We will show that anyone can listen to the one-way communication pagers, but we have not been idle since our presentation at 31c3, and thanks to the help of some other hackers we can also show some interesting new stuff :)</description>
+<persons>
+<person id='2506'>Sec</person>
+<person id='5339'>schneider</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='61faba33-5bfa-4c58-a864-d527c6f31b7d' id='6703'>
 <date>2015-08-13T22:30:00+02:00</date>
 <start>22:30</start>
@@ -891,6 +920,30 @@ In this talk I'll show you how it's done, things you need to consider (like wave
 <links>
 </links>
 </event>
+<event guid='cdc39fc3-715d-4610-b633-3821e4762aa4' id='6651'>
+<date>2015-08-14T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>B</room>
+<slug>camp2015-6651-mythen_der_elektronikentwicklung</slug>
+<recording>
+<license>CC BY-SA</license>
+<optout>false</optout>
+</recording>
+<title>Mythen der Elektronikentwicklung</title>
+<subtitle>&quot;Der Profi macht nur neue Fehler. Der Dummkopf wiederholt seine Fehler. Der Faule und der Feige machen keine Fehler.&quot;</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Es gibt unzählige Möglichkeiten, ein Hardwareentwicklungsprojekt in den Sand zu setzen. Man muss nicht für alle davon selbst verantwortlich sein, um daraus zu lernen. Und nicht alles, was man irgendwo schon mal gehört hat, ist auch wirklich richtig.</abstract>
+<description>Es werden häufig vorkommende, aber auch exotischere und überraschende (potenzielle) Fehlerquellen bei Hardwareentwicklungen aufgezeigt. Besonderer Wert wird auf die &quot;Mythen&quot; gelegt, falsche Fakten, die aber weit verbreitet sind und fast nie genauer hinterfragt werden.
+</description>
+<persons>
+<person id='2967'>luky</person>
+</persons>
+<links>
+</links>
+</event>
 </room>
 </day>
 <day date='2015-08-15' end='2015-08-16T02:00:00+02:00' index='3' start='2015-08-15T10:30:00+02:00'>
@@ -920,6 +973,61 @@ Mitch Altman has visited about 250 hackerspaces worldwide, where he has gained c
 A workshop will take place immediately following this talk to deep-dive into the topic and for many of us to share our collective experience for the benefit of all.</description>
 <persons>
 <person id='1395'>Mitch</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='51565c6b-399f-4cf7-9d74-7ffd5d14f7af' id='6823'>
+<date>2015-08-15T11:15:00+02:00</date>
+<start>11:15</start>
+<duration>00:30</duration>
+<room>A</room>
+<slug>camp2015-6823-building_your_first_combat_robot</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Building your First Combat Robot</title>
+<subtitle>Nothing shows pride like letting others destroy what you’ve built!</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>A guide to selecting parts for your first combat robot.</abstract>
+<description>Designing your first (or second) combat robot is hard! You want to add everything, powerful weapons, invincible armour, you want it to be the fastest thing in the arena BUT there is a weight limit! This talk will cover ways of designing to this weight limit. It will get you thinking about mobility, weapon, armour and chassis. By the end you will be able to design a better robot for your first match!</description>
+<persons>
+<person id='5420'>Pinski1</person>
+</persons>
+<links>
+<link href='http://wiresandbits.co.uk/'>Wires and Bits</link>
+<link href='http://www.fightingrobots.co.uk/'>Fighting Robot Association UK</link>
+<link href='http://sparc.tools/'>SPARC Forum</link>
+<link href='http://robowars.org/forum/'>RoboWars Australia Forum</link>
+</links>
+</event>
+<event guid='9d7e656f-eb6d-4355-9d26-8bcf797e6681' id='6676'>
+<date>2015-08-15T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>A</room>
+<slug>camp2015-6676-digital_musical_instruments</slug>
+<recording>
+<license>https://creativecommons.org/licenses/by-sa/2.5/</license>
+<optout>false</optout>
+</recording>
+<title>Digital Musical Instruments</title>
+<subtitle>Evolution and design of new interfaces for musical expression</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Musical instrument designers have always brought together cutting-edge technology and a thorough understanding of ergonomics and interfaces tailored to the needs of musicians. This talk will present an introduction on the evolution of novel musical instruments and the most important design considerations.</abstract>
+<description>Musical instruments like the piano have been invented centuries ago, and have since been refined to perfection. 
+With the design of novel Digital Musical Instruments (DMIs, mainly consisting of an interface, a parameter mapping and a sound synthesis unit), we are measured and compared to these achievements of human craft and culture. 
+Wright and Wessel published an often cited ideal, stating that the perfect DMI should have a &quot;low entry fee&quot; and &quot;no ceiling on virtuosity&quot;. I will present several design considerations that can help achieve this. Although tailored to musical instruments, these principles are easily applied to any interaction design.
+Furthermore, I will give a non-exclusive tour of interesting achievements in DMI design of the 20th and 21st century.
+
+</description>
+<persons>
+<person id='5470'>Julian Vogels</person>
 </persons>
 <links>
 </links>
@@ -1295,6 +1403,63 @@ enforce and defend our liberties&quot; Eduard Snowden has ask us for?</descripti
 <links>
 </links>
 </event>
+<event guid='8e851e7a-d9d1-4074-a802-4e9d7a297a6a' id='6688'>
+<date>2015-08-15T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>B</room>
+<slug>camp2015-6688-a_practical_prototyping_primer</slug>
+<recording>
+<license>CC Share-and-share-alike</license>
+<optout>false</optout>
+</recording>
+<title>A practical prototyping primer</title>
+<subtitle>A rather unstructured selection of things I wished I knew 10 years ago.</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This will be a rapid-fire, tips-and-tricks lecture on practical prototyping.
+It will cover a series of practical tips, strategies &amp; techniques, illustrated with all the mistakes I made over the past 10 years designing &amp; building stuff.  
+The lecture  is intended for a non-specialized audience with a basic understanding of what a lasercutter, a 3D-printer and a milling machine does.</abstract>
+<description>Lieven Standaert coördinates Fablab Brussels for the department of Engineering Technology, Vrije Universiteit Brussel. 
+He teaches a hands-on robotics class to 2nd year engineering students.
+
+The talk wil cover:
+
+-different kinds of plastics. Some you can glue, some you can’t. Some you can laser cut, some you can’t.
+ Don’t say plastic, say PVC.
+
+-glues, do’s and don’t-s. Sometimes glue is great, often it sucks. 
+
+-safety equipment; good gloves and stuff. It costs money. It’s worth it.
+
+-What do you want in your toolbox if you are just starting out?
+ When do you buy the cheap Chinese stuff and where do you invest in more high-quality tools?
+
+-my favorite tools
+
+-metals, do’s and don’t –s . Welding vs bolting. 
+
+-types of bolts and nuts
+
+-prototyping and manufacturing techniques and strategies: 2d-metalwork, vacuum forming, design for assembly,…
+
+-design for 3D-printing
+
+I intend to develop this lecture into an introduction for my new students next October, who are just beginning to use the fablab machinery &amp; tools.
+
+I intend to develop this lecture into an introduction for my new students next October, who are just beginning to use the fablab machinery &amp; tools. So if you are an experienced builder some of this stuff might be too basic for you. 
+On the other hand I intend to give the kind of talk I enjoy watching myself.
+
+
+</description>
+<persons>
+<person id='5484'>Lieven Standaert</person>
+</persons>
+<links>
+<link href='www.fablab-brussels.be'>Fablab Brussels</link>
+</links>
+</event>
 <event guid='3c34f3a5-8bd7-4e48-815f-a7aedab83869' id='6912'>
 <date>2015-08-15T20:00:00+02:00</date>
 <start>20:00</start>
@@ -1391,6 +1556,29 @@ Die Aufgabe und Herausforderung für uns Improbanden ist es, die Mitspieler fast
 <persons>
 <person id='5578'>Felix Müller</person>
 <person id='5723'>Mirko 'macro' Fichtner</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='c1f34fda-54f2-407c-b68c-44dafc820282' id='6973'>
+<date>2015-08-16T17:15:00+02:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6973-a_hackers_approach_to_building_electric_guitars</slug>
+<recording>
+<license>CC BY-NC</license>
+<optout>false</optout>
+</recording>
+<title>A Hackers Approach To Building Electric Guitars</title>
+<subtitle>Let's do everything except the pots by ourselves</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Let's build a Bass Guitar! Let's not buy hardware and instead learn about metal working and how to program a CNC. Let's not recreate a design but start from scratch. Let's ... do everything ourselves except the potentiometers.</abstract>
+<description></description>
+<persons>
+<person id='5430'>couchsofa</person>
 </persons>
 <links>
 </links>
@@ -1728,6 +1916,29 @@ As a demonstration fallowing project can be run by the Experimental Fermentation
 <links>
 <link href='http://frantisekapfelbeck.org/doku.php?id=chihiro'>Experimental Fermentation Center</link>
 <link href='https://events.ccc.de/camp/2015/wiki/Projects:Fhb_probiotic_drinks_everywhere'>Probiotic Drinks Everywhere</link>
+</links>
+</event>
+<event guid='b0be37e7-88fd-4f5c-bbd1-14b7e5f9a78d' id='6798'>
+<date>2015-08-16T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>B</room>
+<slug>camp2015-6798-fueling_the_revolution</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Fueling the Revolution</title>
+<subtitle>Personal production of bio-fuels</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Bio-fuels from waste can be part of the solution to stabilize climate change, but inaction by governments and industry means such fuels are not readily available. This talk will outline work being done to solve this problem at a personal level, by producing open source designs for equipment for local production of bio-fuels.</abstract>
+<description>Bio-fuels are better for the environment and a key way we could be reducing CO2 emissions. However in many countries bio-fuels are not available at gas stations. It is also a little known fact that all modern gasoline cars can run on bio-ethanol without issues, and all diesel cars can run on bio-diesel. While manufacturers do not optimize their cars for bio-fuels, it is a fairly straightforward process to do this by tuning the cars ECU (Electronic Control Unit). To solve this problem of a lack of bio-fuels production in the developing world (and even in many western nations also!), a group of technologists in Costa Rica are working on open source designs for personal bio-fuels production equipment. These designs aim to be cheap and simple to construct, and use various forms of bio-waste as the primary input to produce the fuels. In this talk I will discuss the global context and outline the project's goals. I will take the audience through the various processes required in the production of bio-fuels, and I will discuss the project's progress in designing and prototyping very small scale bio-fuels production equipment.</description>
+<persons>
+<person id='5566'>Gustaf Bjorksten</person>
+</persons>
+<links>
 </links>
 </event>
 <event guid='bd4515b7-fdcf-4d9b-8fc8-0ec47f5c8a80' id='6730'>
