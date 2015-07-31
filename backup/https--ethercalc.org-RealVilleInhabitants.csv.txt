@@ -20,7 +20,7 @@ equinox,"2015-08-11, afternoon/evening","2015-08-18, afternoon/evening","r3 conv
 "Julian R","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Christian M",42227,,plane,,ext
 "Christoph / Stratos","with xro in car",,car,,?
-,,,,,
+Ernst?,,,,,
 ,,,,,
 ,,,,,
 ,,,,,
