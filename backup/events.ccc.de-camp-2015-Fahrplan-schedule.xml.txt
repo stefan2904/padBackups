@@ -35,6 +35,57 @@
 <links>
 </links>
 </event>
+<event guid='f5e3e4d3-884c-453e-bd44-6d0a524313ea' id='6721'>
+<date>2015-08-13T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>A</room>
+<slug>camp2015-6721-backdooring_git</slug>
+<recording>
+<license>Indifferent</license>
+<optout>false</optout>
+</recording>
+<title>Backdooring Git</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Join us for a fun-filled tour of source control management and services to talk about how to backdoor software.  We will focus on one of the most popular, trendy SCM tools and related services out there – Git.  Nothing is sacred.  Along the way, we will expose the risks and liabilities one is exposed to by faulty usage and deployments.  When we are finished, you will be able to use the same tools and techniques to protect or backdoor popular open source projects or your hobby project.</abstract>
+<description></description>
+<persons>
+<person id='5529'>John Menerick</person>
+</persons>
+<links>
+<link href='https://www.securesql.info'>Website</link>
+<link href='https://github.com/lordappsec'>GitHub</link>
+</links>
+</event>
+<event guid='97cbc2a0-7d63-4d54-9ff6-fb1b8ed30380' id='6657'>
+<date>2015-08-13T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6657-how_to_make_your_software_build_reproducibly</slug>
+<recording>
+<license>CC BY-SA 4.0</license>
+<optout>false</optout>
+</recording>
+<title>How to make your software build reproducibly</title>
+<subtitle>Get a verifiable path from source to binary</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Auditing source code is not enough when build tools are themselves a target. When software can be built reproducibly, anyone is enabled to verify that binaries have actually been made from the source code they claim to be made from. The lecture will present several tricks learned while trying to make Debian — the largest collection of free software — build reproducibly.</abstract>
+<description>Free software gives us the possibility to verify its behavior by looking at the source code. However, what we use most often are distributed binaries. How can we make sure they have actually been made from the source code they claim to be made from? When builds are “deterministic” or “reproducible”, anyone can recreate a byte-for-byte identical result, preventing hard to detect compromises.
+
+Reproducible builds require a way to record and recreate the build environment, and then build processes themselves need to be made deterministic. An effort to make Debian packages build reproducibly has been on-going for the past two years. Several lessons were learned from these experiments that will be shared with the audience.</description>
+<persons>
+<person id='5439'>Lunar</person>
+</persons>
+<links>
+<link href='https://wiki.debian.org/ReproducibleBuilds'>Debian Reproducible Builds effort</link>
+</links>
+</event>
 <event guid='c131b08d-e1be-4658-b98a-a223bc746784' id='6987'>
 <date>2015-08-13T17:15:00+02:00</date>
 <start>17:15</start>
@@ -54,6 +105,29 @@
 <description></description>
 <persons>
 <person id='5739'>Ralph Caspers</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='2e6e3f84-3f82-4e72-981e-fd90e23d8112' id='6779'>
+<date>2015-08-13T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6779-bugged_files</slug>
+<recording>
+<license>GPL, any version is OK</license>
+<optout>false</optout>
+</recording>
+<title>Bugged Files</title>
+<subtitle>Is Your Document Telling on You?</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Certain file formats, like Microsoft Word and PDF, are known to have features that allow for outbound requests to be made when the file opens. Other file formats allow for similar interactions but are not well-known for allowing such functionality. In this talk, we explore various file formats and their ability to make outbound requests, as well as what that means from a security and privacy perspective. Most interestingly, these techniques are not built on mistakes, but intentional design decisions, meaning that they will not be fixed as bugs. From data loss prevention to de-anonymization to request forgery to NTLM credential capture, this presentation will explore what it means to have files that communicate to various endpoints when opened.</abstract>
+<description></description>
+<persons>
+<person id='5579'>Daniel &quot;unicornFurnace&quot; Crowley</person>
 </persons>
 <links>
 </links>
@@ -91,6 +165,117 @@ In einer chronologischen Auflistung der Ereignisse der letzten zwei Dekaden brin
 <link href='c-base.org'>c-base</link>
 </links>
 </event>
+<event guid='f76a7853-6dfa-4294-81b6-1b37a9632b67' id='6733'>
+<date>2015-08-13T17:15:00+02:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>B</room>
+<slug>camp2015-6733-privacy_badger</slug>
+<recording>
+<license>CC 0</license>
+<optout>false</optout>
+</recording>
+<title>Privacy Badger</title>
+<subtitle>Stop being tracked online</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk EFF Technologist Noah Swartz will present Privacy Badger, EFF's new browser extension that automatically blocks both invisible trackers and spying ads. It is intended to be a minimal or zero-configuration option that most Internet users can use to prevent non-consensual third party collection of their reading habits from their everyday browser. Privacy Badger couples the recently developed HTTP Do Not Track opt-out header with a number of heuristics for classifying the behavior of third parties, to automatically determine which should be blocked, which are needed but should have cookies blocked, and which are safe from a privacy perspective. They will also talk about the current state of non-consensual tracking on the web, what methods are currently being used to track people and exploring what alternatives we can pursue.</abstract>
+<description>In this presentation we will address the state of online tracking. We will discuss the prevalence of tracking online, describe who is participating in it, explain the adverse effects for common web users, and then discuss what can be done to protect yourself from being tracked.
+
+Websites have long ceased to be simple static html pages, and are now made up of many different resources distributed across the web. Over the course of a day of browsing the web, even if the number of sites we visit is small, we often broadcast information about the sites we go to to hundreds of third parties. These third parties have the ability to aggregate information about our browsing across many first party domains, enabling them to track what we read on the web. To many Internet users these third parties are invisible, and just as invisible are the ways in which they can uniquely identify you as you browse. As these forms of tracking become more ubiquitous and as data resellers grow in prevelance users need to have ways to protect themselves and their privacy.
+
+In this talk we will cover the technical details of how third parties determine your identity on the web, and how they aggregate that information across websites. We will talk about the implications this has for web users' privacy and security. Additionally we will talk about the legal and policy work that has been done to rein in this sort of tracking. Finally we will discuss the Privacy Badger project, and how it protects users as they browse the web.
+
+The talk will cover the following issues in detail:
+Ways in which advertising companies track users, how spy agencies and other bad actors piggyback on this info, and how to stop them.
+Specifically IP addresses, 'tracking' cookies, super cookies, and browser fingerprinting.
+How you can protect yourself from these forms of data collection and how Privacy Badger works.
+Why other kinds of privacy plug-ins and features fail to protect users from tracking
+Ways that the EFF is working to rein in browsing tracking through law and policy.
+
+After this talk you will be informed about the types of tracking that occur online and feel empowered to do something to protect yourself from it. You will know how to follow future issues and understand current efforts to protect users and shape law.
+</description>
+<persons>
+<person id='5536'>Noah Swartz</person>
+<person id='4910'>Cooper Quintin</person>
+</persons>
+<links>
+<link href='https://www.eff.org/privacybadger'>Privacy Badger</link>
+</links>
+</event>
+<event guid='a26b9be9-36ce-4a7f-9baa-4612251615c5' id='6715'>
+<date>2015-08-13T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>B</room>
+<slug>camp2015-6715-organize_you_own_capture_the_flag_competition</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Organize you own capture the flag competition</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>We like to share our expirience of how you can organize your own CTF. Show you the stepstones and hopfully motivate some of you to make your own CTF. </abstract>
+<description>* what the hack are CTFs?
+Why organizing it by your self?
+* chellange based CTF
+** infrasructur
+** chellanges
+** real time Support
+* serverbased CTF
+** infrasructur 
+** services
+** vuln box
+** gameserver
+* deciding what to do
+* Q&amp;A</description>
+<persons>
+<person id='3966'>floatec [squareroots]</person>
+</persons>
+<links>
+<link href='http://squareroots.de'>Squareroots</link>
+</links>
+</event>
+<event guid='f83350dc-8152-422c-921f-379b018c0fa2' id='6738'>
+<date>2015-08-13T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>B</room>
+<slug>camp2015-6738-freifunk_in_tv-whitespace</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Freifunk in TV-Whitespace</title>
+<subtitle>More frequency spectrum with better propagation properties for WiFi mesh networking</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>WLAN and mesh networking in the UHF band: More frequency spectrum with greater range for better and cheaper broadband access for everyone. The digital dividend through the digitization of terrestrial TV offers an important opportunity for better coverage and more bandwidth for all. Unfortunately, the UHF-TV spectrum is being auctioned off to the big telecommunications companies. As a result, broadband usage remains expensive. The UHF-band mesh network of the &quot;Freifunk&quot; open wireless radio networks community in Berlin is a first step in a different direction.</abstract>
+<description>Serious media use does not work without WiFi or LAN cable and also free and open wireless community infrastructure like Freifunk would be hardly conceivable without WLAN. 3G and 4G is good in between WiFi and LAN access just for frugal internet use.
+
+The 2.4 GHz wireless frequency band is a big mess. Here, the WLAN users are crammed into only four non-overlapping WiFi channels¹. In order to increase the chaos yet there's also remote-controlled toys, Bluetooth, wireless audio and video transmission systems, surveillance cameras, microwave ovens. Many of theses applications are transmitting uncoordinated. Scoffers refer to the 2.4 GHz band for its modest properties as 'junk band' - and yet it has become an important resource in our infrastructure, if not the most important resource alongside WLAN in the 5 GHz band. The 5 GHz WLAN frequency band offers more space, but because of even more pronounced quasi-optical properties, the range for local broadband coverage is even lower and soon also LTE networks are allowed to use this resource. (And LTE is going to share the spectrum in an unfair manner because of differences in the protocol, but that is a different subject.)
+
+There are ways to improve the digital broadband coverage: Due to the switch of terrestrial analog TV to DVB-T, now a major part of the UHF TV frequency spectrum is unused - the digital dividend. This frequency range has substantially better properties than the radio channels at 2.4 GHz and 5 GHz: objects such as trees and shrubs attenuate the signal much less. It is much easier to provide a broad range WLAN coverage in that part of the frequency spectrum.
+
+Much of the TV band is soon to be auctioned to the telco industry or has already been auctioned. We always hear from politicians that the public purse has benefited enormously from the revenues from spectrum auctions. This warm rain for the Treasury is going to be financed by us, the Internet users and Telco customers, by the extra expense for broadband usage that we are spending. In effect, such spectrum auctions are a hidden tax for wireless broadband access.
+
+But there might be a better way: A dedicated part of the currently unused TV channels could also be dedicated to unlicensed, digital broadband operation with WiFi. Everyone involved would benefit - the mobile operators, because the large telecommunications companies are already using unlicensed Wi-Fi to do &quot;mobile offloading&quot;: Your DSL-WiFi router at home might already provide a commercial hotspot for the telecommunications company you are renting the DSL line from, in order to serve broadband to their customers on the street in front of your flat. The resulting cost savings for the large telcos are estimated to be over 80 billion in 2015.
+
+The session presents the TV-Whitespace hardware project, which has been developed by Freifunk, its background and goals.
+
+(¹ These are the channels 1, 5, 9, 13: The frequency channels between them should not be used it, as they interfere with the adjacent wireless channels and the channel access between different wireless networks can not be coordinated effectively.)</description>
+<persons>
+<person id='1281'>Elektra</person>
+</persons>
+<links>
+<link href='http://wiki.freifunk.net/MABB:TVWS'>Freifunk im TV-Whitespace</link>
+</links>
+</event>
 <event guid='eab5b0db-c441-4f14-89eb-939585061555' id='6857'>
 <date>2015-08-13T20:00:00+02:00</date>
 <start>20:00</start>
@@ -115,6 +300,41 @@ Hier gibt es einen Überblick darüber, wie ein Untersuchungsausschuss funktioni
 </persons>
 <links>
 <link href='http://www.bundestag.de/bundestag/ausschuesse18/ua/1untersuchungsausschuss'>Bundestag: 1. Untersuchungsausschuss</link>
+</links>
+</event>
+<event guid='61faba33-5bfa-4c58-a864-d527c6f31b7d' id='6703'>
+<date>2015-08-13T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>B</room>
+<slug>camp2015-6703-3d_printing_high-quality_low-cost_free_medical_hardware</slug>
+<recording>
+<license>CC-By-SA</license>
+<optout>false</optout>
+</recording>
+<title>3D Printing High-Quality Low-Cost Free Medical Hardware</title>
+<subtitle>Making medical devices accessible and hackable for all</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Despite the dramatic falls in costs of production, medical devices have remained prohibitively expensive for all but the richest countries and physicians. Using 3D printing, rapid prototyping and Free hardware licenses, we have been developing and releasing off-patent medical devices that perform as well as the gold standard for a fraction of the cost. In this lecture, we discuss the history and scope of the problem, our progress to date and how attendees can participate and make their own medical devices.</abstract>
+<description>&lt;p&gt;Most commonly used medical devices and supplies are simple to manufacture and have been around for decades or centuries. Despite this, they remain expensive and therefore out of reach for health care providers and hospitals in the developing world and even poorer health centres in the developed world.&lt;/p&gt;
+
+&lt;p&gt;Advances in rapid prototyping such as 3D printing and Free hardware licenses have recently allowed the local production of high quality medical hardware and devices for a fraction of the cost of proprietary alternatives. Through an organization we have named &lt;a href=&quot;http://glia.org&quot;&gt;Glia&lt;/a&gt;, we are focusing on three key aspects:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The research, development and validation of medical devices such as a &lt;a href=&quot;https://github.com/GliaX/Stethoscope&quot;&gt;stethoscope&lt;/a&gt;, &lt;a href=&quot;https://github.com/GliaX/pulseox&quot;&gt;pulse oximeter&lt;/a&gt;, &lt;a href=&quot;https://github.com/GliaX/ecg&quot;&gt;electrocardiogram&lt;/a&gt; and &lt;a href=&quot;https://github.com/GliaX/SurgicalTools&quot;&gt;surgical tools&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The dissemination of plans, BOMs, and validation protocols for these devices&lt;/li&gt;
+&lt;li&gt;The training of ministries of health and hospitals to roll out domestic programs to further develop and manufacture these devices and others&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In this lecture, specific examples will be highlighted of countries where medical needs can be met using this approach. Also, the devices and some details of their development will be discussed to enhance understanding of the process for others who wish to use it. Lastly, attendees will be given information on how to participate and collaborate in making their own devices or new devices.&lt;/p&gt;</description>
+<persons>
+<person id='5506'>Tarek Loubani</person>
+</persons>
+<links>
+<link href='https'>Glia github repository</link>
+<link href='https://github.com/GliaX'>Glia github repository</link>
 </links>
 </event>
 </room>
@@ -180,10 +400,46 @@ This talk will cover some of the highlights and history of &quot;the galaxy's bi
 <links>
 </links>
 </event>
+<event guid='cf32c6aa-4a0b-41dd-8103-45575f628913' id='6689'>
+<date>2015-08-14T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>A</room>
+<slug>camp2015-6689-keys_where_we_re_going_we_don_t_need_keys</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>true</optout>
+</recording>
+<title>Keys ? Where we're going we don't need keys.</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Smartlocks are the new way of securing doors by replacing the old mechanical locks by new high-tech and
+connected locks, able to communicate with other smart devices such as smartphones
+and computers. Vendors argue that &quot;key dematerialization&quot; is the future of keys,
+where anybody would be able to give, control and revoke keys for one or multiple
+locks by using his smartphone. No more physical keys needed for a better control, or not.</abstract>
+<description>We'll go through the challenges of key dematerialization in the actual
+world, from technical challenges to real world implementations ... and failures.
+
+Widespread smartlocks are not so smart, and developers often fail at
+correctly implementing cryptographic algorithms (especially when the smartlock is
+advertised as using a strong AES-256 implementation), and of course security by obscurity is
+still used and broken when dealing with critical embedded systems.
+
+During this talk, we're going to demonstrate some real world attacks on one of these
+smartlocks, from information leaks to &quot;wireless lockpicking&quot; through fuzzing.</description>
+<persons>
+<person id='3708'>d.cauquil</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='439d64b1-b08b-4313-87f9-c469211d4206' id='6762'>
 <date>2015-08-14T16:00:00+02:00</date>
 <start>16:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>A</room>
 <slug>camp2015-6762-politische_losungen_fur_technische_probleme</slug>
 <recording>
@@ -195,16 +451,15 @@ This talk will cover some of the highlights and history of &quot;the galaxy's bi
 <track>Ethics, Society &amp; Politics</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Seit Edward Snowden ist IT-Sicherheit nicht mehr nur ein Thema für Konzerne und Verschwörungstheoretiker.
-Sie ist in den Fokus des allgemeinen Interesses geraten.
-Nicht nur die Marketing-Armeen deutscher und europäischer Unternhmen, sondern auch Politik und Parteien wollen nun schnelles Kapital aus dem Thema schlagen.</abstract>
+<abstract>Seit Edward Snowden ist IT-Sicherheit nicht mehr nur ein Thema für Konzerne und Verschwörungstheoretiker. Sie ist in den Fokus des allgemeinen Interesses geraten. Nicht nur die Marketing-Armeen deutscher und europäischer Unternehmen, sondern auch Politik und Parteien wollen nun schnelles Kapital aus dem Thema schlagen.</abstract>
 <description></description>
 <persons>
 <person id='3995'>Linus Neumann</person>
+<person id='3901'>Thorsten Schröder</person>
 </persons>
 <links>
-<link href='http://ccc.de/system/uploads/149/original/StellungnahmeDigitaleAgenda.pdf'>CCC Stellungnahme: Effektive IT-Sicherheit fördern</link>
-<link href='http://ccc.de/system/uploads/186/original/ITSG_Stellungnahme.pdf'>CCC Stellungnahme: Gesetz zur Erhöhung der Sicherheit informationstechnischer Systeme (IT-Sicherheitsgesetz)</link>
+<link href='http://ccc.de/system/uploads/149/original/StellungnahmeDigitaleAgenda.pdf'>CCC-Stellungnahme (pdf): Effektive IT-Sicherheit fördern</link>
+<link href='http://ccc.de/system/uploads/186/original/ITSG_Stellungnahme.pdf'>CCC-Stellungnahme (pdf): Gesetz zur Erhöhung der Sicherheit informationstechnischer Systeme (IT-Sicherheitsgesetz)</link>
 </links>
 </event>
 <event guid='f1e0faf3-f906-4abc-8218-9f42e10f8a1c' id='6889'>
@@ -272,6 +527,35 @@ In this talk, Gus will discuss her experience doing usability work with develope
 <person id='5545'>Gus Andrews</person>
 </persons>
 <links>
+</links>
+</event>
+<event guid='feefa25c-12e5-4178-9c27-dbcf2afd905a' id='6938'>
+<date>2015-08-14T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>A</room>
+<slug>camp2015-6938-locking_the_web_open_call_for_a_distributed_web</slug>
+<recording>
+<license>public domain</license>
+<optout>false</optout>
+</recording>
+<title>Locking the Web Open: Call for a Distributed Web</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Locking the Net Open: Transforming the Web into a truly distributed system that’s all fun, secure and reliable.    Using Javascript, peer-to-peer tech, bitcoin and blockchain, we can build on top of the current web to build a system that protects reader privacy, is reliable against hardware outages and censorship and stays fun.</abstract>
+<description>
+Micro version of the talk:   http://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/
+
+20 years after the World Wide Web was created, can we now make it better?  How can we ensure that our most important values: privacy, free speech, and open access to knowledge are enshrined in the code itself?  In a provocative call to action, entrepreneur and Open Internet advocate, Brewster Kahle, challenges us to build a better, decentralized Web based on new distributed technologies.  He lays out a path to creating a new Web that is reliable, private, but still fun—in order to lock the Web open for good.
+
+</description>
+<persons>
+<person id='5653'>Brewster Kahle</person>
+</persons>
+<links>
+<link href='http://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/'>Shortform version of the talk</link>
 </links>
 </event>
 <event guid='2b4f6479-8241-4ede-b025-328d476c52ba' id='6795'>
@@ -375,6 +659,34 @@ Some questions that we would like to see frame the discussion are:
 </event>
 </room>
 <room name='B'>
+<event guid='0da613d0-7df1-481f-b612-25eacadae773' id='6765'>
+<date>2015-08-14T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:30</duration>
+<room>B</room>
+<slug>camp2015-6765-understanding_open_proxies</slug>
+<recording>
+<license>https://creativecommons.org/licenses/by/4.0/</license>
+<optout>false</optout>
+</recording>
+<title>Understanding Open Proxies</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Proxies have been around for a while now, but remain poorly understood. I'll share some data on how they are used, what they are used for, and who uses them. To understand open proxies, I've scanned the Internet to track their prevalence, and monitored public statistics interfaces to understand the machines hosting them.  ~220 TB of traffic flows through open proxies each day, making them one of the largest overlay networks in existence - especially since most operators appear to be running them unintentionally.</abstract>
+<description>This work is meant to convey some understanding about what's going on with open proxies. These proxies are ubiquitous, but unfortunately not particularly secure. In that capacity, they provide a rare glimpse at what the usage patterns of other indirection systems look like, so that we can learn from their mistakes.
+
+This work began by monitoring open proxy aggregators to understand the churn and distribution of proxies. We contacted operators in several countries to understand their intentions in running these services, and ended up helping them fix their configurations.
+
+We also monitored the public statistics interfaces provided by squid and polipo proxies, and used them to record a sample workload experienced by open proxies. From this, we are able to understand the distribution of client locations, characterize the size and cache-ability of requests, and pull out high-level observations on the use of automated versus manual traffic.</description>
+<persons>
+<person id='4821'>Will Scott</person>
+</persons>
+<links>
+<link href='http://netlab.cs.washington.edu/squid/'>Paper</link>
+</links>
+</event>
 <event guid='bb5f6994-e54c-4a78-a1a8-571477c000b1' id='6702'>
 <date>2015-08-14T11:15:00+02:00</date>
 <start>11:15</start>
@@ -453,6 +765,31 @@ But what about the quality of human interaction? How can we build a culture of b
 <links>
 </links>
 </event>
+<event guid='87c715bf-c6a7-4ec6-87fc-84f4d04e01b6' id='6959'>
+<date>2015-08-14T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>B</room>
+<slug>camp2015-6959-basics_of_hydroponics</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Basics of hydroponics</title>
+<subtitle>A need to know on soilless growing before building, digitalising and connecting</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Hydroponics on a need to know basis for the ones who aim to build their _first_ system. This is what you need to know on the green side of hydroponics, to then make it digital, connected and even more automatic. </abstract>
+<description>How do plants really work, what are the foundations of growth, seed-setting and general wellbeing plants. What different types of soil-less systems are there, and how do they work. These are things you need to know to be successful when you build your first hydroponic system. 
+
+I will give you a crash course in the above and I will show and tell some materials you can use in your first build.</description>
+<persons>
+<person id='1571'>hjartat</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='e9d2a3dd-7d47-4f6a-9475-2961e584037e' id='6642'>
 <date>2015-08-14T19:15:00+02:00</date>
 <start>19:15</start>
@@ -527,6 +864,33 @@ Concluding the talk we discuss standard techniques to mitigate side-channel atta
 <links>
 </links>
 </event>
+<event guid='54159b05-db61-4055-b2ae-f4a16559ccfe' id='6634'>
+<date>2015-08-14T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>B</room>
+<slug>camp2015-6634-pushing_the_limits_of_diy_electronics</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Pushing the limits of DIY electronics</title>
+<subtitle>Bridging the gap between DIY and professional electronics</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>DIY electronics often means Arduinos and breadboards. But you can do so much more. Things like BGA soldering, DDRx-RAM, HDMI and PCI Express. This talk will show you how.</abstract>
+<description>A while ago I built a custom FPGA-board. It was fine but, I decided I also want some RAM. So why not DDR2? That also meant BGA chips. Things escalated quickly and I ended up with a 384-balls FPGA, BGA-RAM and whatnot.
+Because I didn't have access to expensive software I hacked together quite a bunch of Lua scripts for analyzing and modifying Eagle XML boardfiles. I had the PCB made using a reasonably priced 6-layer pool process. For reflow soldering I got a cheap oven from China. Unfortunately it burned my dummy test-PCBs, so I had to reverse-engineer the firmware and write my own. After that I was able to solder the BGAs correctly and surprisingly the RAM did work without any errors at 800MHz.
+It was time for a new challenge, so I tried designing a  board with PCI Express and Serial ATA. This one worked as well.
+The implications are amazing: with some time, software skills and electronics know-how you can use state-of-the art technology in DIY-electronics without spending plenty of money on professional software and equipment.
+In this talk I'll show you how it's done, things you need to consider (like wave impedance, terminations, length matching) and lessons I learnt along the way.</description>
+<persons>
+<person id='5233'>hunz</person>
+</persons>
+<links>
+</links>
+</event>
 </room>
 </day>
 <day date='2015-08-15' end='2015-08-16T02:00:00+02:00' index='3' start='2015-08-15T10:30:00+02:00'>
@@ -556,6 +920,34 @@ Mitch Altman has visited about 250 hackerspaces worldwide, where he has gained c
 A workshop will take place immediately following this talk to deep-dive into the topic and for many of us to share our collective experience for the benefit of all.</description>
 <persons>
 <person id='1395'>Mitch</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='882370ef-642d-43ba-b91d-22e9e87e9a1f' id='6884'>
+<date>2015-08-15T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6884-the_rad1o</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>The rad1o</title>
+<subtitle>Listen to all the things</subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>We will give a introduction on what your badge can do. An overview of the hardware details and software options as well as the history of it's creation.</abstract>
+<description>When arriving at the Camp, you got a shiny electronic badge called rad1o. We will show what went into making it, and what interesting things you can do with it. This talk will cover the inception and creation of this years Camp Badge. From a description of the hardware including differences to the HackRF one, the software concept and extension possibilities to first projects done by attendees.
+
+The Badge contains a full-featured SDR Transciever workable in a Range of about 50-4000 MHz. It is based on a Wimax Transciever which sends I/Q samples in the range of 2.3 to 2.7 GHz to an ARM Cortex M4 CPU. The CPU then can then process them stand alone for various applications (like FM receiveing, Spectrogram display, RF Controlled power plugs, etc.) or send the samples via USB 2.0 to a Computer where they can be processed with the help of GNU Radio.
+The extended frequency range is provided by a mixer that can be inserted into the RF path. For immedeate usage, the board contains a 2.5 GHz chip antenna which can be replaces with an easily soldered Antenna connector for usage in different frequency ranges. The rad1o als contans han LCD and Joystik as known from the r0ket from the last CCCamp.</description>
+<persons>
+<person id='2506'>Sec</person>
+<person id='3701'>RFguy</person>
+<person id='5339'>schneider</person>
 </persons>
 <links>
 </links>
@@ -626,6 +1018,63 @@ For the camp that's as much as  we want to present. In a larger context, the res
 <link href='http://www.cs.toronto.edu/~ilya/pubs/2011/LANG-RNN.pdf'>[2] Hinton</link>
 </links>
 </event>
+<event guid='b17ff452-d735-49b4-b91f-b8f7cd62dad2' id='6813'>
+<date>2015-08-15T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>A</room>
+<slug>camp2015-6813-update_vor_windows10_update_warnung</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Update: Vor Windows10 Update Warnung</title>
+<subtitle>Update (Patch) Debakel</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Microsoft versucht mal wieder, diesmal unter dem Deckmantel sicheren Bootens, den Besitzern die Kontrolle über ihre Persönlichen Computer zu entziehen. Bei der Einführung von Windows 10 eskaliert Microsoft gezielt seinen Machtanspruch und schleift bisher bewusst offengehaltene Wege für alternative Systeme. 
+
+Wir brauchen eine alternative Vertrauensarchitektur
+und zwar schnell.
+</abstract>
+<description>Microsoft versucht mal wieder, diesmal unter dem Deckmantel sicheren
+Bootens, den Besitzern die Kontrolle über ihre Persönlichen Computer zu entziehen. Bei der Einführung von Windows 10 eskaliert Microsoft gezielt seinen Machtanspruch und schleift bisher bewusst offengehaltene Wege für alternative Systeme. Die Folgen für die Entwicklung Freier Software sind dramatisch. Heute noch nutzbare (durch Microsoft jederzeit deaktivierbaren Hilfskonstruktionen) sind technisch und wettbewerbsrechtlich höchst problematisch.
+
+Die weiterhin anhaltenden Sicherheitsdebakel, lassen eine IT Welt, die ausschließlich auf dem guten Willen und die Fähigkeiten von Microsoft baut, Systeme sicher und bootbar zu halten, also höchst problematisch erscheinen. Da tröstet es auch wenig, dass aus Kostengründen kryptographisch problematische und leicht hackbare Sicherheitsbausteine verwendet werden. Wir brauchen eine alternative Vertrauensarchitektur und zwar schnell.
+</description>
+<persons>
+<person id='1545'>ruedi</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='2b3d8f9e-7169-457a-b2db-834282f437f4' id='6785'>
+<date>2015-08-15T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6785-advanced_interconnect_attacks</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Advanced interconnect attacks</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The largest weaknesses of mobile network are well hidden from users: Information exchanged between different mobile networks expose users to fraud and privacy risks.</abstract>
+<description>Of the large interconnect perimeters, only SS7 has received proper scrutiny from the research community thus far. This talk investigates the other interconnect technologies and presents attacks on mobile data connections.
+
+The talk discusses issues of the global data roaming infrastructure and demonstrates attacks ranging from connection hijacking to remote man-in-the-middle.</description>
+<persons>
+<person id='1741'>Karsten Nohl</person>
+<person id='4421'>Luca Melette</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='045e7aa9-5e12-4baf-98b2-e3fd31159851' id='6741'>
 <date>2015-08-15T21:15:00+02:00</date>
 <start>21:15</start>
@@ -688,6 +1137,31 @@ http://www.verfassung-schuetzen.de/</description>
 <links>
 <link href='http://spiedupon.com/'>Spied Upon film project </link>
 <link href='http://blackhelmetproductions.net/'>Black Helmet Productions</link>
+</links>
+</event>
+<event guid='bd046a46-8398-4b6f-b4e3-34f34e6f1ecc' id='6995'>
+<date>2015-08-15T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6995-staatstrojaner_in_karlsruhe</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Staatstrojaner in Karlsruhe</title>
+<subtitle>Anhörung zur verdeckten Infiltration von IT-Systemen</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Im Juli hat sich das Bundesverfassungsgericht mit zwei Verfassungsbeschwerden gegen das BKA-Gesetz von 2008 auseinandergesetzt. Es ging in der mündlichen Anhörung auch wieder um den Einsatz von Staatstrojanern sowie weitere Überwachungsmaßnahmen.</abstract>
+<description>Der CCC ist in der Verhandlung befragt worden und hat eine Stellungnahme zu den technischen Fragen abgegeben. Auch die sog. „Quellen-TKÜ“ wurde erneut diskutiert. Es geht in dem Vortrag um die Knackpunkte in der Anhörung, die sich im Urteil niederschlagen könnten. </description>
+<persons>
+<person id='1630'>Constanze Kurz</person>
+</persons>
+<links>
+<link href='https://www.ccc.de/de/updates/2015/bkag'>Staatstrojaner erneut vor dem Bundesverfassungsgericht</link>
+<link href='https://www.ccc.de/en/updates/2015/bkag'>State Trojan again on trial in Constitutional Court</link>
 </links>
 </event>
 <event guid='d32891ed-c3ec-41b6-a586-234f2c9ce92b' id='7035'>
@@ -775,6 +1249,29 @@ enforce and defend our liberties&quot; Eduard Snowden has ask us for?</descripti
 <links>
 </links>
 </event>
+<event guid='4008e932-ec3e-4112-9367-4f98c304c34b' id='6788'>
+<date>2015-08-15T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>B</room>
+<slug>camp2015-6788-the_good_bad_and_ugly_of_photo_video_metadata</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>The good, bad, and ugly of photo &amp; video metadata</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk we discuss mobile media metadata and explore how popular platforms modify such metadata towards different goals.</abstract>
+<description>Upon taking a picture or video with your mobile device, some metadata is included within the recorded file -- time/date, location, device information, software used. Once you upload that file to a website/server, you have no power over the metadata of the file, and some platforms can use such metadata for analytical purposes, while others modify the metadata which reduces the usefulness of that media for verification purposes. This talk explores some of the tech &amp; implications of different popular platforms metadata practices.</description>
+<persons>
+<person id='5564'>Bashz</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='0db2a162-8c2c-41cb-b027-15a243bede43' id='6863'>
 <date>2015-08-15T16:00:00+02:00</date>
 <start>16:00</start>
@@ -826,6 +1323,29 @@ enforce and defend our liberties&quot; Eduard Snowden has ask us for?</descripti
 </day>
 <day date='2015-08-16' end='2015-08-17T02:00:00+02:00' index='4' start='2015-08-16T10:30:00+02:00'>
 <room name='A'>
+<event guid='afe359da-56c9-4e76-8f56-45ed406494e5' id='6854'>
+<date>2015-08-16T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:30</duration>
+<room>A</room>
+<slug>camp2015-6854-carhacking_state_of_the_art</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Carhacking – state of the art</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This lecture will give an introduction into car hacking by explaining the structure and the different protocols of a modern car. The different attack vectors and their relevance will be given. It is intended as a summary and will set things into perspective. </abstract>
+<description></description>
+<persons>
+<person id='4856'>Thilo Schumann</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='9a28ef84-3ba0-4c12-9f8a-115b30bc3ec0' id='6753'>
 <date>2015-08-16T11:15:00+02:00</date>
 <start>11:15</start>
@@ -873,6 +1393,164 @@ Die Aufgabe und Herausforderung für uns Improbanden ist es, die Mitspieler fast
 <person id='5723'>Mirko 'macro' Fichtner</person>
 </persons>
 <links>
+</links>
+</event>
+<event guid='0e66ac36-d9c6-4900-b532-4f651dd39582' id='6711'>
+<date>2015-08-16T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>A</room>
+<slug>camp2015-6711-hardware_attacks_hacking_chips_on_the_very_cheap</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Hardware attacks: hacking chips on the (very) cheap</title>
+<subtitle>How to retrieve secret keys without going bankrupt</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Hardware attacks are becoming more and more common. Attacks like Power Analysis or Fault Injection are spread and well known nowadays and the recent hacks to gaming consoles or payment systems are a proof of it.
+Despite the increasing popularity of these attacks, the cost of the required tools has been unaffordable for most security enthusiasts. Projects like Chipwhisperer have significantly decreased the price of a hardware-hacking setup even below the 1000€ barrier, but it still can be too high for hackers that only wants to experiment for fun. We want to prove that money is not a concern if you want to introduce yourself to hardware hacking. Is it possible to perform side channel analysis or fault injection attacks with only 30 euros?</abstract>
+<description>In our lecture we will introduce the audience to advanced hardware attacks like side channel analysis or fault injection. We will also show how it is possible to perform those attacks using a cheap setup based on a 20€ microcontroller board and some spare hardware parts. Some of the attacks we will show include Voltage and Clock Glitching to modify the application flow control, Differential Fault Analysis to retrieving the RSA keys stored in a microcontroller and Differential Power Analysis to break DES. All these while spending less money than a night of beers!
+
+In addition to the lecture, we will also run a workshop where we will show you more advanced techniques to break into microcontrollers using professional tools. For more information about the workshop check &quot;Hacking hardware like a pro&quot; workshop
+</description>
+<persons>
+<person id='5508'>Ramiro Pareja</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='ba581611-85dc-4e7c-924d-3ca10fe03d48' id='6766'>
+<date>2015-08-16T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>A</room>
+<slug>camp2015-6766-jumping_the_paywall</slug>
+<recording>
+<license>No license at all. anti-copyright/anti-copyleft. </license>
+<optout>false</optout>
+</recording>
+<title>Jumping the Paywall</title>
+<subtitle>How to freely share research without being arrested</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This presentation will identify and address two safety-critical problems permeating research today: lack of total free access to scholarship, and the looming threat of apprehension for trying to facilitate said free access. In other words, this presentation will explore how to procure access to all-too-often restricted content sequestered behind extortionate academic paywalls, and how to then safely freely disseminate said content without being apprehended. </abstract>
+<description>We will hypothesize workable solutions to the stated problem sets by presenting actionable intelligence and investigating tactical modes of engagement in the on-going copyfight  via the exploration of securing free access to scholarship (in the form of academic e-journal articles and e-books), and via developing avoidance strategies to forgo existent and emergent threats of apprehension resulting from participation in the practices of free access.  
+
+Topics covered will include:
+
+--&gt; Content access procurement (how to secure free access to knowledge from a variety of sources)
+--&gt; Operational security during field deployment (how to stay safe when procuring content from physical sources such as libraries)
+--&gt; Content Defanging (how to remove three problematic types of shackles from digital content: content protection, metadata, and watermarking identification and removal)
+--&gt; Content distribution (how to distribute the now-defanged content safely)</description>
+<persons>
+<person id='5570'>Storm Harding</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='a5f996a3-d0a7-44e7-ac1b-6373a297ccf3' id='6848'>
+<date>2015-08-16T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6848-helping_the_helpless</slug>
+<recording>
+<license>Creative Commons</license>
+<optout>false</optout>
+</recording>
+<title>Helping the Helpless</title>
+<subtitle>Targeted threats to civil society</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk we'll go through many examples of targeted surveillance employed by governments all around the world and we'll try to understand the taxonomy and nature of these attacks from a technical and from a political perspective. We'll find that many share common characteristics and that in many cases we have the capacity to identify, track and stop these attacks, often directed against journalists, dissidents and activists in their countries and in exile. With a little good will and coordination, we can all collectively have a concrete impact. Let's start now.</abstract>
+<description>We had a good run for a couple of years. Surveillance was mainstream and hackers' voices were heard. Snowden broke the barrier between the paranoids and the skeptics and amalgamated some consensus that all this surveillance is too much. But let's face it, we hoped for a better outcome. Surveillance bills are being passed in many European countries, the U.S. has taken little action and the United Kingdom is becoming the standard for privacy failures.
+
+Government hacking is on the rise, partially because of the increasing inability to wiretap due to the rise of encryption, but partially also because it has become inexpensive. While mass surveillance is a more obvious breach of human and constitutional rights, targeted surveillance is generally tolerated as a necessary evil. However, what we discovered is that this tolerance has nurtured not only an industry of surveillance, but an indiscriminate adoption of very invasive technologies and their legitimization and exemption from regulated use.
+
+At the same time, while only cypherpunks have picked up the slack and started pushing development of encrypted communication technologies, the rest of the security and tech community has done little in response to the revelations of the last years as well as to the general cry for help. Hyped vulnerabilities, hacking of cars and gadgets is making headlines again, while the global civil society remains under heavy attack and is left helpless.
+
+In this talk we'll go through many examples of targeted surveillance employed by governments all around the world and we'll try to understand the taxonomy and nature of these attacks from a technical and from a political perspective. We'll find that many share common characteristics and that in many cases we have the capacity to identify, track and stop these attacks, often directed against journalists, dissidents and activists in their countries and in exile.
+
+While civil society lacks the expertise and resources to research, understand and contrast these issues, the hacking and security communities exceeds and often drive the focus of their attention to rather unimportant problems. With a little good will and coordination, we can all collectively have a concrete impact, raise the cost of surveillance and make sure that those actually fighting for freedom and democracy around the world have the means to do so securely. Let's start now.
+</description>
+<persons>
+<person id='5602'>Claudio Guarnieri</person>
+</persons>
+<links>
+<link href='https://archive.today/RvIrU'>For Their Eyes Only: The Commercialization of Digital Spying</link>
+<link href='https://archive.today/JqI5j'>The Digital Arms Race: NSA Preps America for Future Battle</link>
+<link href='https://archive.today/ypjHY'>Secret Malware in European Union Attack Linkedin To U.S. and British Intelligence</link>
+<link href='https://archive.today/SfEof'>Hacking Team and the Targeting of Ethiopian Journalists</link>
+<link href='https://archive.today/bkhE5'>Mapping Hacking Team's &quot;Untraceable&quot; Spyware</link>
+<link href='https://www.youtube.com/watch?v=odJNjQCdus8'>Occupy Central and the Supression of Dissent</link>
+</links>
+</event>
+<event guid='cd66723d-23cc-40e7-9b76-f9b38dc576ab' id='6799'>
+<date>2015-08-16T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6799-how_to_destroy_a_laptop_with_top_secrets</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>How to Destroy a Laptop with Top Secrets</title>
+<subtitle>How did GCHQ do it to the Guardian's copy of Snowden's files?</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In the summer of 2013, Guardian employees destroyed computers storing top secret documents from Snowden, on instruction and supervision from GCHQ. With access to the destroyed pieces, we investigated what GCHQ's instructions were and what we can learn from it about securely eradicating data on a machine.</abstract>
+<description>While the initial disclosures by Edward Snowden revealed how US authorities are conducting mass surveillance on the world's communications, further reporting by the Guardian newspaper uncovered that UK intelligence services were just as involved in this global spying apparatus. Faced with the prospect of further public scrutiny and accountability, the UK Government gave the Guardian newspaper an ultimatum: hand over the classified documents or destroy them.
+
+The Guardian decided that having the documents destroyed was the best option. By getting rid of only the documents stored on computers in the UK, it would allow Guardian journalists to continue their work from other locations while acquiescing to the Government's demand. However, rather than trust that the Guardian would destroy the information on their computers to the Government's satisfaction, GCHQ sent two representatives to supervise the operation. Typically, reliable destruction of such hardware in the circumstances would be to shred or melt all electronic components using a much larger version of the common paper shredder and leaving only the dust of the original devices. Indeed, some devices such as external USB sticks were turned to dust.
+
+Alternatively, it might have been expected that GCHQ would solely target the hard drives of the devices in question. The hard drives, after all, are one of the few components of a computer where user data is supposed to be retained after the power to the device is removed.
+
+Surprisingly, however, GCHQ were not just interested in hard drives nor did they destroy whole devices. An examination of the targeted hardware by Privacy International, with cooperation from the Guardian, has found the whole episode to be more troubling and puzzling than previously believed.
+
+During our investigation, we were surprised to learn that a few very specific components on devices, such as the keyboard, trackpad and monitor, were targeted along with apparently trivial chips on the main boards of laptops and desktops. Initial consultation with members of the technology community supported our identification of the components and that the actions of GCHQ were worth analysing further.
+
+In light of GCHQ's actions, we have asked hardware manufacturers to explain what these elements actually do: what information can be stored on a device, how much information it can retain, and for how long.</description>
+<persons>
+<person id='4905'>Mustafa Al-Bassam</person>
+<person id='5750'>Richard Tynan</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='2cce4d76-619d-4f60-b7e9-28e8ee9d6483' id='6833'>
+<date>2015-08-16T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6833-tls_interception_considered_harmful</slug>
+<recording>
+<license>CC0</license>
+<optout>false</optout>
+</recording>
+<title>TLS interception considered harmful</title>
+<subtitle>How Man-in-the-Middle filtering solutions harm the security of HTTPS</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>With the more widespread use of encrypted HTTPS connections many software vendors intercept these connections by installing a certificate into the user's browser. This is widely done by Antivirus applications, parental filter software or ad injection software. This can go horribly wrong, as the examples of Superfish and Privdog have shown. But even if implemented properly these solutions almost always decrease the security of HTTPS.</abstract>
+<description>In February a software called Superfish was detected preinstalled on Lenovo laptops that would intercept HTTPS connections by installing a certificate into the user's browser. This certificate was shared amongst different installations and therefore an extraction of the certificate allowed creating rogue certificates that would be accepted by many Lenovo laptops. Shortly after Superfish many other software products with the same or similar vulnerabilities were found. The speaker of this talk discovered that the software Privdog, advertised by the certificate authority Comodo, had an even worse vulnerability.
+
+Superfish and Privdog were extreme examples, but the technology of intercepting HTTPS connections by installing X.509 root certificates into the browser is widespread. These solutions are often part of software that is supposed to bring more security to the user - like Antivirus applications - but they lower the user's security. For example Kaspersky Antivirus users were still affected by the FREAK vulnerability months after the issue was found and fixed.
+
+The talk will first give an introduction into some problems in the TLS protocol that were found in recent years (BEAST, CRIME, FREAK, CA failures) and show some technologies that were invented to prevent common problems of TLS (e. g. HPKP). After that the speaker will give some examples of TLS interception software and how it endangers the security of the user.</description>
+<persons>
+<person id='2462'>hanno</person>
+</persons>
+<links>
+<link href='https://blog.hboeck.de/archives/869-How-Kaspersky-makes-you-vulnerable-to-the-FREAK-attack-and-other-ways-Antivirus-software-lowers-your-HTTPS-security.html'>How Kaspersky makes you vulnerable to the FREAK attack and other ways Antivirus software lowers your HTTPS security</link>
+<link href='https://blog.hboeck.de/archives/865-Software-Privdog-worse-than-Superfish.html'>Software Privdog worse than Superfish</link>
 </links>
 </event>
 </room>
@@ -1052,6 +1730,42 @@ As a demonstration fallowing project can be run by the Experimental Fermentation
 <link href='https://events.ccc.de/camp/2015/wiki/Projects:Fhb_probiotic_drinks_everywhere'>Probiotic Drinks Everywhere</link>
 </links>
 </event>
+<event guid='bd4515b7-fdcf-4d9b-8fc8-0ec47f5c8a80' id='6730'>
+<date>2015-08-16T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>B</room>
+<slug>camp2015-6730-fpgas_for_everyone</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>FPGAs for everyone</title>
+<subtitle>Integrating FPGAs with standard personal computers</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>FPGAs are becoming more and more common in research and industrial projects. They are mostly used to accelerate problems of High Performance Computing. But standard personal computers can also benefit from them, e.g. with cryptographic accelerators, additional processor cores, hardware for special projects.
+This talk describes possible benefits for FPGAs in General Purpose Computing, and their requirements to the FPGA &lt;-&gt; Host connection and the operating system support.</abstract>
+<description>FPGAs are becoming more and more important in research and industrial projects. Many High Performance Computing systems rely on FPGAs to accelerate computations. Systems using FPGAs in this way are the Convey HC1, Copacobana from SciEngines and PCIe Accelerator Cards from Alpha Data. The main problem with these systems is, that normal Hackers can not afford these systems. But FPGAs allow the acceleration of task often needed by the hacker community, e.g. cryptography accelerators, cryptography/password crackers, bitcoin mining, and analog/digital converters. Therefore, it is very important to bring FPGAs into General Purpose Computing.
+
+The talk is organised in the following way:
+
+     *  a brief presentation of the available High Performance Computing
+        Systems
+     * a description of the benefits of the integration of FPGAs and 
+       standard computer systems
+     * an analysis of the requirements to the FPGA &lt;-&gt; Host
+       connection and the operating system support
+     * description of an example integration using Ethernet, a packet
+       switched Network on Chip and a new linux kernel subsystem
+</description>
+<persons>
+<person id='4218'>byterazor</person>
+</persons>
+<links>
+</links>
+</event>
 </room>
 </day>
 <day date='2015-08-17' end='2015-08-17T19:30:00+02:00' index='5' start='2015-08-17T10:30:00+02:00'>
@@ -1123,6 +1837,34 @@ In practice, there are always problems that crop up when working at the edges of
 <person id='5459'>Dr. Liz George</person>
 </persons>
 <links>
+</links>
+</event>
+<event guid='df27b8d8-cd90-4127-8952-cd4cfe756e38' id='6907'>
+<date>2015-08-17T17:15:00+02:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-6907-let_s_encrypt</slug>
+<recording>
+<license>cc attribution</license>
+<optout>false</optout>
+</recording>
+<title>Let's Encrypt</title>
+<subtitle>A Certificate Authority To Encrypt the Entire Web</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Let's Encrypt is a new free and automated certificate authority, launching in summer 2015.  This talk will explain how Let's Encrypt works, and show you how to use it to automate HTTPS on a range of different Web, mail and other server types.  It will cover obtaining new certificates, renewing them automatically, and enabling various advanced TLS security features.  We also discuss the roadmap to a Web that is HTTPS by default.
+</abstract>
+<description>Let's Encrypt is a new certificate authority that is being launched by a collaboration between EFF, Mozilla, Cisco, Akamai, IdenTrust, and a team at the University of Michigan.  It will issue certificates for free, using a new automated protocol called ACME for verification of domain control and issuance.
+
+This talk will describe the features of the CA and available clients at launch; explore the security challenges inherent in building such a system; and its effect on the security of the CA marketplace as a whole. We will also update our place on the roadmap to a Web that uses HTTPS by default.</description>
+<persons>
+<person id='2822'>pde</person>
+</persons>
+<links>
+<link href='https://letsencrypt.org'>Let's Encrypt</link>
+<link href='https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web'>A Certificate Authority to Encrypt the Entire Web</link>
 </links>
 </event>
 <event guid='3064add4-ab1e-4d05-84b8-d753b9733097' id='6982'>
