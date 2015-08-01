@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>0.9 the temple of love</version>
+<version>1.0 detonation boulevard</version>
 <conference>
 <acronym>camp2015</acronym>
 <title>Chaos Communication Camp 2015</title>
@@ -1065,32 +1065,35 @@ The extended frequency range is provided by a mixer that can be inserted into th
 <start>17:15</start>
 <duration>01:00</duration>
 <room>A</room>
-<slug>camp2015-6801-mier_-_failure_attempt_to_cc_licensed_as_mass_market_consume_good</slug>
+<slug>camp2015-6801-mier_failure_attempt_to_cc_license_as_mass_market_consume_good</slug>
 <recording>
 <license>cc-NC-3.0SA</license>
 <optout>false</optout>
 </recording>
-<title>Mier - failure attempt to CC Licensed as mass market consume good</title>
-<subtitle>a creative drink for the commons</subtitle>
+<title>Mier – failure attempt to CC license as mass market consume good</title>
+<subtitle>A creative drink for the commons</subtitle>
 <track>Failosophy</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>Mier a creative commons Mate Beer that was launched in Berlin in 2012 made some waves as it tried to pave a path reserved only for software.  In this presentation Fabricio, from Meta Mate describes the ideas behind and challenges met in launching a CC NC 3.0SA drink inspired by the commons with mate.</abstract>
-<description>Mier could be considered  a failed attempted where a  CC 
+<abstract>Mier a creative commons Mate Beer that was launched in Berlin in 2012, made some waves as it tried to pave a path reserved only for software. In this presentation Fabricio, from Meta Mate, describes the ideas behind and challenges met in launching a CC NC 3.0SA drink inspired by the commons with mate.</abstract>
+<description>Mier could be considered a failed attempted where a CC 
 open source license could not break through in Germany without 
-extra capital and risks. And the notion of a CC license on a product was completely misunderstood in the mainstream and creative commons circles.  
-As a concept the drink made break throughs, a decentrally produced beer with mate to keep drinkers alert, that could be easily reproduced according to local tastes and supported decentralized production of Mate.  Perhaps this was too much of a threat to the brewing industry, whose 500 year celebration of the German brewing Purity Law, is ensuring that creative hacks in the standard beer recipe remain miminal.
-The topic is kind of cheesy but provides a light edge in a serious theme demonstrating that an art business approach that gets lots of press can fail badly. 
-Mier had some wonderful moments including attention from all of the mainstream press and being presented at EHSM 2011 and as well as being highlighted in a 1337kultur.de podcast. 
-But it has Failed (at least until now).
+extra capital and risks. And the notion of a CC license on a product was completely misunderstood in the mainstream and creative commons circles.
 
-During this event Fabricio will share the history of Mier, the examples of how brewers misunderstood the open source concept behind it and outline the possible future steps including the creation of DIY Mier Brewing kits for the fans.  
-</description>
+As a concept the drink made break throughs, a decentrally produced beer with mate to keep drinkers alert, that could be easily reproduced according to local tastes and supported decentralized production of Mate. Perhaps this was too much of a threat to the brewing industry, whose 500 year celebration of the German brewing Purity Law, is ensuring that creative hacks in the standard beer recipe remain miminal.
+
+The topic is kind of cheesy but provides a light edge in a serious theme demonstrating that an art business approach that gets lots of press can fail badly.
+
+Mier had some wonderful moments including attention from all of the mainstream press and being presented at EHSM 2011 and as well as being highlighted in a 1337kultur.de podcast.
+
+But it has failed (at least until now).
+
+During this event Fabricio will share the history of Mier, the examples of how brewers misunderstood the open source concept behind it and outline the possible future steps including the creation of DIY Mier Brewing kits for the fans.</description>
 <persons>
-<person id='4172'>fabricio@metamate.cc</person>
+<person id='4172'>Fabricio</person>
 </persons>
 <links>
-<link href='mier.metamate.cc'>Mier's Website</link>
+<link href='http://mier.metamate.cc'>Mier’s Website</link>
 </links>
 </event>
 <event guid='b66681b5-d811-4359-a7b4-c97d9acd2877' id='6787'>
@@ -1458,6 +1461,29 @@ On the other hand I intend to give the kind of talk I enjoy watching myself.
 </persons>
 <links>
 <link href='www.fablab-brussels.be'>Fablab Brussels</link>
+</links>
+</event>
+<event guid='dcd095aa-67c7-4db0-8d95-1eea799da466' id='6793'>
+<date>2015-08-15T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>B</room>
+<slug>camp2015-6793-a_torifying_tale</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>A Torifying Tale</title>
+<subtitle>Our experiences of building and running Tor servers</subtitle>
+<track>Failosophy</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In the spirit of “Failosophy” we would like to give a brief talk about the mistakes we made, and lessons we learned, in running Tor bridge, relay, and exit nodes.</abstract>
+<description>In this talk we will highlight some of the challenges we have faced in building performant Tor relays and exit nodes. We have made plenty of mistakes, and learned from most of them. In the spirit of “Failosophy” we would like to share the lessons we learned so that other Tor operators don’t have to make those same mistakes. The talk will cover our experiences with abuse complaint handling, the challenges of measurement for funder reporting, challenges of server optimization, and the often tricky love and hate relationship with hosting providers.</description>
+<persons>
+<person id='5566'>Gustaf Bjorksten</person>
+</persons>
+<links>
 </links>
 </event>
 <event guid='3c34f3a5-8bd7-4e48-815f-a7aedab83869' id='6912'>
