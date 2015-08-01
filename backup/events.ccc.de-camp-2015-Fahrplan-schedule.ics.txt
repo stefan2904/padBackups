@@ -69,6 +69,18 @@ SUMMARY:A practical prototyping primer
 LOCATION:B
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T194500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T191500
+DTSTAMP;VALUE=DATE-TIME:20150731T223136Z
+UID:dcd095aa-67c7-4db0-8d95-1eea799da466@frab.cccv.de
+DESCRIPTION:In the spirit of “Failosophy” we would like to give a brief t
+ alk about the mistakes we made\, and lessons we learned\, in running Tor
+  bridge\, relay\, and exit nodes.
+URL:/camp/2015/Fahrplan/events/6793.html
+SUMMARY:A Torifying Tale
+LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T200000
 DTSTAMP;VALUE=DATE-TIME:20150731T130031Z
@@ -718,15 +730,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T171500
-DTSTAMP;VALUE=DATE-TIME:20150722T161251Z
+DTSTAMP;VALUE=DATE-TIME:20150801T030434Z
 UID:f972cded-d26e-4461-b544-319089708e42@frab.cccv.de
 DESCRIPTION:Mier a creative commons Mate Beer that was launched in Berlin
-  in 2012 made some waves as it tried to pave a path reserved only for so
- ftware.  In this presentation Fabricio\, from Meta Mate describes the id
- eas behind and challenges met in launching a CC NC 3.0SA drink inspired 
- by the commons with mate.
+  in 2012\, made some waves as it tried to pave a path reserved only for 
+ software. In this presentation Fabricio\, from Meta Mate\, describes the
+  ideas behind and challenges met in launching a CC NC 3.0SA drink inspir
+ ed by the commons with mate.
 URL:/camp/2015/Fahrplan/events/6801.html
-SUMMARY:Mier - failure attempt to CC Licensed as mass market consume good
+SUMMARY:Mier – failure attempt to CC license as mass market consume good
 LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
