@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.0 detonation boulevard</version>
+<version>1.1 amphetamine logic</version>
 <conference>
 <acronym>camp2015</acronym>
 <title>Chaos Communication Camp 2015</title>
@@ -128,6 +128,61 @@ Reproducible builds require a way to record and recreate the build environment, 
 <description></description>
 <persons>
 <person id='5579'>Daniel &quot;unicornFurnace&quot; Crowley</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='7dedc312-4c86-4b70-b711-b63f569bca81' id='7041'>
+<date>2015-08-13T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-7041-refugees_emancipation</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Refugees Emancipation</title>
+<subtitle>Bringing Internet access to those who need it most.</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Improving the quality of life of Refugees in Germany by using the Internet as a tool to reduce their isolation, connecting them with each other, with their homelands, and with their local community. </abstract>
+<description>Not withstanding the difficult legal and living conditions of refugees in Germany, they still succeed in intiating and putting into place practical projects to empower and emancipate themselves. 
+
+Refugees Emancipation is a non-profit organisation founded by refugee for refugees. Our goal is to offer access to computers and the Internet.
+
+The project also conducts and maintains a website where refugee issues, advocacy information and personal stories can be published.</description>
+<persons>
+<person id='5753'>Refugees Emancipation</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='76a90ce3-42fc-4273-b1ef-89d08cd21356' id='7040'>
+<date>2015-08-14T00:00:00+02:00</date>
+<start>00:00</start>
+<duration>01:00</duration>
+<room>A</room>
+<slug>camp2015-7040-lnp150</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>LNP150</title>
+<subtitle>Logbuch:Netzpolitik Folge 150</subtitle>
+<track>Other</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Live-Aufzeichnung der 150. Folge des Podcasts Logbuch:Netzpolitik mit mehreren Gästen, Tim Pritlove und Linus Neumann.</abstract>
+<description>Im Neuland tut sich ein Abgrund von Landesverrat auf, die Bundestags-IT wird herunter gefahren, und die Bundeswehr zieht in den Cyberkrieg.
+
+Europa will das das Urheberrecht reformieren und den lang in Gefangenschaft gehaltenen Handel endlich befreien.
+
+Wird Hacking Team zulassen, dass das Netz neutral bleibt?</description>
+<persons>
+<person id='3995'>Linus Neumann</person>
+<person id='1817'>Tim Pritlove</person>
 </persons>
 <links>
 </links>
@@ -392,9 +447,9 @@ In 2012, the world's leading space agency began a program that opened a gateway 
 
 A new wave of administrators and executives in the National Aeronautics and Space Administration (NASA) have made great strides in releasing software and hardware technologies used in their space program, as well as the data and imagery produced by their missions, into the worldwide public domain. One of the most successful efforts on their part is the annually occurring grassroots, volunteer-run, community organized space hacker event known as the International Space Apps Challenge.
 
-In just three short years, this global citizen effort has created decades of work product worth tens of millions of dollars, all geared towards creating free and open solutions to challenges that will improve life on Earth and in space.
+In just three short years, this global citizen effort has created hundreds of open source projects to overcome challenges and improve life on Earth and in space - and NASA continuously collaborates with the grassroots space hacker community in order to further spur open innovation.
 
-New York City has been the &quot;global mainstage&quot; for the International Space Apps Challenge for two years running, hosted by its local chapter of space hackers: Space Apps NYC. At 1200 members and growing, Space Apps NYC is one of the world's premiere space hacker communities. Over 100 open source projects have been created by its members, and in 2015 their locally organized event included NASA's &quot;Women in Data&quot; bootcamp and a conference program of renowned speakers livestreamed worldwide.
+New York City has been the &quot;global mainstage&quot; for the International Space Apps Challenge for two years running, hosted by its local chapter of space hackers: Space Apps NYC. At 1100 members and growing, Space Apps NYC is one of the world's premiere space hacker communities. Over 100 open source projects have been created by its members, and in 2015 their locally organized event included NASA's &quot;Women in Data&quot; bootcamp and a conference program of renowned speakers livestreamed worldwide.
 
 This talk will cover some of the highlights and history of &quot;the galaxy's biggest hackathon&quot;, describe and demonstrate some of the best projects created, and discuss the NASA resources that are made freely available for anyone in the world to use for any purpose.</description>
 <persons>
@@ -460,7 +515,7 @@ still used and broken when dealing with critical embedded systems.
 During this talk, we're going to demonstrate some real world attacks on one of these
 smartlocks, from information leaks to &quot;wireless lockpicking&quot; through fuzzing.</description>
 <persons>
-<person id='3708'>d.cauquil</person>
+<person id='3708'>Damien Cauquil</person>
 </persons>
 <links>
 </links>
