@@ -33,7 +33,7 @@ Equipment
 	* 2 stoves (stern.chen)
 	* 2 gas cans (stern.chen)
 	* a couple of spoons (stern.chen) some spoons and other gear for cooking (obaz)
-	* 1 pot (stern.chen) 1 smaller (but not so small pot) and one smaller (but not so small) pan (obaz)
+	* 1 pot (stern.chen) 1 smaller (but not so small) pot and one smaller (but not so small) pan (obaz)
 	* kitchen knives & cutting boards (gedankenstuecke)
 
 
@@ -70,6 +70,7 @@ Who is arriving when?
 		* ooooo
 		* lore
 		* gedankenstuecke
+		* obaz
 	* 13th (Day 1)
 	* Later than Day 1
 	* 14th (evening)
@@ -120,7 +121,7 @@ Who brings what?
 		* brainwave device
 		* cables
 	* agnez
-		* old cell phone for fairy (sim card needs to be bought)
+		* old cell phone for fairy (sim card needs to be bought) -- this should be done by people in germany -- possibly a sim that is not connected to someone's identity :)
 	
 	
 BOOKS and other reading material:
@@ -178,6 +179,7 @@ WORKSHOP / SESSION SUGGESTIONS:
 	* Queer 101 (will probably be done by people who have experience with queer education in schools)
 	* "How to do queersplaining" meta workshop
 	* Allies workshop
+	* presentation of manual on gender and security -- one workshop on online identity management (obaz, jillian), one workshop on safe spaces (stoopt)
 
 We  entered the Queer Education workshop and a Bi empowerment workshop to  the Wiki, because each has a person organizing and feeling responsible  for them. If some of you want to organize and feel responsible for a  particular workshop, please add it to the "workshops" section below and  either add it to the wiki page, ask somebody to do it, or write to our  mailing list.
 
