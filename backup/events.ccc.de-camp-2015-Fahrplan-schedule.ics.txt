@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T171500
-DTSTAMP;VALUE=DATE-TIME:20150731T212928Z
+DTSTAMP;VALUE=DATE-TIME:20150801T111006Z
 UID:c1f34fda-54f2-407c-b68c-44dafc820282@frab.cccv.de
 DESCRIPTION:Let's build a Bass Guitar! Let's not buy hardware and instead
   learn about metal working and how to program a CNC. Let's not recreate 
@@ -518,7 +518,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T110000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T103000
-DTSTAMP;VALUE=DATE-TIME:20150722T161334Z
+DTSTAMP;VALUE=DATE-TIME:20150801T104529Z
 UID:46d21af4-3f70-4024-b7bd-52d40634b891@frab.cccv.de
 DESCRIPTION:Forget hacking the planet - let's HACK THE UNIVERSE.\n\nIn 20
  12\, the world's leading space agency began a program that opened a gate
@@ -682,6 +682,17 @@ DESCRIPTION:Bring your infectious enthusiasm to an audience with a short
 URL:/camp/2015/Fahrplan/events/6864.html
 SUMMARY:Lightning Talks: Day 4
 LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T010000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T000000
+DTSTAMP;VALUE=DATE-TIME:20150802T141906Z
+UID:76a90ce3-42fc-4273-b1ef-89d08cd21356@frab.cccv.de
+DESCRIPTION:Live-Aufzeichnung der 150. Folge des Podcasts Logbuch:Netzpol
+ itik mit mehreren Gästen\, Tim Pritlove und Linus Neumann.
+URL:/camp/2015/Fahrplan/events/7040.html
+SUMMARY:LNP150
+LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
@@ -870,6 +881,18 @@ DESCRIPTION:I will present the story and science behind this project\, wh
 URL:/camp/2015/Fahrplan/events/6702.html
 SUMMARY:Real Vegan Cheese
 LOCATION:B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T233000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T223000
+DTSTAMP;VALUE=DATE-TIME:20150802T141349Z
+UID:7dedc312-4c86-4b70-b711-b63f569bca81@frab.cccv.de
+DESCRIPTION:Improving the quality of life of Refugees in Germany by using
+  the Internet as a tool to reduce their isolation\, connecting them with
+  each other\, with their homelands\, and with their local community. 
+URL:/camp/2015/Fahrplan/events/7041.html
+SUMMARY:Refugees Emancipation
+LOCATION:A
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T221500
