@@ -21,9 +21,10 @@ realraum @ Chaos Communication Camp 2015
 2n Orga-Meetup:    2015-06-28, 18:00 @ realraum
 http://grical.realraum.at/e/show/659/
 
+3rd Orga-Meetup:    2015-08-02, 18:00 @ realraum
+http://grical.realraum.at/e/show/668/
 
 --------------------------------------------------------------------------------
-3rd Orga-Meetup:    2015-08-02, 18:00 @ realraum
 
 Agenda:
  * Status
@@ -57,6 +58,13 @@ Agenda:
 
 --------------------------------------------------------------------------------
 TODO:
+
+ * make transport list (weights and sizes!)
+   * https://docs.google.com/spreadsheets/d/10kJuYeJIJXc0j221yhiZmqHPgcUPaVuoUJU2RwL2-vw/edit?usp=sharing
+ * 
+
+
+
 
  * next meeting?
 
