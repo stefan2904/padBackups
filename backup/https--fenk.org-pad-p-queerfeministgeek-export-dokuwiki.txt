@@ -7,89 +7,57 @@ It might be a good idea to still have a meetup/workshop to discuss the CoC situa
 let's create something for our village like this with single rules from our CoC: [[http://carecards.me/]] - like "Ask for pronouns!", "Don't assume other's sexuality!", "Don't police other's appearance!".
 sirenensang (and others?) will try to draw them (most likely in the camp)
 obaz will draft a CoC and submit it to the list. Afterwards, we'll try to decide which sentences should be printed.
-    
-**Tent:**
-We have 
-   - a yurt like this: [[http://ottonen.efgm.de/wp-content/uploads/2012/01/Elbewanderung-7web.jpg]] (Example Picture), [[http://www.jurtenland.de/kohten_jurten_basics]] (German description how to set it up). We will also have some information available of where yurts are coming from originally.
-   - a tent like this one [[http://www.amazon.de/dp/B0083810IC/ref=pe_386171_38075861_TE_item]] which we need to raise donation for! :-)
-
 
 **Supplies:**
 There will be plenty of supermarkets around (see [[https://events.ccc.de/camp/2015/wiki/POIs]] ), so people who arrive by car can stock up during the camp, hopefully. :) We might have some tea and coffee around, too, so don't forget your mugs!
 It would also be awesome if somebody wanted to organize some shared food supply. Currently we don't know too much about who has cooking equipment, but maybe somebody can bring something? (Gas-based is much better than electricity-based, since power is a very limited resource at the camp. Post-chat note: in the wiki at [[https://events.ccc.de/2015/07/21/power-distribution/]] it says: "Certain devices are not allowed in general: (...) large electric kitchen appliances (stoves, refrigerators, freezer, hobs, dishwashers)")
 
+**Cooking**
+
+So far no one offered to bring dishes for a larger group, so please bring your own dishes & cutlery, bringing a second and third set for people who forgot theirs are appreciated.
+
+
+**//What/Who/Supplies needed//**
+  * Day 0
+  * Day 1
+    * What: Shakshuka
+    * Who: lore & gedankenstuecke
+    * we will bring the supplies
+  * Day 2
+    * What: Dhal
+    * Who: lore & gedankenstuecke
+    * we will bring the supplies
+  * Day you-catch-the-drift
+
+**//Equipment//**
+  * 2 stoves (stern.chen)
+  * 2 gas cans (stern.chen)
+  * a couple of spoons (stern.chen) some spoons and other gear for cooking (obaz)
+  * 1 pot (stern.chen) 1 smaller (but not so small pot) and one smaller (but not so small) pan (obaz)
+  * kitchen knives & cutting boards (gedankenstuecke)
+
+
 **WANTED:**
 (Stuff that nobody brings yet, but we really want)
-  * A gas cooker, so we can make tea? obaz can bring a kettle for tea
+  * very large pots (we have 1 + a smaller one)
   * Who  wants to order the raw material and design some pronoun buttons or  similar? Of course, if you can bring a BIGGER button machine, that also  can't hurt. :)
     * said  in IRC sun 2/8 : these buttons will be usefull to recognize who is  belongin to the village, in the CoC is marked that in case of problem  help should be found from village fellows in case of harrassement. so  the buttons or important to recognize each other 
     *  (Lena is currently communicating with the owners of the button machine about the exact kind of material that we need a)
   * funny accessories for our anti-harassment fairies to be recognizable: strange hats/wings/antennas/rainbow binds/...
-  * How about some possibility to print out propaganda? / It  would also be great to have a printer. In case you bring something like  this, please add yourself to the section below in the pad.
+  * How about some possibility to print out propaganda? / It  would also be great to have a printer
   * The CCCamp badge ([[https://events.ccc.de/2015/07/10/rad1o/]] ) will have a very small display, but maybe somebody programs it to show a name (e.g. scrolling through the screen).
-  * matresses / camping mats for the cuddle party
+  * matresses / camping mats, pillows and other cozy stuff for the cuddle party
+  * equipment for cleaning the dishes (one or two plastic tubs, a water container, some detergent, sponges and dishtowels)
 
+**USEFUL:**
+  *  Stuff for constructing a meetup space
+  *  A flag or banner, so people recognize us
+  *  Camping chairs and tables
+  *  Reading material (books and ebooks)
+  *  Equipment to play some music
+  *  Lamps and other things that give us light - battery powered or not depending on power would be great.
+  *  Power cords - should be suitable for outdoors
 
-**Workshops/Sessions:**
-We entered the Queer Education workshop and a Bi empowerment workshop to the Wiki, because each has a person organizing and feeling responsible for them. If some of you want to organize and feel responsible for a particular workshop, please add it to the "workshops" section below and either add it to the wiki page, ask somebody to do it, or write to our mailing list.
-
-
-+++++++++++++++++++++++++++++++++++++++++++
-
-**Q&A queer feminist geek irc meetup 19.07.2015**
-
-15 users present, around 7 participated actively
-
-  * Who's coming to the CCCamp?
-    * 7 people indicate that they're coming :)
-  * Is this your first time?
-    * first time to CCC events: 2 people +1
-    * been to CCCongress but not camp: 3 people +1 +1
-    * been to CCCamp 2011 and congress: 1 person +1
-  * Where are you from?
-    * Outside of Germany: 3 +1 (but originally from Germany) +1+1(belgium)
-    * Germany: 3
-  * What are our projects?
-    * Queersplaining: queer people explaining concepts
-      * Only those who have time and motivation, not everyone all the time
-      * create an atmosphere that it's okay to ask questions and share knowledge
-      * At other places at the Camp, we can say "Oh you want to know about pronouns? Go to our village, maybe someone explains it to you"
-    * Bring reading material
-      * Basic, 101-level
-      * also more advanced
-      * "Book box" (some of us bring books for others to read)
-    * Create our own resources: Queer Feminist Geek Manifesto?
-      * discuss our idea of geekness and hacking
-      * how to start meeting regularly to create/invent new ways of living hacking
-      * maybe look at the Riot Code Grrrl Manifesto: [[https://rarlindseysmash.com/posts/riot-code-grrrl-manifesto]] as a reference?
-    * Creating a network of queer feminist trans* geeks and hackers and organizing regular meetings in Europe
-      * round table
-    * Develop a template on feminist, queer and trans pedagogy in hacking
-    * A Party! 
-      * With Music! - Who brings the equipment? (see below)
-      * With Performances! You are welcome to join :)
-    * Technical workshops for women, trans*, queer people
-    * Queersplaining workshop
-      * Queer 101 (will probably be done by people who have experience with queer education in schools)
-      * "How to do queersplaining" meta workshop
-    * Allies workshop
-  * What to bring?
-    * Stuff to make the village/camp feel like home
-    * Also: See below, or the wiki
-  * Practical stuff
-    * Our village has been assigned a space right in the middle:  [[http://campmap.mazdermind.de/]] (It's in the triangle at the center, between Quadrature, Awesome Retro, Norton, and Anarchists)
-    * There will be at least a big workshop tent, and maybe a smaller tent for some quiet/relaxing.
-    * There will be a banner on the workshop tent, so people recognize us
-    * There will also be a "program" of what workshops and projects we are doing
-    * Some people will be arriving on the 11th (Day -1) and start putting up our village. You are welcome to join :) 
-    * Register a telephone number at Eventphone ([[https://www.eventphone.de]] ) and bring your home telephone or an old mobile phone for keeping in touch! (see [[https://events.ccc.de/camp/2015/wiki/Static:POC]] and [[https://events.ccc.de/camp/2015/wiki/Static:GSM]] )
-  * Social media
-    * Some of us are announcing the village on Twitter, also under the #CCCamp15 hashtag - we want to be visible
-    * If people come to our village and ask annoying or basic questions, we either refer them to a "queersplainer" if available, or we say "Sorry, come back later" - we could prepare a flyer to explain the basics, and why we don't feel like explaining the basics all the time
-
-  * **We would like to do another meetup.**
-    * Which time would suit you BETTER than 6 pm CEST on a Sunday?
-      * <Your suggestion here>
 
 
 **Who is arriving when?**
@@ -100,6 +68,8 @@ We entered the Queer Education workshop and a Bi empowerment workshop to the Wik
   * 12th (Day 0) +1
     * stoopt
     * ooooo
+    * lore
+    * gedankenstuecke
   * 13th (Day 1)
   * Later than Day 1
   * 14th (evening)
@@ -108,7 +78,13 @@ We entered the Queer Education workshop and a Bi empowerment workshop to the Wik
   * Haven't the foggiest
     * sirenensang
 
+
 **Who brings what?**
+  * sternchen (mail 29/7)
+    * – 2 gas cans
+    * – 2 stoves
+    * (– 1 pot)
+    * – a couple of spoons
   * lenaschimmel
     * stereo audio system
     * extention cord and multi-outlet power strips
@@ -143,15 +119,53 @@ We entered the Queer Education workshop and a Bi empowerment workshop to the Wik
     * soldering iron+multimeter
     * brainwave device
     * cables
+  * agnez
+    * old cell phone for fairy (sim card needs to be bought)
   * 
   * 
 **BOOKS and other reading material:**
-  * 
+    * Bring reading material
+      * Basic, 101-level
+      * also more advanced
+      * "Book box" (some of us bring books for others to read)
+
+
+
+**PROJECTS**
+
+**Anti-harassment fairies**
+A couple of humans, visible thanks to their fabulous accessories, ready to help, easy to be found at a fixed spot, a turning role to be shared by all village members (that feel up for it). with a phone number to call in case of urgeny
+
+**Daily meetings**
+at a fixed moment of the day ? when ?
+should be discussed :
+  * good and bad things of the past day
+  * things to come up and to be done (tasks to share)
+
+**Queersplaining**
+    * queer people explaining terms and concepts 
+      * Only those who have time and motivation, not everyone all the time
+      * maybe wear a sign or badge or something
+      * create an atmosphere that it's okay to ask questions and share knowledge
+      * At    other places at the Camp, we can say "Oh you want to know about    pronouns? Go to our village, maybe someone explains it to you"
+      * If   people come to our village and ask annoying or basic questions, we   either refer them to a "queersplainer" if available, or we say "Sorry,   come back later"
+      * we could prepare a flyer to explain the basics, and why we don't feel like explaining the basics all the time
+      * 
+  * Create our own resources: Queer Feminist Geek Manifesto?
+      * discuss our idea of geekness and hacking
+      * how to start meeting regularly to create/invent new ways of living hacking
+      * maybe look at the Riot Code Grrrl Manifesto: [[https://rarlindseysmash.com/posts/riot-code-grrrl-manifesto]] as a reference?
+    * Creating a network of queer feminist trans* geeks and hackers and organizing regular meetings in Europe
+      * round table
+    * Develop a template on feminist, queer and trans pedagogy in hacking
+    * A Party! 
+      * With Music! - Who brings the equipment? (see below)
+      * With Performances! You are welcome to join :)
+
 
 **WORKSHOPS**
   * SchLAu workshop (education project for schools - enlightening the cis Heten) (siri & lena?) - all are welcome
     * One Session in german, one in english?
-  * Bi Empowerment (Theresa) - for everyone who identifies as bi or pan, or who is questioning/unsure
   * selfdefense for womenlesbiantrans* (jez) - all women_lesbian_trans* are welcome
   * The Newbie Session (Theresa) - all are welcome
     * Is this your first time at a CCC event? Your first camp? Your second? Feeling a bit lost? Having questions? We'll try to answer them :)
@@ -159,6 +173,14 @@ We entered the Queer Education workshop and a Bi empowerment workshop to the Wik
 **WORKSHOP / SESSION SUGGESTIONS:**
   * <Your idea here>
   * Anarchaserver intro+story+ daily worksession
+  * Technical workshops for women, trans*, queer people
+  * Queersplaining workshop
+  * Queer 101 (will probably be done by people who have experience with queer education in schools)
+  * "How to do queersplaining" meta workshop
+  * Allies workshop
+
+We  entered the Queer Education workshop and a Bi empowerment workshop to  the Wiki, because each has a person organizing and feeling responsible  for them. If some of you want to organize and feel responsible for a  particular workshop, please add it to the "workshops" section below and  either add it to the wiki page, ask somebody to do it, or write to our  mailing list.
+
 
 **EXPENSES TO SHARE:**
   * 5m Workshop tent (Lena): 207,78** **
