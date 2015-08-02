@@ -1,4 +1,5 @@
-  * **Q&A queer feminist geek irc meetup 26.07.2015**
+  * **(no 1-paragraph-per-IRC-meeting structure anymore)**
+  * 
 
 **Code of Conduct (CoC)**
 Someone suggested the queer feminist geek village could help the CCC get their CoC, which they don't have. Some of us object to the scenario "We write a CoC for them and tell them what to do", and that the CCC should think up one on their own and that this cannot come from outside of the organizers' group.
@@ -8,28 +9,29 @@ sirenensang (and others?) will try to draw them (most likely in the camp)
 obaz will draft a CoC and submit it to the list. Afterwards, we'll try to decide which sentences should be printed.
     
 **Tent:**
-Currently Lena is thinking about buying something like this: [[http://]]www.obelink.de/zelte/gruppenzelte/sahara-500.html?category_params=s_company%3D2%26category_id%3D2693 (price ca. 100 euro for a small one, ca. 300 for a bigger one). We all agree to buy the bigger model, and if we manage to find some more tents for free, it w
-Update: Somebody lends us a yurt like this: [[http://ottonen.efgm.de/wp-content/uploads/2012/01/Elbewanderung-7web.jpg]] (Example Picture), [[http://www.jurtenland.de/kohten_jurten_basics]] (German description how to set it up). We will also have some information available of where yurts are coming from originally.
+We have 
+   - a yurt like this: [[http://ottonen.efgm.de/wp-content/uploads/2012/01/Elbewanderung-7web.jpg]] (Example Picture), [[http://www.jurtenland.de/kohten_jurten_basics]] (German description how to set it up). We will also have some information available of where yurts are coming from originally.
+   - a tent like this one [[http://www.amazon.de/dp/B0083810IC/ref=pe_386171_38075861_TE_item]] which we need to raise donation for! :-)
+
 
 **Supplies:**
 There will be plenty of supermarkets around (see [[https://events.ccc.de/camp/2015/wiki/POIs]] ), so people who arrive by car can stock up during the camp, hopefully. :) We might have some tea and coffee around, too, so don't forget your mugs!
 It would also be awesome if somebody wanted to organize some shared food supply. Currently we don't know too much about who has cooking equipment, but maybe somebody can bring something? (Gas-based is much better than electricity-based, since power is a very limited resource at the camp. Post-chat note: in the wiki at [[https://events.ccc.de/2015/07/21/power-distribution/]] it says: "Certain devices are not allowed in general: (...) large electric kitchen appliances (stoves, refrigerators, freezer, hobs, dishwashers)")
 
-**Wanted:**
-<del>A button machine would be cool, so we can make name and pronoun buttons.</del> UPDATE: Theresa can bring a 25mm button machine. Who wants to order the raw material and design some pronoun buttons or similar? Of course, if you can bring a BIGGER button machine, that also can't hurt. :)
-It would also be great to have a printer. In case you bring something like this, please add yourself to the section below in the pad.
-The CCCamp badge ([[https://events.ccc.de/2015/07/10/rad1o/]] ) will have a very small display, but maybe somebody programs it to show a name (e.g. scrolling through the screen).
+**WANTED:**
+(Stuff that nobody brings yet, but we really want)
+  * A gas cooker, so we can make tea? obaz can bring a kettle for tea
+  * Who  wants to order the raw material and design some pronoun buttons or  similar? Of course, if you can bring a BIGGER button machine, that also  can't hurt. :)
+    * said  in IRC sun 2/8 : these buttons will be usefull to recognize who is  belongin to the village, in the CoC is marked that in case of problem  help should be found from village fellows in case of harrassement. so  the buttons or important to recognize each other 
+    *  (Lena is currently communicating with the owners of the button machine about the exact kind of material that we need a)
+  * funny accessories for our anti-harassment fairies to be recognizable: strange hats/wings/antennas/rainbow binds/...
+  * How about some possibility to print out propaganda? / It  would also be great to have a printer. In case you bring something like  this, please add yourself to the section below in the pad.
+  * The CCCamp badge ([[https://events.ccc.de/2015/07/10/rad1o/]] ) will have a very small display, but maybe somebody programs it to show a name (e.g. scrolling through the screen).
+  * matresses / camping mats for the cuddle party
+
 
 **Workshops/Sessions:**
 We entered the Queer Education workshop and a Bi empowerment workshop to the Wiki, because each has a person organizing and feeling responsible for them. If some of you want to organize and feel responsible for a particular workshop, please add it to the "workshops" section below and either add it to the wiki page, ask somebody to do it, or write to our mailing list.
-
-We'll keep meeting in irc on Sundays.
-**From next time, we'll meet in Autistici/Inventati's IRC network.**
-*  Why? Because their IRC server has better privacy options, and some people do not  feel comfortable connecting to the Freenode IRC. Also it's run by an activist collective, see [[http://www.autistici.org/en/index.html]]
-* Instructions are here:[[http://www.autistici.org/it/stuff/man_irc/index.html]]
-* Hidden service: wi7qkxyrdpu5cmvr.onion (port 9999)
-* Howto for xchat, with instructions for Tor in the end: [[http://www.autistici.org/en/stuff/man_irc/xchat.html]]
-* Web interface run by another autonomous server: [[https://webirc.indivia.net/cgiirc/irc.cgi]]
 
 
 +++++++++++++++++++++++++++++++++++++++++++
@@ -158,13 +160,8 @@ We'll keep meeting in irc on Sundays.
   * <Your idea here>
   * Anarchaserver intro+story+ daily worksession
 
-
-**WANTED:**
-(Stuff that nobody brings yet, but we really want)
-  * A gas cooker, so we can make tea? obaz can bring a kettle for tea
-  * How about some possibility to print out propaganda?
-  * raw material for printing buttons, and designs.
-
+**EXPENSES TO SHARE:**
+  * 5m Workshop tent (Lena): 207,78** **
 
 **Call for DJs, VJs, artists and performers:**
 
