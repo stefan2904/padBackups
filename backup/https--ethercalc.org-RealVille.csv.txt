@@ -16,7 +16,7 @@ Stickerbox,stefan,,1,0,
 "Tabletop GbE switches",nicoo,"1 ok",4,0,"nicoo (1) + peterp (2) + hannes (1)"
 "Catalyst 3500",nicoo,ok,1,0,"Need to find a copper GBic for it"
 "Network cabling (>= cat 5e)",nicoo,~,"ALL THE CABLZ",0,"PeterP & bagru"
-"Sun Sails",xro,"patrick will deliver with Anhänger prior to camp",2,,"are at patricks parents home, will get them in the week before the camp"
+"Sun Sails",xro,"patrick will deliver",2,,"are at patricks parents home, will get them in the week before the camp"
 "power cables",nicoo,~,,0,"bagru ?"
 "power distribution",nicoo,ok,1,0,bagru
 "fuse boxes + overvoltage protection",nicoo,~,,0,"bagru ? equinox ?"
@@ -26,9 +26,9 @@ medkit,xro,ok,1,,"in xro car, another in xro's camping equipment, more to be ass
 "Extra tent hooks (Heringe)",xro,ok,36,,
 "Big Canvas/Tarp (Plane)",equinox,,,,"via patrick? for transport + protecting stuff in case of $rain"
 "(Big) Trash bags",,,,,
-"Stretch Foil",,,"some rolles",,
+"Stretch Foil",,,"some rolles",,???
 "light for community tent (fairy lights?)",peterTO,,,,"cable powered + maybe some battery powered backup"
-Pizzaoven,sandra,,,,
+"Gasgriller / Campinggriller",,"IMPORTANT, NOT DONE",1,,
 "stuff to clean the kitchen (&tents?)",,,,,
 "Big metal boxes (cantines)",nicoo,"ok (at least 1)",2,0,
 makava,,transport?,,,"inform gebi early enough :P transport via matalab?"
