@@ -1,13 +1,5 @@
-	(no 1-paragraph-per-IRC-meeting structure anymore)
-	
+( ** Code of Conduct + Workshop +  projects ideas: bottom of the page ** )
 
-Code of Conduct (CoC)
-https://pad.riseup.net/p/codeofconduct
-Someone suggested the queer feminist geek village could help the CCC get their CoC, which they don't have. Some of us object to the scenario "We write a CoC for them and tell them what to do", and that the CCC should think up one on their own and that this cannot come from outside of the organizers' group.
-It might be a good idea to still have a meetup/workshop to discuss the CoC situation, and if there are any strategies we could try to convince some more CCC people that their events should have a CoC.
-
-sirenensang (and others?) will try to draw them (most likely in the camp)
-obaz will draft a CoC and submit it to the list. Afterwards, we'll try to decide which sentences should be printed.
 
 
 Supplies:
@@ -143,10 +135,18 @@ BOOKS and other reading material:
 
 
 
+
+
 PROJECTS ("Project" = "a collaborative enterprise that brings together people")
 
+Code of Conduct (CoC)
+https://pad.riseup.net/p/codeofconduct
+
 Anti-harassment fairies
-A couple of humans, visible thanks to their fabulous accessories, ready to help, easy to be found at a fixed spot, a turning role to be shared by all village members (that feel up for it). with a phone number to call in case of urgency
+https://events.ccc.de/camp/2015/wiki/Projects:Anti-harassment_fairies
+
+Queersplaining
+https://events.ccc.de/camp/2015/wiki/Projects:Queersplaining
 
 Daily meetings
 	* at a fixed moment of the day ? when ?
@@ -162,20 +162,13 @@ Party / parties
 	* I'm available to play some queer music and queer video clips - Pixi
 	* i wanna mc + make pink noise + can do online streaming
 
-Queersplaining
-	* queer people explaining terms and concepts 
-	* Only those who have time and motivation, not everyone all the time
-	* maybe wear a sign or badge or something
-	* create an atmosphere that it's okay to ask questions and share knowledge
-	* At    other places at the Camp, we can say "Oh you want to know about    pronouns? Go to our village, maybe someone explains it to you"
-	* If   people come to our village and ask annoying or basic questions, we   either refer them to a "queersplainer" if available, or we say "Sorry,   come back later"
-	* we could prepare a flyer to explain the basics, and why we don't feel like explaining the basics all the time
+
 
 
 
 SELF-ORGANIZED SESSIONS ("Self-⁠organized Sessions" = workshops in a generic sense)
 	
-	* SchLAu workshop (education project for schools - enlightening the cis Heten) (siri & lena?) - all are welcome
+	* (was "Queer Education workshop" the same?) SchLAu workshop (education project for schools - enlightening the cis Heten) (siri & lena?) - all are welcome
 		* One Session in german, one in english?
 	* selfdefense for womenlesbiantrans* (jez) - all women_lesbian_trans* are welcome
 	* The Newbie Session (Theresa) - all are welcome
@@ -199,8 +192,6 @@ WORKSHOP / SESSION SUGGESTIONS:
 	* Creating a network of queer feminist trans* geeks and hackers and organizing regular meetings in Europe
 		* round table
 	* Develop a template on feminist, queer and trans pedagogy in hacking
-
-We  entered the Queer Education workshop and a Bi empowerment workshop to  the Wiki, because each has a person organizing and feeling responsible  for them. If some of you want to organize and feel responsible for a  particular workshop, please add it to the "workshops" section below and  either add it to the wiki page, ask somebody to do it, or write to our  mailing list.
 
 
 
