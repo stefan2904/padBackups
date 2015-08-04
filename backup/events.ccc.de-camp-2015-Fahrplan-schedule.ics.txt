@@ -21,7 +21,7 @@ DESCRIPTION:20 Jahre c-base. Insider packen aus. Ein Abriss über die bewe
  gte Geschichte der abgestürzten Raumstation unter Berlin Mitte.
 URL:/camp/2015/Fahrplan/events/6752.html
 SUMMARY:20 Jahre c-base
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T233000
@@ -38,7 +38,7 @@ DESCRIPTION:Despite the dramatic falls in costs of production\, medical d
  ir own medical devices.
 URL:/camp/2015/Fahrplan/events/6703.html
 SUMMARY:3D Printing High-Quality Low-Cost Free Medical Hardware
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T181500
@@ -51,7 +51,7 @@ DESCRIPTION:Let's build a Bass Guitar! Let's not buy hardware and instead
  t the potentiometers.
 URL:/camp/2015/Fahrplan/events/6973.html
 SUMMARY:A Hackers Approach To Building Electric Guitars
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T190000
@@ -66,7 +66,7 @@ DESCRIPTION:This will be a rapid-fire\, tips-and-tricks lecture on practi
   a 3D-printer and a milling machine does.
 URL:/camp/2015/Fahrplan/events/6688.html
 SUMMARY:A practical prototyping primer
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T194500
@@ -78,7 +78,7 @@ DESCRIPTION:In the spirit of “Failosophy” we would like to give a brief t
   bridge\, relay\, and exit nodes.
 URL:/camp/2015/Fahrplan/events/6793.html
 SUMMARY:A Torifying Tale
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T210000
@@ -90,7 +90,7 @@ DESCRIPTION:The largest weaknesses of mobile network are well hidden from
  sers to fraud and privacy risks.
 URL:/camp/2015/Fahrplan/events/6785.html
 SUMMARY:Advanced interconnect attacks
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T110000
@@ -105,7 +105,7 @@ DESCRIPTION:When you plan to send a rover to the moon\, there are many th
  uch an event.
 URL:/camp/2015/Fahrplan/events/6737.html
 SUMMARY:Analogue Mission Simulations
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T123000
@@ -121,7 +121,7 @@ DESCRIPTION:Join us for a fun-filled tour of source control management an
  protect or backdoor popular open source projects or your hobby project.
 URL:/camp/2015/Fahrplan/events/6721.html
 SUMMARY:Backdooring Git
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
@@ -134,7 +134,7 @@ DESCRIPTION:Hydroponics on a need to know basis for the ones who aim to b
  tomatic. 
 URL:/camp/2015/Fahrplan/events/6959.html
 SUMMARY:Basics of hydroponics
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T210000
@@ -154,7 +154,7 @@ DESCRIPTION:Certain file formats\, like Microsoft Word and PDF\, are know
  s that communicate to various endpoints when opened.
 URL:/camp/2015/Fahrplan/events/6779.html
 SUMMARY:Bugged Files
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
@@ -170,17 +170,17 @@ DESCRIPTION:Starting my new job\, I was surprised about my colleagues rea
  nd for brave decision making?
 URL:/camp/2015/Fahrplan/events/6701.html
 SUMMARY:Building a culture of courage
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T111500
-DTSTAMP;VALUE=DATE-TIME:20150731T212913Z
+DTSTAMP;VALUE=DATE-TIME:20150803T185112Z
 UID:51565c6b-399f-4cf7-9d74-7ffd5d14f7af@frab.cccv.de
 DESCRIPTION:A guide to selecting parts for your first combat robot.
 URL:/camp/2015/Fahrplan/events/6823.html
 SUMMARY:Building your First Combat Robot
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T110000
@@ -193,7 +193,7 @@ DESCRIPTION:This lecture will give an introduction into car hacking by ex
  ed as a summary and will set things into perspective. 
 URL:/camp/2015/Fahrplan/events/6854.html
 SUMMARY:Carhacking – state of the art
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T191500
@@ -203,7 +203,7 @@ UID:3064add4-ab1e-4d05-84b8-d753b9733097@frab.cccv.de
 DESCRIPTION:
 URL:/camp/2015/Fahrplan/events/6982.html
 SUMMARY:Chaos Communication Camp Closing
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T114500
@@ -213,7 +213,7 @@ UID:d1f3810f-43b1-4856-b8ee-7c767234d185@frab.cccv.de
 DESCRIPTION:
 URL:/camp/2015/Fahrplan/events/6981.html
 SUMMARY:Chaos Communication Camp Opening
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T114500
@@ -231,7 +231,7 @@ DESCRIPTION:Crypto seems to be the last line of defence in a wired world.
  nt to enforce and defend our liberties" Eduard Snowden has ask us for?
 URL:/camp/2015/Fahrplan/events/6816.html
 SUMMARY:Crypto Dawn
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T114500
@@ -250,7 +250,7 @@ DESCRIPTION:Die Störerhaftung verhindert bisher oft\, dass Unternehmen un
  n Netz rechtssicher öffnen zu können.
 URL:/camp/2015/Fahrplan/events/6639.html
 SUMMARY:D-Offline? Das drohende WLAN-Sterben & was wir dagegen tun können
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T114500
@@ -268,7 +268,7 @@ DESCRIPTION:In the past\, marginalised communities have often been left u
 URL:/camp/2015/Fahrplan/events/6876.html
 SUMMARY:Data and discrimination: representing marginalised communities in
   data
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T170000
@@ -285,7 +285,23 @@ DESCRIPTION:Our understanding of the universe has exploded in the past 50
   technologies have made possible.
 URL:/camp/2015/Fahrplan/events/6870.html
 SUMMARY:Detecting echoes from the dawn of time
-LOCATION:A
+LOCATION:Project 2501
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T211500
+DTSTAMP;VALUE=DATE-TIME:20150802T152843Z
+UID:cb9bc487-84aa-4f9c-931a-6de0bdf25e43@frab.cccv.de
+DESCRIPTION:Die letzte Demo unwirksam und langweilig\, die Petition fürn 
+ Arsch\, von Parteien enttäuscht\, Clicktivism und Shitstorms durchgespie
+ lt und auf Lobbyismus keinen Bock?\n\nDer Vortrag führt kurz in die ethi
+ sch-moralischen\, politischen und rechtlichen Grundlagen des zivilen Ung
+ ehorsams ein\, um dann anhand von vielen praktischen und unterhaltsamen 
+ Beispielen neue Perspektiven und Aktionsformen für wirksamen Protest zu 
+ entwickeln.
+URL:/camp/2015/Fahrplan/events/6824.html
+SUMMARY:Die Reichstagswiese umgraben und Drecksfirmen hacken
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T123000
@@ -299,7 +315,20 @@ DESCRIPTION:Musical instrument designers have always brought together cut
  ortant design considerations.
 URL:/camp/2015/Fahrplan/events/6676.html
 SUMMARY:Digital Musical Instruments
-LOCATION:A
+LOCATION:Project 2501
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T210000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T200000
+DTSTAMP;VALUE=DATE-TIME:20150802T153017Z
+UID:f29c721d-4917-4705-aa87-0281d89f8655@frab.cccv.de
+DESCRIPTION:Women on Waves and Women on Web\, 2 non profit organisations 
+ use all possible loopholes and undetermined legal spaces to make sure th
+ at also women in countries where abortion is illegal can access safe abo
+ rtion services.
+URL:/camp/2015/Fahrplan/events/6997.html
+SUMMARY:Drones\, ships\, pills and the Internet
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T174500
@@ -318,7 +347,7 @@ DESCRIPTION:After the Snowden revelations\, demand for encrypted end-to-e
  mmon strategy for the future. 
 URL:/camp/2015/Fahrplan/events/6889.html
 SUMMARY:Encrypted Email for Planet Earth
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T194500
@@ -341,7 +370,7 @@ DESCRIPTION:This talk introduces the concept of experimental\, educationa
  with tomorrow’s technology is the aim!
 URL:/camp/2015/Fahrplan/events/6732.html
 SUMMARY:Experimental Fermentation Institutes Network (EFIN)
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T123000
@@ -356,7 +385,7 @@ DESCRIPTION:The lack of women in tech is evident in numbers and our exper
  mportantly ask ourselves: Why should we care? 
 URL:/camp/2015/Fahrplan/events/6774.html
 SUMMARY:for women in "${tech[@]}"\; do
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T221500
@@ -372,7 +401,7 @@ DESCRIPTION:FPGAs are becoming more and more common in research and indus
   FPGA <-> Host connection and the operating system support.
 URL:/camp/2015/Fahrplan/events/6730.html
 SUMMARY:FPGAs for everyone
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T194500
@@ -390,7 +419,7 @@ DESCRIPTION:WLAN and mesh networking in the UHF band: More frequency spec
  .
 URL:/camp/2015/Fahrplan/events/6738.html
 SUMMARY:Freifunk in TV-Whitespace
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T210000
@@ -404,7 +433,7 @@ DESCRIPTION:Bio-fuels from waste can be part of the solution to stabilize
  ns for equipment for local production of bio-fuels.
 URL:/camp/2015/Fahrplan/events/6798.html
 SUMMARY:Fueling the Revolution
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T190000
@@ -427,7 +456,7 @@ DESCRIPTION:Fern ab von Theorien zu Killerrobotern und der Privatssphären
  thmus generieren lassen.
 URL:/camp/2015/Fahrplan/events/6787.html
 SUMMARY:Goethe in my Mind
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T114500
@@ -447,7 +476,7 @@ DESCRIPTION:Today's websites and mobile applications heavily rely on thir
  er-blocking on mobile devices easy and usable.
 URL:/camp/2015/Fahrplan/events/6753.html
 SUMMARY:Gotta Block'em all
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T190000
@@ -460,7 +489,7 @@ DESCRIPTION:We will explain how we entered the Venture Capital sphere and
  stors\, Riot developed the Software HFOS\, which got quite far. 
 URL:/camp/2015/Fahrplan/events/6969.html
 SUMMARY:Hackerfleet - what happend?
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T110000
@@ -475,7 +504,7 @@ DESCRIPTION:The presentation of the Hackerspace Design Patterns at CCCamp
  ve experience.
 URL:/camp/2015/Fahrplan/events/6842.html
 SUMMARY:Hackerspace Design Patterns 2.0
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T190000
@@ -495,7 +524,7 @@ DESCRIPTION:Hardware attacks are becoming more and more common. Attacks l
  ult injection attacks with only 30 euros?
 URL:/camp/2015/Fahrplan/events/6711.html
 SUMMARY:Hardware attacks: hacking chips on the (very) cheap
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T210000
@@ -513,7 +542,7 @@ DESCRIPTION:In this talk we'll go through many examples of targeted surve
  start now.
 URL:/camp/2015/Fahrplan/events/6848.html
 SUMMARY:Helping the Helpless
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T110000
@@ -528,7 +557,7 @@ DESCRIPTION:Forget hacking the planet - let's HACK THE UNIVERSE.\n\nIn 20
  ace. Learn how you too can become a space hacker!
 URL:/camp/2015/Fahrplan/events/6679.html
 SUMMARY:How To Become A Space Hacker
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T221500
@@ -542,7 +571,7 @@ DESCRIPTION:In the summer of 2013\, Guardian employees destroyed computer
   eradicating data on a machine.
 URL:/camp/2015/Fahrplan/events/6799.html
 SUMMARY:How to Destroy a Laptop with Top Secrets
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T170000
@@ -557,7 +586,7 @@ DESCRIPTION:Auditing source code is not enough when build tools are thems
  re — build reproducibly.
 URL:/camp/2015/Fahrplan/events/6657.html
 SUMMARY:How to make your software build reproducibly
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T170000
@@ -567,19 +596,19 @@ UID:2ee47684-8114-4361-8f3e-8b61946d8335@frab.cccv.de
 DESCRIPTION:
 URL:/camp/2015/Fahrplan/events/6983.html
 SUMMARY:Infrastructure Review
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T221500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T211500
-DTSTAMP;VALUE=DATE-TIME:20150731T212930Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T160000
+DTSTAMP;VALUE=DATE-TIME:20150803T145140Z
 UID:ed4bcb3b-fe2d-4728-812d-a45dbd4d01db@frab.cccv.de
 DESCRIPTION:Listening to satellites and decoding is fun. We show how you 
  can do it with an Software Defined Radio and some spare time. And we sho
  w what interesting stuff you can expect to find.\n
 URL:/camp/2015/Fahrplan/events/6883.html
 SUMMARY:Iridium Hacking
-LOCATION:B
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T194500
@@ -595,7 +624,7 @@ DESCRIPTION:This presentation will identify and address two safety-critic
  ate said content without being apprehended. 
 URL:/camp/2015/Fahrplan/events/6766.html
 SUMMARY:Jumping the Paywall
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
@@ -611,12 +640,12 @@ DESCRIPTION:Smartlocks are the new way of securing doors by replacing the
  better control\, or not.
 URL:/camp/2015/Fahrplan/events/6689.html
 SUMMARY:Keys ? Where we're going we don't need keys.
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T171500
-DTSTAMP;VALUE=DATE-TIME:20150725T203932Z
+DTSTAMP;VALUE=DATE-TIME:20150804T034058Z
 UID:c131b08d-e1be-4658-b98a-a223bc746784@frab.cccv.de
 DESCRIPTION:Wie lassen sich schwierige Themen einfach darstellen? Ralph C
  aspers erzählt von seiner Arbeit bei „Wissen macht Ah!“ und „Die Sendung
@@ -626,7 +655,7 @@ DESCRIPTION:Wie lassen sich schwierige Themen einfach darstellen? Ralph C
  tnehmen. Think: Sea-World!)
 URL:/camp/2015/Fahrplan/events/6987.html
 SUMMARY:Kissing – Heiße Tipps und Techniken
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T181500
@@ -642,7 +671,7 @@ DESCRIPTION:Let's Encrypt is a new free and automated certificate authori
  TPS by default.\n
 URL:/camp/2015/Fahrplan/events/6907.html
 SUMMARY:Let's Encrypt
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T181500
@@ -655,7 +684,7 @@ DESCRIPTION:Bring your infectious enthusiasm to an audience with a short
  y! Whatever you bring\, make it quick! 
 URL:/camp/2015/Fahrplan/events/6862.html
 SUMMARY:Lightning Talks: Day 2
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T181500
@@ -668,7 +697,7 @@ DESCRIPTION:Bring your infectious enthusiasm to an audience with a short
  y! Whatever you bring\, make it quick! 
 URL:/camp/2015/Fahrplan/events/6863.html
 SUMMARY:Lightning Talks: Day 3
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T181500
@@ -681,18 +710,29 @@ DESCRIPTION:Bring your infectious enthusiasm to an audience with a short
  y! Whatever you bring\, make it quick! 
 URL:/camp/2015/Fahrplan/events/6864.html
 SUMMARY:Lightning Talks: Day 4
-LOCATION:B
+LOCATION:Simulacron-3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T181500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T171500
+DTSTAMP;VALUE=DATE-TIME:20150803T204419Z
+UID:327922bb-5b63-416e-a6cb-8dcf73104037@frab.cccv.de
+DESCRIPTION:After a year with the Lasersaur\, pro's and con's\, mods\, pr
+ oblems and general experiences with the DIY open soure laser cutter.
+URL:/camp/2015/Fahrplan/events/6972.html
+SUMMARY:Living with the lasersaur
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T010000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T000000
-DTSTAMP;VALUE=DATE-TIME:20150802T141906Z
+DTSTAMP;VALUE=DATE-TIME:20150802T221527Z
 UID:76a90ce3-42fc-4273-b1ef-89d08cd21356@frab.cccv.de
 DESCRIPTION:Live-Aufzeichnung der 150. Folge des Podcasts Logbuch:Netzpol
  itik mit mehreren Gästen\, Tim Pritlove und Linus Neumann.
 URL:/camp/2015/Fahrplan/events/7040.html
 SUMMARY:LNP150
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
@@ -706,7 +746,25 @@ DESCRIPTION:Locking the Net Open: Transforming the Web into a truly distr
  le against hardware outages and censorship and stays fun.
 URL:/camp/2015/Fahrplan/events/6938.html
 SUMMARY:Locking the Web Open: Call for a Distributed Web
-LOCATION:A
+LOCATION:Project 2501
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T120000
+DTSTAMP;VALUE=DATE-TIME:20150802T152931Z
+UID:843a5e16-cd65-4009-903e-8a201c8506c1@frab.cccv.de
+DESCRIPTION:In the United States\, people increasingly understand that lo
+ cal police departments often possess high-tech military grade weapons an
+ d equipment designed for the battlefield. But what people don’t realize 
+ is that the same police departments often also possess very sophisticate
+ d surveillance technology that can be used to monitor\, track and record
+  the population as we all go about our everyday activities. The talk wil
+ l explore the kinds of surveillance technologies now in the possession o
+ f ordinary police departments far from any crime or terrorism hotspots.\
+ n
+URL:/camp/2015/Fahrplan/events/6783.html
+SUMMARY:Mainstreet Policing Meets Military-Grade Surveillance
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T010000
@@ -721,7 +779,7 @@ DESCRIPTION:Making music with Tesla coils has become more popular as the
  ) and integration with musical robots (https://vimeo.com/123003833).
 URL:/camp/2015/Fahrplan/events/6710.html
 SUMMARY:Making coils more musical
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T194500
@@ -736,7 +794,7 @@ DESCRIPTION:Peñabots have been active in Mexican networks since the 2012
  nd cover up crimes. 
 URL:/camp/2015/Fahrplan/events/6795.html
 SUMMARY:Mexican Botnet Dirty Wars
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T181500
@@ -750,7 +808,7 @@ DESCRIPTION:Mier a creative commons Mate Beer that was launched in Berlin
  ed by the commons with mate.
 URL:/camp/2015/Fahrplan/events/6801.html
 SUMMARY:Mier – failure attempt to CC license as mass market consume good
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T170000
@@ -764,7 +822,7 @@ DESCRIPTION:We\, Die Improbanden\, an improv group from Berlin\, will per
  rom the audience to play in their own native tongue.
 URL:/camp/2015/Fahrplan/events/6820.html
 SUMMARY:Mister & Miss Mutig Open Stage Impro
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T233000
@@ -777,7 +835,20 @@ DESCRIPTION:Es gibt unzählige Möglichkeiten\, ein Hardwareentwicklungspro
  chon mal gehört hat\, ist auch wirklich richtig.
 URL:/camp/2015/Fahrplan/events/6651.html
 SUMMARY:Mythen der Elektronikentwicklung
-LOCATION:B
+LOCATION:Simulacron-3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T120000
+DTSTAMP;VALUE=DATE-TIME:20150803T111448Z
+UID:9db475b9-d3a3-42a0-aaa1-08ef21f7355a@frab.cccv.de
+DESCRIPTION:In an age obsessed with digital preservation\, constantly gro
+ wing databases\, search engine optimization and unlimited encyclopedias\
+ , the NoTube is here to investigate in the dark side of meaning producti
+ on.
+URL:/camp/2015/Fahrplan/events/6709.html
+SUMMARY:NoTube
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T210000
@@ -791,7 +862,7 @@ DESCRIPTION:Der NSA-Untersuchungsausschuss ist zum BND-Untersuchungsaussc
  streamt?
 URL:/camp/2015/Fahrplan/events/6857.html
 SUMMARY:NSA-Untersuchungsausschuss - Wer kontrolliert wen?
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T194500
@@ -807,7 +878,7 @@ DESCRIPTION:<i>...niemanden interessiert wie's funktioniert\, solange es
   die Zukunft im kybernetischen Sinne.
 URL:/camp/2015/Fahrplan/events/6642.html
 SUMMARY:o͈̮p̢ęr̕a͠t̶̨i͟oǹ͓̜a̵l̷ glit̶̨ć̶̛he͝s
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
@@ -819,7 +890,7 @@ DESCRIPTION:We like to share our expirience of how you can organize your
  ke your own CTF. 
 URL:/camp/2015/Fahrplan/events/6715.html
 SUMMARY:Organize you own capture the flag competition
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T170000
@@ -833,12 +904,12 @@ DESCRIPTION:Seit Edward Snowden ist IT-Sicherheit nicht mehr nur ein Them
  un schnelles Kapital aus dem Thema schlagen.
 URL:/camp/2015/Fahrplan/events/6762.html
 SUMMARY:Politische Lösungen für technische Probleme?
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T171500
-DTSTAMP;VALUE=DATE-TIME:20150731T125927Z
+DTSTAMP;VALUE=DATE-TIME:20150804T001359Z
 UID:f76a7853-6dfa-4294-81b6-1b37a9632b67@frab.cccv.de
 DESCRIPTION:In this talk EFF Technologist Noah Swartz will present Privac
  y Badger\, EFF's new browser extension that automatically blocks both in
@@ -854,7 +925,7 @@ DESCRIPTION:In this talk EFF Technologist Noah Swartz will present Privac
  ng used to track people and exploring what alternatives we can pursue.
 URL:/camp/2015/Fahrplan/events/6733.html
 SUMMARY:Privacy Badger
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T221500
@@ -866,7 +937,7 @@ DESCRIPTION:DIY electronics often means Arduinos and breadboards. But you
  I Express. This talk will show you how.
 URL:/camp/2015/Fahrplan/events/6634.html
 SUMMARY:Pushing the limits of DIY electronics
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T114500
@@ -880,7 +951,7 @@ DESCRIPTION:I will present the story and science behind this project\, wh
   area.
 URL:/camp/2015/Fahrplan/events/6702.html
 SUMMARY:Real Vegan Cheese
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T233000
@@ -892,7 +963,7 @@ DESCRIPTION:Improving the quality of life of Refugees in Germany by using
   each other\, with their homelands\, and with their local community. 
 URL:/camp/2015/Fahrplan/events/7041.html
 SUMMARY:Refugees Emancipation
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T221500
@@ -906,7 +977,29 @@ DESCRIPTION:This talk is given by three activists who were all targeted b
  ors and some of our  responses. 
 URL:/camp/2015/Fahrplan/events/6741.html
 SUMMARY:Resisting Surveillance: it's is not just about the metadata
-LOCATION:A
+LOCATION:Project 2501
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T103000
+DTSTAMP;VALUE=DATE-TIME:20150802T152952Z
+UID:a406971d-76aa-464c-9ce2-2e7c4a63fab5@frab.cccv.de
+DESCRIPTION:Satellite imagery has been used since the 1960s to monitor ag
+ ricultural activities at a national and international level. It is only 
+ now that the image quality and cost feasibility have made satellite imag
+ ery available to individual farmers in application to crop quality analy
+ sis\, yield prediction\, and other measures related to precision farming
+ .  Farmers can now pinpoint problem areas of their fields and address th
+ em on the spot\, rather than blanketly spraying fertilizer and pesticide
+ s\, which has the potential for environmental and economic benefits.  Ho
+ wever\, this development has launched agriculture into new territory rid
+ den with issues of privacy\, data protection\, and autonomy of farm inpu
+ ts and activities. This is a discussion of the state of affairs in agric
+ ultural earth observation and what we can do to ensure that it is used f
+ or improved practices and not against the producers of our food.
+URL:/camp/2015/Fahrplan/events/6858.html
+SUMMARY:Satellite Imagery in Agriculture
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T181500
@@ -924,7 +1017,7 @@ DESCRIPTION:Tools for encryption and circumventing censorship have develo
   the development of great\, usable interfaces.
 URL:/camp/2015/Fahrplan/events/6734.html
 SUMMARY:Security and Usability in Open Source
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T210000
@@ -941,7 +1034,7 @@ DESCRIPTION:In this talk we provide a practical introduction to Acoustic
   particular)\, with the added promise of bridging air gaps.
 URL:/camp/2015/Fahrplan/events/6867.html
 SUMMARY:Singing Capacitors and Whining Inductors
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T210000
@@ -953,7 +1046,7 @@ DESCRIPTION:Since the start of the Hacker Space Program in 2011 we had so
  going efforts to reach the Karman-line using sounding rockets.
 URL:/camp/2015/Fahrplan/events/6912.html
 SUMMARY:Sounding rockets
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T233000
@@ -966,7 +1059,7 @@ DESCRIPTION:Im Juli hat sich das Bundesverfassungsgericht mit zwei Verfas
  nern sowie weitere Überwachungsmaßnahmen.
 URL:/camp/2015/Fahrplan/events/6995.html
 SUMMARY:Staatstrojaner in Karlsruhe
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T123000
@@ -977,7 +1070,7 @@ DESCRIPTION:In this talk we discuss mobile media metadata and explore how
   popular platforms modify such metadata towards different goals.
 URL:/camp/2015/Fahrplan/events/6788.html
 SUMMARY:The good\, bad\, and ugly of photo & video metadata
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T010000
@@ -995,7 +1088,7 @@ DESCRIPTION:We are a community of (hill)hackers from India and all over t
 URL:/camp/2015/Fahrplan/events/7035.html
 SUMMARY:The hills are alive with the sound of hacking ... don't wake the 
  monkeys!
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T110000
@@ -1018,19 +1111,19 @@ DESCRIPTION:A whirlwind tour of the past\, present\, and future for artif
  r knowledge about artificial intelligence is required for this talk.
 URL:/camp/2015/Fahrplan/events/6859.html
 SUMMARY:The quest for artificial general intelligence
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T170000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T160000
-DTSTAMP;VALUE=DATE-TIME:20150730T222212Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T211500
+DTSTAMP;VALUE=DATE-TIME:20150803T145155Z
 UID:882370ef-642d-43ba-b91d-22e9e87e9a1f@frab.cccv.de
 DESCRIPTION:We will give a introduction on what your badge can do. An ove
  rview of the hardware details and software options as well as the histor
  y of it's creation.
 URL:/camp/2015/Fahrplan/events/6884.html
 SUMMARY:The rad1o
-LOCATION:A
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T233000
@@ -1046,7 +1139,7 @@ DESCRIPTION:With the more widespread use of encrypted HTTPS connections m
  ecurity of HTTPS.
 URL:/camp/2015/Fahrplan/events/6833.html
 SUMMARY:TLS interception considered harmful
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T110000
@@ -1063,7 +1156,7 @@ DESCRIPTION:Proxies have been around for a while now\, but remain poorly
   running them unintentionally.
 URL:/camp/2015/Fahrplan/events/6765.html
 SUMMARY:Understanding Open Proxies
-LOCATION:B
+LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T194500
@@ -1078,7 +1171,7 @@ DESCRIPTION:Microsoft versucht mal wieder\, diesmal unter dem Deckmantel
  auensarchitektur\nund zwar schnell.\n
 URL:/camp/2015/Fahrplan/events/6813.html
 SUMMARY:Update: Vor Windows10 Update Warnung
-LOCATION:A
+LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T233000
@@ -1096,6 +1189,18 @@ DESCRIPTION:Increasingly\, there is money available to fund free software
  \, the challenges that can arise and the complicated ethics around it.\n
 URL:/camp/2015/Fahrplan/events/6900.html
 SUMMARY:What's the catch?
-LOCATION:A
+LOCATION:Project 2501
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T194500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T191500
+DTSTAMP;VALUE=DATE-TIME:20150803T053946Z
+UID:ce075d1c-1a3a-4b7f-b98a-5b9b8443e1ad@frab.cccv.de
+DESCRIPTION:Wir alle leben im Internet - aber wo lebt eigentlich das Inte
+ rnet? Für mein Radiofeature habe die Kabel und Rechenzentren gesucht\, a
+ ußerdem Orte besucht\, die das Netz geprägt haben.  
+URL:/camp/2015/Fahrplan/events/6935.html
+SUMMARY:Wo das Internet lebt
+LOCATION:Project 2501
 END:VEVENT
 END:VCALENDAR
