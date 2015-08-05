@@ -1179,6 +1179,24 @@ SUMMARY:TLS interception considered harmful
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T110000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T103000
+DTSTAMP;VALUE=DATE-TIME:20150805T064954Z
+UID:d0042aa3-5e7a-4a64-8bb5-c0cf4d639b1a@frab.cccv.de
+DESCRIPTION:Advances in computing and communications mean that we can cos
+ t-effectively store\nevery book\, sound recording\, movie\, software pac
+ kage\, and public web page ever created\, and\nprovide access to these c
+ ollections via the Internet to students and adults all over the world.  
+  By\nmostly using existing institutions and funding sources\, we can bui
+ ld this as well as compensate\nauthors within what is current worldwide 
+ library budget.\n\n20 petabytes and growing\, the Internet Archive is th
+ e 250th most popular website.   This talk will discuss the technology an
+ d politics of building a large library.
+URL:/camp/2015/Fahrplan/events/6939.html
+SUMMARY:Towards Universal Access to All Knowledge: Internet Archive
+LOCATION:Simulacron-3
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T110000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T103000
 DTSTAMP;VALUE=DATE-TIME:20150731T130016Z
