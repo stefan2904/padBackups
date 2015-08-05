@@ -109,6 +109,29 @@ Reproducible builds require a way to record and recreate the build environment, 
 <links>
 </links>
 </event>
+<event guid='e8d65b1e-ce8a-4307-b056-e8b60461c825' id='7043'>
+<date>2015-08-13T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-7043-landesverrat</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Landesverrat</title>
+<subtitle></subtitle>
+<track></track>
+<type>lecture</type>
+<language>de</language>
+<abstract></abstract>
+<description></description>
+<persons>
+<person id='1595'>Markus Beckedahl</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='ce075d1c-1a3a-4b7f-b98a-5b9b8443e1ad' id='6935'>
 <date>2015-08-13T19:15:00+02:00</date>
 <start>19:15</start>
@@ -135,25 +158,28 @@ In einer mehrstündigen Radioreportage habe ich das Netz gesucht - also dessen S
 <link href='wodasinternetlebt.de'>Wo das Internet lebt</link>
 </links>
 </event>
-<event guid='2e6e3f84-3f82-4e72-981e-fd90e23d8112' id='6779'>
+<event guid='2b3d8f9e-7169-457a-b2db-834282f437f4' id='6785'>
 <date>2015-08-13T20:00:00+02:00</date>
 <start>20:00</start>
 <duration>01:00</duration>
 <room>Project 2501</room>
-<slug>camp2015-6779-bugged_files</slug>
+<slug>camp2015-6785-advanced_interconnect_attacks</slug>
 <recording>
-<license>GPL, any version is OK</license>
+<license>CC-BY-3.0-DE</license>
 <optout>false</optout>
 </recording>
-<title>Bugged Files</title>
-<subtitle>Is Your Document Telling on You?</subtitle>
+<title>Advanced interconnect attacks</title>
+<subtitle></subtitle>
 <track>Security &amp; Hacking</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>Certain file formats, like Microsoft Word and PDF, are known to have features that allow for outbound requests to be made when the file opens. Other file formats allow for similar interactions but are not well-known for allowing such functionality. In this talk, we explore various file formats and their ability to make outbound requests, as well as what that means from a security and privacy perspective. Most interestingly, these techniques are not built on mistakes, but intentional design decisions, meaning that they will not be fixed as bugs. From data loss prevention to de-anonymization to request forgery to NTLM credential capture, this presentation will explore what it means to have files that communicate to various endpoints when opened.</abstract>
-<description></description>
+<abstract>The largest weaknesses of mobile network are well hidden from users: Information exchanged between different mobile networks expose users to fraud and privacy risks.</abstract>
+<description>Of the large interconnect perimeters, only SS7 has received proper scrutiny from the research community thus far. This talk investigates the other interconnect technologies and presents attacks on mobile data connections.
+
+The talk discusses issues of the global data roaming infrastructure and demonstrates attacks ranging from connection hijacking to remote man-in-the-middle.</description>
 <persons>
-<person id='5579'>Daniel &quot;unicornFurnace&quot; Crowley</person>
+<person id='1741'>Karsten Nohl</person>
+<person id='4421'>Luca Melette</person>
 </persons>
 <links>
 </links>
@@ -237,9 +263,10 @@ The project also conducts and maintains a website where refugee issues, advocacy
 
 Europa will das das Urheberrecht reformieren und den lang in Gefangenschaft gehaltenen Handel endlich befreien.
 
-Wird Hacking Team zulassen, dass das Netz neutral bleibt?</description>
+Wird das Netz neutral bleiben?</description>
 <persons>
 <person id='3995'>Linus Neumann</person>
+<person id='3809'>Tim Pritlove</person>
 </persons>
 <links>
 </links>
@@ -579,12 +606,12 @@ smartlocks, from information leaks to &quot;wireless lockpicking&quot; through f
 <event guid='439d64b1-b08b-4313-87f9-c469211d4206' id='6762'>
 <date>2015-08-14T16:00:00+02:00</date>
 <start>16:00</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>Project 2501</room>
 <slug>camp2015-6762-politische_losungen_fur_technische_probleme</slug>
 <recording>
 <license>CC-BY-3.0-DE</license>
-<optout>false</optout>
+<optout>true</optout>
 </recording>
 <title>Politische Lösungen für technische Probleme?</title>
 <subtitle>IT-Sicherheit per Gesetz</subtitle>
@@ -595,11 +622,33 @@ smartlocks, from information leaks to &quot;wireless lockpicking&quot; through f
 <description></description>
 <persons>
 <person id='3995'>Linus Neumann</person>
-<person id='3901'>Thorsten Schröder</person>
 </persons>
 <links>
 <link href='http://ccc.de/system/uploads/149/original/StellungnahmeDigitaleAgenda.pdf'>CCC-Stellungnahme (pdf): Effektive IT-Sicherheit fördern</link>
 <link href='http://ccc.de/system/uploads/186/original/ITSG_Stellungnahme.pdf'>CCC-Stellungnahme (pdf): Gesetz zur Erhöhung der Sicherheit informationstechnischer Systeme (IT-Sicherheitsgesetz)</link>
+</links>
+</event>
+<event guid='581757d7-5b47-491c-8907-9aa5d235edb8' id='7046'>
+<date>2015-08-14T16:30:00+02:00</date>
+<start>16:30</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-7046-freie_software_gegen_unsere_freiheit</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Freie Software gegen unsere Freiheit?</title>
+<subtitle>Fighting code-abuse by military and intelligence</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Geheimdienste, Militärs und ihre Helfer nutzen freie und Open-Source-Software – weil sie können. Sie dürfen das, denn wir haben unseren Code ohne Einschränkungen veröffentlicht. Sie dürfen das, denn wir haben es ihnen implizit gestattet. Lasst uns das mal ändern – jetzt!</abstract>
+<description>Während unsere Politik erfolglos versucht, IT-Sicherheitsrisiken per Gesetz zu verbieten oder die Defense Advanced Research Projects Agency (DARPA) der USA und das Italienische Wirtschaftsunternehmen &quot;Hacking Team&quot; nachweislich unsere Open-Source-Projekte vereinnahmt um Menschen Schaden zufügen zu können, überlegen wir uns, an was für Bedingungen wir in Zukunft unsere Open-Source-Software knüpfen können. Wir drehen den Spieß um: Wir stellen Bedingungen, die verhindern können, dass unsere eigenen Erfindungen später durch unsere und fremde Regierung gegen uns oder unsere Mitmenschen eingesetzt werden. Es ist mehr als einfach, nur ein politisches Zeichen in Form einer Klausel zu setzen: Wenn wir unsere bestehenden Open-Source-Software-Lizenzen durch eine Non-Military- und Non-Intelligence-Klausel erweitern, dann könnten und sollten Zulieferer und Militärs durchaus in Erwägung ziehen, unsere Software nicht mehr zu nutzen. Wenn sie es aber ignorieren und wir das merken, haben wir eine juristische Handhabe, mit der wir eine öffentliche Diskussion antreten oder ihnen gar die Nutzung untersagen können. Wir stellen einen Vorschlag für eine Non-Military-Usage-Klausel vor und reden über Motivation, Risiken und Nebenwirkungen.</description>
+<persons>
+<person id='3901'>Thorsten Schröder</person>
+</persons>
+<links>
 </links>
 </event>
 <event guid='f1e0faf3-f906-4abc-8218-9f42e10f8a1c' id='6889'>
@@ -1298,28 +1347,25 @@ Die weiterhin anhaltenden Sicherheitsdebakel, lassen eine IT Welt, die ausschlie
 <links>
 </links>
 </event>
-<event guid='2b3d8f9e-7169-457a-b2db-834282f437f4' id='6785'>
+<event guid='2e6e3f84-3f82-4e72-981e-fd90e23d8112' id='6779'>
 <date>2015-08-15T20:00:00+02:00</date>
 <start>20:00</start>
 <duration>01:00</duration>
 <room>Project 2501</room>
-<slug>camp2015-6785-advanced_interconnect_attacks</slug>
+<slug>camp2015-6779-bugged_files</slug>
 <recording>
-<license>CC-BY-3.0-DE</license>
+<license>GPL, any version is OK</license>
 <optout>false</optout>
 </recording>
-<title>Advanced interconnect attacks</title>
-<subtitle></subtitle>
+<title>Bugged Files</title>
+<subtitle>Is Your Document Telling on You?</subtitle>
 <track>Security &amp; Hacking</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>The largest weaknesses of mobile network are well hidden from users: Information exchanged between different mobile networks expose users to fraud and privacy risks.</abstract>
-<description>Of the large interconnect perimeters, only SS7 has received proper scrutiny from the research community thus far. This talk investigates the other interconnect technologies and presents attacks on mobile data connections.
-
-The talk discusses issues of the global data roaming infrastructure and demonstrates attacks ranging from connection hijacking to remote man-in-the-middle.</description>
+<abstract>Certain file formats, like Microsoft Word and PDF, are known to have features that allow for outbound requests to be made when the file opens. Other file formats allow for similar interactions but are not well-known for allowing such functionality. In this talk, we explore various file formats and their ability to make outbound requests, as well as what that means from a security and privacy perspective. Most interestingly, these techniques are not built on mistakes, but intentional design decisions, meaning that they will not be fixed as bugs. From data loss prevention to de-anonymization to request forgery to NTLM credential capture, this presentation will explore what it means to have files that communicate to various endpoints when opened.</abstract>
+<description></description>
 <persons>
-<person id='1741'>Karsten Nohl</person>
-<person id='4421'>Luca Melette</person>
+<person id='5579'>Daniel &quot;unicornFurnace&quot; Crowley</person>
 </persons>
 <links>
 </links>
@@ -1756,7 +1802,7 @@ Further information about coding and how it works is available at https://github
 <language>de</language>
 <abstract>We, Die Improbanden, an improv group from Berlin, will perform an open stage show and ask the really courageous members of the audience to come on stage and improvise with us. Although we usually play in German, we can also perform in English, and we invite participants from the audience to play in their own native tongue.</abstract>
 <description>Wir stellen dem Publikum die Aufgabe, wirklich Mut zu zeigen. Wir, die Improbanden, fordern vier Zuschauer auf, mit uns gemeinsam auf der Bühne zu spielen. Jeder der Zuschauer bildet mit einem Improbanden ein Duo. Beide wissen nicht, was auf sie zukommen wird. In verschiedenen Runden werden die Teams Improvisationsaufgaben meistern und vom Publikum dafür Punkte erhalten. Nach und nach werden Zweierteams ausscheiden, bis nur noch ein Duo übrig ist – Mister &amp; Miss Mutig. Der Zuschauer aus dem Gewinner-Team wird dann Hauptheld einer abschließenden längeren Geschichte.
-Die Aufgabe und Herausforderung für uns Improbanden ist es, die Mitspieler fast unmerklich zu führen und sie hell erstrahlen zu lassen. Die Bühnenneulinge werden gar keine Zeit bekommen, Angst zu haben, wir machen die Mitspieler zu den Helden des Abends. Alle, auch die, die nicht weiter kommen, werden dabei als Gewinner von der Bühne gehen. Dabei wollen wir helfen, Hemmnisse abzubauen und zeigen, wie miteinander und gemeinsam schier unlösbare und riesig erscheinende Aufgaben gemeistert werden können.</description>
+Die Aufgabe und Herausforderung für uns Improbanden ist es, die Mitspieler fast unmerklich zu führen und sie hell erstrahlen zu lassen. Die Bühnenneulinge werden gar keine Zeit bekommen, Angst zu haben, wir machen die Mitspieler zu den Helden des Abends. Alle, auch die, die nicht weiterkommen, werden dabei als Gewinner von der Bühne gehen. Dabei wollen wir helfen, Hemmnisse abzubauen und zeigen, wie miteinander und gemeinsam schier unlösbare und riesig erscheinende Aufgaben gemeistert werden können.</description>
 <persons>
 <person id='5578'>Felix Müller</person>
 <person id='5723'>Mirko 'macro' Fichtner</person>
@@ -2181,6 +2227,34 @@ The talk is organised in the following way:
 <links>
 </links>
 </event>
+<event guid='2436bb76-f941-4d2d-8b88-188a0f9689d4' id='6920'>
+<date>2015-08-16T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6920-attacking_iot_telemetry</slug>
+<recording>
+<license>FDL 1.3</license>
+<optout>false</optout>
+</recording>
+<title>Attacking IoT Telemetry</title>
+<subtitle>A study of weaknesses in the pipeline of rapidly advancing sensory development</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this hour long presentation, we consider weaknesses in the pipeline of advancing sensor developments and demonstrate passive and active attacks on hypothetical critical infrastructure using real sensor devices. This presentation does not use scare tactics, but rather hacks along in a playful and humorous way.</abstract>
+<description>We study three models of IoT system design, machine to machine (M2M), human to machine (H2M), and a hybrid M2M/H2M, considering attack vectors of each. We move to media, examining weak points in Bluetooth, WiFi, and copper cabled connectivity with mention to IPv6, ZigBee, and RFID as well. We cover typical protocols of IoT communications when collecting telemetry data and passing it on to a message bus. Moving to the science of telemetry, a field study illustrates typical use cases for sensor data collection. We wrap up by considering the points of weakness of a sensor connected critical infrastructure.
+
+Demonstrations of Bluetooth sensor communication, message publishing, server and architecture inspection, packet captures, and reverse engineering serve to illustrate the topics at hand. Attacks using Ubertooth, WiFi Pineapples, and LAN tap demonstrate the weakness of existing products.
+
+Plenty of time is set aside for questions and interaction, while a three minute hollywood clip of the Skynet is available to finish off the hour in a playful way (in case questions are not forthcoming.)</description>
+<persons>
+<person id='4239'>Michael Schloh von Bennewitz</person>
+</persons>
+<links>
+<link href='http://lect.europalab.com/hamiotelm/#/1'>Attacking Internet of Things Telemetry</link>
+</links>
+</event>
 </room>
 </day>
 <day date='2015-08-17' end='2015-08-17T19:30:00+02:00' index='5' start='2015-08-17T10:30:00+02:00'>
@@ -2337,8 +2411,8 @@ This talk will describe the features of the CA and available clients at launch; 
 </room>
 <room name='Simulacron-3'>
 <event guid='a406971d-76aa-464c-9ce2-2e7c4a63fab5' id='6858'>
-<date>2015-08-17T10:30:00+02:00</date>
-<start>10:30</start>
+<date>2015-08-17T12:00:00+02:00</date>
+<start>12:00</start>
 <duration>00:30</duration>
 <room>Simulacron-3</room>
 <slug>camp2015-6858-satellite_imagery_in_agriculture</slug>
