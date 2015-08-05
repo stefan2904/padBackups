@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.2 no time to cry</version>
+<version>1.3 doctor jeep</version>
 <conference>
 <acronym>camp2015</acronym>
 <title>Chaos Communication Camp 2015</title>
@@ -1498,6 +1498,37 @@ The other half of our talk we want to use to quickly introduce some topics we fi
 </event>
 </room>
 <room name='Simulacron-3'>
+<event guid='d0042aa3-5e7a-4a64-8bb5-c0cf4d639b1a' id='6939'>
+<date>2015-08-15T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6939-towards_universal_access_to_all_knowledge_internet_archive</slug>
+<recording>
+<license>public domain</license>
+<optout>false</optout>
+</recording>
+<title>Towards Universal Access to All Knowledge: Internet Archive</title>
+<subtitle></subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Advances in computing and communications mean that we can cost-effectively store
+every book, sound recording, movie, software package, and public web page ever created, and
+provide access to these collections via the Internet to students and adults all over the world.   By
+mostly using existing institutions and funding sources, we can build this as well as compensate
+authors within what is current worldwide library budget.
+
+20 petabytes and growing, the Internet Archive is the 250th most popular website.   This talk will discuss the technology and politics of building a large library.</abstract>
+<description></description>
+<persons>
+<person id='5653'>Brewster Kahle</person>
+</persons>
+<links>
+<link href='https://archive.org'>Internet Archive</link>
+<link href='https://openlibrary.org'>Open Library</link>
+</links>
+</event>
 <event guid='a707951f-7f9c-4c8e-8f4f-b837f3581b7b' id='6816'>
 <date>2015-08-15T11:15:00+02:00</date>
 <start>11:15</start>
