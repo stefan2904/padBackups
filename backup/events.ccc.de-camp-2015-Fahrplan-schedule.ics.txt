@@ -81,9 +81,9 @@ SUMMARY:A Torifying Tale
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T210000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T200000
-DTSTAMP;VALUE=DATE-TIME:20150731T130031Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T210000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T200000
+DTSTAMP;VALUE=DATE-TIME:20150805T003152Z
 UID:2b3d8f9e-7169-457a-b2db-834282f437f4@frab.cccv.de
 DESCRIPTION:The largest weaknesses of mobile network are well hidden from
   users: Information exchanged between different mobile networks expose u
@@ -105,6 +105,20 @@ DESCRIPTION:When you plan to send a rover to the moon\, there are many th
  uch an event.
 URL:/camp/2015/Fahrplan/events/6737.html
 SUMMARY:Analogue Mission Simulations
+LOCATION:Simulacron-3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T233000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T223000
+DTSTAMP;VALUE=DATE-TIME:20150805T003042Z
+UID:2436bb76-f941-4d2d-8b88-188a0f9689d4@frab.cccv.de
+DESCRIPTION:In this hour long presentation\, we consider weaknesses in th
+ e pipeline of advancing sensor developments and demonstrate passive and 
+ active attacks on hypothetical critical infrastructure using real sensor
+  devices. This presentation does not use scare tactics\, but rather hack
+ s along in a playful and humorous way.
+URL:/camp/2015/Fahrplan/events/6920.html
+SUMMARY:Attacking IoT Telemetry
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
@@ -137,9 +151,9 @@ SUMMARY:Basics of hydroponics
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T210000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T200000
-DTSTAMP;VALUE=DATE-TIME:20150731T125945Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T210000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T200000
+DTSTAMP;VALUE=DATE-TIME:20150805T003151Z
 UID:2e6e3f84-3f82-4e72-981e-fd90e23d8112@frab.cccv.de
 DESCRIPTION:Certain file formats\, like Microsoft Word and PDF\, are know
  n to have features that allow for outbound requests to be made when the 
@@ -404,6 +418,19 @@ SUMMARY:FPGAs for everyone
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T163000
+DTSTAMP;VALUE=DATE-TIME:20150804T195349Z
+UID:581757d7-5b47-491c-8907-9aa5d235edb8@frab.cccv.de
+DESCRIPTION:Geheimdienste\, Militärs und ihre Helfer nutzen freie und Ope
+ n-Source-Software – weil sie können. Sie dürfen das\, denn wir haben uns
+ eren Code ohne Einschränkungen veröffentlicht. Sie dürfen das\, denn wir
+  haben es ihnen implizit gestattet. Lasst uns das mal ändern – jetzt!
+URL:/camp/2015/Fahrplan/events/7046.html
+SUMMARY:Freie Software gegen unsere Freiheit?
+LOCATION:Project 2501
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T191500
 DTSTAMP;VALUE=DATE-TIME:20150731T082334Z
@@ -658,6 +685,16 @@ SUMMARY:Kissing – Heiße Tipps und Techniken
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T183000
+DTSTAMP;VALUE=DATE-TIME:20150804T152121Z
+UID:e8d65b1e-ce8a-4307-b056-e8b60461c825@frab.cccv.de
+DESCRIPTION:
+URL:/camp/2015/Fahrplan/events/7043.html
+SUMMARY:Landesverrat
+LOCATION:Project 2501
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T171500
 DTSTAMP;VALUE=DATE-TIME:20150731T130158Z
@@ -726,7 +763,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T010000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T000000
-DTSTAMP;VALUE=DATE-TIME:20150802T221527Z
+DTSTAMP;VALUE=DATE-TIME:20150804T154313Z
 UID:76a90ce3-42fc-4273-b1ef-89d08cd21356@frab.cccv.de
 DESCRIPTION:Live-Aufzeichnung der 150. Folge des Podcasts Logbuch:Netzpol
  itik mit mehreren Gästen\, Tim Pritlove und Linus Neumann.
@@ -813,7 +850,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T160000
-DTSTAMP;VALUE=DATE-TIME:20150727T153749Z
+DTSTAMP;VALUE=DATE-TIME:20150805T013952Z
 UID:ee1c8597-45af-444e-bab6-339b3c077b89@frab.cccv.de
 DESCRIPTION:We\, Die Improbanden\, an improv group from Berlin\, will per
  form an open stage show and ask the really courageous members of the aud
@@ -893,9 +930,9 @@ SUMMARY:Organize you own capture the flag competition
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T170000
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T163000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T160000
-DTSTAMP;VALUE=DATE-TIME:20150731T160225Z
+DTSTAMP;VALUE=DATE-TIME:20150804T195229Z
 UID:439d64b1-b08b-4313-87f9-c469211d4206@frab.cccv.de
 DESCRIPTION:Seit Edward Snowden ist IT-Sicherheit nicht mehr nur ein Them
  a für Konzerne und Verschwörungstheoretiker. Sie ist in den Fokus des al
@@ -980,9 +1017,9 @@ SUMMARY:Resisting Surveillance: it's is not just about the metadata
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T110000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T103000
-DTSTAMP;VALUE=DATE-TIME:20150802T152952Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T120000
+DTSTAMP;VALUE=DATE-TIME:20150804T153122Z
 UID:a406971d-76aa-464c-9ce2-2e7c4a63fab5@frab.cccv.de
 DESCRIPTION:Satellite imagery has been used since the 1960s to monitor ag
  ricultural activities at a national and international level. It is only 
@@ -1022,7 +1059,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T200000
-DTSTAMP;VALUE=DATE-TIME:20150722T161249Z
+DTSTAMP;VALUE=DATE-TIME:20150804T205039Z
 UID:e8f03c57-f500-492a-9028-b91acffe7695@frab.cccv.de
 DESCRIPTION:In this talk we provide a practical introduction to Acoustic 
  Cryptanalysis using tools and techniques that are easily grasped and che
