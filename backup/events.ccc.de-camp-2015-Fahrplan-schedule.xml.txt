@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.3 doctor jeep</version>
+<version>1.3a doctor jeep</version>
 <conference>
 <acronym>camp2015</acronym>
 <title>Chaos Communication Camp 2015</title>
@@ -114,22 +114,23 @@ Reproducible builds require a way to record and recreate the build environment, 
 <start>18:30</start>
 <duration>00:30</duration>
 <room>Project 2501</room>
-<slug>camp2015-7043-landesverrat</slug>
+<slug>camp2015-7043-kontrolle_ist_gut_landesverrat_ist_besser</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>Landesverrat</title>
-<subtitle></subtitle>
+<title>Kontrolle ist gut. #Landesverrat ist besser.</title>
+<subtitle>Wie eine investigative Recherche zum geheimen Ausbau der Massenüberwachung durch den Verfassungsschutz zu einer kleinen Staatsaffäre wurde.</subtitle>
 <track></track>
 <type>lecture</type>
 <language>de</language>
-<abstract></abstract>
+<abstract>Im Sommer 2015 erfuhr die Redaktion von netzpolitik.org, dass gegen zwei ihrer Redakteure wegen Landesverrat ermittelt wird. Was dann passierte, konnten sie nicht glauben...</abstract>
 <description></description>
 <persons>
 <person id='1595'>Markus Beckedahl</person>
 </persons>
 <links>
+<link href='http://netzpolitik.org'>netzpolitik.org</link>
 </links>
 </event>
 <event guid='ce075d1c-1a3a-4b7f-b98a-5b9b8443e1ad' id='6935'>
@@ -169,14 +170,14 @@ In einer mehrstündigen Radioreportage habe ich das Netz gesucht - also dessen S
 <optout>false</optout>
 </recording>
 <title>Advanced interconnect attacks</title>
-<subtitle></subtitle>
+<subtitle>Chasing GRX and SS7 vulns</subtitle>
 <track>Security &amp; Hacking</track>
 <type>lecture</type>
 <language>en</language>
 <abstract>The largest weaknesses of mobile network are well hidden from users: Information exchanged between different mobile networks expose users to fraud and privacy risks.</abstract>
-<description>Of the large interconnect perimeters, only SS7 has received proper scrutiny from the research community thus far. This talk investigates the other interconnect technologies and presents attacks on mobile data connections.
+<description>Of the large interconnect perimeters, only SS7 has received proper scrutiny from the research community thus far. This talk investigates GRX, the other main interconnect technology and details the attack potential on mobile data connections.
 
-The talk discusses issues of the global data roaming infrastructure and demonstrates attacks ranging from connection hijacking to remote man-in-the-middle.</description>
+The talk discusses issues of the global data roaming infrastructure and demonstrates attacks ranging from connection hijacking to remote intercept.</description>
 <persons>
 <person id='1741'>Karsten Nohl</person>
 <person id='4421'>Luca Melette</person>
@@ -1000,7 +1001,7 @@ But what about the quality of human interaction? How can we build a culture of b
 
 I will give you a crash course in the above and I will show and tell some materials you can use in your first build.</description>
 <persons>
-<person id='1571'>hjartat</person>
+<person id='1571'>Alice Bulukin</person>
 </persons>
 <links>
 </links>
@@ -1701,30 +1702,6 @@ On the other hand I intend to give the kind of talk I enjoy watching myself.
 <links>
 </links>
 </event>
-<event guid='3c34f3a5-8bd7-4e48-815f-a7aedab83869' id='6912'>
-<date>2015-08-15T20:00:00+02:00</date>
-<start>20:00</start>
-<duration>01:00</duration>
-<room>Simulacron-3</room>
-<slug>camp2015-6912-sounding_rockets</slug>
-<recording>
-<license>CC-BY-3.0-DE</license>
-<optout>false</optout>
-</recording>
-<title>Sounding rockets</title>
-<subtitle>How to reach space on a small budget</subtitle>
-<track>Science</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>Since the start of the Hacker Space Program in 2011 we had some progress but space has not been reached yet. We will report on our ongoing efforts to reach the Karman-line using sounding rockets.</abstract>
-<description>The Kármán Line is defined as the distance from the Earth's surface where aerodynamic forces become too small to steer a vehicle. It has been defined by the FAI to be located at 100km above ground and is the official boundary between Earth and space. The logical first step to orbitalise any object is therefore to cross this line. We will report on our recent activities with sounding rockets, our progress in coming closer to the Kármán Line and on which projects we will focus in the near future.</description>
-<persons>
-<person id='3008'>David Madlener</person>
-</persons>
-<links>
-<link href='http://www.alternative-raumfahrt.de'>FAR homepage</link>
-</links>
-</event>
 </room>
 </day>
 <day date='2015-08-16' end='2015-08-17T02:00:00+02:00' index='4' start='2015-08-16T10:30:00+02:00'>
@@ -2276,14 +2253,12 @@ The talk is organised in the following way:
 <abstract>In this hour long presentation, we consider weaknesses in the pipeline of advancing sensor developments and demonstrate passive and active attacks on hypothetical critical infrastructure using real sensor devices. This presentation does not use scare tactics, but rather hacks along in a playful and humorous way.</abstract>
 <description>We study three models of IoT system design, machine to machine (M2M), human to machine (H2M), and a hybrid M2M/H2M, considering attack vectors of each. We move to media, examining weak points in Bluetooth, WiFi, and copper cabled connectivity with mention to IPv6, ZigBee, and RFID as well. We cover typical protocols of IoT communications when collecting telemetry data and passing it on to a message bus. Moving to the science of telemetry, a field study illustrates typical use cases for sensor data collection. We wrap up by considering the points of weakness of a sensor connected critical infrastructure.
 
-Demonstrations of Bluetooth sensor communication, message publishing, server and architecture inspection, packet captures, and reverse engineering serve to illustrate the topics at hand. Attacks using Ubertooth, WiFi Pineapples, and LAN tap demonstrate the weakness of existing products.
-
-Plenty of time is set aside for questions and interaction, while a three minute hollywood clip of the Skynet is available to finish off the hour in a playful way (in case questions are not forthcoming.)</description>
+Demonstrations of Bluetooth sensor communication, message publishing, server and architecture inspection, packet captures, and reverse engineering serve to illustrate the topics at hand. Attacks using Ubertooth, WiFi Pineapples, and LAN tap demonstrate the weakness of existing products.</description>
 <persons>
 <person id='4239'>Michael Schloh von Bennewitz</person>
 </persons>
 <links>
-<link href='http://lect.europalab.com/hamiotelm/#/1'>Attacking Internet of Things Telemetry</link>
+<link href='http://lect.europalab.com/ccciotelm/'>Attacking Internet of Things Telemetry</link>
 </links>
 </event>
 </room>
