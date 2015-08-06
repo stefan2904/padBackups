@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T200000
-DTSTAMP;VALUE=DATE-TIME:20150805T003152Z
+DTSTAMP;VALUE=DATE-TIME:20150805T073204Z
 UID:2b3d8f9e-7169-457a-b2db-834282f437f4@frab.cccv.de
 DESCRIPTION:The largest weaknesses of mobile network are well hidden from
   users: Information exchanged between different mobile networks expose u
@@ -110,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T233000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T223000
-DTSTAMP;VALUE=DATE-TIME:20150805T003042Z
+DTSTAMP;VALUE=DATE-TIME:20150805T104210Z
 UID:2436bb76-f941-4d2d-8b88-188a0f9689d4@frab.cccv.de
 DESCRIPTION:In this hour long presentation\, we consider weaknesses in th
  e pipeline of advancing sensor developments and demonstrate passive and 
@@ -687,11 +687,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T183000
-DTSTAMP;VALUE=DATE-TIME:20150804T152121Z
+DTSTAMP;VALUE=DATE-TIME:20150805T072345Z
 UID:e8d65b1e-ce8a-4307-b056-e8b60461c825@frab.cccv.de
-DESCRIPTION:
+DESCRIPTION:Im Sommer 2015 erfuhr die Redaktion von netzpolitik.org\, das
+ s gegen zwei ihrer Redakteure wegen Landesverrat ermittelt wird. Was dan
+ n passierte\, konnten sie nicht glauben...
 URL:/camp/2015/Fahrplan/events/7043.html
-SUMMARY:Landesverrat
+SUMMARY:Kontrolle ist gut. #Landesverrat ist besser.
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
@@ -1071,18 +1073,6 @@ DESCRIPTION:In this talk we provide a practical introduction to Acoustic
   particular)\, with the added promise of bridging air gaps.
 URL:/camp/2015/Fahrplan/events/6867.html
 SUMMARY:Singing Capacitors and Whining Inductors
-LOCATION:Simulacron-3
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T210000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T200000
-DTSTAMP;VALUE=DATE-TIME:20150723T110023Z
-UID:3c34f3a5-8bd7-4e48-815f-a7aedab83869@frab.cccv.de
-DESCRIPTION:Since the start of the Hacker Space Program in 2011 we had so
- me progress but space has not been reached yet. We will report on our on
- going efforts to reach the Karman-line using sounding rockets.
-URL:/camp/2015/Fahrplan/events/6912.html
-SUMMARY:Sounding rockets
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
