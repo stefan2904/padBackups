@@ -4,7 +4,7 @@ nicoo,"2015-08-11, Evening","2015-08-17, --> DebConf",plane,(BuildUp),r3-nightsh
 PeterTO,"2015-08-11, Evening",,train?,BuildUp,r3-minion
 xro,"2015-08-11, Evening","2015-08-18, Evening","r3 convoy","BuildUp, TearDown",r3
 jampo,"2015-08-11, Evening","2015-08-18, Evening","in in BER","BuildUp, TearDown",r3
-"martin jost +1","NEED TICKETS","with xro","r3 convoy","BuildUp, TearDown",r3-olga
+"martin jost","2015-08-11, Evening w/ xro","with xro","r3 convoy","BuildUp, TearDown",r3-olga
 peterp,"2015-08-12, afternoon","2015-08-18, afternoon","GRZ-TXL 2015-08-12T10:15; TXL-GRZ 2015-08-18T16:55",,r3
 "Horst Petschenig","no ticket",,,,ext
 homunkolloss,,,"lives in BER",,ex-r3
@@ -19,7 +19,7 @@ equinox,"2015-08-11, afternoon/evening","2015-08-18, afternoon/evening","r3 conv
 "Michael G","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Julian R","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
 "Christian M",42227,,plane,,ext
-"Christoph / Stratos","with xro in car",,car,,?
+"Christoph / Stratos","2015-08-11, Evening w/ xro","with xro","r3 convoy",,?
 Ernst?,"need ticket",,,,
 Maria,,,plane,,
 ,,,,,
