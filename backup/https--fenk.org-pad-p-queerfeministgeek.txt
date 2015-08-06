@@ -76,12 +76,13 @@ Who is arriving when?
 		* lore
 		* gedankenstuecke
 		* obaz
+		* c3o
 	* 13th (Day 1)
 		* nadia
 	* Later than Day 1
 	* 14th (evening)
-    milizeus 
-    vegavita 
+		* milizeus 
+		* vegavita 
 	* Haven't the foggiest
 		* sirenensang
 
