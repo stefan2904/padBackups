@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.3a doctor jeep</version>
+<version>1.4 Marian</version>
 <conference>
 <acronym>camp2015</acronym>
 <title>Chaos Communication Camp 2015</title>
@@ -128,6 +128,7 @@ Reproducible builds require a way to record and recreate the build environment, 
 <description></description>
 <persons>
 <person id='1595'>Markus Beckedahl</person>
+<person id='5764'>Andre Meister</person>
 </persons>
 <links>
 <link href='http://netzpolitik.org'>netzpolitik.org</link>
@@ -274,6 +275,32 @@ Wird das Netz neutral bleiben?</description>
 </event>
 </room>
 <room name='Simulacron-3'>
+<event guid='89eb363f-e80f-4be8-941b-5b901724b999' id='6926'>
+<date>2015-08-13T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6926-satellite_open_ground_station_network</slug>
+<recording>
+<license>CC-BY-SA</license>
+<optout>false</optout>
+</recording>
+<title>Satellite Open Ground Station Network</title>
+<subtitle>open source ground station, optimized for modularity, built from readily available and affordable tools and resources.</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>An introduction to SatNOGS an open source ground station, optimized for modularity, built from readily available and affordable tools and resources.</abstract>
+<description>SatNOGS provides a comprehensive, scalable and modular platform that enables communication with the thousands of satellites our planet's orbit. 
+
+Following the principles of modular architecture used in network communications ensure remote access capabilities and modular interchangeable design to meet all needs. Following the principles of open source in software and in hardware in SatNOGS we invite you to participate in it's development.</description>
+<persons>
+<person id='5763'>John Giannelos</person>
+</persons>
+<links>
+<link href='http://satnogs.org'>SatNOGS</link>
+</links>
+</event>
 <event guid='b8a7511e-143d-45c5-b974-2e91dab18814' id='6752'>
 <date>2015-08-13T16:00:00+02:00</date>
 <start>16:00</start>
@@ -803,6 +830,28 @@ In response to this medical need, Women on Waves was founded in 1999. On board a
 This talk will present the work and challenges of WoW.</description>
 <persons>
 <person id='4116'>rebecca gomperts</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='b71fb1bd-d089-49c7-bdcc-ff47d219b342' id='7025'>
+<date>2015-08-14T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-7025-terraforming_planet_earth</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Terraforming Planet Earth</title>
+<subtitle>Practical terraforming technologies for regenerating soils and souls</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Large parts of the surface of our planet have been devastated by human  activity. Terraforming on a human scale is needed to bring these landscapes back to life. The knowledge and technology is there, and you can learn how to use it and participate.</abstract>
+<description>Large scale ecological regeneration needs to be a collaborative participatory process with the direct involvement of all interested people, local and global. Inviting the local population to elevate the physical state of their natural environments, their social and cultural heritage is part of the process of bringing deserts back to life through human-scale terraforming. In a pilot project in Jordan, the Rhizo Camp, these methods are brought to work to ecologicaly restore 15 hectares of land high on Jordan’s mountain ridge, where the essential challenge is scarcity and usage of water. </description>
+<persons>
 </persons>
 <links>
 </links>
@@ -2266,8 +2315,8 @@ Demonstrations of Bluetooth sensor communication, message publishing, server and
 <day date='2015-08-17' end='2015-08-17T19:30:00+02:00' index='5' start='2015-08-17T10:30:00+02:00'>
 <room name='Project 2501'>
 <event guid='58068b84-9261-4f5c-bb73-5c674fa5c45b' id='6859'>
-<date>2015-08-17T10:30:00+02:00</date>
-<start>10:30</start>
+<date>2015-08-17T11:15:00+02:00</date>
+<start>11:15</start>
 <duration>00:30</duration>
 <room>Project 2501</room>
 <slug>camp2015-6859-the_quest_for_artificial_general_intelligence</slug>
