@@ -250,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T111500
-DTSTAMP;VALUE=DATE-TIME:20150725T091641Z
+DTSTAMP;VALUE=DATE-TIME:20150807T063449Z
 UID:85bae1d2-e024-48e9-91e1-d4ecfde18694@frab.cccv.de
 DESCRIPTION:Die Störerhaftung verhindert bisher oft\, dass Unternehmen un
  d Private in Deutschland offene Funknetzwerke anbieten. Die Digiges hat 
@@ -687,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T183000
-DTSTAMP;VALUE=DATE-TIME:20150805T072345Z
+DTSTAMP;VALUE=DATE-TIME:20150806T155801Z
 UID:e8d65b1e-ce8a-4307-b056-e8b60461c825@frab.cccv.de
 DESCRIPTION:Im Sommer 2015 erfuhr die Redaktion von netzpolitik.org\, das
  s gegen zwei ihrer Redakteure wegen Landesverrat ermittelt wird. Was dan
@@ -1041,6 +1041,18 @@ SUMMARY:Satellite Imagery in Agriculture
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T120000
+DTSTAMP;VALUE=DATE-TIME:20150807T064434Z
+UID:89eb363f-e80f-4be8-941b-5b901724b999@frab.cccv.de
+DESCRIPTION:An introduction to SatNOGS an open source ground station\, op
+ timized for modularity\, built from readily available and affordable too
+ ls and resources.
+URL:/camp/2015/Fahrplan/events/6926.html
+SUMMARY:Satellite Open Ground Station Network
+LOCATION:Simulacron-3
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T174500
 DTSTAMP;VALUE=DATE-TIME:20150722T162003Z
@@ -1089,6 +1101,19 @@ SUMMARY:Staatstrojaner in Karlsruhe
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T221500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T211500
+DTSTAMP;VALUE=DATE-TIME:20150807T064616Z
+UID:b71fb1bd-d089-49c7-bdcc-ff47d219b342@frab.cccv.de
+DESCRIPTION:Large parts of the surface of our planet have been devastated
+  by human  activity. Terraforming on a human scale is needed to bring th
+ ese landscapes back to life. The knowledge and technology is there\, and
+  you can learn how to use it and participate.
+URL:/camp/2015/Fahrplan/events/7025.html
+SUMMARY:Terraforming Planet Earth
+LOCATION:Project 2501
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T120000
 DTSTAMP;VALUE=DATE-TIME:20150731T130111Z
@@ -1118,9 +1143,9 @@ SUMMARY:The hills are alive with the sound of hacking ... don't wake the
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T110000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T103000
-DTSTAMP;VALUE=DATE-TIME:20150723T075535Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T114500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T111500
+DTSTAMP;VALUE=DATE-TIME:20150807T065155Z
 UID:58068b84-9261-4f5c-bb73-5c674fa5c45b@frab.cccv.de
 DESCRIPTION:A whirlwind tour of the past\, present\, and future for artif
  icial general intelligence (also known as strong AI). This talk will beg
