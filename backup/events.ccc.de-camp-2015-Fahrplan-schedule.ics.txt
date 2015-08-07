@@ -250,18 +250,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T111500
-DTSTAMP;VALUE=DATE-TIME:20150807T063449Z
+DTSTAMP;VALUE=DATE-TIME:20150807T114339Z
 UID:85bae1d2-e024-48e9-91e1-d4ecfde18694@frab.cccv.de
 DESCRIPTION:Die Störerhaftung verhindert bisher oft\, dass Unternehmen un
- d Private in Deutschland offene Funknetzwerke anbieten. Die Digiges hat 
- daher schon vor drei Jahren einen Gesetzentwurf vorgestellt\, wie man di
- e Rechtslage fixen kann\, der auch im Bundestag beraten wird. Leider hat
-  sich in der Bundesregierung aber die Betonkopf-Fraktion durchgesetzt\, 
- sodass dem Digiges-Entwurf ein WLAN-Verhinderungsgesetz der Großen Koali
- tion entgegengesetzt wurde. Der Talk fasst zusammen\, welche Haftungsris
- iken es derzeit gibt\, warum der Gesetzentwurf der Bundesregierung die L
- age deutlich verschlechtern würde und was man trotzdem tun kann\, um sei
- n Netz rechtssicher öffnen zu können.
+ d Private in Deutschland offene Funknetzwerke anbieten.
 URL:/camp/2015/Fahrplan/events/6639.html
 SUMMARY:D-Offline? Das drohende WLAN-Sterben & was wir dagegen tun können
 LOCATION:Project 2501
