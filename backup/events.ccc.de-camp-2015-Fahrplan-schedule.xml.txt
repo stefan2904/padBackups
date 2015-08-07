@@ -587,8 +587,10 @@ This talk will cover some of the highlights and history of &quot;the galaxy's bi
 <track>Ethics, Society &amp; Politics</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Die Störerhaftung verhindert bisher oft, dass Unternehmen und Private in Deutschland offene Funknetzwerke anbieten. Die Digiges hat daher schon vor drei Jahren einen Gesetzentwurf vorgestellt, wie man die Rechtslage fixen kann, der auch im Bundestag beraten wird. Leider hat sich in der Bundesregierung aber die Betonkopf-Fraktion durchgesetzt, sodass dem Digiges-Entwurf ein WLAN-Verhinderungsgesetz der Großen Koalition entgegengesetzt wurde. Der Talk fasst zusammen, welche Haftungsrisiken es derzeit gibt, warum der Gesetzentwurf der Bundesregierung die Lage deutlich verschlechtern würde und was man trotzdem tun kann, um sein Netz rechtssicher öffnen zu können.</abstract>
-<description>Come in and find out!</description>
+<abstract>Die Störerhaftung verhindert bisher oft, dass Unternehmen und Private in Deutschland offene Funknetzwerke anbieten.</abstract>
+<description>Die Digiges hat daher schon vor drei Jahren einen Gesetzentwurf vorgestellt, wie man die Rechtslage fixen kann, der auch im Bundestag beraten wird. Leider hat sich in der Bundesregierung aber die Betonkopf-Fraktion durchgesetzt, sodass dem Digiges-Entwurf ein WLAN-Verhinderungsgesetz der Großen Koalition entgegengesetzt wurde.
+
+Der Vortrag fasst zusammen, welche Haftungsrisiken es derzeit gibt, warum der Gesetzentwurf der Bundesregierung die Lage deutlich verschlechtern würde und was man trotzdem tun kann, um sein Netz rechtssicher öffnen zu können.</description>
 <persons>
 <person id='3723'>vieuxrenard</person>
 </persons>
