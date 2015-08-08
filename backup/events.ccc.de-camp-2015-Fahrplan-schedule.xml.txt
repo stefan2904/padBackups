@@ -854,6 +854,7 @@ This talk will present the work and challenges of WoW.</description>
 <abstract>Large parts of the surface of our planet have been devastated by human  activity. Terraforming on a human scale is needed to bring these landscapes back to life. The knowledge and technology is there, and you can learn how to use it and participate.</abstract>
 <description>Large scale ecological regeneration needs to be a collaborative participatory process with the direct involvement of all interested people, local and global. Inviting the local population to elevate the physical state of their natural environments, their social and cultural heritage is part of the process of bringing deserts back to life through human-scale terraforming. In a pilot project in Jordan, the Rhizo Camp, these methods are brought to work to ecologicaly restore 15 hectares of land high on Jordan’s mountain ridge, where the essential challenge is scarcity and usage of water. </description>
 <persons>
+<person id='5732'>Robert Senftleben</person>
 </persons>
 <links>
 </links>
@@ -1047,7 +1048,7 @@ But what about the quality of human interaction? How can we build a culture of b
 <track>Hardware &amp; Making</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>Hydroponics on a need to know basis for the ones who aim to build their _first_ system. This is what you need to know on the green side of hydroponics, to then make it digital, connected and even more automatic. </abstract>
+<abstract>The GREEN side of hydroponics on a need to know basis for the ones who aim to build their _first_ system. This is what you need to know on the green side of hydroponics, to then make it digital, connected and even more automatic. </abstract>
 <description>How do plants really work, what are the foundations of growth, seed-setting and general wellbeing plants. What different types of soil-less systems are there, and how do they work. These are things you need to know to be successful when you build your first hydroponic system. 
 
 I will give you a crash course in the above and I will show and tell some materials you can use in your first build.</description>
