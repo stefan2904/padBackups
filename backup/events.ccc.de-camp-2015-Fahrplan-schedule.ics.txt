@@ -140,12 +140,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T183000
-DTSTAMP;VALUE=DATE-TIME:20150731T082610Z
+DTSTAMP;VALUE=DATE-TIME:20150808T072250Z
 UID:87c715bf-c6a7-4ec6-87fc-84f4d04e01b6@frab.cccv.de
-DESCRIPTION:Hydroponics on a need to know basis for the ones who aim to b
- uild their _first_ system. This is what you need to know on the green si
- de of hydroponics\, to then make it digital\, connected and even more au
- tomatic. 
+DESCRIPTION:The GREEN side of hydroponics on a need to know basis for the
+  ones who aim to build their _first_ system. This is what you need to kn
+ ow on the green side of hydroponics\, to then make it digital\, connecte
+ d and even more automatic. 
 URL:/camp/2015/Fahrplan/events/6959.html
 SUMMARY:Basics of hydroponics
 LOCATION:Simulacron-3
@@ -1095,7 +1095,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T211500
-DTSTAMP;VALUE=DATE-TIME:20150807T064616Z
+DTSTAMP;VALUE=DATE-TIME:20150807T165259Z
 UID:b71fb1bd-d089-49c7-bdcc-ff47d219b342@frab.cccv.de
 DESCRIPTION:Large parts of the surface of our planet have been devastated
   by human  activity. Terraforming on a human scale is needed to bring th
