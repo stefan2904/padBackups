@@ -1,61 +1,61 @@
-ID,ETA,ETD,"Mean of transportation",projects?,Group
-stefan,"2015-08-11, Evening","2015-08-18, Noon","train (or equinox car)","BuildUp, (TearDown)",r3-nightshift
-nicoo,"2015-08-11, Evening","2015-08-17, --> DebConf",plane,(BuildUp),r3-nightshift
-PeterTO,"2015-08-11, Evening",,train?,BuildUp,r3-minion
-xro,"2015-08-11, Evening","2015-08-18, Evening","r3 convoy","BuildUp, TearDown",r3
-jampo,"2015-08-11, Evening","2015-08-18, Evening","in in BER","BuildUp, TearDown",r3
-"martin jost","2015-08-11, Evening w/ xro","with xro","r3 convoy","BuildUp, TearDown",r3-olga
-peterp,"2015-08-12, afternoon","2015-08-18, afternoon","GRZ-TXL 2015-08-12T10:15; TXL-GRZ 2015-08-18T16:55",,r3
-"Horst Petschenig","needs ticket!",,,,ext
-homunkolloss,,,"lives in BER",,ex-r3
-"n0v0id (not r3ville)","2015-08-12, Evening","2015-08-18, Afternoon","GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55",,ext
-equinox,"2015-08-11, afternoon/evening","2015-08-18, afternoon/evening","r3 convoy / equinox car (getting there: full, getting back: 1 place left)","BuildUp, TearDown, all things Infrastructure",r3-nightshift
-"patrick (canceled)","fährt nicht mit",,,,r3
-"gasti (confirmed not going)","kann nicht, arbeitet für Rotes Kreuz",,,,0xff
-"Thomas K","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
-"Bernhard K","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
-"Andreas H",,,plane,,BAGRU
-"Fabian S","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
-"Michael G","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
-"Julian R","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU
-"Christian M",42227,,plane,,ext
-"Christoph / Stratos","2015-08-11, Evening w/ xro","with xro","r3 convoy",,?
-Ernst?,"need ticket",,,,
-Maria,,,plane,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,aa,,,,
+ID,ETA,ETD,"Mean of transportation",projects?,Group,"paid fee"
+stefan,"2015-08-11, Evening","2015-08-18, Noon","train (or equinox car)","BuildUp, (TearDown)",r3-nightshift,
+nicoo,"2015-08-11, Evening","2015-08-17, --> DebConf",plane,(BuildUp),r3-nightshift,yes
+PeterTO,"2015-08-11, Evening",,train?,BuildUp,r3-minion,yes
+xro,"2015-08-11, Evening","2015-08-18, Evening","r3 convoy","BuildUp, TearDown",r3,yes
+jampo,"2015-08-11, Evening","2015-08-18, Evening","in in BER","BuildUp, TearDown",r3,
+"martin jost","2015-08-11, Evening w/ xro","with xro","r3 convoy","BuildUp, TearDown",r3-olga,
+peterp,"2015-08-12, afternoon","2015-08-18, afternoon","GRZ-TXL 2015-08-12T10:15; TXL-GRZ 2015-08-18T16:55",,r3,
+"Horst Petschenig","needs ticket!",,,,ext,
+homunkolloss,,,"lives in BER",,ex-r3,
+"n0v0id (not r3ville)","2015-08-12, Evening","2015-08-18, Afternoon","GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55",,ext,
+equinox,"2015-08-11, afternoon/evening","2015-08-18, afternoon/evening","r3 convoy / equinox car (getting there: full, getting back: 1 place left)","BuildUp, TearDown, all things Infrastructure",r3-nightshift,yes
+"patrick (canceled)","fährt nicht mit",,,,r3,
+"gasti (confirmed not going)","kann nicht, arbeitet für Rotes Kreuz",,,,0xff,
+"Thomas K","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU,
+"Bernhard K","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU,
+"Andreas H",,,plane,,BAGRU,
+"Fabian S","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU,
+"Michael G","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU,
+"Julian R","2015-08-12, Evening","2015-08-18, Noon","bagru car",,BAGRU,
+"Christian M",42227,,plane,,ext,yes
+"Christoph / Stratos","2015-08-11, Evening w/ xro","with xro","r3 convoy",,?,yes
+Ernst?,"need ticket",,,,,
+Maria,,,plane,,,yes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,"+1 unidentifyable bank transfer"
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,aa,,,,,
