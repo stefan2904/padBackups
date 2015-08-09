@@ -30,8 +30,8 @@ medkit,xro,ok,1,,"in xro car, another in xro's camping equipment, more to be ass
 "light for community tent (fairy lights?)",peterTO,,,,"cable powered + maybe some battery powered backup"
 "Gasgriller / Campinggriller",,"IMPORTANT, NOT DONE",1,,
 "stuff to clean the kitchen (&tents?)",,,,,
-"Big metal boxes (cantines)",nicoo,"ok (at least 1)",2,0,
-makava,,transport?,,,"inform gebi early enough :P transport via matalab?"
+"Big metal boxes (cantines)",nicoo,"in r3 now",2,0,
+makava,,no,,,"inform gebi early enough :P transport via matalab?"
 "fire extinguisher",xro,ok,,,"small in car"
 Paper/Pens/Signs/Tixo...,,,,,
 Hammer,xro,ok,,,"r3 Rückschlagfreier Hammer"
