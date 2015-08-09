@@ -66,9 +66,6 @@ TODO:
 
 
 
-
- * next meeting?
-
  * stefan: Village Inhabitants: Make List + set Deadline
    * https://ethercalc.org/RealVilleInhabitants
 
