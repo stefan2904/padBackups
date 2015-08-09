@@ -279,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T160000
-DTSTAMP;VALUE=DATE-TIME:20150722T161510Z
+DTSTAMP;VALUE=DATE-TIME:20150809T203250Z
 UID:379a56ad-5123-4861-a656-c0d534d53a96@frab.cccv.de
 DESCRIPTION:Our understanding of the universe has exploded in the past 50
   years\, largely thanks to incredible advances in detector technology th
@@ -480,21 +480,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T111500
-DTSTAMP;VALUE=DATE-TIME:20150722T161307Z
+DTSTAMP;VALUE=DATE-TIME:20150809T210525Z
 UID:9a28ef84-3ba0-4c12-9f8a-115b30bc3ec0@frab.cccv.de
-DESCRIPTION:Today's websites and mobile applications heavily rely on thir
+DESCRIPTION:Today’s websites and mobile applications heavily rely on thir
  d party libraries: to display advertisement\, to enable social networkin
  g\, and to analyze their audience. The convenience of these third party 
- libraries comes at the cost of privacy violations for their users. A num
- ber of blocking-tools tackle this privacy issue including Adblock Plus a
- nd Ghostery. In this talk we present an analysis on the effectiveness of
-  today's blocking tools. These blocking-tools focus to a large extend on
-  the traditional Desktop web-browser\, while at the same time a global s
- hift towards mobile devices can be observed. We present our open source 
- project\, called Usable Privacy Box (upribox)\, which aims to make track
- er-blocking on mobile devices easy and usable.
+ libraries comes at the cost of privacy violations for their users.
 URL:/camp/2015/Fahrplan/events/6753.html
-SUMMARY:Gotta Block'em all
+SUMMARY:Gotta Block’em all
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
@@ -648,17 +641,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T120000
-DTSTAMP;VALUE=DATE-TIME:20150731T125943Z
+DTSTAMP;VALUE=DATE-TIME:20150809T170314Z
 UID:cf32c6aa-4a0b-41dd-8103-45575f628913@frab.cccv.de
 DESCRIPTION:Smartlocks are the new way of securing doors by replacing the
-  old mechanical locks by new high-tech and\nconnected locks\, able to co
- mmunicate with other smart devices such as smartphones\nand computers. V
- endors argue that "key dematerialization" is the future of keys\,\nwhere
-  anybody would be able to give\, control and revoke keys for one or mult
- iple\nlocks by using his smartphone. No more physical keys needed for a 
- better control\, or not.
+  old mechanical locks by new high-tech and connected locks\, able to com
+ municate with other smart devices such as smartphones\nand computers.
 URL:/camp/2015/Fahrplan/events/6689.html
-SUMMARY:Keys ? Where we're going we don't need keys.
+SUMMARY:Keys? Where we’re going we don’t need keys.
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
