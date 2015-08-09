@@ -607,26 +607,23 @@ Der Vortrag fasst zusammen, welche Haftungsrisiken es derzeit gibt, warum der Ge
 <license>CC-BY-3.0-DE</license>
 <optout>true</optout>
 </recording>
-<title>Keys ? Where we're going we don't need keys.</title>
+<title>Keys? Where we’re going we don’t need keys.</title>
 <subtitle></subtitle>
 <track>Security &amp; Hacking</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>Smartlocks are the new way of securing doors by replacing the old mechanical locks by new high-tech and
-connected locks, able to communicate with other smart devices such as smartphones
-and computers. Vendors argue that &quot;key dematerialization&quot; is the future of keys,
-where anybody would be able to give, control and revoke keys for one or multiple
-locks by using his smartphone. No more physical keys needed for a better control, or not.</abstract>
-<description>We'll go through the challenges of key dematerialization in the actual
+<abstract>Smartlocks are the new way of securing doors by replacing the old mechanical locks by new high-tech and connected locks, able to communicate with other smart devices such as smartphones
+and computers.</abstract>
+<description>Vendors argue that „key dematerialization“ is the future of keys, where anybody would be able to give, control and revoke keys for one or multiple locks by using his smartphone. No more physical keys needed for a better control, or not.
+
+We’ll go through the challenges of key dematerialization in the actual
 world, from technical challenges to real world implementations ... and failures.
 
 Widespread smartlocks are not so smart, and developers often fail at
-correctly implementing cryptographic algorithms (especially when the smartlock is
-advertised as using a strong AES-256 implementation), and of course security by obscurity is
+correctly implementing cryptographic algorithms (especially when the smartlock is advertised as using a strong AES-256 implementation), and of course security by obscurity is
 still used and broken when dealing with critical embedded systems.
 
-During this talk, we're going to demonstrate some real world attacks on one of these
-smartlocks, from information leaks to &quot;wireless lockpicking&quot; through fuzzing.</description>
+During this talk, we’re going to demonstrate some real world attacks on one of these smartlocks, from information leaks to „wireless lockpicking“ through fuzzing.</description>
 <persons>
 <person id='3708'>Damien Cauquil</person>
 </persons>
@@ -1791,13 +1788,21 @@ On the other hand I intend to give the kind of talk I enjoy watching myself.
 <license>CC BY 3.0</license>
 <optout>false</optout>
 </recording>
-<title>Gotta Block'em all</title>
+<title>Gotta Block’em all</title>
 <subtitle>Creating a usable tool against online trackers</subtitle>
 <track>Science</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>Today's websites and mobile applications heavily rely on third party libraries: to display advertisement, to enable social networking, and to analyze their audience. The convenience of these third party libraries comes at the cost of privacy violations for their users. A number of blocking-tools tackle this privacy issue including Adblock Plus and Ghostery. In this talk we present an analysis on the effectiveness of today's blocking tools. These blocking-tools focus to a large extend on the traditional Desktop web-browser, while at the same time a global shift towards mobile devices can be observed. We present our open source project, called Usable Privacy Box (upribox), which aims to make tracker-blocking on mobile devices easy and usable.</abstract>
-<description>The talk starts of with a brief introduction on state-of-the-art methods to track users online. Hereby, we discuss traditional tracking cookies, super cookies, as well as fingerprinting. This first part should set the stage for our research and the goals of our privacy tool, and provide an overview on current research in the area of user tracking. The second part presents the primarily results of our study on user tracking. Our study analyzed the effectiveness of today's tracker-blocking extensions on popular websites and Android applications. Finally, we present the Usable Privacy Box (upribox), which aims at making the protection against user tracking as easy as possible. The upribox creates its own Wifi network and filters advertisement and trackers transparently, without requiring additional configuration.</description>
+<abstract>Today’s websites and mobile applications heavily rely on third party libraries: to display advertisement, to enable social networking, and to analyze their audience. The convenience of these third party libraries comes at the cost of privacy violations for their users.</abstract>
+<description>A number of blocking-tools tackle this privacy issue including Adblock Plus and Ghostery. In this talk we present an analysis on the effectiveness of today’s blocking tools. These blocking tools focus to a large extend on the traditional Desktop web-browser, while at the same time a global shift towards mobile devices can be observed.
+
+We present our open source project, called Usable Privacy Box (upribox), which aims to make tracker-blocking on mobile devices easy and usable.
+
+The talk starts of with a brief introduction on state-of-the-art methods to track users online. Hereby, we discuss traditional tracking cookies, super cookies, as well as fingerprinting. This first part should set the stage for our research and the goals of our privacy tool, and provide an overview on current research in the area of user tracking.
+
+The second part presents the primarily results of our study on user tracking. Our study analyzed the effectiveness of today’s tracker-blocking extensions on popular websites and Android applications.
+
+Finally, we present the Usable Privacy Box (upribox), which aims at making the protection against user tracking as easy as possible. The upribox creates its own Wifi network and filters advertisement and trackers transparently, without requiring additional configuration.</description>
 <persons>
 <person id='5496'>Markus Huber</person>
 </persons>
@@ -1915,7 +1920,7 @@ Despite the increasing popularity of these attacks, the cost of the required too
 In addition to the lecture, we will also run a workshop where we will show you more advanced techniques to break into microcontrollers using professional tools. For more information about the workshop check &quot;Hacking hardware like a pro&quot; workshop
 </description>
 <persons>
-<person id='5508'>Ramiro Pareja</person>
+<person id='5508'>Ramiro Pareja &amp; Rafa Boix</person>
 </persons>
 <links>
 </links>
@@ -2401,7 +2406,7 @@ From stingrays to aerial surveillance to license plate readers and cell phone tr
 <type>lecture</type>
 <language>en</language>
 <abstract>Our understanding of the universe has exploded in the past 50 years, largely thanks to incredible advances in detector technology that allow us to precisely measure light and particles of all kinds. In this talk, I will describe some of the world's most sensitive detector technologies. These detectors often exploit strange properties of matter, or push up against the laws of physics in the most extreme physical conditions. I will also highlight the scientific discoveries that these new technologies have made possible.</abstract>
-<description>Almost every great leap in understanding in science was made possible by a new technology. For example, the field of biology changed forever after the microscope revealed the existence of cells. In this talk I hope to convey some of the great technological leaps in detector technology in astronomy, and what those leaps have allowed us to learn about the nature of the universe. A small sampling of what you can expect to hear about is listed below.
+<description>Almost every great leap in understanding in science was made possible by a new technology. For example, the field of biology changed forever after the microscope revealed the existence of cells. In this talk I hope to convey some of the great technological leaps in technology in astronomy, and what those leaps have allowed us to learn about the nature of the universe. A small sampling of what you can expect to hear about is listed below.
 
 My own PhD research was focused on the cosmic microwave background (remnant radiation from the big bang), which is best viewed with mm-wavelength detectors. This wavelength range is notoriously difficult to work in, and we have to operate our superconducting detectors a mere .25 degrees above absolute zero.
 
@@ -2409,7 +2414,7 @@ Other experiments aim to measure neutrinos, which are particles that almost neve
 
 In practice, there are always problems that crop up when working at the edges of human understanding and the laws of physics, some fundamental, and some mundane but hilarious. (Like the time all of our resistors went superconducting on us; Digikey doesn't spec resistors to temperatures within a degree of absolute zero.) I plan to discuss some of the practical problems we have had to tackle when working on cryogenics and detectors, and the sometimes unorthodox ways we have solved them. Cryogenic dental floss anyone?</description>
 <persons>
-<person id='5459'>Dr. Liz George</person>
+<person id='5459'>Liz</person>
 </persons>
 <links>
 </links>
