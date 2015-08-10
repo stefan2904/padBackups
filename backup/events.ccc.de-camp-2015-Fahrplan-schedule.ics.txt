@@ -847,7 +847,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T233000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T223000
-DTSTAMP;VALUE=DATE-TIME:20150731T212721Z
+DTSTAMP;VALUE=DATE-TIME:20150810T004411Z
 UID:cdc39fc3-715d-4610-b633-3821e4762aa4@frab.cccv.de
 DESCRIPTION:Es gibt unzählige Möglichkeiten\, ein Hardwareentwicklungspro
  jekt in den Sand zu setzen. Man muss nicht für alle davon selbst verantw
