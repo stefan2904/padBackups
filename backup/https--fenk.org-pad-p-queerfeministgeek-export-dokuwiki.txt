@@ -113,6 +113,9 @@ So far no one offered to bring dishes for a larger group, so please bring your o
     * rechargeable batteries (AAA, CR123A, 18650) with chargers
     * polyethylene tarps
     * old small media player (specs: [[http://www.cnet.com/products/seagate-freeagent-theater-plus/)]]
+    * old video projector
+    * power consumption meter
+    * soldering iron+multimeter+Arduino2009+sensors+mixed components
   * sirenensang
     * a surplus tent (a small quiet tent?)
     * pillows and blankets
@@ -149,15 +152,10 @@ So far no one offered to bring dishes for a larger group, so please bring your o
 
 
 **PROJECTS** ("Project" = "a collaborative enterprise that brings together people")
+//More at //[[https://events.ccc.de/camp/2015/wiki/Village:Queer_Feminist_Geeks]]
 
 **Code of Conduct (CoC)**
 [[https://pad.riseup.net/p/codeofconduct]]
-
-**Anti-harassment fairies**
-[[https://events.ccc.de/camp/2015/wiki/Projects:Anti-harassment_fairies]]
-
-**Queersplaining**
-[[https://events.ccc.de/camp/2015/wiki/Projects:Queersplaining]]
 
 **Daily meetings**
   * at a fixed moment of the day ? when ?
@@ -179,10 +177,8 @@ should be discussed :
 
 
 **SELF-ORGANIZED SESSIONS **("Self-?organized Sessions" = workshops in a generic sense)
-  * 
-  * (was "Queer Education workshop" the same?) SchLAu workshop (education project for schools - enlightening the cis Heten) (siri & lena?) - all are welcome
-    * One Session in german, one in english?
-  * selfdefense for womenlesbiantrans* (jez) - all women_lesbian_trans* are welcome
+//More at //[[https://events.ccc.de/camp/2015/wiki/Village:Queer_Feminist_Geeks]]
+
   * <del>The Newbie Session (Theresa) - all are welcome</del>
     * <del>Is this your first time at a CCC event? Your first camp? Your second? Feeling a bit lost? Having questions? We'll try to answer them :) </del>too much for me, I guess...
 
@@ -205,6 +201,8 @@ should be discussed :
     * round table
   * Develop a template on feminist, queer and trans pedagogy in hacking
   * The CCCamp badge ([[https://events.ccc.de/2015/07/10/rad1o/]] ) will have a very small display, but we could program it to// [add your queer idea here]//
+
+
 
 
 
