@@ -1167,12 +1167,12 @@ In this talk I'll show you how it's done, things you need to consider (like wave
 <optout>false</optout>
 </recording>
 <title>Mythen der Elektronikentwicklung</title>
-<subtitle>&quot;Der Profi macht nur neue Fehler. Der Dummkopf wiederholt seine Fehler. Der Faule und der Feige machen keine Fehler.&quot;</subtitle>
+<subtitle>„Der Profi macht nur neue Fehler. Der Dummkopf wiederholt seine Fehler. Der Faule und der Feige machen keine Fehler.“</subtitle>
 <track>Hardware &amp; Making</track>
 <type>lecture</type>
 <language>de</language>
 <abstract>Es gibt unzählige Möglichkeiten, ein Hardwareentwicklungsprojekt in den Sand zu setzen. Man muss nicht für alle davon selbst verantwortlich sein, um daraus zu lernen. Und nicht alles, was man irgendwo schon mal gehört hat, ist auch wirklich richtig.</abstract>
-<description>Es werden häufig vorkommende, aber auch exotischere und überraschende (potenzielle) Fehlerquellen bei Hardwareentwicklungen aufgezeigt. Besonderer Wert wird auf die &quot;Mythen&quot; gelegt, falsche Fakten, die aber weit verbreitet sind und fast nie genauer hinterfragt werden.
+<description>Es werden häufig vorkommende, aber auch exotischere und überraschende (potenzielle) Fehlerquellen bei Hardwareentwicklungen aufgezeigt. Besonderer Wert wird auf die „Mythen“ gelegt, falsche Fakten, die aber weit verbreitet sind und fast nie genauer hinterfragt werden.
 </description>
 <persons>
 <person id='2967'>luky</person>
