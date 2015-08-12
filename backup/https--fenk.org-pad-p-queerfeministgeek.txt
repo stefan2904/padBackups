@@ -126,7 +126,6 @@ Who brings what?
 		* multiple-sockets
 		* a Lichterkette
 		* free hugs
-	(not sure yet, depends on how she gets there)
 	* ooooo
 		* microtik/network switch
 		* audio goodies: looper/mic/axoloti/chaoslooper with bodycontrol
