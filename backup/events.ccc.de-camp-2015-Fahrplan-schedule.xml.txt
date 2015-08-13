@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.5 this corrosion</version>
+<version>1.6 shut the fuck up</version>
 <conference>
 <acronym>camp2015</acronym>
 <title>Chaos Communication Camp 2015</title>
@@ -33,31 +33,6 @@
 <person id='5289'>Fiona</person>
 </persons>
 <links>
-</links>
-</event>
-<event guid='f5e3e4d3-884c-453e-bd44-6d0a524313ea' id='6721'>
-<date>2015-08-13T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>00:30</duration>
-<room>Project 2501</room>
-<slug>camp2015-6721-backdooring_git</slug>
-<recording>
-<license>Indifferent</license>
-<optout>false</optout>
-</recording>
-<title>Backdooring Git</title>
-<subtitle></subtitle>
-<track>Security &amp; Hacking</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>Join us for a fun-filled tour of source control management and services to talk about how to backdoor software.  We will focus on one of the most popular, trendy SCM tools and related services out there – Git.  Nothing is sacred.  Along the way, we will expose the risks and liabilities one is exposed to by faulty usage and deployments.  When we are finished, you will be able to use the same tools and techniques to protect or backdoor popular open source projects or your hobby project.</abstract>
-<description></description>
-<persons>
-<person id='5529'>John Menerick</person>
-</persons>
-<links>
-<link href='https://www.securesql.info'>Website</link>
-<link href='https://github.com/lordappsec'>GitHub</link>
 </links>
 </event>
 <event guid='97cbc2a0-7d63-4d54-9ff6-fb1b8ed30380' id='6657'>
@@ -327,6 +302,8 @@ In einer chronologischen Auflistung der Ereignisse der letzten zwei Dekaden brin
 </description>
 <persons>
 <person id='5558'>e-punc</person>
+<person id='5723'>Mirko 'macro' Fichtner</person>
+<person id='930'>t</person>
 </persons>
 <links>
 <link href='c-base.org'>c-base</link>
@@ -376,24 +353,26 @@ After this talk you will be informed about the types of tracking that occur onli
 <start>18:30</start>
 <duration>00:30</duration>
 <room>Simulacron-3</room>
-<slug>camp2015-6715-organize_you_own_capture_the_flag_competition</slug>
+<slug>camp2015-6715-how_to_organize_a_ctf</slug>
 <recording>
 <license>CC-BY-3.0-DE</license>
 <optout>false</optout>
 </recording>
-<title>Organize you own capture the flag competition</title>
+<title>How to organize a CTF</title>
 <subtitle></subtitle>
 <track>Security &amp; Hacking</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>We like to share our expirience of how you can organize your own CTF. Show you the stepstones and hopfully motivate some of you to make your own CTF. </abstract>
-<description>* what the hack are CTFs?
-Why organizing it by your self?
-* chellange based CTF
-** infrasructur
-** chellanges
-** real time Support
-* serverbased CTF
+<abstract>Capture the flag contests are today's - competitive - crossword puzzles. We want to introduce you to CTFs, share our experience in organizing them and provide you with dos and don'ts to help you get your own up and running.</abstract>
+<description>
+
+* what the hack are CTFs?
+Why organising it by yourself?
+* challenge-based CTF
+** infrasructure
+** challenges
+** real-time support
+* server-based CTF
 ** infrasructur 
 ** services
 ** vuln box
@@ -401,7 +380,8 @@ Why organizing it by your self?
 * deciding what to do
 * Q&amp;A</description>
 <persons>
-<person id='3966'>floatec [squareroots]</person>
+<person id='4599'>Stephan Pfistner</person>
+<person id='5129'>Stean</person>
 </persons>
 <links>
 <link href='http://squareroots.de'>Squareroots</link>
@@ -681,7 +661,7 @@ During this talk, we’re going to demonstrate some real world attacks on one of
 <event guid='f1e0faf3-f906-4abc-8218-9f42e10f8a1c' id='6889'>
 <date>2015-08-14T17:15:00+02:00</date>
 <start>17:15</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>Project 2501</room>
 <slug>camp2015-6889-encrypted_email_for_planet_earth</slug>
 <recording>
@@ -693,7 +673,17 @@ During this talk, we’re going to demonstrate some real world attacks on one of
 <track>Other</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>After the Snowden revelations, demand for encrypted end-to-end communication has skyrocketed, even amongst ordinary users. However, today we still have do not have widespread deployment of OpenPGP, and post-email messaging protocols such as OpenWhisper still have less than a million users. How can we combat the fundamental problems afflicting encrypted messaging, from e-mail to beyond, so that it becomes a fundamental right for all people to have end-to-end encrypted messaging? This event brings together software projects working in this space to reflect on their future, debate their differences, and possibly develop a common strategy for the future. </abstract>
+<abstract>After the Snowden revelations, interest in encrypted end-to-end
+communication has skyrocketed, even amongst ordinary users. However, today
+we still do not have widespread deployment of OpenPGP. Post-email messaging
+protocols such as OpenWhisper has around a million users. Poor
+usability has led users in sensitive situations to misunderstand or give up
+on encryption tools, putting them at risk. Why isn’t everyone encrypting
+their communications by now? This panel brings together speakers from
+software, protocol, and usability projects to reflect on current challenges
+to Encrypting All The Things, discuss what has worked and what hasn’t in
+FLOSS projects developing secure tools, and possibly develop strategies for
+the future.</abstract>
 <description>After the Snowden revelations, demand for encrypted end-to-end communication has skyrocketed, even amongst ordinary users. As also shown by the catastrophic fate of Lavabit, running a high-security communications provider is fraught with danger, both political and technical. Yet today we see services that essentially sell security &quot;snake oil&quot; taking off with users, while real end-to-end encryption is barely used by activists, much less ordinary people. We still have do not have widespread deployment of OpenPGP, and post-email messaging protocols such as OpenWhisper still have less than a million users. Fundamental standards such as OpenPGP existing for over thirty years, but software such as Enigmail is still claimed to be virtually unusable. What is the source of this massive failure, and how can it be fixed? 
 
  How can we combat the fundamental problems afflicting encrypted messaging, from e-mail to beyond, so that it becomes a fundamental right for all people to have end-to-end encrypted messaging? This roundtable will bring together software projects working in this space to reflect on their future, debate their differences, and possibly develop a common strategy for the future. Questions to be addressed are:
@@ -713,36 +703,10 @@ The goal of this even is to bring together key voices in this space so we combat
 <persons>
 <person id='3615'>harryhalpin</person>
 <person id='5619'>meskio</person>
-</persons>
-<links>
-<link href='http://leap.se'>LEAP</link>
-</links>
-</event>
-<event guid='535ed08a-9699-47eb-b2b2-aff3992fcf18' id='6734'>
-<date>2015-08-14T17:45:00+02:00</date>
-<start>17:45</start>
-<duration>00:30</duration>
-<room>Project 2501</room>
-<slug>camp2015-6734-security_and_usability_in_open_source</slug>
-<recording>
-<license>CC-BY-3.0-DE</license>
-<optout>false</optout>
-</recording>
-<title>Security and Usability in Open Source</title>
-<subtitle>What to do, what not to do</subtitle>
-<track>Other</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>Tools for encryption and circumventing censorship have developed a reputation for being confusing and difficult to use. Difficulty using tools has led to users in sensitive situations giving up on encrypting or misunderstanding how to do it, putting them at risk. What are the best ways to improve usability in free and open-source projects? Gus will discuss her experience doing usability work with developers of FLOSS tools like Mailpile, Bitmask, Enigmail, and Jitsi, suggesting some practices which have been obstacles to usability and others which support the development of great, usable interfaces.</abstract>
-<description>Tools for encryption and circumventing censorship have developed a reputation for being confusing and difficult to use — and not for no reason. Managing encryption keys, understanding trust certificates, and estimating threats can be difficult even for expert users. Difficulty using tools has led to users in sensitive situations giving up on encrypting or misunderstanding how to do it, and subsequently being arrested when their communications are intercepted.
-
-With increasing surveillance from governments and with corporate data breaches, there has been increasing interest in making it easier to help everyday people — as well as journalists, activists, and hackers — protect their privacy and security with free and open source tools. Funding to support usability work by FLOSS developers is increasingly available. But what are the best ways to improve usability in free and open-source projects, which may not have the budget of commercial software developers?
-
-In this talk, Gus will discuss her experience doing usability work with developers of FLOSS tools like Mailpile, Bitmask, Enigmail, and Jitsi, which she has done at the Open Internet Tools Project and now the secure UX organization Simply Secure. She will describe successful experiences helping developers understand their users, common obstacles and developer habits which make software less usable, simple ways in which developers can incorporate UX into their practices more easily, and FLOSS development practices which support better usability.</description>
-<persons>
 <person id='5545'>Gus Andrews</person>
 </persons>
 <links>
+<link href='http://leap.se'>LEAP</link>
 </links>
 </event>
 <event guid='feefa25c-12e5-4178-9c27-dbcf2afd905a' id='6938'>
@@ -1025,7 +989,7 @@ But what about the quality of human interaction? How can we build a culture of b
 <abstract>Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick! </abstract>
 <description>Submission instructions will be available on the wiki!</description>
 <persons>
-<person id='1041'>nickfarr</person>
+<person id='4205'>zeltophil</person>
 </persons>
 <links>
 </links>
@@ -1327,7 +1291,7 @@ But it has failed (at least until now).
 
 During this event Fabricio will share the history of Mier, the examples of how brewers misunderstood the open source concept behind it and outline the possible future steps including the creation of DIY Mier Brewing kits for the fans.</description>
 <persons>
-<person id='4172'>Fabricio</person>
+<person id='4172'>@oinfiltrado23</person>
 </persons>
 <links>
 <link href='http://mier.metamate.cc'>Mier’s Website</link>
@@ -1338,27 +1302,28 @@ During this event Fabricio will share the history of Mier, the examples of how b
 <start>18:30</start>
 <duration>00:30</duration>
 <room>Project 2501</room>
-<slug>camp2015-6787-goethe_in_my_mind</slug>
+<slug>camp2015-6787-vom_bordstein_bis_zu_bergeshohn</slug>
 <recording>
 <license>CC-BY-3.0-DE</license>
 <optout>false</optout>
 </recording>
-<title>Goethe in my Mind</title>
-<subtitle>Computer haben Gefühle, wir helfen ihnen, sie auszudrücken</subtitle>
+<title>Vom Bordstein bis zu Bergeshöhn</title>
+<subtitle>Computer haben Gefühle - Wir helfen ihnen diese auszudrücken.</subtitle>
 <track>Science</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Fern ab von Theorien zu Killerrobotern und der Privatssphärendebatte, die dem Machine Learning 2.0 seit den 2010ern anhängen; schaffen wir künstlerische Intelligenz: einen Algorithmus, der Gedichte generiert. Basierend auf einer Technik, die die Funktionsweise des menschlichen Gehirns grundlegend nachahmt, lehren wir einer Maschine zu reimen wie Goethe und Schiller oder KIZ und Sido. Die selbe Technik und deren Weiterentwicklung lassen sich seit 2012 Google und Facebook einiges kosten. Die Rede ist vom Deep Learning. Als Enthusiasten in diesem Bereich möchten wir zeigen, was man mit Deep Learning alles tun kann außer Gesichter erschreckend gut zu erkennen. 
+<abstract>Fernab von Theorien zu Killerrobotern und der Privatsphärendebatte, die dem Machine Learning 2.0 seit den 2010ern anhängt, schaffen wir künstlerische Intelligenz - Einen Algorithmus, der Gedichte generiert. Basierend auf einer Technik, die die Funktionsweise des menschlichen Gehirns grundlegend nachahmt, lehren wir einer Maschine zu reimen wie Goethe und Schiller oder KIZ und Sido. Dieselbe Technik und deren Weiterentwicklung lassen sich seit 2012 Google und Facebook einiges kosten. Die Rede ist vom Deep Learning. Als Enthusiasten in diesem Bereich möchten wir zeigen, was man mit Deep Learning alles tun kann außer Gesichter erschreckend gut zu erkennen. 
 Zudem wollen wir die Zuschauer anregen über Mensch und Maschine und deren Bewusstsein und Interaktion zu philosophieren. Wenn das Experiment gelingt verschwimmen die Grenzen der Protagonisten. Zuschauer können live Gedichte mit eigenem Input vom Algorithmus generieren lassen.</abstract>
-<description>In the context of a machine supported orchestra/band, when writing song texts, I figured they are all are quiet alike. So I was wondering if I could make a machine that could do my job or even better: Creating new text from looking at artists that I like or whom's combination I imagine to be fun.
+<description>In den letzten Jahren habe ich mich viel mit dem  Machen von Musik beschäftigt. Dabei wurde mir bewusst, dass sich Songtexte im Allgemeinen sehr ähnlich sind. Warum sollte also nicht ein Algorithmus das Schreiben für mich übernehmen?
 
-So here is the approach: We take an LSTM recurrent neural network (non-linear directed cycles with internal memory) and train (=adjust internal weights) it syllable-wise on Wikipedia [1]. The model will compute the probability of the next word given the previous words. The weights that we trained on Wikipedia will serve as a prior for our actual model i.e. we continue training with our own text e.g. Goethe or KIZ. 
+So entstand folgende Idee: Man nehme ein Recurrent Neural Network (RNN) und trainiert dieses auf Basis aller deutschen Wikipedia-Einträge [1]. Das RNN lernt so die Wahrscheinlichkeiten mit der ein Wort  auf eine Reihe vorangegangener Worte folgt. Im nächsten Schritt feintunen wir das Modell mit Gedichten beispielsweise von Goethe und KIZ.
 
-When training is done we can generate an entire song text  by giving the model a random or chosen word/phrase. We can also interrupt at any point, change phrases and the model will react on that. Its interesting to see if it can learn rhythms and rhymes from syllables.
+Anschließend können wir uns ganze Texte vom Algorithmus generieren lassen, es bedarf lediglich der Eingabe einiger Worte. Wir können den Prozess zu jeder Zeit anhalten und Teile des generierten Texts verändern. Im besten Falle lernt der Algorithmus den Rhythmus und die Reime eines Gedichtes zu reproduzieren.
 
-For the camp that's as much as  we want to present. In a larger context, the resulting texts are supposed to be performed by humans in contrast to the by now overused approach to let a computer read human written text.</description>
+Die Intention des hier vorgestellten Projekts ist, dass die vom Algorithmus generierten Texte von Menschen vorgetragen werden. Es handelt sich somit um einen Gegenentwurf zum weitverbreiteten Ansatz Menschen generierten Text von Algorithmen vorlesen zu lassen.
+</description>
 <persons>
-<person id='5584'>KRN &amp; MX</person>
+<person id='5584'>KARN</person>
 <person id='5726'>Maximilian Ilse</person>
 </persons>
 <links>
@@ -1666,7 +1631,7 @@ enforce and defend our liberties&quot; Eduard Snowden has ask us for?</descripti
 <abstract>Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick! </abstract>
 <description></description>
 <persons>
-<person id='1041'>nickfarr</person>
+<person id='4205'>zeltophil</person>
 </persons>
 <links>
 </links>
@@ -1798,7 +1763,7 @@ On the other hand I intend to give the kind of talk I enjoy watching myself.
 
 We present our open source project, called Usable Privacy Box (upribox), which aims to make tracker-blocking on mobile devices easy and usable.
 
-The talk starts of with a brief introduction on state-of-the-art methods to track users online. Hereby, we discuss traditional tracking cookies, super cookies, as well as fingerprinting. This first part should set the stage for our research and the goals of our privacy tool, and provide an overview on current research in the area of user tracking.
+The talk starts of with a brief introduction on state-of-the-art methods to track users online. Hereby, we discuss traditional tracking cookies, super cookies, as well as fingerprinting. This first part should set the stage for our research and the goals of our privacy tool, and provide a brief overview on current research in the area of user tracking.
 
 The second part presents the primarily results of our study on user tracking. Our study analyzed the effectiveness of today’s tracker-blocking extensions on popular websites and Android applications.
 
@@ -2170,7 +2135,7 @@ The results and findings presented are part of a research paper I wrote in sprin
 <abstract>Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick! </abstract>
 <description>Submission instructions will be available on the wiki!</description>
 <persons>
-<person id='1041'>nickfarr</person>
+<person id='4205'>zeltophil</person>
 </persons>
 <links>
 </links>
@@ -2200,6 +2165,7 @@ Think of the evolution between early officesoftware (LibreWriter) and Etherpad i
 After the monetization efforts failed, the founders have no clue what best strategy to follow from now on. They will present several ideas and organize an open discussion in the c-base village after the talk to discuss these ideas. </description>
 <persons>
 <person id='5692'>ijon</person>
+<person id='5012'>riot</person>
 </persons>
 <links>
 </links>
@@ -2440,7 +2406,7 @@ In practice, there are always problems that crop up when working at the edges of
 
 This talk will describe the features of the CA and available clients at launch; explore the security challenges inherent in building such a system; and its effect on the security of the CA marketplace as a whole. We will also update our place on the roadmap to a Web that uses HTTPS by default.</description>
 <persons>
-<person id='2822'>pde</person>
+<person id='2822'>Peter Eckersley</person>
 </persons>
 <links>
 <link href='https://letsencrypt.org'>Let's Encrypt</link>
