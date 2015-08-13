@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T160000
-DTSTAMP;VALUE=DATE-TIME:20150723T105808Z
+DTSTAMP;VALUE=DATE-TIME:20150810T130245Z
 UID:b8a7511e-143d-45c5-b974-2e91dab18814@frab.cccv.de
 DESCRIPTION:20 Jahre c-base. Insider packen aus. Ein Abriss über die bewe
  gte Geschichte der abgestürzten Raumstation unter Berlin Mitte.
@@ -122,22 +122,6 @@ SUMMARY:Attacking IoT Telemetry
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T123000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T120000
-DTSTAMP;VALUE=DATE-TIME:20150731T130037Z
-UID:f5e3e4d3-884c-453e-bd44-6d0a524313ea@frab.cccv.de
-DESCRIPTION:Join us for a fun-filled tour of source control management an
- d services to talk about how to backdoor software.  We will focus on one
-  of the most popular\, trendy SCM tools and related services out there –
-  Git.  Nothing is sacred.  Along the way\, we will expose the risks and 
- liabilities one is exposed to by faulty usage and deployments.  When we 
- are finished\, you will be able to use the same tools and techniques to 
- protect or backdoor popular open source projects or your hobby project.
-URL:/camp/2015/Fahrplan/events/6721.html
-SUMMARY:Backdooring Git
-LOCATION:Project 2501
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T183000
 DTSTAMP;VALUE=DATE-TIME:20150808T072250Z
@@ -222,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T110000
-DTSTAMP;VALUE=DATE-TIME:20150726T021437Z
+DTSTAMP;VALUE=DATE-TIME:20150813T095546Z
 UID:d1f3810f-43b1-4856-b8ee-7c767234d185@frab.cccv.de
 DESCRIPTION:
 URL:/camp/2015/Fahrplan/events/6981.html
@@ -337,20 +321,21 @@ SUMMARY:Drones\, ships\, pills and the Internet
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T174500
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T171500
-DTSTAMP;VALUE=DATE-TIME:20150722T161526Z
+DTSTAMP;VALUE=DATE-TIME:20150810T071125Z
 UID:f1e0faf3-f906-4abc-8218-9f42e10f8a1c@frab.cccv.de
-DESCRIPTION:After the Snowden revelations\, demand for encrypted end-to-e
- nd communication has skyrocketed\, even amongst ordinary users. However\
- , today we still have do not have widespread deployment of OpenPGP\, and
-  post-email messaging protocols such as OpenWhisper still have less than
-  a million users. How can we combat the fundamental problems afflicting 
- encrypted messaging\, from e-mail to beyond\, so that it becomes a funda
- mental right for all people to have end-to-end encrypted messaging? This
-  event brings together software projects working in this space to reflec
- t on their future\, debate their differences\, and possibly develop a co
- mmon strategy for the future. 
+DESCRIPTION:After the Snowden revelations\, interest in encrypted end-to-
+ end\ncommunication has skyrocketed\, even amongst ordinary users. Howeve
+ r\, today\nwe still do not have widespread deployment of OpenPGP. Post-e
+ mail messaging\nprotocols such as OpenWhisper has around a million users
+ . Poor\nusability has led users in sensitive situations to misunderstand
+  or give up\non encryption tools\, putting them at risk. Why isn’t every
+ one encrypting\ntheir communications by now? This panel brings together 
+ speakers from\nsoftware\, protocol\, and usability projects to reflect o
+ n current challenges\nto Encrypting All The Things\, discuss what has wo
+ rked and what hasn’t in\nFLOSS projects developing secure tools\, and po
+ ssibly develop strategies for\nthe future.
 URL:/camp/2015/Fahrplan/events/6889.html
 SUMMARY:Encrypted Email for Planet Earth
 LOCATION:Project 2501
@@ -455,32 +440,9 @@ SUMMARY:Fueling the Revolution
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T190000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T183000
-DTSTAMP;VALUE=DATE-TIME:20150722T161323Z
-UID:b66681b5-d811-4359-a7b4-c97d9acd2877@frab.cccv.de
-DESCRIPTION:Fern ab von Theorien zu Killerrobotern und der Privatssphären
- debatte\, die dem Machine Learning 2.0 seit den 2010ern anhängen\; schaf
- fen wir künstlerische Intelligenz: einen Algorithmus\, der Gedichte gene
- riert. Basierend auf einer Technik\, die die Funktionsweise des menschli
- chen Gehirns grundlegend nachahmt\, lehren wir einer Maschine zu reimen 
- wie Goethe und Schiller oder KIZ und Sido. Die selbe Technik und deren W
- eiterentwicklung lassen sich seit 2012 Google und Facebook einiges koste
- n. Die Rede ist vom Deep Learning. Als Enthusiasten in diesem Bereich mö
- chten wir zeigen\, was man mit Deep Learning alles tun kann außer Gesich
- ter erschreckend gut zu erkennen. \nZudem wollen wir die Zuschauer anreg
- en über Mensch und Maschine und deren Bewusstsein und Interaktion zu phi
- losophieren. Wenn das Experiment gelingt verschwimmen die Grenzen der Pr
- otagonisten. Zuschauer können live Gedichte mit eigenem Input vom Algori
- thmus generieren lassen.
-URL:/camp/2015/Fahrplan/events/6787.html
-SUMMARY:Goethe in my Mind
-LOCATION:Project 2501
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T111500
-DTSTAMP;VALUE=DATE-TIME:20150809T210525Z
+DTSTAMP;VALUE=DATE-TIME:20150813T190753Z
 UID:9a28ef84-3ba0-4c12-9f8a-115b30bc3ec0@frab.cccv.de
 DESCRIPTION:Today’s websites and mobile applications heavily rely on thir
  d party libraries: to display advertisement\, to enable social networkin
@@ -493,7 +455,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T183000
-DTSTAMP;VALUE=DATE-TIME:20150723T105603Z
+DTSTAMP;VALUE=DATE-TIME:20150812T153046Z
 UID:2ac1138c-ab29-419a-b8e2-39353fde0a9b@frab.cccv.de
 DESCRIPTION:We will explain how we entered the Venture Capital sphere and
   what happend there\, ultimatly\, this effort failed. While Ijon produce
@@ -601,6 +563,19 @@ SUMMARY:How to make your software build reproducibly
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T183000
+DTSTAMP;VALUE=DATE-TIME:20150813T105724Z
+UID:a26b9be9-36ce-4a7f-9baa-4612251615c5@frab.cccv.de
+DESCRIPTION:Capture the flag contests are today's - competitive - crosswo
+ rd puzzles. We want to introduce you to CTFs\, share our experience in o
+ rganizing them and provide you with dos and don'ts to help you get your 
+ own up and running.
+URL:/camp/2015/Fahrplan/events/6715.html
+SUMMARY:How to organize a CTF
+LOCATION:Simulacron-3
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T160000
 DTSTAMP;VALUE=DATE-TIME:20150728T084559Z
@@ -641,7 +616,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T120000
-DTSTAMP;VALUE=DATE-TIME:20150809T170314Z
+DTSTAMP;VALUE=DATE-TIME:20150813T071618Z
 UID:cf32c6aa-4a0b-41dd-8103-45575f628913@frab.cccv.de
 DESCRIPTION:Smartlocks are the new way of securing doors by replacing the
   old mechanical locks by new high-tech and connected locks\, able to com
@@ -653,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T171500
-DTSTAMP;VALUE=DATE-TIME:20150804T034058Z
+DTSTAMP;VALUE=DATE-TIME:20150811T165031Z
 UID:c131b08d-e1be-4658-b98a-a223bc746784@frab.cccv.de
 DESCRIPTION:Wie lassen sich schwierige Themen einfach darstellen? Ralph C
  aspers erzählt von seiner Arbeit bei „Wissen macht Ah!“ und „Die Sendung
@@ -804,7 +779,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T191500
-DTSTAMP;VALUE=DATE-TIME:20150728T135038Z
+DTSTAMP;VALUE=DATE-TIME:20150811T153353Z
 UID:2b4f6479-8241-4ede-b025-328d476c52ba@frab.cccv.de
 DESCRIPTION:Peñabots have been active in Mexican networks since the 2012 
  presidential elections. Named after President Enrique Peña Nieto\, armie
@@ -819,7 +794,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T171500
-DTSTAMP;VALUE=DATE-TIME:20150801T030434Z
+DTSTAMP;VALUE=DATE-TIME:20150813T175615Z
 UID:f972cded-d26e-4461-b544-319089708e42@frab.cccv.de
 DESCRIPTION:Mier a creative commons Mate Beer that was launched in Berlin
   in 2012\, made some waves as it tried to pave a path reserved only for 
@@ -898,18 +873,6 @@ DESCRIPTION:<i>...niemanden interessiert wie's funktioniert\, solange es
   die Zukunft im kybernetischen Sinne.
 URL:/camp/2015/Fahrplan/events/6642.html
 SUMMARY:o͈̮p̢ęr̕a͠t̶̨i͟oǹ͓̜a̵l̷ glit̶̨ć̶̛he͝s
-LOCATION:Simulacron-3
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T183000
-DTSTAMP;VALUE=DATE-TIME:20150731T130003Z
-UID:a26b9be9-36ce-4a7f-9baa-4612251615c5@frab.cccv.de
-DESCRIPTION:We like to share our expirience of how you can organize your 
- own CTF. Show you the stepstones and hopfully motivate some of you to ma
- ke your own CTF. 
-URL:/camp/2015/Fahrplan/events/6715.html
-SUMMARY:Organize you own capture the flag competition
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
@@ -1032,24 +995,6 @@ DESCRIPTION:An introduction to SatNOGS an open source ground station\, op
 URL:/camp/2015/Fahrplan/events/6926.html
 SUMMARY:Satellite Open Ground Station Network
 LOCATION:Simulacron-3
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T181500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T174500
-DTSTAMP;VALUE=DATE-TIME:20150722T162003Z
-UID:535ed08a-9699-47eb-b2b2-aff3992fcf18@frab.cccv.de
-DESCRIPTION:Tools for encryption and circumventing censorship have develo
- ped a reputation for being confusing and difficult to use. Difficulty us
- ing tools has led to users in sensitive situations giving up on encrypti
- ng or misunderstanding how to do it\, putting them at risk. What are the
-  best ways to improve usability in free and open-source projects? Gus wi
- ll discuss her experience doing usability work with developers of FLOSS 
- tools like Mailpile\, Bitmask\, Enigmail\, and Jitsi\, suggesting some p
- ractices which have been obstacles to usability and others which support
-  the development of great\, usable interfaces.
-URL:/camp/2015/Fahrplan/events/6734.html
-SUMMARY:Security and Usability in Open Source
-LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T210000
@@ -1222,6 +1167,29 @@ DESCRIPTION:Microsoft versucht mal wieder\, diesmal unter dem Deckmantel
  auensarchitektur\nund zwar schnell.\n
 URL:/camp/2015/Fahrplan/events/6813.html
 SUMMARY:Update: Vor Windows10 Update Warnung
+LOCATION:Project 2501
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T190000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T183000
+DTSTAMP;VALUE=DATE-TIME:20150812T133348Z
+UID:b66681b5-d811-4359-a7b4-c97d9acd2877@frab.cccv.de
+DESCRIPTION:Fernab von Theorien zu Killerrobotern und der Privatsphärende
+ batte\, die dem Machine Learning 2.0 seit den 2010ern anhängt\, schaffen
+  wir künstlerische Intelligenz - Einen Algorithmus\, der Gedichte generi
+ ert. Basierend auf einer Technik\, die die Funktionsweise des menschlich
+ en Gehirns grundlegend nachahmt\, lehren wir einer Maschine zu reimen wi
+ e Goethe und Schiller oder KIZ und Sido. Dieselbe Technik und deren Weit
+ erentwicklung lassen sich seit 2012 Google und Facebook einiges kosten. 
+ Die Rede ist vom Deep Learning. Als Enthusiasten in diesem Bereich möcht
+ en wir zeigen\, was man mit Deep Learning alles tun kann außer Gesichter
+  erschreckend gut zu erkennen. \nZudem wollen wir die Zuschauer anregen 
+ über Mensch und Maschine und deren Bewusstsein und Interaktion zu philos
+ ophieren. Wenn das Experiment gelingt verschwimmen die Grenzen der Prota
+ gonisten. Zuschauer können live Gedichte mit eigenem Input vom Algorithm
+ us generieren lassen.
+URL:/camp/2015/Fahrplan/events/6787.html
+SUMMARY:Vom Bordstein bis zu Bergeshöhn
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
