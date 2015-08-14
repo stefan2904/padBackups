@@ -616,7 +616,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T120000
-DTSTAMP;VALUE=DATE-TIME:20150813T071618Z
+DTSTAMP;VALUE=DATE-TIME:20150814T105743Z
 UID:cf32c6aa-4a0b-41dd-8103-45575f628913@frab.cccv.de
 DESCRIPTION:Smartlocks are the new way of securing doors by replacing the
   old mechanical locks by new high-tech and connected locks\, able to com
@@ -643,7 +643,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T183000
-DTSTAMP;VALUE=DATE-TIME:20150806T155801Z
+DTSTAMP;VALUE=DATE-TIME:20150814T013729Z
 UID:e8d65b1e-ce8a-4307-b056-e8b60461c825@frab.cccv.de
 DESCRIPTION:Im Sommer 2015 erfuhr die Redaktion von netzpolitik.org\, das
  s gegen zwei ihrer Redakteure wegen Landesverrat ermittelt wird. Was dan
@@ -671,7 +671,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T160000
-DTSTAMP;VALUE=DATE-TIME:20150725T112106Z
+DTSTAMP;VALUE=DATE-TIME:20150814T091412Z
 UID:3c63452c-e0ae-4375-88f3-d9c16029487a@frab.cccv.de
 DESCRIPTION:Bring your infectious enthusiasm to an audience with a short 
  attention span! Discuss a program\, system or technique! Pitch your proj
@@ -684,7 +684,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T160000
-DTSTAMP;VALUE=DATE-TIME:20150725T112054Z
+DTSTAMP;VALUE=DATE-TIME:20150814T091631Z
 UID:0db2a162-8c2c-41cb-b027-15a243bede43@frab.cccv.de
 DESCRIPTION:Bring your infectious enthusiasm to an audience with a short 
  attention span! Discuss a program\, system or technique! Pitch your proj
@@ -697,7 +697,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T160000
-DTSTAMP;VALUE=DATE-TIME:20150725T112136Z
+DTSTAMP;VALUE=DATE-TIME:20150814T091751Z
 UID:b1e09252-9961-43ad-a4c5-3d19d798c9dd@frab.cccv.de
 DESCRIPTION:Bring your infectious enthusiasm to an audience with a short 
  attention span! Discuss a program\, system or technique! Pitch your proj
@@ -878,7 +878,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T163000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T160000
-DTSTAMP;VALUE=DATE-TIME:20150804T195229Z
+DTSTAMP;VALUE=DATE-TIME:20150814T122111Z
 UID:439d64b1-b08b-4313-87f9-c469211d4206@frab.cccv.de
 DESCRIPTION:Seit Edward Snowden ist IT-Sicherheit nicht mehr nur ein Them
  a für Konzerne und Verschwörungstheoretiker. Sie ist in den Fokus des al
@@ -1195,7 +1195,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T233000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T223000
-DTSTAMP;VALUE=DATE-TIME:20150725T092834Z
+DTSTAMP;VALUE=DATE-TIME:20150813T215558Z
 UID:5b980999-8914-4014-85ae-247bde5be3ce@frab.cccv.de
 DESCRIPTION:Increasingly\, there is money available to fund free software
   projects\; however it often comes from large organizations\, government
