@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.6 shut the fuck up</version>
+<version>1.7 hidden track</version>
 <conference>
 <acronym>camp2015</acronym>
 <title>Chaos Communication Camp 2015</title>
@@ -96,7 +96,7 @@ Reproducible builds require a way to record and recreate the build environment, 
 </recording>
 <title>Kontrolle ist gut. #Landesverrat ist besser.</title>
 <subtitle>Wie eine investigative Recherche zum geheimen Ausbau der Massenüberwachung durch den Verfassungsschutz zu einer kleinen Staatsaffäre wurde.</subtitle>
-<track></track>
+<track>Ethics, Society &amp; Politics</track>
 <type>lecture</type>
 <language>de</language>
 <abstract>Im Sommer 2015 erfuhr die Redaktion von netzpolitik.org, dass gegen zwei ihrer Redakteure wegen Landesverrat ermittelt wird. Was dann passierte, konnten sie nicht glauben...</abstract>
@@ -618,7 +618,7 @@ During this talk, we’re going to demonstrate some real world attacks on one of
 <slug>camp2015-6762-politische_losungen_fur_technische_probleme</slug>
 <recording>
 <license>CC-BY-3.0-DE</license>
-<optout>true</optout>
+<optout>false</optout>
 </recording>
 <title>Politische Lösungen für technische Probleme?</title>
 <subtitle>IT-Sicherheit per Gesetz</subtitle>
@@ -707,6 +707,10 @@ The goal of this even is to bring together key voices in this space so we combat
 </persons>
 <links>
 <link href='http://leap.se'>LEAP</link>
+<link href='simplysecure.org'>Simply Secure</link>
+<link href='https://medium.com/@gusandrews/user-personas-for-privacy-and-security-a8b35ae5a63b'>User Personas for Security</link>
+<link href='medium.com/@gusandrews'>Gus Andrews on usable security</link>
+<link href='http://internetfreedom.secondmuse.com/'>Second Muse reports on Tibetan exiles and Vietnamese journalists and activists</link>
 </links>
 </event>
 <event guid='feefa25c-12e5-4178-9c27-dbcf2afd905a' id='6938'>
@@ -859,6 +863,9 @@ Some questions that we would like to see frame the discussion are:
 </description>
 <persons>
 <person id='5552'>nat</person>
+<person id='4163'>Kate Krauss</person>
+<person id='3229'>willowbl00</person>
+<person id='5781'>Josh King</person>
 </persons>
 <links>
 </links>
@@ -990,6 +997,7 @@ But what about the quality of human interaction? How can we build a culture of b
 <description>Submission instructions will be available on the wiki!</description>
 <persons>
 <person id='4205'>zeltophil</person>
+<person id='5353'>sefischer</person>
 </persons>
 <links>
 </links>
@@ -1632,6 +1640,7 @@ enforce and defend our liberties&quot; Eduard Snowden has ask us for?</descripti
 <description></description>
 <persons>
 <person id='4205'>zeltophil</person>
+<person id='5353'>sefischer</person>
 </persons>
 <links>
 </links>
@@ -2136,6 +2145,7 @@ The results and findings presented are part of a research paper I wrote in sprin
 <description>Submission instructions will be available on the wiki!</description>
 <persons>
 <person id='4205'>zeltophil</person>
+<person id='5353'>sefischer</person>
 </persons>
 <links>
 </links>
