@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.7 hidden track</version>
+<version>1.8 dominion/mother russia</version>
 <conference>
 <acronym>camp2015</acronym>
 <title>Chaos Communication Camp 2015</title>
@@ -1497,16 +1497,16 @@ http://www.verfassung-schuetzen.de/</description>
 <track>Art &amp; Culture</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>We are a community of (hill)hackers from India and all over the world. We'd like to talk about how rewarding it is to setup a tiny CCCamp in the Himalayas, and how the hands-on collaborative approach works in the indian context. We'd also like to introduce various open spaces, communities, events and dialogues that are currently active in different parts of India. The history and diversity of open movements in India is inspiring young hackers in the country to engage, contribute and learn from the global hacker movement.</abstract>
-<description>We call ourselves the hillhackers, as we regularly meet at hillhacks: a cccamp-like event in the foothills of the himalayas, focussed around hacking and making, but also very much about knowledge sharing and the whole stack of themes of the open society - besides we also do art and music, and created various school programmes, were we teach youngsters and kids. We just started last year, and invite everyone to join us!
+<abstract>We are a community of (hill)hackers from India and all over the world. We'd like to talk about how rewarding it is to setup a tiny CCCamp in the Himalayas, and how the hands-on collaborative approach works in the indian context. We'd also like to introduce various open spaces, communities, events and dialogues that are currently active in different parts of India. The history and diversity of open movements in India is inspiring hackers in the country to engage, contribute and learn from the global hacker movement.</abstract>
+<description>We call ourselves hillhackers as we regularly meet at hillhacks: a CCCamp-like event in the Himalayas. The event is focused around hacking and making but is also very much about knowledge sharing and the whole stack of themes of the open society.  We also do art, music and fun educational programmes at neighboring schools and colleges.
 
-Also we want to invite you to do the same: Copy&amp;Paste the CCC/C3 approach into your community, and create your own community-driven event. that is not only for the free and open community, but that is free and open by design and by the way its organized and conducted.
+We're having lots of fun and we'd like to invite you to join us. Copy and paste the CCC/C3 approach into your community and create your own community-driven event. Not only for the free and open community, but free and open by design and by the way its organised and conducted.
 
-In our talk we'll tell you what we actually have done at hillhacks 2014 and 2015 and how we solved all the challenges facing us in the mountains, eg finding a suitable location and setup, getting network there, getting money to pay the bills, and last but not least getting &quot;the right people&quot; to do the things.
+Tonight we'll talk about hillhacks. We will explain what we have actually done at hillhacks 2014 and 2015, how we conquered the interesting and sometimes amusing challenges we encountered in the mountains, such as finding a suitable location, setting up, getting network there in the face of simian interference, paying the bills, and last but not least: getting &quot;the right people&quot; to do all the things.
 
-After that we introduce some other community-driven events in india plus some others we are kinda feel connected to, and contiue showing you some of the rare hacker- and makerspace on the indian subcontinent, and the tech-community around it.
+After that we introduce more community-driven events and spaces in India including various initiatives we feel strongly connected to.  We will present some of the exotic hacker- and makerspaces on the subcontinent, and the tech-community around these spaces.
 
-The other half of our talk we want to use to quickly introduce some topics we find important and we are into.</description>
+Finally we want to introduce some on-going important issues.  Primarily the big discussion about net-neutrality and the &quot;save-the-internet&quot; campaign which is a topic of significant interest in India right now.</description>
 <persons>
 <person id='4590'>sva</person>
 </persons>
@@ -1594,29 +1594,6 @@ Could we provide a  &quot;moral, philosophical and technical commitment to
 enforce and defend our liberties&quot; Eduard Snowden has ask us for?</description>
 <persons>
 <person id='1545'>ruedi</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='4008e932-ec3e-4112-9367-4f98c304c34b' id='6788'>
-<date>2015-08-15T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>00:30</duration>
-<room>Simulacron-3</room>
-<slug>camp2015-6788-the_good_bad_and_ugly_of_photo_video_metadata</slug>
-<recording>
-<license>CC-BY-3.0-DE</license>
-<optout>false</optout>
-</recording>
-<title>The good, bad, and ugly of photo &amp; video metadata</title>
-<subtitle></subtitle>
-<track>Security &amp; Hacking</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>In this talk we discuss mobile media metadata and explore how popular platforms modify such metadata towards different goals.</abstract>
-<description>Upon taking a picture or video with your mobile device, some metadata is included within the recorded file -- time/date, location, device information, software used. Once you upload that file to a website/server, you have no power over the metadata of the file, and some platforms can use such metadata for analytical purposes, while others modify the metadata which reduces the usefulness of that media for verification purposes. This talk explores some of the tech &amp; implications of different popular platforms metadata practices.</description>
-<persons>
-<person id='5564'>Bashz</person>
 </persons>
 <links>
 </links>
