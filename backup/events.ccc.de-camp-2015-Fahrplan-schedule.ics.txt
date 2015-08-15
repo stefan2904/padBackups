@@ -925,7 +925,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T111500
-DTSTAMP;VALUE=DATE-TIME:20150722T161409Z
+DTSTAMP;VALUE=DATE-TIME:20150814T160607Z
 UID:bb5f6994-e54c-4a78-a1a8-571477c000b1@frab.cccv.de
 DESCRIPTION:I will present the story and science behind this project\, wh
  ich is aimed at producing milk proteins in yeast.  If we succeed we will
@@ -1040,20 +1040,9 @@ SUMMARY:Terraforming Planet Earth
 LOCATION:Project 2501
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T123000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T120000
-DTSTAMP;VALUE=DATE-TIME:20150731T130111Z
-UID:4008e932-ec3e-4112-9367-4f98c304c34b@frab.cccv.de
-DESCRIPTION:In this talk we discuss mobile media metadata and explore how
-  popular platforms modify such metadata towards different goals.
-URL:/camp/2015/Fahrplan/events/6788.html
-SUMMARY:The good\, bad\, and ugly of photo & video metadata
-LOCATION:Simulacron-3
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T010000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T000000
-DTSTAMP;VALUE=DATE-TIME:20150729T120823Z
+DTSTAMP;VALUE=DATE-TIME:20150814T155932Z
 UID:d32891ed-c3ec-41b6-a586-234f2c9ce92b@frab.cccv.de
 DESCRIPTION:We are a community of (hill)hackers from India and all over t
  he world. We'd like to talk about how rewarding it is to setup a tiny CC
@@ -1061,8 +1050,8 @@ DESCRIPTION:We are a community of (hill)hackers from India and all over t
  s in the indian context. We'd also like to introduce various open spaces
  \, communities\, events and dialogues that are currently active in diffe
  rent parts of India. The history and diversity of open movements in Indi
- a is inspiring young hackers in the country to engage\, contribute and l
- earn from the global hacker movement.
+ a is inspiring hackers in the country to engage\, contribute and learn f
+ rom the global hacker movement.
 URL:/camp/2015/Fahrplan/events/7035.html
 SUMMARY:The hills are alive with the sound of hacking ... don't wake the 
  monkeys!
