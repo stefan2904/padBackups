@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.9 Scatman John/ Scatman's World</version>
+<version>1.99 The Damage Done</version>
 <conference>
 <acronym>camp2015</acronym>
 <title>Chaos Communication Camp 2015</title>
@@ -132,7 +132,7 @@ In einer mehrstündigen Radioreportage habe ich das Netz gesucht - also dessen S
 <person id='4790'>Moritz Metz</person>
 </persons>
 <links>
-<link href='wodasinternetlebt.de'>Wo das Internet lebt</link>
+<link href='http://www.wodasinternetlebt.de'>Wo das Internet lebt</link>
 </links>
 </event>
 <event guid='2b3d8f9e-7169-457a-b2db-834282f437f4' id='6785'>
@@ -1979,35 +1979,6 @@ In light of GCHQ's actions, we have asked hardware manufacturers to explain what
 <links>
 </links>
 </event>
-<event guid='2cce4d76-619d-4f60-b7e9-28e8ee9d6483' id='6833'>
-<date>2015-08-16T22:30:00+02:00</date>
-<start>22:30</start>
-<duration>01:00</duration>
-<room>Project 2501</room>
-<slug>camp2015-6833-tls_interception_considered_harmful</slug>
-<recording>
-<license>CC0</license>
-<optout>false</optout>
-</recording>
-<title>TLS interception considered harmful</title>
-<subtitle>How Man-in-the-Middle filtering solutions harm the security of HTTPS</subtitle>
-<track>Security &amp; Hacking</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>With the more widespread use of encrypted HTTPS connections many software vendors intercept these connections by installing a certificate into the user's browser. This is widely done by Antivirus applications, parental filter software or ad injection software. This can go horribly wrong, as the examples of Superfish and Privdog have shown. But even if implemented properly these solutions almost always decrease the security of HTTPS.</abstract>
-<description>In February a software called Superfish was detected preinstalled on Lenovo laptops that would intercept HTTPS connections by installing a certificate into the user's browser. This certificate was shared amongst different installations and therefore an extraction of the certificate allowed creating rogue certificates that would be accepted by many Lenovo laptops. Shortly after Superfish many other software products with the same or similar vulnerabilities were found. The speaker of this talk discovered that the software Privdog, advertised by the certificate authority Comodo, had an even worse vulnerability.
-
-Superfish and Privdog were extreme examples, but the technology of intercepting HTTPS connections by installing X.509 root certificates into the browser is widespread. These solutions are often part of software that is supposed to bring more security to the user - like Antivirus applications - but they lower the user's security. For example Kaspersky Antivirus users were still affected by the FREAK vulnerability months after the issue was found and fixed.
-
-The talk will first give an introduction into some problems in the TLS protocol that were found in recent years (BEAST, CRIME, FREAK, CA failures) and show some technologies that were invented to prevent common problems of TLS (e. g. HPKP). After that the speaker will give some examples of TLS interception software and how it endangers the security of the user.</description>
-<persons>
-<person id='2462'>hanno</person>
-</persons>
-<links>
-<link href='https://blog.hboeck.de/archives/869-How-Kaspersky-makes-you-vulnerable-to-the-FREAK-attack-and-other-ways-Antivirus-software-lowers-your-HTTPS-security.html'>How Kaspersky makes you vulnerable to the FREAK attack and other ways Antivirus software lowers your HTTPS security</link>
-<link href='https://blog.hboeck.de/archives/865-Software-Privdog-worse-than-Superfish.html'>Software Privdog worse than Superfish</link>
-</links>
-</event>
 </room>
 <room name='Simulacron-3'>
 <event guid='5d066320-5680-46f7-868e-71b6b5526b98' id='6737'>
@@ -2210,68 +2181,6 @@ As a demonstration fallowing project can be run by the Experimental Fermentation
 <links>
 </links>
 </event>
-<event guid='bd4515b7-fdcf-4d9b-8fc8-0ec47f5c8a80' id='6730'>
-<date>2015-08-16T21:15:00+02:00</date>
-<start>21:15</start>
-<duration>01:00</duration>
-<room>Simulacron-3</room>
-<slug>camp2015-6730-fpgas_for_everyone</slug>
-<recording>
-<license>CC-BY-3.0-DE</license>
-<optout>false</optout>
-</recording>
-<title>FPGAs for everyone</title>
-<subtitle>Integrating FPGAs with standard personal computers</subtitle>
-<track>Hardware &amp; Making</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>FPGAs are becoming more and more common in research and industrial projects. They are mostly used to accelerate problems of High Performance Computing. But standard personal computers can also benefit from them, e.g. with cryptographic accelerators, additional processor cores, hardware for special projects.
-This talk describes possible benefits for FPGAs in General Purpose Computing, and their requirements to the FPGA &lt;-&gt; Host connection and the operating system support.</abstract>
-<description>FPGAs are becoming more and more important in research and industrial projects. Many High Performance Computing systems rely on FPGAs to accelerate computations. Systems using FPGAs in this way are the Convey HC1, Copacobana from SciEngines and PCIe Accelerator Cards from Alpha Data. The main problem with these systems is, that normal Hackers can not afford these systems. But FPGAs allow the acceleration of task often needed by the hacker community, e.g. cryptography accelerators, cryptography/password crackers, bitcoin mining, and analog/digital converters. Therefore, it is very important to bring FPGAs into General Purpose Computing.
-
-The talk is organised in the following way:
-
-     *  a brief presentation of the available High Performance Computing
-        Systems
-     * a description of the benefits of the integration of FPGAs and 
-       standard computer systems
-     * an analysis of the requirements to the FPGA &lt;-&gt; Host
-       connection and the operating system support
-     * description of an example integration using Ethernet, a packet
-       switched Network on Chip and a new linux kernel subsystem
-</description>
-<persons>
-<person id='4218'>byterazor</person>
-</persons>
-<links>
-</links>
-</event>
-<event guid='2436bb76-f941-4d2d-8b88-188a0f9689d4' id='6920'>
-<date>2015-08-16T22:30:00+02:00</date>
-<start>22:30</start>
-<duration>01:00</duration>
-<room>Simulacron-3</room>
-<slug>camp2015-6920-attacking_iot_telemetry</slug>
-<recording>
-<license>FDL 1.3</license>
-<optout>false</optout>
-</recording>
-<title>Attacking IoT Telemetry</title>
-<subtitle>A study of weaknesses in the pipeline of rapidly advancing sensory development</subtitle>
-<track>Security &amp; Hacking</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>In this hour long presentation, we consider weaknesses in the pipeline of advancing sensor developments and demonstrate passive and active attacks on hypothetical critical infrastructure using real sensor devices. This presentation does not use scare tactics, but rather hacks along in a playful and humorous way.</abstract>
-<description>We study three models of IoT system design, machine to machine (M2M), human to machine (H2M), and a hybrid M2M/H2M, considering attack vectors of each. We move to media, examining weak points in Bluetooth, WiFi, and copper cabled connectivity with mention to IPv6, ZigBee, and RFID as well. We cover typical protocols of IoT communications when collecting telemetry data and passing it on to a message bus. Moving to the science of telemetry, a field study illustrates typical use cases for sensor data collection. We wrap up by considering the points of weakness of a sensor connected critical infrastructure.
-
-Demonstrations of Bluetooth sensor communication, message publishing, server and architecture inspection, packet captures, and reverse engineering serve to illustrate the topics at hand. Attacks using Ubertooth, WiFi Pineapples, and LAN tap demonstrate the weakness of existing products.</description>
-<persons>
-<person id='4239'>Michael Schloh von Bennewitz</person>
-</persons>
-<links>
-<link href='http://lect.europalab.com/ccciotelm/'>Attacking Internet of Things Telemetry</link>
-</links>
-</event>
 </room>
 </day>
 <day date='2015-08-17' end='2015-08-17T19:30:00+02:00' index='5' start='2015-08-17T10:30:00+02:00'>
@@ -2342,6 +2251,35 @@ From stingrays to aerial surveillance to license plate readers and cell phone tr
 <person id='5583'>Catherine Crump</person>
 </persons>
 <links>
+</links>
+</event>
+<event guid='2cce4d76-619d-4f60-b7e9-28e8ee9d6483' id='6833'>
+<date>2015-08-17T12:45:00+02:00</date>
+<start>12:45</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6833-tls_interception_considered_harmful</slug>
+<recording>
+<license>CC0</license>
+<optout>false</optout>
+</recording>
+<title>TLS interception considered harmful</title>
+<subtitle>How Man-in-the-Middle filtering solutions harm the security of HTTPS</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>With the more widespread use of encrypted HTTPS connections many software vendors intercept these connections by installing a certificate into the user's browser. This is widely done by Antivirus applications, parental filter software or ad injection software. This can go horribly wrong, as the examples of Superfish and Privdog have shown. But even if implemented properly these solutions almost always decrease the security of HTTPS.</abstract>
+<description>In February a software called Superfish was detected preinstalled on Lenovo laptops that would intercept HTTPS connections by installing a certificate into the user's browser. This certificate was shared amongst different installations and therefore an extraction of the certificate allowed creating rogue certificates that would be accepted by many Lenovo laptops. Shortly after Superfish many other software products with the same or similar vulnerabilities were found. The speaker of this talk discovered that the software Privdog, advertised by the certificate authority Comodo, had an even worse vulnerability.
+
+Superfish and Privdog were extreme examples, but the technology of intercepting HTTPS connections by installing X.509 root certificates into the browser is widespread. These solutions are often part of software that is supposed to bring more security to the user - like Antivirus applications - but they lower the user's security. For example Kaspersky Antivirus users were still affected by the FREAK vulnerability months after the issue was found and fixed.
+
+The talk will first give an introduction into some problems in the TLS protocol that were found in recent years (BEAST, CRIME, FREAK, CA failures) and show some technologies that were invented to prevent common problems of TLS (e. g. HPKP). After that the speaker will give some examples of TLS interception software and how it endangers the security of the user.</description>
+<persons>
+<person id='2462'>hanno</person>
+</persons>
+<links>
+<link href='https://blog.hboeck.de/archives/869-How-Kaspersky-makes-you-vulnerable-to-the-FREAK-attack-and-other-ways-Antivirus-software-lowers-your-HTTPS-security.html'>How Kaspersky makes you vulnerable to the FREAK attack and other ways Antivirus software lowers your HTTPS security</link>
+<link href='https://blog.hboeck.de/archives/865-Software-Privdog-worse-than-Superfish.html'>Software Privdog worse than Superfish</link>
 </links>
 </event>
 <event guid='379a56ad-5123-4861-a656-c0d534d53a96' id='6870'>
@@ -2459,6 +2397,68 @@ These are issues that were never encountered by the agricultural community befor
 </persons>
 <links>
 <link href='http://mishkahenner.com/filter/works/Feedlots'>Mishka Henner's 'Feedlots'</link>
+</links>
+</event>
+<event guid='bd4515b7-fdcf-4d9b-8fc8-0ec47f5c8a80' id='6730'>
+<date>2015-08-17T12:45:00+02:00</date>
+<start>12:45</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6730-fpgas_for_everyone</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>FPGAs for everyone</title>
+<subtitle>Integrating FPGAs with standard personal computers</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>FPGAs are becoming more and more common in research and industrial projects. They are mostly used to accelerate problems of High Performance Computing. But standard personal computers can also benefit from them, e.g. with cryptographic accelerators, additional processor cores, hardware for special projects.
+This talk describes possible benefits for FPGAs in General Purpose Computing, and their requirements to the FPGA &lt;-&gt; Host connection and the operating system support.</abstract>
+<description>FPGAs are becoming more and more important in research and industrial projects. Many High Performance Computing systems rely on FPGAs to accelerate computations. Systems using FPGAs in this way are the Convey HC1, Copacobana from SciEngines and PCIe Accelerator Cards from Alpha Data. The main problem with these systems is, that normal Hackers can not afford these systems. But FPGAs allow the acceleration of task often needed by the hacker community, e.g. cryptography accelerators, cryptography/password crackers, bitcoin mining, and analog/digital converters. Therefore, it is very important to bring FPGAs into General Purpose Computing.
+
+The talk is organised in the following way:
+
+     *  a brief presentation of the available High Performance Computing
+        Systems
+     * a description of the benefits of the integration of FPGAs and 
+       standard computer systems
+     * an analysis of the requirements to the FPGA &lt;-&gt; Host
+       connection and the operating system support
+     * description of an example integration using Ethernet, a packet
+       switched Network on Chip and a new linux kernel subsystem
+</description>
+<persons>
+<person id='4218'>byterazor</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='2436bb76-f941-4d2d-8b88-188a0f9689d4' id='6920'>
+<date>2015-08-17T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6920-attacking_iot_telemetry</slug>
+<recording>
+<license>FDL 1.3</license>
+<optout>false</optout>
+</recording>
+<title>Attacking IoT Telemetry</title>
+<subtitle>A study of weaknesses in the pipeline of rapidly advancing sensory development</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this hour long presentation, we consider weaknesses in the pipeline of advancing sensor developments and demonstrate passive and active attacks on hypothetical critical infrastructure using real sensor devices. This presentation does not use scare tactics, but rather hacks along in a playful and humorous way.</abstract>
+<description>We study three models of IoT system design, machine to machine (M2M), human to machine (H2M), and a hybrid M2M/H2M, considering attack vectors of each. We move to media, examining weak points in Bluetooth, WiFi, and copper cabled connectivity with mention to IPv6, ZigBee, and RFID as well. We cover typical protocols of IoT communications when collecting telemetry data and passing it on to a message bus. Moving to the science of telemetry, a field study illustrates typical use cases for sensor data collection. We wrap up by considering the points of weakness of a sensor connected critical infrastructure.
+
+Demonstrations of Bluetooth sensor communication, message publishing, server and architecture inspection, packet captures, and reverse engineering serve to illustrate the topics at hand. Attacks using Ubertooth, WiFi Pineapples, and LAN tap demonstrate the weakness of existing products.</description>
+<persons>
+<person id='4239'>Michael Schloh von Bennewitz</person>
+</persons>
+<links>
+<link href='http://lect.europalab.com/ccciotelm/'>Attacking Internet of Things Telemetry</link>
 </links>
 </event>
 <event guid='2ee47684-8114-4361-8f3e-8b61946d8335' id='6983'>
