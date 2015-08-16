@@ -1389,6 +1389,7 @@ Die weiterhin anhaltenden Sicherheitsdebakel, lassen eine IT Welt, die ausschlie
 <description></description>
 <persons>
 <person id='5579'>Daniel &quot;unicornFurnace&quot; Crowley</person>
+<person id='5789'>Damon Smith</person>
 </persons>
 <links>
 </links>
@@ -2359,7 +2360,7 @@ From stingrays to aerial surveillance to license plate readers and cell phone tr
 <type>lecture</type>
 <language>en</language>
 <abstract>Our understanding of the universe has exploded in the past 50 years, largely thanks to incredible advances in detector technology that allow us to precisely measure light and particles of all kinds. In this talk, I will describe some of the world's most sensitive detector technologies. These detectors often exploit strange properties of matter, or push up against the laws of physics in the most extreme physical conditions. I will also highlight the scientific discoveries that these new technologies have made possible.</abstract>
-<description>Almost every great leap in understanding in science was made possible by a new technology. For example, the field of biology changed forever after the microscope revealed the existence of cells. In this talk I hope to convey some of the great technological leaps in technology in astronomy, and what those leaps have allowed us to learn about the nature of the universe. A small sampling of what you can expect to hear about is listed below.
+<description>Almost every great leap in understanding in science was made possible by a new technology. For example, the field of biology changed forever after the microscope revealed the existence of cells. In this talk I hope to convey some of the great leaps in technology in astronomy, and what those leaps have allowed us to learn about the nature of the universe. A small sampling of what you can expect to hear about is listed below.
 
 My own PhD research was focused on the cosmic microwave background (remnant radiation from the big bang), which is best viewed with mm-wavelength detectors. This wavelength range is notoriously difficult to work in, and we have to operate our superconducting detectors a mere .25 degrees above absolute zero.
 
