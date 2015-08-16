@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T171500
-DTSTAMP;VALUE=DATE-TIME:20150801T111006Z
+DTSTAMP;VALUE=DATE-TIME:20150816T181943Z
 UID:c1f34fda-54f2-407c-b68c-44dafc820282@frab.cccv.de
 DESCRIPTION:Let's build a Bass Guitar! Let's not buy hardware and instead
   learn about metal working and how to program a CNC. Let's not recreate 
@@ -108,9 +108,9 @@ SUMMARY:Analogue Mission Simulations
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T233000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T223000
-DTSTAMP;VALUE=DATE-TIME:20150805T104210Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T140000
+DTSTAMP;VALUE=DATE-TIME:20150816T222326Z
 UID:2436bb76-f941-4d2d-8b88-188a0f9689d4@frab.cccv.de
 DESCRIPTION:In this hour long presentation\, we consider weaknesses in th
  e pipeline of advancing sensor developments and demonstrate passive and 
@@ -124,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T183000
-DTSTAMP;VALUE=DATE-TIME:20150808T072250Z
+DTSTAMP;VALUE=DATE-TIME:20150816T175014Z
 UID:87c715bf-c6a7-4ec6-87fc-84f4d04e01b6@frab.cccv.de
 DESCRIPTION:The GREEN side of hydroponics on a need to know basis for the
   ones who aim to build their _first_ system. This is what you need to kn
@@ -183,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T110000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T103000
-DTSTAMP;VALUE=DATE-TIME:20150731T130050Z
+DTSTAMP;VALUE=DATE-TIME:20150816T101323Z
 UID:afe359da-56c9-4e76-8f56-45ed406494e5@frab.cccv.de
 DESCRIPTION:This lecture will give an introduction into car hacking by ex
  plaining the structure and the different protocols of a modern car. The 
@@ -323,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T171500
-DTSTAMP;VALUE=DATE-TIME:20150810T071125Z
+DTSTAMP;VALUE=DATE-TIME:20150816T192247Z
 UID:f1e0faf3-f906-4abc-8218-9f42e10f8a1c@frab.cccv.de
 DESCRIPTION:After the Snowden revelations\, interest in encrypted end-to-
  end\ncommunication has skyrocketed\, even amongst ordinary users. Howeve
@@ -366,7 +366,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T120000
-DTSTAMP;VALUE=DATE-TIME:20150729T113607Z
+DTSTAMP;VALUE=DATE-TIME:20150816T223951Z
 UID:c61636b5-c011-4404-8caa-28ea1aae2804@frab.cccv.de
 DESCRIPTION:The lack of women in tech is evident in numbers and our exper
  ience. This imbalance has been in the focus of a public discussion\, tha
@@ -379,9 +379,9 @@ SUMMARY:for women in "${tech[@]}"\; do
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T221500
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T211500
-DTSTAMP;VALUE=DATE-TIME:20150731T082243Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T124500
+DTSTAMP;VALUE=DATE-TIME:20150816T222226Z
 UID:bd4515b7-fdcf-4d9b-8fc8-0ec47f5c8a80@frab.cccv.de
 DESCRIPTION:FPGAs are becoming more and more common in research and indus
  trial projects. They are mostly used to accelerate problems of High Perf
@@ -410,7 +410,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T191500
-DTSTAMP;VALUE=DATE-TIME:20150731T082334Z
+DTSTAMP;VALUE=DATE-TIME:20150816T120642Z
 UID:f83350dc-8152-422c-921f-379b018c0fa2@frab.cccv.de
 DESCRIPTION:WLAN and mesh networking in the UHF band: More frequency spec
  trum with greater range for better and cheaper broadband access for ever
@@ -600,7 +600,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T191500
-DTSTAMP;VALUE=DATE-TIME:20150816T015001Z
+DTSTAMP;VALUE=DATE-TIME:20150816T173722Z
 UID:ba581611-85dc-4e7c-924d-3ca10fe03d48@frab.cccv.de
 DESCRIPTION:This presentation will identify and address two safety-critic
  al problems permeating research today: lack of total free access to scho
@@ -616,7 +616,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T120000
-DTSTAMP;VALUE=DATE-TIME:20150814T105743Z
+DTSTAMP;VALUE=DATE-TIME:20150816T120914Z
 UID:cf32c6aa-4a0b-41dd-8103-45575f628913@frab.cccv.de
 DESCRIPTION:Smartlocks are the new way of securing doors by replacing the
   old mechanical locks by new high-tech and connected locks\, able to com
@@ -643,7 +643,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T183000
-DTSTAMP;VALUE=DATE-TIME:20150814T013729Z
+DTSTAMP;VALUE=DATE-TIME:20150816T120624Z
 UID:e8d65b1e-ce8a-4307-b056-e8b60461c825@frab.cccv.de
 DESCRIPTION:Im Sommer 2015 erfuhr die Redaktion von netzpolitik.org\, das
  s gegen zwei ihrer Redakteure wegen Landesverrat ermittelt wird. Was dan
@@ -951,7 +951,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T211500
-DTSTAMP;VALUE=DATE-TIME:20150727T065313Z
+DTSTAMP;VALUE=DATE-TIME:20150816T192436Z
 UID:045e7aa9-5e12-4baf-98b2-e3fd31159851@frab.cccv.de
 DESCRIPTION:This talk is given by three activists who were all targeted b
  y UK police spy Mark Kennedy and who have direct personal experience of 
@@ -1083,7 +1083,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T211500
-DTSTAMP;VALUE=DATE-TIME:20150803T145155Z
+DTSTAMP;VALUE=DATE-TIME:20150816T120810Z
 UID:882370ef-642d-43ba-b91d-22e9e87e9a1f@frab.cccv.de
 DESCRIPTION:We will give a introduction on what your badge can do. An ove
  rview of the hardware details and software options as well as the histor
@@ -1093,9 +1093,9 @@ SUMMARY:The rad1o
 LOCATION:Simulacron-3
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T233000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T223000
-DTSTAMP;VALUE=DATE-TIME:20150731T130120Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T124500
+DTSTAMP;VALUE=DATE-TIME:20150816T221307Z
 UID:2cce4d76-619d-4f60-b7e9-28e8ee9d6483@frab.cccv.de
 DESCRIPTION:With the more widespread use of encrypted HTTPS connections m
  any software vendors intercept these connections by installing a certifi
@@ -1146,7 +1146,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T191500
-DTSTAMP;VALUE=DATE-TIME:20150731T130023Z
+DTSTAMP;VALUE=DATE-TIME:20150816T121230Z
 UID:b17ff452-d735-49b4-b91f-b8f7cd62dad2@frab.cccv.de
 DESCRIPTION:Microsoft versucht mal wieder\, diesmal unter dem Deckmantel 
  sicheren Bootens\, den Besitzern die Kontrolle über ihre Persönlichen Co
