@@ -137,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T200000
-DTSTAMP;VALUE=DATE-TIME:20150805T003151Z
+DTSTAMP;VALUE=DATE-TIME:20150815T155140Z
 UID:2e6e3f84-3f82-4e72-981e-fd90e23d8112@frab.cccv.de
 DESCRIPTION:Certain file formats\, like Microsoft Word and PDF\, are know
  n to have features that allow for outbound requests to be made when the 
@@ -263,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T160000
-DTSTAMP;VALUE=DATE-TIME:20150809T203250Z
+DTSTAMP;VALUE=DATE-TIME:20150815T175159Z
 UID:379a56ad-5123-4861-a656-c0d534d53a96@frab.cccv.de
 DESCRIPTION:Our understanding of the universe has exploded in the past 50
   years\, largely thanks to incredible advances in detector technology th
@@ -397,7 +397,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T163000
-DTSTAMP;VALUE=DATE-TIME:20150804T195349Z
+DTSTAMP;VALUE=DATE-TIME:20150815T092347Z
 UID:581757d7-5b47-491c-8907-9aa5d235edb8@frab.cccv.de
 DESCRIPTION:Geheimdienste\, Militärs und ihre Helfer nutzen freie und Ope
  n-Source-Software – weil sie können. Sie dürfen das\, denn wir haben uns
@@ -794,7 +794,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T171500
-DTSTAMP;VALUE=DATE-TIME:20150813T175615Z
+DTSTAMP;VALUE=DATE-TIME:20150815T082023Z
 UID:f972cded-d26e-4461-b544-319089708e42@frab.cccv.de
 DESCRIPTION:Mier a creative commons Mate Beer that was launched in Berlin
   in 2012\, made some waves as it tried to pave a path reserved only for 
@@ -822,7 +822,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T233000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T223000
-DTSTAMP;VALUE=DATE-TIME:20150810T004411Z
+DTSTAMP;VALUE=DATE-TIME:20150815T162444Z
 UID:cdc39fc3-715d-4610-b633-3821e4762aa4@frab.cccv.de
 DESCRIPTION:Es gibt unzählige Möglichkeiten\, ein Hardwareentwicklungspro
  jekt in den Sand zu setzen. Man muss nicht für alle davon selbst verantw
