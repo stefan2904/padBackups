@@ -600,7 +600,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T191500
-DTSTAMP;VALUE=DATE-TIME:20150731T130020Z
+DTSTAMP;VALUE=DATE-TIME:20150816T015001Z
 UID:ba581611-85dc-4e7c-924d-3ca10fe03d48@frab.cccv.de
 DESCRIPTION:This presentation will identify and address two safety-critic
  al problems permeating research today: lack of total free access to scho
