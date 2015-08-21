@@ -1,0 +1,127 @@
+2015-08-19 Mi 20:30 - Mitgliedertreffen
+ *  Aufname neuer Mitglieder
+   * Peter G. aufgenommen
+   * A. P. Zurk. Vorstand handelt.
+
+ *  Lost+Found Box ausräumen
+   * Ausgeleert
+
+ *  Vorträge für die nächsten Monate
+   * August
+     * Idee Peter p. stellt EGo Wheel Technik auf
+     * Häkel Workshop (Sandra)
+     * rad1o Hackaton ??
+   * September
+     * Max
+     * Hledger (xro)
+   * Oktober
+     * Daniel (Homunkoloss) WS verpsrochen
+
+ *  regelmäßige Vorträge. Jedes Mitglied 1x pro Jahr ?
+   * Verpflichtung schlecht -> macht keinen Sinn -> wir sind dagegen
+   * positives Bestärkung -> Überlegen wie?
+   * Ideensammeln für positive Anreize (wenn Ideen an Sandra schreiben)
+   * Hemmschwelle niedirg halten (machen)
+   * Generell auch für Externe: sowohl teilnehmen als auch halten
+   * positives Feedback für Vortragende
+   * Bewerbung
+
+ * Aufgaben im realraum?
+   * Generelles Probelm Dinge werden von zu wenigen Personen erledigt großer Workload
+   * Liste von Aufgaben wurde über Maillingliste ausgeschickt
+     * Nicht verantwortliche Person sondern Ansprechpersonen
+       * Definieren wofür wir Leute haben wollen + auschicken ca 1 1/2 Wochen vor nächsten Mitgliedertreffen (jetziger Vorstand)
+         * inkl. Suche nach Lasercutter-beauftragter-Person
+   * Issue Tracker
+     * Digital vs Analog (evtl anzeigen mit Display im r3)
+     * Vorteil es wird auch dokumentiert
+     * Hauptsächlich für Dinge die Zusätzlich anfallen
+     * Stefan und PeterTheOne sucht möglichen Issue Tracker
+
+ * Termine und Leute für Einführungsworkshop für neue Mitglieder
+   * Tour zum herzeigen
+     * Checkliste zum Erzählen für neue Mitglieder
+     * Einführung generell Persönlich machen
+     * Wissen weiter geben wo du fragen kannst
+   * regelmäßig Workshops für Lasercutter/3D Drucker/Werkzeug Masha/Olga
+     * Vorschlag: Liste zum eintragen wer will
+       * Einfache Lösung: EMail an Veranwortlichen schreiben
+         * Sandra findet diese Leute bis zum nächsten Mitgliederabend und tragt im Wiki ein
+       * Elegenatere Lösung evtl. später
+
+ * Safe für Kassa, Geändertes Kassasystem?
+   * Grund der Schwund ist ziemlich hoch ca 15%
+   * Idee erster Schritt öfter Getränkeinventur machen um herauszufinden woher der Schwund kommt / wirklich nicht gezahlte Getränke?!
+   * Idee Safe um mögliches Problem jemand nimmt Geld aus der Kassa zu adressieren
+   * Idee Getränkekassa trennen / andere Kassa für Ausgaben gescichert
+   * Diskussionspunkte
+     * Direkt das wahrscheinlichste Problem addressieren
+     * Ursachen herausfinden?!
+     * 50€ reichen nicht für sinnvolles Wechselgeld
+       * große Scheine rausnehmen und nicht auf 50€ kappen
+     * Getränke mitbringen evtl. ein Probelm
+       * nicht mehr machen außer es wird gleich gezahlt
+     * Kein System des Misstrauens wird gewollt
+     * Problem Zahlungsmoral wie angehen?
+   * Idee/Frage Bargeldloses zahlen
+   * Idee Getränkeautomat?!
+     * sehr restriktiv
+   * Daten sehr sichtbar machen
+     * Zahlungsmoral anzeigen -> monatlicher Aushang durch Kassier, Graph über letzte Inventurzeitpunkte (in Farbe, Rot Böse, Grün Gut, Gelb Ok)
+     * Todo Kassabuch zum Kassabuch: 
+       * Spenden trotzdem ins Kassabuch eintrage
+       * Auslagenersatz nur gegen Rechnungen
+       * Wie Eintragen
+       * Welche Höhe, wen fragen
+   * BestPractices sammeln
+     * Bierkorken sammeln!! In Hosentasche und dann Äquivalente Menge zahlen -> Prozedur einfach auf A4 Zettel beschrieben, zum Bier heften. Jeder der Bier nimmt, wird an neue Prozedur erinnert
+     * "Klar nehm ich dir a Bier mit.. Kohle bitte gleich her"
+
+ * Brauchs nicht mehr – Will es wer – Box ? (neben Lost+Found, oder ident mit Lost+Found)
+   * Existierit schon quasi liegen Dinge zu viel herum
+   * Radikalers wegschmeißen notwendig
+   * Evtl. nur auf Mailingliste announcen
+   * Problem regeln kommunizieren jetzt schon - zweifel dass es passiert
+   * Idee Frühjahrsputz extra Diskussion (evtl nächste Tagesordnung?!)
+ * 
+ * Regal für Mitglieder
+   * Stand aktuell
+   * Stichsäge die wirklich funktioniert fehlt
+   * Equinox nimmt Stichsäge und schneidet bis Wochenende
+   * Elektroinstallation für Boxen on hold
+     * Netzteil fehlt
+ * 
+
+ * TODOs
+   * Nähmaschine (reparieren)
+   * olga fenster verrottet, lackieren
+     * 
+   *  Montage Lüftung Lasercutter - Termin
+     * Olga Belüftung braucht Beratung wie man das macht
+     * Martin verantwortlich
+
+ * Brauchen wir Stichsäge ?
+ * Brauchen wir Kappsäge ?
+ * Hilfe für Flüchtlinge?
+   * Spendenaktion?!
+   * Informationsplattform
+     * Informationen zusammentragen gibts schon?
+   * Initiativen die schon in Graz sind unterstützen
+     * Megaphon Workshops anbieten etc.
+     * Kama (bietet Workshops an von und für Flüchtlinge)
+   * Nicht zu viel Druck vom Verein aus zu machen
+   * Zugang zum Realraum schaffen für Leute die sonst keinen Zugang hätten
+ * 
+ * Hackaton in Ljubljana ? - Geht wer?
+ * 
+ * CCCamp2015 wie wars ?
+   * https://events.ccc.de/camp/2015/wiki/Ideas_for_the_next_camp
+   * https://events.ccc.de/camp/2015/wiki/Lost_and_Found
+   * Wird ausgeshickt von ?!
+   * Feedbackrunde fürs Reallville
+     * Dinge die wir vergessen haben
+     * Dinge fürs Campliste machen
+
+Ideen
+ *  Regal oberhalb Bierkisten in CX auf nöchste Tagesordnung verschieben
+
