@@ -1,11 +1,11 @@
 "Stefan's CCCamp15 Calculations",,,,
 ,,,,
-Sum:,490,"€ for",7~9,days
+Sum:,430,"€ for",9,days
 ,,,,
 What,€,,,
 "Camp Ticket",220,,,
-T-Shirt,20,~,,
-"r3 Fee",30,~,,
-"Travel Ticket",120,~,,
-Food,100,~,,
+T-Shirt,0,,,
+"r3 Fee",50,,,
+"Travel (car)",80,,,
+Food+Tschunk,80,~,,
 Tschunk,,,,
