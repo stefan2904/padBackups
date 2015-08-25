@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.99 The Damage Done</version>
+<version>2.0 no time to cry</version>
 <conference>
 <acronym>camp2015</acronym>
 <title>Chaos Communication Camp 2015</title>
@@ -704,6 +704,7 @@ The goal of this even is to bring together key voices in this space so we combat
 <person id='3615'>harryhalpin</person>
 <person id='5619'>meskio</person>
 <person id='5545'>Gus Andrews</person>
+<person id='5634'>Rabble</person>
 </persons>
 <links>
 <link href='http://leap.se'>LEAP</link>
@@ -822,6 +823,8 @@ This talk will present the work and challenges of WoW.</description>
 <person id='5732'>Robert Senftleben</person>
 </persons>
 <links>
+<link href='greendeserts.wordpress.com'>Blog from Robert about the last 9 months of research and contact in and around Jordan</link>
+<link href='http://knaw.academia.edu/JohnDLiu'>The work of John D. Liu, videos, articles, reports, etc. </link>
 </links>
 </event>
 <event guid='5b980999-8914-4014-85ae-247bde5be3ce' id='6900'>
@@ -2293,18 +2296,16 @@ The talk will first give an introduction into some problems in the TLS protocol 
 <optout>false</optout>
 </recording>
 <title>Detecting echoes from the dawn of time</title>
-<subtitle>Nifty technologies behind the world's most sensitive astronomical detectors</subtitle>
+<subtitle>Nifty technologies that revolutionized astronomy</subtitle>
 <track>Science</track>
 <type>lecture</type>
 <language>en</language>
-<abstract>Our understanding of the universe has exploded in the past 50 years, largely thanks to incredible advances in detector technology that allow us to precisely measure light and particles of all kinds. In this talk, I will describe some of the world's most sensitive detector technologies. These detectors often exploit strange properties of matter, or push up against the laws of physics in the most extreme physical conditions. I will also highlight the scientific discoveries that these new technologies have made possible.</abstract>
-<description>Almost every great leap in understanding in science was made possible by a new technology. For example, the field of biology changed forever after the microscope revealed the existence of cells. In this talk I hope to convey some of the great leaps in technology in astronomy, and what those leaps have allowed us to learn about the nature of the universe. A small sampling of what you can expect to hear about is listed below.
+<abstract>Our understanding of the universe has exploded in the past 50 years, largely thanks to incredible advances in detector technology that allow us to precisely measure light and particles of all kinds. This talk will cover how technology has revolutionized the field of astronomy, focusing on some of these detector technologies and the discoveries they made possible. The future of astronomy involves large datasets and big computations. The field is starting to embrace open source software and hardware and the power of the internet to fuel new scientific discoveries. </abstract>
+<description>Almost every great leap in understanding in science was made possible by a new technology. For example, the field of biology changed forever after the microscope revealed the existence of cells. In this talk I will discuss some of the great leaps in technology in astronomy, and what those technologies have allowed us to learn about the nature of the universe. 
 
-My own PhD research was focused on the cosmic microwave background (remnant radiation from the big bang), which is best viewed with mm-wavelength detectors. This wavelength range is notoriously difficult to work in, and we have to operate our superconducting detectors a mere .25 degrees above absolute zero.
+The focus will be on discoveries made possible by modern detector technologies, using mm wavelength superconducting cryogenic bolometers and the cosmic microwave background as the example.
 
-Other experiments aim to measure neutrinos, which are particles that almost never interact with anything. But how do you measure something that only interacts rarely with your detector? One experiment's solution is to use a several cubic kilometer slab of the Antarctic ice cap as a the detector--the &quot;just make it bigger&quot; approach.
-
-In practice, there are always problems that crop up when working at the edges of human understanding and the laws of physics, some fundamental, and some mundane but hilarious. (Like the time all of our resistors went superconducting on us; Digikey doesn't spec resistors to temperatures within a degree of absolute zero.) I plan to discuss some of the practical problems we have had to tackle when working on cryogenics and detectors, and the sometimes unorthodox ways we have solved them. Cryogenic dental floss anyone?</description>
+Moving forward, astronomy is entering an era of big data. Computation is becoming an increasingly important part of astronomy, and as with any new technology, we can expect new scientific discoveries as it becomes mature. The field is starting to embrace open source software and hardware, and the power of the internet to fuel new scientific discoveries. </description>
 <persons>
 <person id='5459'>Liz</person>
 </persons>
