@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T233000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T223000
-DTSTAMP;VALUE=DATE-TIME:20150731T082232Z
+DTSTAMP;VALUE=DATE-TIME:20150818T190249Z
 UID:61faba33-5bfa-4c58-a864-d527c6f31b7d@frab.cccv.de
 DESCRIPTION:Despite the dramatic falls in costs of production\, medical d
  evices have remained prohibitively expensive for all but the richest cou
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T183000
-DTSTAMP;VALUE=DATE-TIME:20150731T212758Z
+DTSTAMP;VALUE=DATE-TIME:20150824T203648Z
 UID:8e851e7a-d9d1-4074-a802-4e9d7a297a6a@frab.cccv.de
 DESCRIPTION:This will be a rapid-fire\, tips-and-tricks lecture on practi
  cal prototyping.\nIt will cover a series of practical tips\, strategies 
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T191500
-DTSTAMP;VALUE=DATE-TIME:20150731T223136Z
+DTSTAMP;VALUE=DATE-TIME:20150820T172742Z
 UID:dcd095aa-67c7-4db0-8d95-1eea799da466@frab.cccv.de
 DESCRIPTION:In the spirit of “Failosophy” we would like to give a brief t
  alk about the mistakes we made\, and lessons we learned\, in running Tor
@@ -124,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T183000
-DTSTAMP;VALUE=DATE-TIME:20150816T175014Z
+DTSTAMP;VALUE=DATE-TIME:20150821T070232Z
 UID:87c715bf-c6a7-4ec6-87fc-84f4d04e01b6@frab.cccv.de
 DESCRIPTION:The GREEN side of hydroponics on a need to know basis for the
   ones who aim to build their _first_ system. This is what you need to kn
@@ -137,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T200000
-DTSTAMP;VALUE=DATE-TIME:20150815T155140Z
+DTSTAMP;VALUE=DATE-TIME:20150824T205908Z
 UID:2e6e3f84-3f82-4e72-981e-fd90e23d8112@frab.cccv.de
 DESCRIPTION:Certain file formats\, like Microsoft Word and PDF\, are know
  n to have features that allow for outbound requests to be made when the 
@@ -157,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T120000
-DTSTAMP;VALUE=DATE-TIME:20150722T161235Z
+DTSTAMP;VALUE=DATE-TIME:20150817T141019Z
 UID:10864b98-db0f-4184-a71a-55ec5942d837@frab.cccv.de
 DESCRIPTION:Starting my new job\, I was surprised about my colleagues rea
  ctions to my mistakes. No blame! People trust me to own my mistakes and 
@@ -183,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T110000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T103000
-DTSTAMP;VALUE=DATE-TIME:20150816T101323Z
+DTSTAMP;VALUE=DATE-TIME:20150817T121823Z
 UID:afe359da-56c9-4e76-8f56-45ed406494e5@frab.cccv.de
 DESCRIPTION:This lecture will give an introduction into car hacking by ex
  plaining the structure and the different protocols of a modern car. The 
@@ -196,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T191500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T183000
-DTSTAMP;VALUE=DATE-TIME:20150726T021845Z
+DTSTAMP;VALUE=DATE-TIME:20150820T214704Z
 UID:3064add4-ab1e-4d05-84b8-d753b9733097@frab.cccv.de
 DESCRIPTION:
 URL:/camp/2015/Fahrplan/events/6982.html
@@ -216,7 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T111500
-DTSTAMP;VALUE=DATE-TIME:20150723T105638Z
+DTSTAMP;VALUE=DATE-TIME:20150824T192610Z
 UID:a707951f-7f9c-4c8e-8f4f-b837f3581b7b@frab.cccv.de
 DESCRIPTION:Crypto seems to be the last line of defence in a wired world.
    "We mustimplement it\, actively research it." (Eduard Snowden).  So le
@@ -234,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T111500
-DTSTAMP;VALUE=DATE-TIME:20150807T114339Z
+DTSTAMP;VALUE=DATE-TIME:20150823T164455Z
 UID:85bae1d2-e024-48e9-91e1-d4ecfde18694@frab.cccv.de
 DESCRIPTION:Die Störerhaftung verhindert bisher oft\, dass Unternehmen un
  d Private in Deutschland offene Funknetzwerke anbieten.
@@ -263,16 +263,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T160000
-DTSTAMP;VALUE=DATE-TIME:20150815T175159Z
+DTSTAMP;VALUE=DATE-TIME:20150817T141452Z
 UID:379a56ad-5123-4861-a656-c0d534d53a96@frab.cccv.de
 DESCRIPTION:Our understanding of the universe has exploded in the past 50
   years\, largely thanks to incredible advances in detector technology th
- at allow us to precisely measure light and particles of all kinds. In th
- is talk\, I will describe some of the world's most sensitive detector te
- chnologies. These detectors often exploit strange properties of matter\,
-  or push up against the laws of physics in the most extreme physical con
- ditions. I will also highlight the scientific discoveries that these new
-  technologies have made possible.
+ at allow us to precisely measure light and particles of all kinds. This 
+ talk will cover how technology has revolutionized the field of astronomy
+ \, focusing on some of these detector technologies and the discoveries t
+ hey made possible. The future of astronomy involves large datasets and b
+ ig computations. The field is starting to embrace open source software a
+ nd hardware and the power of the internet to fuel new scientific discove
+ ries. 
 URL:/camp/2015/Fahrplan/events/6870.html
 SUMMARY:Detecting echoes from the dawn of time
 LOCATION:Project 2501
@@ -280,7 +281,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T211500
-DTSTAMP;VALUE=DATE-TIME:20150802T152843Z
+DTSTAMP;VALUE=DATE-TIME:20150823T001306Z
 UID:cb9bc487-84aa-4f9c-931a-6de0bdf25e43@frab.cccv.de
 DESCRIPTION:Die letzte Demo unwirksam und langweilig\, die Petition fürn 
  Arsch\, von Parteien enttäuscht\, Clicktivism und Shitstorms durchgespie
@@ -310,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T200000
-DTSTAMP;VALUE=DATE-TIME:20150802T153017Z
+DTSTAMP;VALUE=DATE-TIME:20150822T225621Z
 UID:f29c721d-4917-4705-aa87-0281d89f8655@frab.cccv.de
 DESCRIPTION:Women on Waves and Women on Web\, 2 non profit organisations 
  use all possible loopholes and undetermined legal spaces to make sure th
@@ -323,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T171500
-DTSTAMP;VALUE=DATE-TIME:20150816T192247Z
+DTSTAMP;VALUE=DATE-TIME:20150820T101358Z
 UID:f1e0faf3-f906-4abc-8218-9f42e10f8a1c@frab.cccv.de
 DESCRIPTION:After the Snowden revelations\, interest in encrypted end-to-
  end\ncommunication has skyrocketed\, even amongst ordinary users. Howeve
@@ -366,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T120000
-DTSTAMP;VALUE=DATE-TIME:20150816T223951Z
+DTSTAMP;VALUE=DATE-TIME:20150819T095320Z
 UID:c61636b5-c011-4404-8caa-28ea1aae2804@frab.cccv.de
 DESCRIPTION:The lack of women in tech is evident in numbers and our exper
  ience. This imbalance has been in the focus of a public discussion\, tha
@@ -397,7 +398,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T163000
-DTSTAMP;VALUE=DATE-TIME:20150815T092347Z
+DTSTAMP;VALUE=DATE-TIME:20150823T164910Z
 UID:581757d7-5b47-491c-8907-9aa5d235edb8@frab.cccv.de
 DESCRIPTION:Geheimdienste\, Militärs und ihre Helfer nutzen freie und Ope
  n-Source-Software – weil sie können. Sie dürfen das\, denn wir haben uns
@@ -503,7 +504,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T200000
-DTSTAMP;VALUE=DATE-TIME:20150731T130106Z
+DTSTAMP;VALUE=DATE-TIME:20150821T183342Z
 UID:a5f996a3-d0a7-44e7-ac1b-6373a297ccf3@frab.cccv.de
 DESCRIPTION:In this talk we'll go through many examples of targeted surve
  illance employed by governments all around the world and we'll try to un
@@ -536,7 +537,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T211500
-DTSTAMP;VALUE=DATE-TIME:20150731T150443Z
+DTSTAMP;VALUE=DATE-TIME:20150817T141958Z
 UID:cd66723d-23cc-40e7-9b76-f9b38dc576ab@frab.cccv.de
 DESCRIPTION:In the summer of 2013\, Guardian employees destroyed computer
  s storing top secret documents from Snowden\, on instruction and supervi
@@ -550,7 +551,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T160000
-DTSTAMP;VALUE=DATE-TIME:20150731T125904Z
+DTSTAMP;VALUE=DATE-TIME:20150817T140704Z
 UID:97cbc2a0-7d63-4d54-9ff6-fb1b8ed30380@frab.cccv.de
 DESCRIPTION:Auditing source code is not enough when build tools are thems
  elves a target. When software can be built reproducibly\, anyone is enab
@@ -578,7 +579,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T160000
-DTSTAMP;VALUE=DATE-TIME:20150728T084559Z
+DTSTAMP;VALUE=DATE-TIME:20150820T121215Z
 UID:2ee47684-8114-4361-8f3e-8b61946d8335@frab.cccv.de
 DESCRIPTION:
 URL:/camp/2015/Fahrplan/events/6983.html
@@ -600,7 +601,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T191500
-DTSTAMP;VALUE=DATE-TIME:20150816T173722Z
+DTSTAMP;VALUE=DATE-TIME:20150824T203730Z
 UID:ba581611-85dc-4e7c-924d-3ca10fe03d48@frab.cccv.de
 DESCRIPTION:This presentation will identify and address two safety-critic
  al problems permeating research today: lack of total free access to scho
@@ -616,7 +617,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T120000
-DTSTAMP;VALUE=DATE-TIME:20150816T120914Z
+DTSTAMP;VALUE=DATE-TIME:20150817T062014Z
 UID:cf32c6aa-4a0b-41dd-8103-45575f628913@frab.cccv.de
 DESCRIPTION:Smartlocks are the new way of securing doors by replacing the
   old mechanical locks by new high-tech and connected locks\, able to com
@@ -628,7 +629,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T171500
-DTSTAMP;VALUE=DATE-TIME:20150811T165031Z
+DTSTAMP;VALUE=DATE-TIME:20150824T203430Z
 UID:c131b08d-e1be-4658-b98a-a223bc746784@frab.cccv.de
 DESCRIPTION:Wie lassen sich schwierige Themen einfach darstellen? Ralph C
  aspers erzählt von seiner Arbeit bei „Wissen macht Ah!“ und „Die Sendung
@@ -732,7 +733,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T183000
-DTSTAMP;VALUE=DATE-TIME:20150731T125959Z
+DTSTAMP;VALUE=DATE-TIME:20150817T141248Z
 UID:feefa25c-12e5-4178-9c27-dbcf2afd905a@frab.cccv.de
 DESCRIPTION:Locking the Net Open: Transforming the Web into a truly distr
  ibuted system that’s all fun\, secure and reliable.    Using Javascript\
@@ -764,7 +765,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T010000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T000000
-DTSTAMP;VALUE=DATE-TIME:20150727T160546Z
+DTSTAMP;VALUE=DATE-TIME:20150817T141613Z
 UID:fc4e6338-452d-48c3-a21b-ecdcb658bce7@frab.cccv.de
 DESCRIPTION:Making music with Tesla coils has become more popular as the 
  technology has become more accessible. But can they really be considered
@@ -779,7 +780,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T191500
-DTSTAMP;VALUE=DATE-TIME:20150811T153353Z
+DTSTAMP;VALUE=DATE-TIME:20150820T121912Z
 UID:2b4f6479-8241-4ede-b025-328d476c52ba@frab.cccv.de
 DESCRIPTION:Peñabots have been active in Mexican networks since the 2012 
  presidential elections. Named after President Enrique Peña Nieto\, armie
@@ -794,7 +795,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T171500
-DTSTAMP;VALUE=DATE-TIME:20150815T082023Z
+DTSTAMP;VALUE=DATE-TIME:20150817T141717Z
 UID:f972cded-d26e-4461-b544-319089708e42@frab.cccv.de
 DESCRIPTION:Mier a creative commons Mate Beer that was launched in Berlin
   in 2012\, made some waves as it tried to pave a path reserved only for 
@@ -808,7 +809,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T170000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T160000
-DTSTAMP;VALUE=DATE-TIME:20150805T013952Z
+DTSTAMP;VALUE=DATE-TIME:20150817T142238Z
 UID:ee1c8597-45af-444e-bab6-339b3c077b89@frab.cccv.de
 DESCRIPTION:We\, Die Improbanden\, an improv group from Berlin\, will per
  form an open stage show and ask the really courageous members of the aud
@@ -835,7 +836,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150816T120000
-DTSTAMP;VALUE=DATE-TIME:20150803T111448Z
+DTSTAMP;VALUE=DATE-TIME:20150817T192638Z
 UID:9db475b9-d3a3-42a0-aaa1-08ef21f7355a@frab.cccv.de
 DESCRIPTION:In an age obsessed with digital preservation\, constantly gro
  wing databases\, search engine optimization and unlimited encyclopedias\
@@ -848,7 +849,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T210000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T200000
-DTSTAMP;VALUE=DATE-TIME:20150729T225918Z
+DTSTAMP;VALUE=DATE-TIME:20150817T140810Z
 UID:eab5b0db-c441-4f14-89eb-939585061555@frab.cccv.de
 DESCRIPTION:Der NSA-Untersuchungsausschuss ist zum BND-Untersuchungsaussc
  huss geworden. Wie sieht es nach einem Jahr aus? Was kam nach Eikonal? W
@@ -862,7 +863,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T191500
-DTSTAMP;VALUE=DATE-TIME:20150729T054213Z
+DTSTAMP;VALUE=DATE-TIME:20150823T170330Z
 UID:e9d2a3dd-7d47-4f6a-9475-2961e584037e@frab.cccv.de
 DESCRIPTION:<i>...niemanden interessiert wie's funktioniert\, solange es 
  funktioniert</i>\n\nAlso lasst uns Fehler machen.\n----\nDiese Performan
@@ -878,7 +879,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T163000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T160000
-DTSTAMP;VALUE=DATE-TIME:20150814T122111Z
+DTSTAMP;VALUE=DATE-TIME:20150817T141102Z
 UID:439d64b1-b08b-4313-87f9-c469211d4206@frab.cccv.de
 DESCRIPTION:Seit Edward Snowden ist IT-Sicherheit nicht mehr nur ein Them
  a für Konzerne und Verschwörungstheoretiker. Sie ist in den Fokus des al
@@ -892,7 +893,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T171500
-DTSTAMP;VALUE=DATE-TIME:20150804T001359Z
+DTSTAMP;VALUE=DATE-TIME:20150817T140738Z
 UID:f76a7853-6dfa-4294-81b6-1b37a9632b67@frab.cccv.de
 DESCRIPTION:In this talk EFF Technologist Noah Swartz will present Privac
  y Badger\, EFF's new browser extension that automatically blocks both in
@@ -913,7 +914,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T221500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T211500
-DTSTAMP;VALUE=DATE-TIME:20150731T081911Z
+DTSTAMP;VALUE=DATE-TIME:20150820T121536Z
 UID:54159b05-db61-4055-b2ae-f4a16559ccfe@frab.cccv.de
 DESCRIPTION:DIY electronics often means Arduinos and breadboards. But you
   can do so much more. Things like BGA soldering\, DDRx-RAM\, HDMI and PC
@@ -939,7 +940,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T233000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T223000
-DTSTAMP;VALUE=DATE-TIME:20150802T141349Z
+DTSTAMP;VALUE=DATE-TIME:20150817T140834Z
 UID:7dedc312-4c86-4b70-b711-b63f569bca81@frab.cccv.de
 DESCRIPTION:Improving the quality of life of Refugees in Germany by using
   the Internet as a tool to reduce their isolation\, connecting them with
@@ -965,7 +966,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T120000
-DTSTAMP;VALUE=DATE-TIME:20150804T153122Z
+DTSTAMP;VALUE=DATE-TIME:20150818T154838Z
 UID:a406971d-76aa-464c-9ce2-2e7c4a63fab5@frab.cccv.de
 DESCRIPTION:Satellite imagery has been used since the 1960s to monitor ag
  ricultural activities at a national and international level. It is only 
@@ -987,7 +988,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T120000
-DTSTAMP;VALUE=DATE-TIME:20150807T064434Z
+DTSTAMP;VALUE=DATE-TIME:20150817T083238Z
 UID:89eb363f-e80f-4be8-941b-5b901724b999@frab.cccv.de
 DESCRIPTION:An introduction to SatNOGS an open source ground station\, op
  timized for modularity\, built from readily available and affordable too
@@ -1016,7 +1017,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T233000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T223000
-DTSTAMP;VALUE=DATE-TIME:20150731T170807Z
+DTSTAMP;VALUE=DATE-TIME:20150817T141920Z
 UID:bd046a46-8398-4b6f-b4e3-34f34e6f1ecc@frab.cccv.de
 DESCRIPTION:Im Juli hat sich das Bundesverfassungsgericht mit zwei Verfas
  sungsbeschwerden gegen das BKA-Gesetz von 2008 auseinandergesetzt. Es gi
@@ -1060,7 +1061,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T114500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T111500
-DTSTAMP;VALUE=DATE-TIME:20150807T065155Z
+DTSTAMP;VALUE=DATE-TIME:20150817T142342Z
 UID:58068b84-9261-4f5c-bb73-5c674fa5c45b@frab.cccv.de
 DESCRIPTION:A whirlwind tour of the past\, present\, and future for artif
  icial general intelligence (also known as strong AI). This talk will beg
@@ -1095,7 +1096,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T134500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150817T124500
-DTSTAMP;VALUE=DATE-TIME:20150816T221307Z
+DTSTAMP;VALUE=DATE-TIME:20150818T101422Z
 UID:2cce4d76-619d-4f60-b7e9-28e8ee9d6483@frab.cccv.de
 DESCRIPTION:With the more widespread use of encrypted HTTPS connections m
  any software vendors intercept these connections by installing a certifi
@@ -1111,7 +1112,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T110000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T103000
-DTSTAMP;VALUE=DATE-TIME:20150805T064954Z
+DTSTAMP;VALUE=DATE-TIME:20150817T141652Z
 UID:d0042aa3-5e7a-4a64-8bb5-c0cf4d639b1a@frab.cccv.de
 DESCRIPTION:Advances in computing and communications mean that we can cos
  t-effectively store\nevery book\, sound recording\, movie\, software pac
@@ -1129,7 +1130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T110000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T103000
-DTSTAMP;VALUE=DATE-TIME:20150731T130016Z
+DTSTAMP;VALUE=DATE-TIME:20150817T140901Z
 UID:0da613d0-7df1-481f-b612-25eacadae773@frab.cccv.de
 DESCRIPTION:Proxies have been around for a while now\, but remain poorly 
  understood. I'll share some data on how they are used\, what they are us
@@ -1161,7 +1162,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T183000
-DTSTAMP;VALUE=DATE-TIME:20150812T133348Z
+DTSTAMP;VALUE=DATE-TIME:20150817T141817Z
 UID:b66681b5-d811-4359-a7b4-c97d9acd2877@frab.cccv.de
 DESCRIPTION:Fernab von Theorien zu Killerrobotern und der Privatsphärende
  batte\, die dem Machine Learning 2.0 seit den 2010ern anhängt\, schaffen
@@ -1184,7 +1185,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T233000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T223000
-DTSTAMP;VALUE=DATE-TIME:20150813T215558Z
+DTSTAMP;VALUE=DATE-TIME:20150824T193142Z
 UID:5b980999-8914-4014-85ae-247bde5be3ce@frab.cccv.de
 DESCRIPTION:Increasingly\, there is money available to fund free software
   projects\; however it often comes from large organizations\, government
@@ -1202,7 +1203,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T191500
-DTSTAMP;VALUE=DATE-TIME:20150803T053946Z
+DTSTAMP;VALUE=DATE-TIME:20150817T140757Z
 UID:ce075d1c-1a3a-4b7f-b98a-5b9b8443e1ad@frab.cccv.de
 DESCRIPTION:Wir alle leben im Internet - aber wo lebt eigentlich das Inte
  rnet? Für mein Radiofeature habe die Kabel und Rechenzentren gesucht\, a
