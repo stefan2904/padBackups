@@ -124,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T190000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T183000
-DTSTAMP;VALUE=DATE-TIME:20150821T070232Z
+DTSTAMP;VALUE=DATE-TIME:20150827T212208Z
 UID:87c715bf-c6a7-4ec6-87fc-84f4d04e01b6@frab.cccv.de
 DESCRIPTION:The GREEN side of hydroponics on a need to know basis for the
   ones who aim to build their _first_ system. This is what you need to kn
@@ -157,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T120000
-DTSTAMP;VALUE=DATE-TIME:20150817T141019Z
+DTSTAMP;VALUE=DATE-TIME:20150826T140145Z
 UID:10864b98-db0f-4184-a71a-55ec5942d837@frab.cccv.de
 DESCRIPTION:Starting my new job\, I was surprised about my colleagues rea
  ctions to my mistakes. No blame! People trust me to own my mistakes and 
@@ -297,7 +297,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150815T120000
-DTSTAMP;VALUE=DATE-TIME:20150731T212736Z
+DTSTAMP;VALUE=DATE-TIME:20150826T195924Z
 UID:9d7e656f-eb6d-4355-9d26-8bcf797e6681@frab.cccv.de
 DESCRIPTION:Musical instrument designers have always brought together cut
  ting-edge technology and a thorough understanding of ergonomics and inte
@@ -629,7 +629,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T181500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150813T171500
-DTSTAMP;VALUE=DATE-TIME:20150824T203430Z
+DTSTAMP;VALUE=DATE-TIME:20150827T111239Z
 UID:c131b08d-e1be-4658-b98a-a223bc746784@frab.cccv.de
 DESCRIPTION:Wie lassen sich schwierige Themen einfach darstellen? Ralph C
  aspers erzählt von seiner Arbeit bei „Wissen macht Ah!“ und „Die Sendung
@@ -780,7 +780,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T194500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150814T191500
-DTSTAMP;VALUE=DATE-TIME:20150820T121912Z
+DTSTAMP;VALUE=DATE-TIME:20150825T034815Z
 UID:2b4f6479-8241-4ede-b025-328d476c52ba@frab.cccv.de
 DESCRIPTION:Peñabots have been active in Mexican networks since the 2012 
  presidential elections. Named after President Enrique Peña Nieto\, armie
