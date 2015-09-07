@@ -1,8 +1,8 @@
 CryptoParty Graz - Orgatreffen (7. September 2015, 18:00 s.t. @ Spektral)
 
-
+h
 Vorheriges Treffen: https://cpg.titanpad.com/OrgaAug15
-Nächstes Treffen: 
+Nächstes Treffen: https://cpg.titanpad.com/OrgaOkt15
 
 Protokollmensch: marc
 Moderation: stefan ¯\_(ツ)_/¯
@@ -61,7 +61,7 @@ Protokoll:
 
  * Elevate
    * Awards/Video: Voting Anfang Oktober bei der KLZ und Elevate.at
-   * Workshop: gemeinsam mit Tectical Tech am 25.Okt. im realraum
+   * Workshop: gemeinsam mit Tactical Tech am 25.Okt. im realraum
      * Motto: politics of data
 
 
