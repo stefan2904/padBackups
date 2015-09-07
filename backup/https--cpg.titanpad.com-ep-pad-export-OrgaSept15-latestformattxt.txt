@@ -4,13 +4,13 @@ CryptoParty Graz - Orgatreffen (7. September 2015, 18:00 s.t. @ Spektral)
 Vorheriges Treffen: https://cpg.titanpad.com/OrgaAug15
 Nächstes Treffen: 
 
-Protokollmensch: tbd
-Moderation: tbd
+Protokollmensch: marc
+Moderation: stefan ¯\_(ツ)_/¯
 
 Agenda/TO (~45 Minuten):
 
  * Status Vortrag Urania (Gunter):
-   * ist fixiert
+   * termine fixiert
    * Termine sind: 1.+8.+15.+22. Oktober, 18:00-19:30
    * ob der Kurs zustande kommt, erfahren wir am 25.9.
    * wir sind angekündigt im Programmheft und auf URANIA-Webseite:
@@ -21,7 +21,7 @@ Agenda/TO (~45 Minuten):
  * Status Move Festival 2015 (via Paul)
    * https://www.facebook.com/movefestival
    * 19. & 20. september 2015 - stadtpark
-   * wird wohl nix
+   * wird wohl nix?
 
  * Heute: Was machen wir heute?
 
@@ -40,14 +40,31 @@ TODOs (immer gleich eine Person & Deadline zuweisen!):
 
 
 Protokoll:
- * Angemeldet: anton, marc, olaf, (stefan?)
- * Anwesend: 
- * Entschuldigt:  bernhard,
+ * Angemeldet: anton, marc, olaf, stefan, gunter
+ * Anwesend: marc, stefan, olaf, gunter
+ * Entschuldigt:  bernhard, anton (zug verspätet)
 
-~ Beginn: 
+~ Beginn: 18:20h
 
-<insert protocol here>
+ * URANIA:
+   * Termin1: macht Gunter
+   * bis dahin auch die restlichen Termine/Themen fixieren
 
-~ Ende: 
+ * Move Festival
+   * Paul hat sich nicht mehr gemeldet
+   * Status unbekannt
+   * wird wahrscheinlich nichts oder nur spontan
+
+ * Plan für Heute
+   * Sven macht was
+   * Fragestunde
+
+ * Elevate
+   * Awards/Video: Voting Anfang Oktober bei der KLZ und Elevate.at
+   * Workshop: gemeinsam mit Tectical Tech am 25.Okt. im realraum
+     * Motto: politics of data
+
+
+~ Ende: 18:58h
 
 
