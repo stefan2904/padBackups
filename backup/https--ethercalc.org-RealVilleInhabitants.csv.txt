@@ -1,11 +1,11 @@
 ID,ETA,ETD,"Mean of transportation",projects?,Group,"paid fee"
-stefan,"2015-08-11, Evening","2015-08-18, Noon","train (or equinox car)","BuildUp, (TearDown)",r3-nightshift,"not yet"
+stefan,"2015-08-11, Evening","2015-08-18, Noon","train (or equinox car)","BuildUp, (TearDown)",r3-nightshift,yes
 nicoo,"2015-08-11, Evening","2015-08-17, --> DebConf",plane,(BuildUp),r3-nightshift,yes
 PeterTO,"2015-08-11, Evening",,train?,BuildUp,r3-minion,yes
 xro,"2015-08-11, Evening","2015-08-18, Evening","r3 convoy","BuildUp, TearDown",r3,yes
-jampo,"2015-08-11, Evening","2015-08-18, Evening","in in BER","BuildUp, TearDown",r3,"promised to pay just now"
+jampo,"2015-08-11, Evening","2015-08-18, Evening","in in BER","BuildUp, TearDown",r3,yes
 "martin jost","2015-08-11, Evening w/ xro","with xro","r3 convoy","BuildUp, TearDown",r3-olga,"not yet"
-peterp,"2015-08-12, afternoon","2015-08-18, afternoon","GRZ-TXL 2015-08-12T10:15; TXL-GRZ 2015-08-18T16:55",,r3,"not yet"
+peterp,"2015-08-12, afternoon","2015-08-18, afternoon","GRZ-TXL 2015-08-12T10:15; TXL-GRZ 2015-08-18T16:55",,r3,yes
 "Horst Petschenig","no ticket",,,,ext,---
 homunkolloss,,,"lives in BER",,ex-r3,?
 "n0v0id (not r3ville)","2015-08-12, Evening","2015-08-18, Afternoon","GRZ-TXL 2015-08-12T18:55; TXL-GRZ 2015-08-18T16:55",,ext,----
