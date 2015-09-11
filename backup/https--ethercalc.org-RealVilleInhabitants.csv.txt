@@ -4,7 +4,7 @@ nicoo,"2015-08-11, Evening","2015-08-17, --> DebConf",plane,(BuildUp),r3-nightsh
 PeterTO,"2015-08-11, Evening",,train?,BuildUp,r3-minion,yes
 xro,"2015-08-11, Evening","2015-08-18, Evening","r3 convoy","BuildUp, TearDown",r3,yes
 jampo,"2015-08-11, Evening","2015-08-18, Evening","in in BER","BuildUp, TearDown",r3,yes
-"martin jost","2015-08-11, Evening w/ xro","with xro","r3 convoy","BuildUp, TearDown",r3-olga,"not yet"
+"martin jost","2015-08-11, Evening w/ xro","with xro","r3 convoy","BuildUp, TearDown",r3-olga,yes
 peterp,"2015-08-12, afternoon","2015-08-18, afternoon","GRZ-TXL 2015-08-12T10:15; TXL-GRZ 2015-08-18T16:55",,r3,yes
 "Horst Petschenig","no ticket",,,,ext,---
 homunkolloss,,,"lives in BER",,ex-r3,?
