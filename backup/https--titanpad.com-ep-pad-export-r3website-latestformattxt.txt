@@ -4,6 +4,8 @@ verr
 PeterTheOne
 Jampo
 
+http://r3home.mgmt.realraum.at
+
 Audience
 
  * https://xkcd.com/773/
@@ -71,9 +73,15 @@ Tech?
 
 Nice sites:
 
- * http://www.netz39.de/status/
+ * http://www.netz39.de/
+   * ---> Wordpress
  * http://devlol.at/
+   * ---> https://github.com/devlol/devlol.at
  * http://it-syndikat.org/
+   * ---> Serendipity
  * ? https://noisebridge.net/
+   * ---> Mediawiki :/
+ * https://sudoroom.org/
+   * ---> http://themegrill.com/themes/spacious/
  * ..
 
