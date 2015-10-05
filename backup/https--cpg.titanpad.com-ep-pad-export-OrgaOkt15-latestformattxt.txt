@@ -27,7 +27,7 @@ Agenda/TO (~45 Minuten):
 
 Protokoll: 
 Startzeit: 18:15
-Ende: 
+Ende: 19
 Anwesend: Marc, Olaf, Stefan, Bernhard, Gunter, Patrick, Ralf, Peter, 2 Gäste, ....
 
 
@@ -39,6 +39,8 @@ Anwesend: Marc, Olaf, Stefan, Bernhard, Gunter, Patrick, Ralf, Peter, 2 Gäste, 
    * Chatten (OTR)
    * E-Mail
  * Thema sollte möglicht einfach für Leien nachvollziehbar sein
+ * Disskusion auf Mailingliste vertagt
+
 
 @Urania:
  * läuft
