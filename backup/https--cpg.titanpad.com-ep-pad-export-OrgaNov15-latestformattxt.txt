@@ -1,64 +1,40 @@
 CryptoParty Graz - Orgatreffen
 
-Montag, 5.10., 18:00, spektral
+Montag, 2.11., 18:00, spektral
 
 Vorheriges Treffen: https://cpg.titanpad.com/OrgaOkt15?
 Nächstes Treffen: 
 
 
-Protokollmensch: olaf
-Moderation: stefan
+Protokollmensch:
+Moderation: 
 
 Agenda/TO (~45 Minuten):
 
+ * Topic für heute?
+
+ * Urania Workshop (gunter)
+   * fazit
+   * abrechnung?
+
+ * Elevate Workshop (stefan)
+   * fazit
+   * wir könnten materialien bekommen
+   * security in a box übersetzen helfen?
+     * https://github.com/securityinabox/siabguide
+     * no translation-tool yet?
+
+ * guest speaker für pädagogik uni-lv (anton?)
+   * fazit
+
  * Workshop und Vorträge für Juristen (Thementag)
-   * Termin Anfang Dezember (Kernzeit: 10.00 - 16.00 Uhr)
-
- * Urania Workshop?
-
- * Elevate Awads, please vote for us!
-   * https://elevate.at/awards/publikumswahl/elevate-award-steiermark/
-
- * guest speaker für pädagogik uni-lv
+   * status?
 
  * <add your Agenda here (add high-priority TOPs above low-priority TOPs>
 
-
-
 Protokoll: 
-Startzeit: 18:15
+Startzeit: 18:
 Ende: 19
-Anwesend: Marc, Olaf, Stefan, Bernhard, Gunter, Patrick, Ralf, Peter, 2 Gäste, ....
+Anwesend:
 
-
-@ Juristische Fakultät 
- * Themen:
-   * Passwörter
-   * Grundprinzipien ( Werbenetzwerke, Welchen Weg nimmt ein Packet,...)
-   * Webtracking
-   * Chatten (OTR)
-   * E-Mail
- * Thema sollte möglicht einfach für Leien nachvollziehbar sein
- * Disskusion auf Mailingliste vertagt
-
-
-@Urania:
- * läuft
- * 11 engagierte TeilnehmerInnen
- * 156€ oder so, Abrechnung über Olaf
- * Mithilfe gesucht, an Gunter wenden
- * wieder anbieten? JA 1x mehr
- * neue Themen für nächstesTrimester?
-
-@Elevate
- * Samstag im R3 Workshop
- * Sonntag Awardshow im Dom im Berg wie viele Leute der CP kommen? (Platzreservierung)
-
-@ neue Flyer bestellen:
- * Flyer neu überarbeiten (mehr Inhalt)
- * alte nochmal bestellen? Ja mindestens 1000
-
-@guest speaker für pädagogik uni-lv
- * Antons Mail im Spam gelandet 
- * Kommunikation neu gestartet
 
