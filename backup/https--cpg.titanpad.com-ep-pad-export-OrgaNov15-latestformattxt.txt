@@ -1,15 +1,17 @@
-CryptoParty Graz - Orgatreffen
+CryptoParty Graz - ORGATREFFEN
 
 Montag, 2.11., 18:00, spektral
 
 Vorheriges Treffen: https://cpg.titanpad.com/OrgaOkt15?
-Nächstes Treffen: 
+Nächstes Treffen: 07. Dezember 2015 - 18h
 
 
-Protokollmensch:
-Moderation: 
+Protokollmensch: Marc
+Moderation: Marc
 
-Agenda/TO (~45 Minuten):
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+AGENDA/TO (~45 Minuten):
 
  * Topic für heute?
 
@@ -32,9 +34,54 @@ Agenda/TO (~45 Minuten):
 
  * <add your Agenda here (add high-priority TOPs above low-priority TOPs>
 
-Protokoll: 
-Startzeit: 18:
-Ende: 19
-Anwesend:
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+PROTOKOLL: 
+Startzeit: 18:12h
+Ende: 19:00h
+Anwesend: Marc, Gunther, Bernhard, Peter, Anton, 
+
+ * Topic für heute?
+   * offene CryptoParty
+   * 19-20h Plaudern mit Vorstellungsrunde (wer ist da, welche Interessen, wie auf CPG aufmerksam geworden)
+   * nächstes Mal: werden Weihnachtscookies gebacken;
+
+ * Urania Workshop
+   * erfolgreich abgeschlossen, es waren bei jedem Workshop TeilnehmerInnen da, nächstes Jahr wieder, Geld geht bei Olaf aufs Konto (ca. 160.-); 
+   * interaktive Gruppe - hat oft nachgefragt, Anton hatte Probleme mit seinem Zeitmanagement -> nächstes Mal reduzierter, weniger Beispiele die schnell gezeigt sind; 
+   * Thema Handy/Mobile-Sicherheit sollte mal angeboten werden; 
+   * von Gunter empfohlen: http://sicherheitskultur.at (nicht schön, aber viel Infos);
+
+ * Elevate Workshop 
+   * security in a box braucht noch deutsche Übersetzung;
+     * es gibt ein Übersetzungstool, dass man verwenden kann
+   * Video Interview mit Tactical Tech: https://vimeo.com/143512480
+   * Documentally Interview: https://audioboom.com/boos/3726626-how-to-control-your-data-shadow-info_activism
+   * Workshop: Tactical Tech arbeiten viel mit Papier und niederschwellig, Gruppe war motiviert, 
+     * Mitschrift von Gunter + Anton kommt noch gesondert,
+
+ * guest speaker für pädagogik uni-lv
+   * Anton + Brigitte haben vorgetragen
+   * war letzten Dienstag, Anton meint hat gut funktioniert, Leute waren interessiert;
+   * ein Lehrer hat Interesse das auch bei sich zu machen,
+   * Daniela Jauk (Feminist Mothers) hat auch Interesse an Frauen-CryptoParty,
+   * wir haben eine Flasche Wein bekommen :)
+
+ * Frauen CryptoParty
+   * wir müssen die aktiven CPG Frauen animieren -> müssten vortragen;
+   * Zusatztermin unabhängig von der "normalen" CPG, 
+   * Wer: Brigitte (Einleitungsvortrag), Sandra (realraum) fragen, Leute aus Wien einladen, ÖH Uni + TU kontaktieren, FH kontaktieren ...;
+   * Probelauf ausprobieren!,
+   * Termin: Vortragende kontaktieren, schauen wer, wann Zeit hat - dann planen, wahrscheinlich nächstes Jahr JAN oder FEB;
+   * näheres + Updates beim nächsten OrgaMeeting;
+
+ * Workshop und Vorträge für Juristen
+   * Marc hats verpeilt und entschuldigt sich, wird gleich morgen angeschrieben!
+   * auch Fragen für die Frauen-CPG als Vortragende das Thema von der rechtlichen Seite zu beleuchten;
+
+ * Safer Internet Day
+   * eigentlich am 09. Februar, in Graz am 10. Februar 2016
+   * Gunter + Anton sind beim nächsten Safer Internet Day Orga-Treffen dabei und können im Dezember mehr berichten;
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
