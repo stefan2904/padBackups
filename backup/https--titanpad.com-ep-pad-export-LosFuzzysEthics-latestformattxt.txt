@@ -39,7 +39,7 @@ LosFuzzys welcomes people with different skill levels; a curious beginner is as 
  * We do not attack people outside of educational and/or competitive settings.
  * We do not use the skills we learn during our training and competitions to do any harm.
 
-tl;dr; don't be evil.
+tl;dr; don't be eve!
 
 And (don't) feed the bugs (except delicious stacktraces)!
 
