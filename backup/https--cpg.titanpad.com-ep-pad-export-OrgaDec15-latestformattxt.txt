@@ -6,8 +6,8 @@ Vorheriges Treffen: https://cpg.titanpad.com/OrgaNov15
 Nächstes Treffen: 4. Jänner?
 
 
-Protokollmensch: 
-Moderation: 
+Protokollmensch: stefan?
+Moderation: stefan
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -27,7 +27,6 @@ AGENDA/TO (~45 Minuten):
 
  * CryptoParty auf der TU (gemeinsam mit HTU) (stefan)
    * Stefan wurde von Florian L angefragt (siehe Mailingliste) 
-   * 
 
  * Dokumentarfilm "Alles unter Kontrolle" (gunter): 
    * ab 25.12. im Rechbauerkino
@@ -37,24 +36,78 @@ AGENDA/TO (~45 Minuten):
    * wer kann einen workshop abhalten ?
 
  * kurzbericht workshop bei auge am 30.11. (gunter)
- * 
+
  * cryptoparty graz ist nominiert zum "grazer des jahres" kategorie newcomer:
    * http://www.kleinezeitung.at/s/steiermark/graz/4881734/Grazer-des-Jahres-2015_Waehlen-Sie-die-Helden-der-Stadt
    * bitte promoten & mitstimmen
- * 
- * 
 
  * <add your Agenda here (add high-priority TOPs above low-priority TOPs>
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 PROTOKOLL: 
-Startzeit: 
+Startzeit: 18:15
 Ende: 
-Anwesend: 
+Anwesend: Stefan, Brigitte, Gunter, Michi M, Bernhard, Peter, Olaf, 2 Gäste von HTU GessPolRef
 
  * Topic für heute?
-   * ...
+   * Kekse backen!
+   * Fragestunde
+   * Gunter's Kurzfilme?
+   * Olaf's Internet Telefon foo
+
+ * CryptoParty auf der HTU
+   * nicht so Überblick wie auf der ÖH
+   * eher ein Themen Workshop mit 1 Thema
+   * *Brainstorming der möglichen Themen*
+   * Termin wäre Jänner oder März
+   * Browsertracking wäre eine Option (Anton, Bernhard)
+     * Präsentation, Demo, Interaktiver Teil
+     * Termin wohl März, wird gedoodelt
+     * Anton und Bernhard übernehmen Kontakt & Koordinierung
+   * Passwörter wäre eine andere Option
+
+ * Urania Workshop (olaf, gunter)
+   * Olaf checkt das Konto
+
+ * Worksohp bei Juristen (marc)
+   * marc nicht da
+   * stand ist null? also wohl nicht vor jänner ...
+
+ * "alles unter kontrolle" film? (gunter)
+   * ab 25.12. im rechbauer
+   * irgendwas mit schulveranstaltung?
+   * begleitende cryptoparty im rechbauerkino?
+   * zumindest flyer auslegen
+   * gunter fragt beim rechbauer
+
+ * safer internet day 2016 (gunter)
+   * 10.2. veranstaltung im kepler gynasium (aschermittwoch)
+   * 2 slots mit workshops
+   * multiplikatoren, eltern, ...
+   * pflicht für schüler? -> machen wir was
+     * olaf: passwörter
+     * anton: browsertracking
+
+ * kurzbericht auge (gunter)
+   * Alternative und Grüne GewerkschafterInnen
+   * 20 telnehmer im grünen haus, 4 bis 5 stunden (!)
+   * gibt auch weitere veranstaltungen im grünen haus
+
+ * cryptoparty ist zum "grazer des jahres" der kleinen zeitung nominiert
+   * voting auf der kleinenzeitung webseite
+   * alle nominierten sind (irgendwann?) zu einer feier eingeladen
+
+ * nächster termin
+   * 4. jänner bleibt
+   * anton, gunter, bernhard
+   * wenn niemand da ist: anton ist schuld. an allem.
+
+ * Anton hätte gerne Geld für die Flyer
+   * Olaf checkt ob da Urania Geld da is und überweist das dann direkt an Anton
+   * Stefan bekommt eine Quittung
+
+19:02, Meeting beended
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
