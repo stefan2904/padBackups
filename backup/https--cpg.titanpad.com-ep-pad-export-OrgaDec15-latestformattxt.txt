@@ -26,7 +26,19 @@ AGENDA/TO (~45 Minuten):
    * status?
 
  * CryptoParty auf der TU (gemeinsam mit HTU) (stefan)
-   * Stefan wurde von Florian L angefragt (siehe Mailingliste)
+   * Stefan wurde von Florian L angefragt (siehe Mailingliste) 
+   * 
+
+ * safer internet day, veranstaltung am 10.2.2016 im brg kepler (gunter):
+   * wer kann einen workshop abhalten ?
+
+ * kurzbericht workshop bei auge am 30.11. (gunter)
+ * 
+ * cryptoparty graz ist nominiert zum "grazer des jahres" kategorie newcomer:
+   * http://www.kleinezeitung.at/s/steiermark/graz/4881734/Grazer-des-Jahres-2015_Waehlen-Sie-die-Helden-der-Stadt
+   * bitte promoten & mitstimmen
+ * 
+ * 
 
  * <add your Agenda here (add high-priority TOPs above low-priority TOPs>
 
