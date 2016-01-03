@@ -13,6 +13,8 @@ Moderation:
 
 AGENDA/TO (~45 Minuten):
 
+ * Update on Enigmal-UI-Evalution developments (Ralph)
+ * Discuss results from (preliminary) Heuristic Evaluation: are found issues *real* issues or actually vital aspects to PGP functionality? (Ralph)
  * Topic für heute?
 
  * ...
