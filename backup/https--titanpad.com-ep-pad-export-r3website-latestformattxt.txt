@@ -1,0 +1,87 @@
+trealraum.at 2.0 - shiny & fancy!
+
+verr
+PeterTheOne
+Jampo
+
+http://r3home.mgmt.realraum.at
+
+Audience
+
+ * https://xkcd.com/773/
+ * Random People interested in r3
+ * Random people interested in events
+ * Interested in becoming a member
+ * Members (no --> wiki)
+
+Content
+
+ * What is happening in r3:
+   * Blog: News
+   * Projekte
+   * Current events (from Calendar)
+   * Lastest Social Media stuff? Tweets?
+ * What is realraum & OLGA
+   * How to become a member?
+ * Where is realraum, how can I visit
+   * door status / opening hours
+ * What else can I do, connect with members, ...:
+   * Communication (Mailingliste, Mail, IRC, Jabber, Tel, ...)
+   * Links to wiki, irc, etc.
+ * How can I do stuff? participate, 
+   * how to become a member
+   * what can I do?
+   * donate..
+   * events
+   * community:
+     * IRC, etc.
+ * Friends?
+   * other Hackspaces
+   * other Communities in Graz
+
+Important stuff ("pages") in EN and DE<
+
+
+Layout
+
+ * Responsive
+ * as little JS as possible
+   * JS only for non essential stuff
+ * no external tracking
+
+
+
+Design
+
+ * r3 CI
+   * TODO: create r3 "CI"
+ * r3 Logo
+ * ...
+
+Texte
+
+ * https://titanpad.com/realraumPR
+ * Blog-System with access for members
+   * ask everyone to write something
+   * present projects + people?
+
+Tech?
+
+ * CMS/Blog?
+ * StaticPage?
+
+
+Nice sites:
+
+ * http://www.netz39.de/
+   * ---> Wordpress
+ * http://devlol.at/
+   * ---> https://github.com/devlol/devlol.at
+ * http://it-syndikat.org/
+   * ---> Serendipity
+ * ? https://noisebridge.net/
+   * ---> Mediawiki :/
+ * https://sudoroom.org/
+   * ---> http://themegrill.com/themes/spacious/
+ * ..
+

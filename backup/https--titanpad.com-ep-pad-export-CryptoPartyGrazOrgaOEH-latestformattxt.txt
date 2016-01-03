@@ -1,0 +1,188 @@
+Datensicherheit-Workshop @ Uni-Graz - 
+Orgatreffen 1 (  2. November 2014, tba @ ReSoWo)
+Orgatreffen 2 (19. November 2014, tba @ HdB)
+
+Terminfindung erstes Treffen:
+https://dudle.inf.tu-dresden.de/privacy/i2i6tnpd/
+
+TODOs (immer gleich eine Person & Deadline zuweisen!):
+ * ÖH: Macht Flyer etc
+ * Olaf: CryptoParty-Flyer
+ * Stefan, Marc: auf unseren Kanälen ankündigen (FB Event von ÖH)
+ * alle: CryptoParty am 8.12. organisieren
+ * Stefan: 1 Slide für Vorstellung & Disclamer
+ * Olaf, Bernhard, Anton: Vorträge vorbereiten
+ * Präsentationen ins WIKI vor dem Vortrag
+
+Protokoll:
+ * Angemeldet: Anton, Olaf, Gunter, Stefan
+ * Anwesend Treffen 1: Anton, Olaf, Gunter, Stefan
+ * Anwesend Treffen 2: Anton, Olaf, Gunter, Stefan, Bernhard, Gregor
+
+Zeitrahmen 2 h
+max. 1 h Vorträge
+Fachfragen freundlich aufschieben
+wenig technische Begriffe
+
+Agenda:
+ * (evtl.) ~ 2 min: Gregor: Begrüßung
+ * (evtl.) ~10min: Prof. Benedek: Recht auf Privacy
+ * (evtl.) ~ 3 min: Stefan: Introduction, Stuktur, Disclamer, Werbung Cryptoparty, Scope
+ * ~  5 min: Gunter: Einführende Worte
+ * ~15 min: Olaf: Einführung in das Internet
+   * Was ist verschlüsseln
+   * Warum verschlüsseln
+   * Ultimative Sicherheit gibt es nicht, aber Verschlüsselung macht Überwachung teurer
+   * VPN
+ * ~15 min: Anton:  Webtracking 
+   * Analogie Webtracking
+   * Kundenkarte Billa, Konsumprofil, andere Papierwerbung, 
+   * Problem? Daten-Analyse (http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/ )
+ * ~15 min: Bernhard: Passwörter
+ * ... Werbung Cryptoparty
+   * Kurz erwähnen, was das is und wie das abläuft
+   * wo, wann das nächste mal
+   * GRATIS !!!
+   * Themen, die h
+   * Kurt erwähnen, was das is und wie das abläuft
+   * eute unerwähnt bleiben aber da auch hinpassen
+     * zB Mobile
+     * nicht konkret auf 100 Buzzwords eingehen :P
+ * ... Q & A - aber eher Face to Face / "Party"
+
+Material:
+ * Flyer: Cryptoparty
+ * Flyer: Tools
+ * Linkliste:
+   * https://myshadow.org/trace-my-shadow (evtl sogar zum herzeigen) 
+   * http://ip-check.info/index.php?lang=de (für Anton?)
+   * https://myshadow.org
+   * https://prism-break.org/de/ 
+   * https://www.eff.org/secure-messaging-scorecard
+
+Fallbeispiele
+https://firstlook.org/theintercept/2014/11/06/uk-surveillance-of-lawyers-journalists-gchq/
+
+Generalprobe ~1 Woche davor
+Next Meeting: 
+
+pre-Meeting Planung:
+
+Wer (fix!)? Anton, Olaf, Birgitte, Bernhard, Stefan, Gunter
+http://doodle.com/xfir5vs68w9wvu99
+
+Termin: 2. Dezember, 19:00
+Ort: tba
+
+Wer erzählt was?
+
+Umfang: nicht klar, bei der letzten ähnlichen VA waren ~60 Leute
+
+Publikum: hauptsächlich nicht-technische Studierende
+
+Zeit: Maximal 1.5 - 2 Stunden (eher kürzer)
+
+Material: Flyer CryptoParty, Flyer Übersicht Tools
+
+Begleit-Termin: 
+Evtl eine eigene CryptoParty kurz darauf (entweder am Tag darauf oder am darauffolgenden Montag, oder so)
+
+Themen: 
+Sehr high-level, also ohne Technik, eher Metaphern
+
+Man  kann sich nicht/schwer 100% schützen, aber man kann sich vor  Massenüberwachung schützen bzw diese teuer machen; gezielte Attacken  sind unwahrscheinlicher (gilt nicht für zB AktivistInnen,  JournalistInnen, ...)
+
+Internet erklären, wie funktioniert Kommunikation, wo gibt es Probleme, wie kann man sich schützen
+
+zB Mail: Verbindung verschlüsseln (einfach), GPG (eher kompliziert)
+
+zB Surfen: Ghostery & AdBlock verwenden (einfach), TOR (schon komplizierter)
+
+zB Alternativen zu Social Networks, ohne bekehrend zu werden
+--> https://prism-break.org/de/
+
+zB Chatten: OTR über Facebook Chat; CryptoCat; ...
+
+zB VPN: Studis haben Uni-VPN
+
+zB Mobile: Auf Berechtigungen achten; Sonst ähnlich wie am PC
+
+
+eher nicht: Daten/Festplatte verschlüsseln; Cloud; GPG im Detail; Linux; ...
+
+Stefan's Notizen Generalprobe 19. November
+
+ * Gunter:
+   * Timer: 6 Minuten
+   * Betont, dass wir es schon gewusst haben :/
+   * viel Text auf Slides
+   * Erzählt das gleiche wie Stefan
+   * Die Apps-Programmierer sind nicht die Bösen
+   * Begriffe, zB Smart-Watch, Smart City
+   * Abkürzungen, zB ELGA, RFID, NFC
+   * Greift anderen Vorträgen vor ("Was dagegen tun?" Folie)
+   * TODO: Sagen, in welchem der Vorträge die Themen erwähnt werden
+   * 5 Minten auf Slide ("Was? (2)")
+ * Olaf:
+   * Timer: 12 Minuten
+   * 15 Minuten Vortrag braucht "Struktur" Folie
+   * Begriff-Erklärung am Anfang: Von 0 auf 100
+     * Begriffe evtl erst da Erklären, wo sie fallen?
+     * illustrationen?
+       * Verschlüsselung irgendwie veranschaulichen?
+     * Prinzipielles Internet erklären? (OK
+   * Technik-Sprech: "Sender", "Content", "Browser", Schadware, Adblocker, Provider, Endgerät, 
+   * Authentifizierung evtl mit "Login" erklären?
+   * Slide 1 ist viel, was eigentlich Teil des Vortrages sein sollte
+   * HTTP: WTF? Warum HTTP erwähnen?
+   * Erklärung HTTP vs HTTPS zu technisch
+   * Statt "myside.at" ein echtes Beispiel nehmen?
+   * ~6 Minuten~
+   * Radikaler Sprung auf VPN
+   * Verschlüsselung mit 10101001 illustriert? :/
+   * Funktionsweise von E-Mail evtl am Anfang?
+   * Zuerst alle Probleme, dann alle Lösungen erklären?
+   * Viele abstrakte Begriffe
+   * Englische Wörter auf Slides (zB "new mails?" bei Mail-Erklärung)
+   * "PC" Symbol zu illusrierung von Angriff?
+   * ~10 Minuten~
+   * KFU VPN: http://it.uni-graz.at/de/fernzugriff/login-datenzugriff/vpn/
+   * TU VPN: http://www.vpn.tugraz.at
+   * MedUni VPN: https://www.medunigraz.at/themen-organisation-und-struktur/it-services/services-von-a-z/vpn/
+   * KUG ZID: http://www.kug.ac.at/einrichtungen/einrichtungen/verwaltungseinrichtungen/zentraler-informatikdienst/start.html
+   * HTTPS Everywhere?
+   * 
+   * Zu schnell, zu viel?
+ * Anton:
+   * Timer: 19 Minuten
+   * Was ist ein PGP Key???
+   * Anonym vs. Pseudonym?
+   * 3rd Party Cookies
+   * ~8 Minuten~ bis zur Demo
+   * Cookies und so: sehr klein am Beamer
+   * Ghostery?
+   * Tracking-Pixel wirklich für Tracking via Cache? Oder wher für noscript-Tracking?
+   * https://en.wikipedia.org/wiki/HTTP_ETag
+   * ~12 Minuten~
+   * Was ist eigentlich Fingerprinting?
+   * (Panopticlick Demo)
+   * "Man sieht hier ..." Man sieht nix, es ist zu klein ... :(
+   * ProPublica erklärung: Recht viel in recht schnell
+   * ~15 Minuten~
+   * Letzte Slide sehr voll
+   * TODO: https://www.mozilla.org/en-US/lightbeam/
+   * TODO: https://myshadow.org/trace-my-shadow
+   * TODO: https://prism-break.org/de
+ * Bernhard:
+   * Timer: ~20 Minuten
+   * Vortrag vor Anton?
+
+
+TODO: CryptoPartyMontag auf 8. verschieben
+(Problem: Workshop evtl am 9.?)
+
+
+
+
+
+

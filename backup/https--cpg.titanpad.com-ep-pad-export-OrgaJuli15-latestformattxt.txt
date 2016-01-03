@@ -1,0 +1,115 @@
+CryptoParty Graz - Orgatreffen (6. Juli 2015, 18:00 s.t. @ spektral)
+
+
+Vorheriges Treffen: https://cpg.titanpad.com/OrgaJuni5
+Nächstes Treffen: https://cpg.titanpad.com/OrgaAug15
+
+Protokollmensch: marc
+Moderation: stefan
+
+Agenda/TO (~45 Minuten):
+
+ * 1 Jahr regelmäßige CryptoParty in Graz \o/
+   * https://cryptoparty.at/graz:archiv
+
+ * Finanzen: Endlich abrechnen (Olaf, Stefan, et al.)
+   * TODO: Termin ausmachen?
+
+ * Flyer: Wo sind die? Haben wir noch welche? (Anton?) --> spektral
+
+ * Etherpad-Backups (Stefan)
+   * https://github.com/stefan2904/padBackups/tree/master/backup
+
+ * Status Vortrag Urania (Gunter)
+
+ * Status Netidee (Marc, Stefan)
+
+ * CryptoParty am Move Festival 2016? (via Paul)
+   * https://www.facebook.com/movefestival
+
+ * Nächste CryptoParty: 3. August (wer ist da? Programm? Outdoor?)
+
+ * Heute: Was machen wir heute? (Marc, Gunter)
+
+ * Update zum Elevate Festival 2015
+
+ * <add your Agenda here (add high-priority TOPs above low-priority TOPs>
+
+TODOs (immer gleich eine Person & Deadline zuweisen!):
+ * Stefan (bis 27. 07.): Einladungen für die August CrypotParty (?) aussenden
+ * Marc: fragt Seppi ob August CryptoParty im Forum (Balkon)
+ * Paul: schickt uns Mail vom Move Festival
+
+Protokoll:
+ * Angemeldet: Marc, Stefan, gunter, Bernhard, Ralf,
+ * Anwesend: Marc, Stefan, gunter, Bernhard, Paul, Gast von Aktionsbündnis
+ * Entschuldigt: Olaf, Anton, 
+
+~ Beginn: 18:10
+
+1 Jahr regelmäßige CP Graz:
+zuerst Donnerstags, dann wegen Veranstaltungskollision Montags: 
+   * https://cryptoparty.at/graz:archiv
+
+Finanzen: klären wer was hat und das mal zusammenschreiben / Buchhaltungs-TODO!
+   * Wird zwischen Olaf und Stefan geklärt, da die den Großteil des CPG Vermögens haben
+
+
+Flyer:
+ * Wer hat das InDesign File? Ralf
+ * 1 Schachtel Flyer ist noch im spektral
+
+Stefan macht jetzt immer automatische Backups von unseren Etherpads
+ * https://github.com/stefan2904/padBackups/tree/master/backup
+
+Urania Vortrag:
+ * es gibt 4 Termine (genaue Termine gibts auf der Mailingliste, wird hier noch nachgetragen)
+ * a 1,5h
+ * wir sind im Programmheft und auf der Website
+ * Anmeldung via Urania
+ * wir bekommen insgesamt ca. 150€
+ * Gunter übernimmt Koordination
+ * wahrscheinlich eher älteres Publikum
+ * möglcihe Themen: Einführung (Gunter), Passwörter (Bernhard), Email (Olaf), Webtracking (Anton)
+
+ICT Symposium
+ * wird es auch nächstes Jahr wieder geben
+ * wir hätten die Möglichkeit, das Programm ein wenig mitzugestalten (CryptoParty) wenn wir wollen
+ * Zielgruppe: Studenten
+ * bis Herbst überlegen ob wir da mitmachen wollen
+ * eventuell gegen Bezahlung
+
+Netidee
+ * wenn, dann nur last minute (Deadline ist am 15. Juli)
+
+CryptoParty am Move Festival 2015?
+ * Paul ist kontaktiert worden von den Organisatoren
+ * will die CPG was machen?
+ * gewünschte Themen: Passwörter, sicherer Internetverkehr, sichere Emails, Festplattenverschlüsselung 
+ * Paul leitet die Mail an die Liste weiter
+ * Termin im September
+
+Nächste CPG (August) im Forum?
+ * Marc fragt beim Seppi vom Forum an ob die Location zur Verfügung steht
+ * wenn ja, früh genug ankündigen!!!
+
+Elevate "das Schlossbergfestival" 2015
+ * "etwas länger als letztes Jahr"
+ * "weniger Panels, mehr miteinander"
+ * "Künstler/Artists mehr einbauen"
+ * "auch Diskurs-Programm/Panel im Dom"
+ * auch heuer Außenprogramm mit ~Locations
+   * Distributed Elevate
+   * jede Location hat Thema, 1/2 Tag lang Workshops
+   * durchaus auch im kleinen Rahmen
+   * Publikum bringt sich ein
+ * eigene Location für CryptoParty?
+   * mit Publikum etwas ausarbeiten?
+   * gemeinsam mit TechnicalTech?
+   * gemeinsam mit Wien?
+   * realraum? outdoor? TU?
+
+
+~ Ende: 18:57
+
+
