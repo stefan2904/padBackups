@@ -1,7 +1,10 @@
 #!/bin/bash
 
 # update urls-list, etc
-git pull
+git pull origin master
+git pull origin backup
+git checkout backup
+git merge master
 
   BACKUPDIR=backup
   TMPDIR=.
