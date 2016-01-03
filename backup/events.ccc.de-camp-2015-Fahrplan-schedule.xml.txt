@@ -1,0 +1,2513 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<schedule>
+<version>2.01 no time to cry</version>
+<conference>
+<acronym>camp2015</acronym>
+<title>Chaos Communication Camp 2015</title>
+<start>2015-08-13</start>
+<end>2015-08-15</end>
+<days>5</days>
+<timeslot_duration>00:15</timeslot_duration>
+</conference>
+<day date='2015-08-13' end='2015-08-14T02:00:00+02:00' index='1' start='2015-08-13T11:00:00+02:00'>
+<room name='Project 2501'>
+<event guid='d1f3810f-43b1-4856-b8ee-7c767234d185' id='6981'>
+<date>2015-08-13T11:00:00+02:00</date>
+<start>11:00</start>
+<duration>00:45</duration>
+<room>Project 2501</room>
+<slug>camp2015-6981-chaos_communication_camp_opening</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Chaos Communication Camp Opening</title>
+<subtitle>Welcome!</subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<persons>
+<person id='1583'>hukl</person>
+<person id='5289'>Fiona</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='97cbc2a0-7d63-4d54-9ff6-fb1b8ed30380' id='6657'>
+<date>2015-08-13T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6657-how_to_make_your_software_build_reproducibly</slug>
+<recording>
+<license>CC BY-SA 4.0</license>
+<optout>false</optout>
+</recording>
+<title>How to make your software build reproducibly</title>
+<subtitle>Get a verifiable path from source to binary</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Auditing source code is not enough when build tools are themselves a target. When software can be built reproducibly, anyone is enabled to verify that binaries have actually been made from the source code they claim to be made from. The lecture will present several tricks learned while trying to make Debian — the largest collection of free software — build reproducibly.</abstract>
+<description>Free software gives us the possibility to verify its behavior by looking at the source code. However, what we use most often are distributed binaries. How can we make sure they have actually been made from the source code they claim to be made from? When builds are “deterministic” or “reproducible”, anyone can recreate a byte-for-byte identical result, preventing hard to detect compromises.
+
+Reproducible builds require a way to record and recreate the build environment, and then build processes themselves need to be made deterministic. An effort to make Debian packages build reproducibly has been on-going for the past two years. Several lessons were learned from these experiments that will be shared with the audience.</description>
+<persons>
+<person id='5439'>Lunar</person>
+</persons>
+<links>
+<link href='https://wiki.debian.org/ReproducibleBuilds'>Debian Reproducible Builds effort</link>
+</links>
+</event>
+<event guid='c131b08d-e1be-4658-b98a-a223bc746784' id='6987'>
+<date>2015-08-13T17:15:00+02:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6987-kissing_heisse_tipps_und_techniken</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Kissing – Heiße Tipps und Techniken</title>
+<subtitle>Keeping it short &amp; simple. Oder: Wozu man Hunde mit Leberwurst bringen kann. (Auch für Vegetarier geeignet.) Mit Star-Wars-Zitaten. (Auch für Trekkies geeignet.)</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Wie lassen sich schwierige Themen einfach darstellen? Ralph Caspers erzählt von seiner Arbeit bei „Wissen macht Ah!“ und „Die Sendung mit der Maus“ und erläutert die Methoden, die benutzt werden, um selbst schwierigste Kost leicht verdaulich zu machen. (Es hat viel mit Spucke zu tun. Deshalb sollten die Zuschauer in der ersten Reihe Regenzeug mitnehmen. Think: Sea-World!)</abstract>
+<description></description>
+<persons>
+<person id='5739'>Ralph Caspers</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='e8d65b1e-ce8a-4307-b056-e8b60461c825' id='7043'>
+<date>2015-08-13T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-7043-kontrolle_ist_gut_landesverrat_ist_besser</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Kontrolle ist gut. #Landesverrat ist besser.</title>
+<subtitle>Wie eine investigative Recherche zum geheimen Ausbau der Massenüberwachung durch den Verfassungsschutz zu einer kleinen Staatsaffäre wurde.</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Im Sommer 2015 erfuhr die Redaktion von netzpolitik.org, dass gegen zwei ihrer Redakteure wegen Landesverrat ermittelt wird. Was dann passierte, konnten sie nicht glauben...</abstract>
+<description></description>
+<persons>
+<person id='1595'>Markus Beckedahl</person>
+<person id='5764'>Andre Meister</person>
+</persons>
+<links>
+<link href='http://netzpolitik.org'>netzpolitik.org</link>
+</links>
+</event>
+<event guid='ce075d1c-1a3a-4b7f-b98a-5b9b8443e1ad' id='6935'>
+<date>2015-08-13T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6935-wo_das_internet_lebt</slug>
+<recording>
+<license>CC-BY-NC</license>
+<optout>false</optout>
+</recording>
+<title>Wo das Internet lebt</title>
+<subtitle>Eine Such-Reportage nach der physischen Seite des Netz</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Wir alle leben im Internet - aber wo lebt eigentlich das Internet? Für mein Radiofeature habe die Kabel und Rechenzentren gesucht, außerdem Orte besucht, die das Netz geprägt haben.  </abstract>
+<description>Das Internet? Ist weder eine &quot;Reihe von Röhren&quot; noch eine wasserdampfähnliche Wolke. Wir &quot;gehen auch nicht mehr rein&quot; wie Boris Becker, vielmehr hat sich das Internet in unsere Hosentaschen reingeschmuggelt. Wir sind immer und überall online - dadurch verschwimmt unser Konzept von Örtlichkeit. Aber wieviel wissen wir vom Körper des Netz, von all seinen Kabel und Rechenzentren?
+
+In einer mehrstündigen Radioreportage habe ich das Netz gesucht - also dessen Spuren. Vom heimischen DSL-Anschlusskasten über einem Chicken-Schnellimbiss neben dem weltgrößten Internet-Knoten in Frankfurt bis zum Churchil-Atombunker-Rechenzentrum im Felsen von Gibraltar. Von Marc Zuckerbergs Privatvilla bis zu dem Geburtszimmer des Internets. Von einem Tiefsekabel-Pazifik-Strand bis zum Autoren der &quot;Unabhängigkeitserklärung des Cyberspace&quot;, vom Büro des Google-Infrastrukturchefs bis zum brachliegenden &quot;Google-Acker&quot; in Kronstorf, Oberösterreich.</description>
+<persons>
+<person id='4790'>Moritz Metz</person>
+</persons>
+<links>
+<link href='http://www.wodasinternetlebt.de'>Wo das Internet lebt</link>
+</links>
+</event>
+<event guid='2b3d8f9e-7169-457a-b2db-834282f437f4' id='6785'>
+<date>2015-08-13T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6785-advanced_interconnect_attacks</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Advanced interconnect attacks</title>
+<subtitle>Chasing GRX and SS7 vulns</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The largest weaknesses of mobile network are well hidden from users: Information exchanged between different mobile networks expose users to fraud and privacy risks.</abstract>
+<description>Of the large interconnect perimeters, only SS7 has received proper scrutiny from the research community thus far. This talk investigates GRX, the other main interconnect technology and details the attack potential on mobile data connections.
+
+The talk discusses issues of the global data roaming infrastructure and demonstrates attacks ranging from connection hijacking to remote intercept.</description>
+<persons>
+<person id='1741'>Karsten Nohl</person>
+<person id='4421'>Luca Melette</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='cb9bc487-84aa-4f9c-931a-6de0bdf25e43' id='6824'>
+<date>2015-08-13T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6824-die_reichstagswiese_umgraben_und_drecksfirmen_hacken</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Die Reichstagswiese umgraben und Drecksfirmen hacken</title>
+<subtitle>Neue Perspektiven und Ideen für zivilen Ungehorsam</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Die letzte Demo unwirksam und langweilig, die Petition fürn Arsch, von Parteien enttäuscht, Clicktivism und Shitstorms durchgespielt und auf Lobbyismus keinen Bock?
+
+Der Vortrag führt kurz in die ethisch-moralischen, politischen und rechtlichen Grundlagen des zivilen Ungehorsams ein, um dann anhand von vielen praktischen und unterhaltsamen Beispielen neue Perspektiven und Aktionsformen für wirksamen Protest zu entwickeln.</abstract>
+<description>Politischer Aktivismus frustriert sehr schnell. Die bleierne Zeit der Merkel-Epoche ist von Massenüberwachung, Grundrechteabbau und der grenzenlosen Ausweitung marktwirtschaftlicher Prinzipien gekennzeichnet. Trotz dem Umbau der Gesellschaft in eine marktkonforme Demokratie und zunehmender sozialer Spaltung, ist eine schlagkräftige außerparlamentarischen Bewegung nicht in Sicht. Es macht sich eine Ohnmacht breit, dass wir eh nichts ändern können.
+
+Ein Mittel gegen die Ohnmacht ist die kreative Weiterentwicklung des zivilen Ungehorsams. Mit der gezielten politischen Regelverletzung kannst Du Dich und andere selbst ermächtigen, politische Erfolge feiern, Demokratie leben, Autoritäten herausfordern - und sogar richtig Spaß haben.
+
+Das Arsenal des zivilen Ungehorsams ist sehr viel größer als die gute alte Sitzblockade: Wir können technisch sabotieren, mit Kommunikationsguerilla verwirren, unsere Gegner mit Glitzer bewerfen, Systeme infiltrieren und manipulieren, Interna leaken, im Namen der Macht sprechen oder mit ganz großer Geste einfach mal ankündigen, einen Geheimdienst zu stürmen.
+
+Die Herausforderung des Staates durch gezielte Regelverletzung stellt Autoritäten in Frage und schafft gleichzeitig Debatte &amp; Öffentlichkeit für das politische Anliegen. Dabei setzt ziviler Ungehorsam darauf, dass viele Menschen die Regelverletzung moralisch mittragen können. Er setzt auf Verbünden und Solidarität - und schafft damit auch Grundlagen für ein neues politisches Bewusstsein.
+</description>
+<persons>
+<person id='1426'>Montserrat Graupenschläger</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='7dedc312-4c86-4b70-b711-b63f569bca81' id='7041'>
+<date>2015-08-13T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-7041-refugees_emancipation</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Refugees Emancipation</title>
+<subtitle>Bringing Internet access to those who need it most.</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Improving the quality of life of Refugees in Germany by using the Internet as a tool to reduce their isolation, connecting them with each other, with their homelands, and with their local community. </abstract>
+<description>Not withstanding the difficult legal and living conditions of refugees in Germany, they still succeed in intiating and putting into place practical projects to empower and emancipate themselves. 
+
+Refugees Emancipation is a non-profit organisation founded by refugee for refugees. Our goal is to offer access to computers and the Internet.
+
+The project also conducts and maintains a website where refugee issues, advocacy information and personal stories can be published.</description>
+<persons>
+<person id='5753'>Refugees Emancipation</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='76a90ce3-42fc-4273-b1ef-89d08cd21356' id='7040'>
+<date>2015-08-14T00:00:00+02:00</date>
+<start>00:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-7040-lnp150</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>LNP150</title>
+<subtitle>Logbuch:Netzpolitik Folge 150</subtitle>
+<track>Other</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Live-Aufzeichnung der 150. Folge des Podcasts Logbuch:Netzpolitik mit mehreren Gästen, Tim Pritlove und Linus Neumann.</abstract>
+<description>Im Neuland tut sich ein Abgrund von Landesverrat auf, die Bundestags-IT wird herunter gefahren, und die Bundeswehr zieht in den Cyberkrieg.
+
+Europa will das das Urheberrecht reformieren und den lang in Gefangenschaft gehaltenen Handel endlich befreien.
+
+Wird das Netz neutral bleiben?</description>
+<persons>
+<person id='3995'>Linus Neumann</person>
+<person id='3809'>Tim Pritlove</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Simulacron-3'>
+<event guid='89eb363f-e80f-4be8-941b-5b901724b999' id='6926'>
+<date>2015-08-13T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6926-satellite_open_ground_station_network</slug>
+<recording>
+<license>CC-BY-SA</license>
+<optout>false</optout>
+</recording>
+<title>Satellite Open Ground Station Network</title>
+<subtitle>open source ground station, optimized for modularity, built from readily available and affordable tools and resources.</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>An introduction to SatNOGS an open source ground station, optimized for modularity, built from readily available and affordable tools and resources.</abstract>
+<description>SatNOGS provides a comprehensive, scalable and modular platform that enables communication with the thousands of satellites our planet's orbit. 
+
+Following the principles of modular architecture used in network communications ensure remote access capabilities and modular interchangeable design to meet all needs. Following the principles of open source in software and in hardware in SatNOGS we invite you to participate in it's development.</description>
+<persons>
+<person id='5763'>John Giannelos</person>
+</persons>
+<links>
+<link href='http://satnogs.org'>SatNOGS</link>
+</links>
+</event>
+<event guid='b8a7511e-143d-45c5-b974-2e91dab18814' id='6752'>
+<date>2015-08-13T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6752-20_jahre_c-base</slug>
+<recording>
+<license>Public Domain</license>
+<optout>false</optout>
+</recording>
+<title>20 Jahre c-base</title>
+<subtitle>Die Wahrheit™ über den Absturz - eine Transparenzoffensive</subtitle>
+<track>Failosophy</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>20 Jahre c-base. Insider packen aus. Ein Abriss über die bewegte Geschichte der abgestürzten Raumstation unter Berlin Mitte.</abstract>
+<description>Die Geschichte der c-base ist eine Geschichte voller Missverständnisse.
+
+Am 13.8.1995 wurde die Gründungsurkunde des c-base e.V. von 17 wissenschaftlichen Experten unterzeichnet. Seitdem haben sich viele Halbwahrheiten, Lügen und Unterstellungen sowie Mythen und Gerüchte verbreitet. (FAKT). 
+
+Im Rahmen unserer Transparenzoffensive nehmen wir das Jubiläum zum Anlass, bisher unveröffentlichte Zahlen und Fakten darzulegen und Hintergründe zu beleuchten. Als weiterer Baustein der Transparenzoffensive präsentieren wir das c-booc, einen Bildband und historisches Archivmaterial erstmalig der Öffentlichkeit.
+
+In einer chronologischen Auflistung der Ereignisse der letzten zwei Dekaden bringen Insider die Wahrheit™ ans Tageslicht.
+</description>
+<persons>
+<person id='5558'>e-punc</person>
+<person id='5723'>Mirko 'macro' Fichtner</person>
+<person id='930'>t</person>
+</persons>
+<links>
+<link href='c-base.org'>c-base</link>
+</links>
+</event>
+<event guid='f76a7853-6dfa-4294-81b6-1b37a9632b67' id='6733'>
+<date>2015-08-13T17:15:00+02:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6733-privacy_badger</slug>
+<recording>
+<license>CC 0</license>
+<optout>false</optout>
+</recording>
+<title>Privacy Badger</title>
+<subtitle>Stop being tracked online</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk EFF Technologist Noah Swartz will present Privacy Badger, EFF's new browser extension that automatically blocks both invisible trackers and spying ads. It is intended to be a minimal or zero-configuration option that most Internet users can use to prevent non-consensual third party collection of their reading habits from their everyday browser. Privacy Badger couples the recently developed HTTP Do Not Track opt-out header with a number of heuristics for classifying the behavior of third parties, to automatically determine which should be blocked, which are needed but should have cookies blocked, and which are safe from a privacy perspective. They will also talk about the current state of non-consensual tracking on the web, what methods are currently being used to track people and exploring what alternatives we can pursue.</abstract>
+<description>In this presentation I will address the state of online tracking. I will discuss the prevalence of tracking online, describe who is participating in it, explain the adverse effects for common web users, and then discuss what can be done to protect yourself from being tracked.
+
+Websites have long ceased to be simple static html pages, and are now made up of many different resources distributed across the web. Over the course of a day of browsing the web, even if the number of sites we visit is small, we often broadcast information about the sites we go to to hundreds of third parties. These third parties have the ability to aggregate information about our browsing across many first party domains, enabling them to track what we read on the web. To many Internet users these third parties are invisible, and just as invisible are the ways in which they can uniquely identify you as you browse. As these forms of tracking become more ubiquitous and as data resellers grow in prevalence users need to have ways to protect themselves and their privacy.
+
+In this talk I will cover the technical details of how third parties determine your identity on the web, and how they aggregate that information across websites. I will talk about the implications this has for web users' privacy and security. Additionally I will talk about the legal and policy work that has been done to rein in this sort of tracking. Finally I will discuss the Privacy Badger project, and how it protects users as they browse the web.
+
+The talk will cover the following issues in detail:
+Ways in which advertising companies track users, how spy agencies and other bad actors piggyback on this info, and how to stop them.
+Specifically IP addresses, 'tracking' cookies, super cookies, and browser fingerprinting.
+How you can protect yourself from these forms of data collection and how Privacy Badger works.
+Why other kinds of privacy plug-ins and features fail to protect users from tracking
+Ways that the EFF is working to rein in browsing tracking through law and policy.
+
+After this talk you will be informed about the types of tracking that occur online and feel empowered to do something to protect yourself from it. You will know how to follow future issues and understand current efforts to protect users and shape law.
+</description>
+<persons>
+<person id='5536'>Noah Swartz</person>
+<person id='4910'>Cooper Quintin</person>
+</persons>
+<links>
+<link href='https://www.eff.org/privacybadger'>Privacy Badger</link>
+</links>
+</event>
+<event guid='a26b9be9-36ce-4a7f-9baa-4612251615c5' id='6715'>
+<date>2015-08-13T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6715-how_to_organize_a_ctf</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>How to organize a CTF</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Capture the flag contests are today's - competitive - crossword puzzles. We want to introduce you to CTFs, share our experience in organizing them and provide you with dos and don'ts to help you get your own up and running.</abstract>
+<description>
+
+* what the hack are CTFs?
+Why organising it by yourself?
+* challenge-based CTF
+** infrasructure
+** challenges
+** real-time support
+* server-based CTF
+** infrasructur 
+** services
+** vuln box
+** gameserver
+* deciding what to do
+* Q&amp;A</description>
+<persons>
+<person id='4599'>Stephan Pfistner</person>
+<person id='5129'>Stean</person>
+</persons>
+<links>
+<link href='http://squareroots.de'>Squareroots</link>
+</links>
+</event>
+<event guid='f83350dc-8152-422c-921f-379b018c0fa2' id='6738'>
+<date>2015-08-13T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6738-freifunk_in_tv-whitespace</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Freifunk in TV-Whitespace</title>
+<subtitle>More frequency spectrum with better propagation properties for WiFi mesh networking</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>WLAN and mesh networking in the UHF band: More frequency spectrum with greater range for better and cheaper broadband access for everyone. The digital dividend through the digitization of terrestrial TV offers an important opportunity for better coverage and more bandwidth for all. Unfortunately, the UHF-TV spectrum is being auctioned off to the big telecommunications companies. As a result, broadband usage remains expensive. The UHF-band mesh network of the &quot;Freifunk&quot; open wireless radio networks community in Berlin is a first step in a different direction.</abstract>
+<description>Serious media use does not work without WiFi or LAN cable and also free and open wireless community infrastructure like Freifunk would be hardly conceivable without WLAN. 3G and 4G is good in between WiFi and LAN access just for frugal internet use.
+
+The 2.4 GHz wireless frequency band is a big mess. Here, the WLAN users are crammed into only four non-overlapping WiFi channels¹. In order to increase the chaos yet there's also remote-controlled toys, Bluetooth, wireless audio and video transmission systems, surveillance cameras, microwave ovens. Many of theses applications are transmitting uncoordinated. Scoffers refer to the 2.4 GHz band for its modest properties as 'junk band' - and yet it has become an important resource in our infrastructure, if not the most important resource alongside WLAN in the 5 GHz band. The 5 GHz WLAN frequency band offers more space, but because of even more pronounced quasi-optical properties, the range for local broadband coverage is even lower and soon also LTE networks are allowed to use this resource. (And LTE is going to share the spectrum in an unfair manner because of differences in the protocol, but that is a different subject.)
+
+There are ways to improve the digital broadband coverage: Due to the switch of terrestrial analog TV to DVB-T, now a major part of the UHF TV frequency spectrum is unused - the digital dividend. This frequency range has substantially better properties than the radio channels at 2.4 GHz and 5 GHz: objects such as trees and shrubs attenuate the signal much less. It is much easier to provide a broad range WLAN coverage in that part of the frequency spectrum.
+
+Much of the TV band is soon to be auctioned to the telco industry or has already been auctioned. We always hear from politicians that the public purse has benefited enormously from the revenues from spectrum auctions. This warm rain for the Treasury is going to be financed by us, the Internet users and Telco customers, by the extra expense for broadband usage that we are spending. In effect, such spectrum auctions are a hidden tax for wireless broadband access.
+
+But there might be a better way: A dedicated part of the currently unused TV channels could also be dedicated to unlicensed, digital broadband operation with WiFi. Everyone involved would benefit - the mobile operators, because the large telecommunications companies are already using unlicensed Wi-Fi to do &quot;mobile offloading&quot;: Your DSL-WiFi router at home might already provide a commercial hotspot for the telecommunications company you are renting the DSL line from, in order to serve broadband to their customers on the street in front of your flat. The resulting cost savings for the large telcos are estimated to be over 80 billion in 2015.
+
+The session presents the TV-Whitespace hardware project, which has been developed by Freifunk, its background and goals.
+
+(¹ These are the channels 1, 5, 9, 13: The frequency channels between them should not be used it, as they interfere with the adjacent wireless channels and the channel access between different wireless networks can not be coordinated effectively.)</description>
+<persons>
+<person id='1281'>Elektra</person>
+</persons>
+<links>
+<link href='http://wiki.freifunk.net/MABB:TVWS'>Freifunk im TV-Whitespace</link>
+</links>
+</event>
+<event guid='eab5b0db-c441-4f14-89eb-939585061555' id='6857'>
+<date>2015-08-13T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6857-nsa-untersuchungsausschuss_-_wer_kontrolliert_wen</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>NSA-Untersuchungsausschuss - Wer kontrolliert wen?</title>
+<subtitle>Zwischen den geschwärzten Zeilen lesen</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Der NSA-Untersuchungsausschuss ist zum BND-Untersuchungsausschuss geworden. Wie sieht es nach einem Jahr aus? Was kam nach Eikonal? Wie prüft das BSI die Hardware des BND? Wieviele Verfassungsklagen gibt es und wieviele brauchen wir noch? Und warum wird das eigentlich nicht gestreamt?</abstract>
+<description>Seit einem Jahr finden öffentliche Anhörungen des NSA-Untersuchungsausschusses statt, der mittlerweile eher ein BND-Untersuchungsausschuss ist. 
+
+Hier gibt es einen Überblick darüber, wie ein Untersuchungsausschuss funktioniert, was er kann und was nicht, um welche Themen es geht und warum die Bundesregierung immer dazwischen funkt. </description>
+<persons>
+<person id='1864'>Anne Roth</person>
+</persons>
+<links>
+<link href='http://www.bundestag.de/bundestag/ausschuesse18/ua/1untersuchungsausschuss'>Bundestag: 1. Untersuchungsausschuss</link>
+</links>
+</event>
+<event guid='882370ef-642d-43ba-b91d-22e9e87e9a1f' id='6884'>
+<date>2015-08-13T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6884-the_rad1o</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>The rad1o</title>
+<subtitle>Listen to all the things</subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>We will give a introduction on what your badge can do. An overview of the hardware details and software options as well as the history of it's creation.</abstract>
+<description>When arriving at the Camp, you got a shiny electronic badge called rad1o. We will show what went into making it, and what interesting things you can do with it. This talk will cover the inception and creation of this years Camp Badge. From a description of the hardware including differences to the HackRF one, the software concept and extension possibilities to first projects done by attendees.
+
+The Badge contains a full-featured SDR Transciever workable in a Range of about 50-4000 MHz. It is based on a Wimax Transciever which sends I/Q samples in the range of 2.3 to 2.7 GHz to an ARM Cortex M4 CPU. The CPU then can then process them stand alone for various applications (like FM receiveing, Spectrogram display, RF Controlled power plugs, etc.) or send the samples via USB 2.0 to a Computer where they can be processed with the help of GNU Radio.
+The extended frequency range is provided by a mixer that can be inserted into the RF path. For immedeate usage, the board contains a 2.5 GHz chip antenna which can be replaces with an easily soldered Antenna connector for usage in different frequency ranges. The rad1o als contans han LCD and Joystik as known from the r0ket from the last CCCamp.</description>
+<persons>
+<person id='2506'>Sec</person>
+<person id='3701'>RFguy</person>
+<person id='5339'>schneider</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='61faba33-5bfa-4c58-a864-d527c6f31b7d' id='6703'>
+<date>2015-08-13T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6703-3d_printing_high-quality_low-cost_free_medical_hardware</slug>
+<recording>
+<license>CC-By-SA</license>
+<optout>false</optout>
+</recording>
+<title>3D Printing High-Quality Low-Cost Free Medical Hardware</title>
+<subtitle>Making medical devices accessible and hackable for all</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Despite the dramatic falls in costs of production, medical devices have remained prohibitively expensive for all but the richest countries and physicians. Using 3D printing, rapid prototyping and Free hardware licenses, we have been developing and releasing off-patent medical devices that perform as well as the gold standard for a fraction of the cost. In this lecture, we discuss the history and scope of the problem, our progress to date and how attendees can participate and make their own medical devices.</abstract>
+<description>&lt;p&gt;Most commonly used medical devices and supplies are simple to manufacture and have been around for decades or centuries. Despite this, they remain expensive and therefore out of reach for health care providers and hospitals in the developing world and even poorer health centres in the developed world.&lt;/p&gt;
+
+&lt;p&gt;Advances in rapid prototyping such as 3D printing and Free hardware licenses have recently allowed the local production of high quality medical hardware and devices for a fraction of the cost of proprietary alternatives. Through an organization we have named &lt;a href=&quot;http://glia.org&quot;&gt;Glia&lt;/a&gt;, we are focusing on three key aspects:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The research, development and validation of medical devices such as a &lt;a href=&quot;https://github.com/GliaX/Stethoscope&quot;&gt;stethoscope&lt;/a&gt;, &lt;a href=&quot;https://github.com/GliaX/pulseox&quot;&gt;pulse oximeter&lt;/a&gt;, &lt;a href=&quot;https://github.com/GliaX/ecg&quot;&gt;electrocardiogram&lt;/a&gt; and &lt;a href=&quot;https://github.com/GliaX/SurgicalTools&quot;&gt;surgical tools&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The dissemination of plans, BOMs, and validation protocols for these devices&lt;/li&gt;
+&lt;li&gt;The training of ministries of health and hospitals to roll out domestic programs to further develop and manufacture these devices and others&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In this lecture, specific examples will be highlighted of countries where medical needs can be met using this approach. Also, the devices and some details of their development will be discussed to enhance understanding of the process for others who wish to use it. Lastly, attendees will be given information on how to participate and collaborate in making their own devices or new devices.&lt;/p&gt;</description>
+<persons>
+<person id='5506'>Tarek Loubani</person>
+</persons>
+<links>
+<link href='https'>Glia github repository</link>
+<link href='https://github.com/GliaX'>Glia github repository</link>
+</links>
+</event>
+</room>
+</day>
+<day date='2015-08-14' end='2015-08-15T02:00:00+02:00' index='2' start='2015-08-14T10:30:00+02:00'>
+<room name='Project 2501'>
+<event guid='46d21af4-3f70-4024-b7bd-52d40634b891' id='6679'>
+<date>2015-08-14T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6679-how_to_become_a_space_hacker</slug>
+<recording>
+<license>CC-BY-SA</license>
+<optout>false</optout>
+</recording>
+<title>How To Become A Space Hacker</title>
+<subtitle>(let's hack OUTER space, the final frontier)</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Forget hacking the planet - let's HACK THE UNIVERSE.
+
+In 2012, the world's leading space agency began a program that opened a gateway to outer space for citizen scientists - the NASA International Space Apps Challenge. Since then, tens of thousands of people have joined a global community that solves problems to improve life on Earth and in space. Learn how you too can become a space hacker!</abstract>
+<description>Outer space was once the sole province of nation-states and their military-industrial complexes, even serving as a theater for the Cold War between superpowers. In recent times, thanks to scientific advancements, reduced manufacturing costs, and increased sophistication in technology and materials, space science has become more commercially and publicly accessible now than in any other time in history - and many private individuals are taking the exploration of space into their own hands, often in direct partnership with formerly unapproachable government agencies.
+
+A new wave of administrators and executives in the National Aeronautics and Space Administration (NASA) have made great strides in releasing software and hardware technologies used in their space program, as well as the data and imagery produced by their missions, into the worldwide public domain. One of the most successful efforts on their part is the annually occurring grassroots, volunteer-run, community organized space hacker event known as the International Space Apps Challenge.
+
+In just three short years, this global citizen effort has created hundreds of open source projects to overcome challenges and improve life on Earth and in space - and NASA continuously collaborates with the grassroots space hacker community in order to further spur open innovation.
+
+New York City has been the &quot;global mainstage&quot; for the International Space Apps Challenge for two years running, hosted by its local chapter of space hackers: Space Apps NYC. At 1100 members and growing, Space Apps NYC is one of the world's premiere space hacker communities. Over 100 open source projects have been created by its members, and in 2015 their locally organized event included NASA's &quot;Women in Data&quot; bootcamp and a conference program of renowned speakers livestreamed worldwide.
+
+This talk will cover some of the highlights and history of &quot;the galaxy's biggest hackathon&quot;, describe and demonstrate some of the best projects created, and discuss the NASA resources that are made freely available for anyone in the world to use for any purpose.</description>
+<persons>
+<person id='5477'>Mike Caprio</person>
+</persons>
+<links>
+<link href='http://spaceapps.nyc'>Space Apps NYC</link>
+<link href='http://2015.spaceappschallenge.org'>International Space Apps Challenge</link>
+<link href='https://www.youtube.com/channel/UCTgPOtkPK9RJHULXB0M94dQ/videos'>Space Apps NYC on YouTube</link>
+</links>
+</event>
+<event guid='85bae1d2-e024-48e9-91e1-d4ecfde18694' id='6639'>
+<date>2015-08-14T11:15:00+02:00</date>
+<start>11:15</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6639-d-offline_das_drohende_wlan-sterben_was_wir_dagegen_tun_konnen</slug>
+<recording>
+<license>CC-BY-SA 3.0</license>
+<optout>false</optout>
+</recording>
+<title>D-Offline? Das drohende WLAN-Sterben &amp; was wir dagegen tun können</title>
+<subtitle>Die Bundesregierung will offene WLANs verhindern, aber das neue Telemediengesetz kann man hacken </subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Die Störerhaftung verhindert bisher oft, dass Unternehmen und Private in Deutschland offene Funknetzwerke anbieten.</abstract>
+<description>Die Digiges hat daher schon vor drei Jahren einen Gesetzentwurf vorgestellt, wie man die Rechtslage fixen kann, der auch im Bundestag beraten wird. Leider hat sich in der Bundesregierung aber die Betonkopf-Fraktion durchgesetzt, sodass dem Digiges-Entwurf ein WLAN-Verhinderungsgesetz der Großen Koalition entgegengesetzt wurde.
+
+Der Vortrag fasst zusammen, welche Haftungsrisiken es derzeit gibt, warum der Gesetzentwurf der Bundesregierung die Lage deutlich verschlechtern würde und was man trotzdem tun kann, um sein Netz rechtssicher öffnen zu können.</description>
+<persons>
+<person id='3723'>vieuxrenard</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='cf32c6aa-4a0b-41dd-8103-45575f628913' id='6689'>
+<date>2015-08-14T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6689-keys_where_we_re_going_we_don_t_need_keys</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>true</optout>
+</recording>
+<title>Keys? Where we’re going we don’t need keys.</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Smartlocks are the new way of securing doors by replacing the old mechanical locks by new high-tech and connected locks, able to communicate with other smart devices such as smartphones
+and computers.</abstract>
+<description>Vendors argue that „key dematerialization“ is the future of keys, where anybody would be able to give, control and revoke keys for one or multiple locks by using his smartphone. No more physical keys needed for a better control, or not.
+
+We’ll go through the challenges of key dematerialization in the actual
+world, from technical challenges to real world implementations ... and failures.
+
+Widespread smartlocks are not so smart, and developers often fail at
+correctly implementing cryptographic algorithms (especially when the smartlock is advertised as using a strong AES-256 implementation), and of course security by obscurity is
+still used and broken when dealing with critical embedded systems.
+
+During this talk, we’re going to demonstrate some real world attacks on one of these smartlocks, from information leaks to „wireless lockpicking“ through fuzzing.</description>
+<persons>
+<person id='3708'>Damien Cauquil</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='439d64b1-b08b-4313-87f9-c469211d4206' id='6762'>
+<date>2015-08-14T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6762-politische_losungen_fur_technische_probleme</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Politische Lösungen für technische Probleme?</title>
+<subtitle>IT-Sicherheit per Gesetz</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Seit Edward Snowden ist IT-Sicherheit nicht mehr nur ein Thema für Konzerne und Verschwörungstheoretiker. Sie ist in den Fokus des allgemeinen Interesses geraten. Nicht nur die Marketing-Armeen deutscher und europäischer Unternehmen, sondern auch Politik und Parteien wollen nun schnelles Kapital aus dem Thema schlagen.</abstract>
+<description></description>
+<persons>
+<person id='3995'>Linus Neumann</person>
+</persons>
+<links>
+<link href='http://ccc.de/system/uploads/149/original/StellungnahmeDigitaleAgenda.pdf'>CCC-Stellungnahme (pdf): Effektive IT-Sicherheit fördern</link>
+<link href='http://ccc.de/system/uploads/186/original/ITSG_Stellungnahme.pdf'>CCC-Stellungnahme (pdf): Gesetz zur Erhöhung der Sicherheit informationstechnischer Systeme (IT-Sicherheitsgesetz)</link>
+</links>
+</event>
+<event guid='581757d7-5b47-491c-8907-9aa5d235edb8' id='7046'>
+<date>2015-08-14T16:30:00+02:00</date>
+<start>16:30</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-7046-freie_software_gegen_unsere_freiheit</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Freie Software gegen unsere Freiheit?</title>
+<subtitle>Fighting code-abuse by military and intelligence</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Geheimdienste, Militärs und ihre Helfer nutzen freie und Open-Source-Software – weil sie können. Sie dürfen das, denn wir haben unseren Code ohne Einschränkungen veröffentlicht. Sie dürfen das, denn wir haben es ihnen implizit gestattet. Lasst uns das mal ändern – jetzt!</abstract>
+<description>Während unsere Politik erfolglos versucht, IT-Sicherheitsrisiken per Gesetz zu verbieten oder die Defense Advanced Research Projects Agency (DARPA) der USA und das Italienische Wirtschaftsunternehmen &quot;Hacking Team&quot; nachweislich unsere Open-Source-Projekte vereinnahmt um Menschen Schaden zufügen zu können, überlegen wir uns, an was für Bedingungen wir in Zukunft unsere Open-Source-Software knüpfen können. Wir drehen den Spieß um: Wir stellen Bedingungen, die verhindern können, dass unsere eigenen Erfindungen später durch unsere und fremde Regierung gegen uns oder unsere Mitmenschen eingesetzt werden. Es ist mehr als einfach, nur ein politisches Zeichen in Form einer Klausel zu setzen: Wenn wir unsere bestehenden Open-Source-Software-Lizenzen durch eine Non-Military- und Non-Intelligence-Klausel erweitern, dann könnten und sollten Zulieferer und Militärs durchaus in Erwägung ziehen, unsere Software nicht mehr zu nutzen. Wenn sie es aber ignorieren und wir das merken, haben wir eine juristische Handhabe, mit der wir eine öffentliche Diskussion antreten oder ihnen gar die Nutzung untersagen können. Wir stellen einen Vorschlag für eine Non-Military-Usage-Klausel vor und reden über Motivation, Risiken und Nebenwirkungen.</description>
+<persons>
+<person id='3901'>Thorsten Schröder</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='f1e0faf3-f906-4abc-8218-9f42e10f8a1c' id='6889'>
+<date>2015-08-14T17:15:00+02:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6889-encrypted_email_for_planet_earth</slug>
+<recording>
+<license>Creative Commons</license>
+<optout>false</optout>
+</recording>
+<title>Encrypted Email for Planet Earth</title>
+<subtitle>Failures, Challenges, and the Future</subtitle>
+<track>Other</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>After the Snowden revelations, interest in encrypted end-to-end
+communication has skyrocketed, even amongst ordinary users. However, today
+we still do not have widespread deployment of OpenPGP. Post-email messaging
+protocols such as OpenWhisper has around a million users. Poor
+usability has led users in sensitive situations to misunderstand or give up
+on encryption tools, putting them at risk. Why isn’t everyone encrypting
+their communications by now? This panel brings together speakers from
+software, protocol, and usability projects to reflect on current challenges
+to Encrypting All The Things, discuss what has worked and what hasn’t in
+FLOSS projects developing secure tools, and possibly develop strategies for
+the future.</abstract>
+<description>After the Snowden revelations, demand for encrypted end-to-end communication has skyrocketed, even amongst ordinary users. As also shown by the catastrophic fate of Lavabit, running a high-security communications provider is fraught with danger, both political and technical. Yet today we see services that essentially sell security &quot;snake oil&quot; taking off with users, while real end-to-end encryption is barely used by activists, much less ordinary people. We still have do not have widespread deployment of OpenPGP, and post-email messaging protocols such as OpenWhisper still have less than a million users. Fundamental standards such as OpenPGP existing for over thirty years, but software such as Enigmail is still claimed to be virtually unusable. What is the source of this massive failure, and how can it be fixed? 
+
+ How can we combat the fundamental problems afflicting encrypted messaging, from e-mail to beyond, so that it becomes a fundamental right for all people to have end-to-end encrypted messaging? This roundtable will bring together software projects working in this space to reflect on their future, debate their differences, and possibly develop a common strategy for the future. Questions to be addressed are:
+
+1.  Are standards the solution or the problem? The IETF has recently re-opened the OpenPGP mailing list, and there is discussion around the Darkmail (DIME) protocols brewing. However, even the OpenPGP Working Group is not tackling the hard problems of metadata protection. Another strategy is to ditch e-mail entirely and go with new protocols such as TextSecure, but these protocols are still not federated and are thus centralized with particular applications. Decentralized blockchain-based messaging alternatives have also not taken off.
+
+2. Why is the software still unusable by ordinary users? Two years onwards, we still do not have a better interface than Thunderbird, which has been abandoned by Mozilla. Mailpile is still in beta. Pixelated is still under development. Furthermore, how do we communicate to users if their messages are secure or not?
+
+3. What research problems remain open? Currently, e-mail leaks metadata through the header, as well as through timing information and network traffic. Keyservers remain broken in terms of authentication and also reveal the social graph while key revocation and signing is difficult. Academic work on mix networking and privacy-enhancing technologies desperately needs to 
+
+4. How can we reach critical mass? Some companies such as OpenWhisper are now working with major providers such as WhatsApp. Others such as LEAP are working so that anyone can run their own provider. Start-ups such as Peer.io and Protonmail are pursuing centralized strategies, and even Gmail and Yahoo! are working on end-to-end encryption. Governments such as Brazil and Germany are pushing for nationalized or public-private partnerships for encrypted email, while business models in the 'privacy market' are still unclear at best and seem to be unable to take into account distributed systems. 
+
+The goal of this even is to bring together key voices in this space so we combat the fundamental problems afflicting encrypted messaging, from e-mail to beyond, so that it becomes a fundamental right for all people to have end-to-end encrypted messaging.
+
+
+</description>
+<persons>
+<person id='3615'>harryhalpin</person>
+<person id='5619'>meskio</person>
+<person id='5545'>Gus Andrews</person>
+<person id='5634'>Rabble</person>
+</persons>
+<links>
+<link href='http://leap.se'>LEAP</link>
+<link href='simplysecure.org'>Simply Secure</link>
+<link href='https://medium.com/@gusandrews/user-personas-for-privacy-and-security-a8b35ae5a63b'>User Personas for Security</link>
+<link href='medium.com/@gusandrews'>Gus Andrews on usable security</link>
+<link href='http://internetfreedom.secondmuse.com/'>Second Muse reports on Tibetan exiles and Vietnamese journalists and activists</link>
+</links>
+</event>
+<event guid='feefa25c-12e5-4178-9c27-dbcf2afd905a' id='6938'>
+<date>2015-08-14T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6938-locking_the_web_open_call_for_a_distributed_web</slug>
+<recording>
+<license>public domain</license>
+<optout>false</optout>
+</recording>
+<title>Locking the Web Open: Call for a Distributed Web</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Locking the Net Open: Transforming the Web into a truly distributed system that’s all fun, secure and reliable.    Using Javascript, peer-to-peer tech, bitcoin and blockchain, we can build on top of the current web to build a system that protects reader privacy, is reliable against hardware outages and censorship and stays fun.</abstract>
+<description>
+Micro version of the talk:   http://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/
+
+20 years after the World Wide Web was created, can we now make it better?  How can we ensure that our most important values: privacy, free speech, and open access to knowledge are enshrined in the code itself?  In a provocative call to action, entrepreneur and Open Internet advocate, Brewster Kahle, challenges us to build a better, decentralized Web based on new distributed technologies.  He lays out a path to creating a new Web that is reliable, private, but still fun—in order to lock the Web open for good.
+
+</description>
+<persons>
+<person id='5653'>Brewster Kahle</person>
+</persons>
+<links>
+<link href='http://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/'>Shortform version of the talk</link>
+</links>
+</event>
+<event guid='2b4f6479-8241-4ede-b025-328d476c52ba' id='6795'>
+<date>2015-08-14T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6795-mexican_botnet_dirty_wars</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Mexican Botnet Dirty Wars</title>
+<subtitle>Bots are waging a dirty war in Mexican social media.</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Peñabots have been active in Mexican networks since the 2012 presidential elections. Named after President Enrique Peña Nieto, armies of bots have become a political weapon to combat protests and attack critics of the Mexican government online. Bots are waging a dirty war in Mexican social media. They are weaponized censors that silence dissent and cover up crimes. </abstract>
+<description>Developers in Mexico are using a variety of open source tools to create visualizations which are helpful in detecting bots. They are working on new open source software to stop the botnets that have taken over Mexican social media, but they need help. 
+
+I’ve observed several different bot activities in Mexican twitter. I break them down into 5 categories:
+
+1. Hashtag spamming
+2. Making artificial trends
+3. Smear campaigns (against media, individual journalists &amp; protesters) 4. Death threat campaigns
+5. Political propaganda
+
+Attached PDF presentation details each category with images &amp; videos.</description>
+<persons>
+<person id='5589'>Erin Gallagher</person>
+</persons>
+<links>
+<link href='https://www.youtube.com/watch?v=0e78K9BgozU'>Los Peñabots </link>
+</links>
+</event>
+<event guid='f29c721d-4917-4705-aa87-0281d89f8655' id='6997'>
+<date>2015-08-14T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6997-drones_ships_pills_and_the_internet</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Drones, ships, pills and the Internet</title>
+<subtitle>Women on waves</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language></language>
+<abstract>Women on Waves and Women on Web, 2 non profit organisations use all possible loopholes and undetermined legal spaces to make sure that also women in countries where abortion is illegal can access safe abortion services.</abstract>
+<description>Currently 39% of the population lives in countries with highly restrictive abortion laws.  An estimated 43.8 million abortions are carried out worldwide each year of which 21 million in countries where abortion is illegal. About one in five pregnancies ends in an abortion. Medical abortion (with pills) is one of the safest procedures in contemporary medical practice, with minimal morbidity and a negligible risk of death.  Hoever each year, approximately 21.6 million women worldwide still undergo an illegal and unsafe abortion resulting in an estimated 47000 deaths.
+In response to this medical need, Women on Waves was founded in 1999. On board a Dutch ship, the abortion pill can be provided safely and legally to women with unwanted pregnancies, once it sails outside the territorial waters of countries where abortion is illegal,  In response to a growing number of help emails from women around the world, Women on Web, an online medical abortion service, was founded  in 2005.   Over the years WoW used innovative strategies with ships, mobile phones, apps, printed material, grassroots mobilization, internet, art and now drones as well to draw much-needed public attention to the consequences of unwanted pregnancy and unsafe, illegal abortion and to create access to safe medical abortion. 
+
+This talk will present the work and challenges of WoW.</description>
+<persons>
+<person id='4116'>rebecca gomperts</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='b71fb1bd-d089-49c7-bdcc-ff47d219b342' id='7025'>
+<date>2015-08-14T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-7025-terraforming_planet_earth</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Terraforming Planet Earth</title>
+<subtitle>Practical terraforming technologies for regenerating soils and souls</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Large parts of the surface of our planet have been devastated by human  activity. Terraforming on a human scale is needed to bring these landscapes back to life. The knowledge and technology is there, and you can learn how to use it and participate.</abstract>
+<description>Large scale ecological regeneration needs to be a collaborative participatory process with the direct involvement of all interested people, local and global. Inviting the local population to elevate the physical state of their natural environments, their social and cultural heritage is part of the process of bringing deserts back to life through human-scale terraforming. In a pilot project in Jordan, the Rhizo Camp, these methods are brought to work to ecologicaly restore 15 hectares of land high on Jordan’s mountain ridge, where the essential challenge is scarcity and usage of water. </description>
+<persons>
+<person id='5732'>Robert Senftleben</person>
+</persons>
+<links>
+<link href='greendeserts.wordpress.com'>Blog from Robert about the last 9 months of research and contact in and around Jordan</link>
+<link href='http://knaw.academia.edu/JohnDLiu'>The work of John D. Liu, videos, articles, reports, etc. </link>
+</links>
+</event>
+<event guid='5b980999-8914-4014-85ae-247bde5be3ce' id='6900'>
+<date>2015-08-14T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6900-what_s_the_catch</slug>
+<recording>
+<license>CC-BY-SA</license>
+<optout>false</optout>
+</recording>
+<title>What's the catch?</title>
+<subtitle>Funding open source with money from corporations and governments</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Increasingly, there is money available to fund free software projects; however it often comes from large organizations, governments, and corporations, who all have their own goals and missions. The question becomes, if you decide to work with these groups, is it possible for your project to maintain a set of goals and ethics that are its own? Members of the Open Technology Institute will draw on our experiences in partnering with large interested funders (US Government, Google), and facilitate an audience discussion of how this funding model can work, the challenges that can arise and the complicated ethics around it.
+</abstract>
+<description>Creating complicated multi-layered open source projects requires development, maintenance and ongoing commitments. Often, to do these things you need money. Paying developers and hackers can be a way for a project to work towards quality and sustainability, assuring that people have time to fix to bugs, handle support and work with others.
+
+There is increasingly money available; however it often comes from source like governments, major tech companies, universities, and large foundations.  Each have their own missions and goals that are likely distinct from those of your project. The question becomes, if you decide to work with these funders, is it possible for your project to create and maintain a set of goals that are its own?
+
+To be sure, this is not the only way to fund a project, and it is not a good fit for all projects. However, it is a choice that many have made. We want to have a discussion about that choice. Drawing on our experiences in partnerships with USAID (for Commotion Wireless), as well as Google (for the Measurement Lab), members of the Open Technology Institute want to share what we've learned, and facilitate a discussion on what it means to make the choice to pursue these types of funding.
+
+We want this to be a broad discussion, with people who have made similar choices (or as importantly the opposite ones), and not a sales pitch for the choices our organization has made. We've discussed this at length amongst ourselves, and are curious to hear what CCC has to say.
+
+Some questions that we would like to see frame the discussion are:
+&lt;ul&gt;
+  &lt;li&gt;Is taking funding from governments and/or giant corporations to fund free software ethical at all?&lt;/li&gt;
+  &lt;li&gt;If so, how do you decide your project's limits?&lt;/li&gt;
+  &lt;li&gt;How do you figure out where your goals align or overlap with a funder's goals in ways that are helpful to your project?&lt;/li&gt;
+  &lt;li&gt;How do you respond to allegations that your are doing your funder's dirty work? (ie: the assumption that you are putting backdoors in your code because you are taking money from a government)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+</description>
+<persons>
+<person id='5552'>nat</person>
+<person id='4163'>Kate Krauss</person>
+<person id='3229'>willowbl00</person>
+<person id='5781'>Josh King</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='fc4e6338-452d-48c3-a21b-ecdcb658bce7' id='6710'>
+<date>2015-08-15T00:00:00+02:00</date>
+<start>00:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6710-making_coils_more_musical</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Making coils more musical</title>
+<subtitle></subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Making music with Tesla coils has become more popular as the technology has become more accessible. But can they really be considered expressive musical instruments in their own right? This talk discusses recent performances using the CHIME RED Tesla coil controller, which provides Tesla coils many synthesizer effects (including 16-note polyphony) and integration with musical robots (https://vimeo.com/123003833).</abstract>
+<description></description>
+<persons>
+<person id='5517'>Josh Bailey</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Simulacron-3'>
+<event guid='0da613d0-7df1-481f-b612-25eacadae773' id='6765'>
+<date>2015-08-14T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6765-understanding_open_proxies</slug>
+<recording>
+<license>https://creativecommons.org/licenses/by/4.0/</license>
+<optout>false</optout>
+</recording>
+<title>Understanding Open Proxies</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Proxies have been around for a while now, but remain poorly understood. I'll share some data on how they are used, what they are used for, and who uses them. To understand open proxies, I've scanned the Internet to track their prevalence, and monitored public statistics interfaces to understand the machines hosting them.  ~220 TB of traffic flows through open proxies each day, making them one of the largest overlay networks in existence - especially since most operators appear to be running them unintentionally.</abstract>
+<description>This work is meant to convey some understanding about what's going on with open proxies. These proxies are ubiquitous, but unfortunately not particularly secure. In that capacity, they provide a rare glimpse at what the usage patterns of other indirection systems look like, so that we can learn from their mistakes.
+
+This work began by monitoring open proxy aggregators to understand the churn and distribution of proxies. We contacted operators in several countries to understand their intentions in running these services, and ended up helping them fix their configurations.
+
+We also monitored the public statistics interfaces provided by squid and polipo proxies, and used them to record a sample workload experienced by open proxies. From this, we are able to understand the distribution of client locations, characterize the size and cache-ability of requests, and pull out high-level observations on the use of automated versus manual traffic.</description>
+<persons>
+<person id='4821'>Will Scott</person>
+</persons>
+<links>
+<link href='http://netlab.cs.washington.edu/squid/'>Paper</link>
+</links>
+</event>
+<event guid='bb5f6994-e54c-4a78-a1a8-571477c000b1' id='6702'>
+<date>2015-08-14T11:15:00+02:00</date>
+<start>11:15</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6702-real_vegan_cheese</slug>
+<recording>
+<license>CC BY-NC</license>
+<optout>false</optout>
+</recording>
+<title>Real Vegan Cheese</title>
+<subtitle>Engineering yeast to produce casein</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>I will present the story and science behind this project, which is aimed at producing milk proteins in yeast.  If we succeed we will be able to make vegan cheese which is indistinguishable from animal derived cheese.  This project is run out of two hacker spaces in the SF bay area.</abstract>
+<description>Production of milk is an incredibly energy, water and land intensive industry.  Couple that with spawning of antibiotic resistant bacteria caused by modern farming practices, along with the suffering of the animals themselves, and it's a full blown disaster.  At the same time, cheese is often cited by people as the reason they could never go vegan.  Vegan cheese substitutes have been increasing in quality, but still are not satisfying for many people.
+  In the modern age of genetic engineering, however, animals should not be needed to produce cheese.  It is a single protein complex, casein, which is responsible for most of cheese's properties such as melting and stretching.  The genes responsible for producing casein are sequenced for many animals, and so it should be possible to engineer other organisms, such as yeast, to make casein as well.  This is the goal of the Real Vegan Cheese project.
+  This project started in the spring of 2014 as a collaboration between Biocurious in Sunnyvale, CA and Counter Culture Labs in Oakland, CA.  Beyond the goal of producing a real cheese in a vegan process, we also formed to enter the international genetically engineered machines competition and show that community labs could compete with academic labs (tl;dr we won), and to provide alternative educational pathways for people interested in learning genetic engineering.  I will give an overview of the progress on these different aspects of our project including details of the science behind the project and current and future challenges.</description>
+<persons>
+<person id='5425'>Benjamin Rupert</person>
+</persons>
+<links>
+<link href='https://realvegancheese.org/'>Project website</link>
+</links>
+</event>
+<event guid='10864b98-db0f-4184-a71a-55ec5942d837' id='6701'>
+<date>2015-08-14T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6701-building_a_culture_of_courage</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Building a culture of courage</title>
+<subtitle></subtitle>
+<track>Failosophy</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Starting my new job, I was surprised about my colleagues reactions to my mistakes. No blame! People trust me to own my mistakes and fix them! Complex systems are brittle. Developers work in a constant state of new things-not-quite-working-yet. Programming in pairs and code reviews help us. But what about the quality of human interaction? How can we build a culture of blamelessness and why is it crucial for learning and for brave decision making?</abstract>
+<description>On the first day of my new job, I contributed program code that went live to the website we are building. After a month, I contributed some code that caused alerts. I felt bad and it was reverted quickly, never making it to the site. Still, I was surprised about how my colleagues reacted. They did not blame me! I felt support. These people have got my back. I experienced that it is okay to make mistakes and people trust me to fix them. After my years in gradschool this was a refreshingly new experience! Just two weeks ago, somebody within the company received the annual prize, our three-armed-sweater, for the most spectacular way to bring down the site. We joked that if somebody does not break the site to get the prize, they are not daring enough in their coding. I am still nervous when pushing new code to the site, but it feels like an exciting anticipation and respect for my work.
+
+People working with complex systems know they are brittle, because they are complex. Code that works well is nice, but working code also means everything is done - how boring! Programmers and builders live in a constant state of things-not-quite-working-yet, pushing this boundary every day. Even though it might be just software, this can be a challenging environment.
+
+Programming culture is rife with stereotypes of lone-wolf coders. On hacker news, people like to &quot;well-actually&quot; each other. I did it, and maybe you do it too. Quite often, we face our coding questions all alone. With computers, we fight unforgiving machines, and usually the mistakes in our systems are based on human decisions. Programming in pairs and code reviews are techniques to improve these decisions by adding an extra set of eyes and opinions. These tools are excellent to use when working on a challenging complex system together and are known techniques by now.
+
+But what about the quality of human interaction? How can we build a culture of blamelessness and why is it crucial for learning and brave decision making?</description>
+<persons>
+<person id='4288'>linse</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='3c63452c-e0ae-4375-88f3-d9c16029487a' id='6862'>
+<date>2015-08-14T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>02:15</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6862-lightning_talks_day_2</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Lightning Talks: Day 2</title>
+<subtitle></subtitle>
+<track>Other</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick! </abstract>
+<description>Submission instructions will be available on the wiki!</description>
+<persons>
+<person id='4205'>zeltophil</person>
+<person id='5353'>sefischer</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='87c715bf-c6a7-4ec6-87fc-84f4d04e01b6' id='6959'>
+<date>2015-08-14T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6959-basics_of_hydroponics</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Basics of hydroponics</title>
+<subtitle>A need to know on soilless growing before building, digitalising and connecting</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The GREEN side of hydroponics on a need to know basis for the ones who aim to build their _first_ system. This is what you need to know on the green side of hydroponics, to then make it digital, connected and even more automatic. </abstract>
+<description>How do plants really work, what are the foundations of growth, seed-setting and general wellbeing plants. What different types of soil-less systems are there, and how do they work. These are things you need to know to be successful when you build your first hydroponic system. 
+
+I will give you a crash course in the above and I will show and tell some materials you can use in your first build.</description>
+<persons>
+<person id='1571'>Alice Bulukin</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='e9d2a3dd-7d47-4f6a-9475-2961e584037e' id='6642'>
+<date>2015-08-14T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6642-o_p_er_a_t_i_o_a_l_glit_c_he_s</slug>
+<recording>
+<license>Lizenz Freie Kunst http://artlibre.org/licence/lal/de/</license>
+<optout>false</optout>
+</recording>
+<title>o͈̮p̢ęr̕a͠t̶̨i͟oǹ͓̜a̵l̷ glit̶̨ć̶̛he͝s</title>
+<subtitle>How To Make Human Machine Readable</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>&lt;i&gt;...niemanden interessiert wie's funktioniert, solange es funktioniert&lt;/i&gt;
+
+Also lasst uns Fehler machen.
+----
+Diese Performance Lecture basiert auf einer &lt;a href=&quot;http://noparts.org/operational_glitches/operational_glitches.pdf&quot;&gt;essayistischen Annäherung&lt;/a&gt; an technische Bilder als ein Phänomen. Sie versucht einen Blick zurück in die Ursprünge von Rechenmaschinen als Kontrollinstrumente, sowie einen Blick in die Zukunft im kybernetischen Sinne.</abstract>
+<description>Sehe ich Welt durch andere Augen, in diesem Falle durch technische Devices, so sehe ich durch Maschinenaugen, so liegt diese Maschine zwischen mir und Welt, sprich eine mediale Ebene liegt dazwischen.
+&lt;br /&gt;
+Diese Zwischenform von Welt aber (inter-facies 'zwischen-form'), sie stellt eine Abstraktion von Raum sowie von Zeit, dar.
+&lt;br /&gt;
+Eine Vereinfachung im Sinne von &lt;i&gt;machine readable&lt;/i&gt;.
+&lt;br /&gt;
+&lt;br /&gt;
+Ich, der Mensch, betrachte ich technische Bilder, kann also nur interpretieren, was mir bereits von der jeweiligen Maschine vorinterpretiert wurde.
+Doch diese Vorinterpretation geschieht meist im Verborgenen. Für den Menschen unsichtbar. In einer so called &lt;i&gt;Black Box&lt;/i&gt;.
+&lt;br /&gt;
+Eine Möglichkeit, diese scheinbar unsichtbaren Prozesse ästhetisch zu erfahren, das heißt keiner Denkstruktur folgend, welche mechanistischen Weltbildern entsprang, stellt &lt;i&gt;glitch art&lt;/i&gt; dar:
+&lt;br /&gt;
+Entsteht ein &lt;i&gt;glitch&lt;/i&gt; während der jeweiligen Bildgenerierung so reißt mich dieser Fehler aus meiner mir vertrauten Bildwelt heraus.
+Er irritiert mich und hilft mir wieder zu erkennen, dass da was ist - zwischen mir und Welt.
+&lt;br /&gt;
+Erzeuge ich diesen &lt;i&gt;glitch&lt;/i&gt; im technischen Bild bewußt und lasse diesen durch ein technisches Bild wiederum in Erscheinung treten, so schaffe ich ein Bewußtsein-für durch ästhetische Erfahrung.
+&lt;br /&gt;
+&lt;i&gt;glitch art&lt;/i&gt; schenkt dem scheinbar Unsichtbaren also eine Form und offenbart durch diese, eine Falschheit des Glaubens an die Richtigkeit technischer Bilder.</description>
+<persons>
+<person id='5424'>Christian Heck</person>
+</persons>
+<links>
+<link href='http://noparts.org/operational_glitches/'>project_website</link>
+</links>
+</event>
+<event guid='e8f03c57-f500-492a-9028-b91acffe7695' id='6867'>
+<date>2015-08-14T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6867-singing_capacitors_and_whining_inductors</slug>
+<recording>
+<license>CC-BY-NC-SA-3.0</license>
+<optout>false</optout>
+</recording>
+<title>Singing Capacitors and Whining Inductors</title>
+<subtitle>A Practical Introduction to Acoustic Cryptanalysis</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk we provide a practical introduction to Acoustic Cryptanalysis using tools and techniques that are easily grasped and cheaply available. The intention is not to present any new results, but instead the emphasis is on gaining a foundation in the theory of such attacks, so that you will be able to apply them more effectively in more challenging scenarios. As we shall see, such attacks are an extension of other types of side-channel attack (timing and power analysis attacks in particular), with the added promise of bridging air gaps.</abstract>
+<description>We open by introducing the subject of side-channel attacks with a short review of them in general, and focus on key examples of acoustic cryptanalysis in the literature, including analysis of keyboard emanations, a brief look at an historical account of an attack on the Hagelin cipher machine that played a critical role in the Suez Crisis of the 1950's and the more recent results of Genkin, Shamir and Tromer, which forms the primary basis and inspiration of the techniques we will discuss.
+We start the technical section of our talk by giving a background to power supplies for microcomputer systems, initially reviewing linear power supplies, so we have a basis on which we can compare them to the operating principles of switch-mode power supplies that form the key element of acoustic attacks. Along the way, we look at the important design principle of feedback and the relation this has to frequency response, which in turn gives us an estimate of the bandwidth of emanated signal available to us. Then, we explore the mechanisms by which key components of switch-mode power supplies can be caused to generate unwanted acoustics, show just how readily they will do so and how rich the spectral content of such signals can be.
+Our next task will be to look at signal acquisition techniques, where we scratch build an ultrasonic USB microphone with 125kHz of bandwidth, for a price at least two orders of magnitude cheaper than commercially available alternatives, yet still sensitive enough to capture the signals of interest. Specifically, we survey options for transducers, the design of the analog signal path and take a look at high data throughput techniques based on DMA to ensure that we can maintain the data rates required. We then discuss difficulties encountered in getting our signal from our data acquisition board into our data analysis system.
+Since a considerable amount of the literature on side-channel attacks, particularly simple and differential power analysis attacks, deals with attacks on block ciphers such the Advanced Encryption Standard, rather than public key cryptosystems such as RSA (as dealt with in the Genkin, Shamir and Tromer paper), the focus of our attack will be AES. We will quickly review the processing steps involved in AES and then develop a naive implementation of AES-128, paying particular attention to the construction of the S-boxes, since the data-dependent lookup times are the source of timing variations. Our attack is essentially an adaptation of the classic cache timing attack described by Daniel J. Bernstein, where the leaked timing information is obtained instead via the acoustic channel. Our target machine will be a netbook with an Intel Atom N270 (24kB L1 cache, 512KB L2 cache) together with a cheap and particularly noisy AC power supply (model PA-1700-02). We will discuss passive techniques to improve sound amplification in our test setup which will be familar to anyone who has played a stringed musical instrument.
+Finally, we move into the data processing and attack implementation section of the talk. In order to determine the run-time of our AES implementation for a given key, we will first need to be able to distinguish the difference in acoustic emanation of the system under load, compared to the idle-load condition. To do this, we will use the discrete-time Fourier transform of the acoustic signal, focusing on a suitable band of frequencies, where changes in amplitude correlate with CPU load changes. This will involve a discussion of the choice of FFT frame size against spectral resolution, choice of suitable windowing function and filtering techniques, to enable us to distinguish more accurately the transition from idle-load to load states.
+The attack itself is conducted along the same lines as Bernstein's, with the victim machine running the AES process as a server to which we send UDP packets from our analysis machine, with plaintexts that are then encrypted by the server using its private key. The attack proceeds in two phases. The first involves using known keys and measuring the aggregate encryption time of each, thereby gathering statistics about key-dependent biases in the runtimes. In the second phase, the server chooses a random key which we are not told and we use the previously gathered statistics, together with data from a large sample of suitably chosen plaintexts, that we send to determine bit-by-bit the unknown private key. We spend some time considering options for statistical analyses that might lead to a possible reduction in the number of samples necessary to extract the complete key.
+Concluding the talk we discuss standard techniques to mitigate side-channel attacks found in the literature, as well as possible further extensions of the attack presented. It is hoped this will set the scene for the discussion section of the talk, where these ideas can be explored further.</description>
+<persons>
+<person id='5489'>Dan Hagon</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='54159b05-db61-4055-b2ae-f4a16559ccfe' id='6634'>
+<date>2015-08-14T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6634-pushing_the_limits_of_diy_electronics</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Pushing the limits of DIY electronics</title>
+<subtitle>Bridging the gap between DIY and professional electronics</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>DIY electronics often means Arduinos and breadboards. But you can do so much more. Things like BGA soldering, DDRx-RAM, HDMI and PCI Express. This talk will show you how.</abstract>
+<description>A while ago I built a custom FPGA-board. It was fine but, I decided I also want some RAM. So why not DDR2? That also meant BGA chips. Things escalated quickly and I ended up with a 384-balls FPGA, BGA-RAM and whatnot.
+Because I didn't have access to expensive software I hacked together quite a bunch of Lua scripts for analyzing and modifying Eagle XML boardfiles. I had the PCB made using a reasonably priced 6-layer pool process. For reflow soldering I got a cheap oven from China. Unfortunately it burned my dummy test-PCBs, so I had to reverse-engineer the firmware and write my own. After that I was able to solder the BGAs correctly and surprisingly the RAM did work without any errors at 800MHz.
+It was time for a new challenge, so I tried designing a  board with PCI Express and Serial ATA. This one worked as well.
+The implications are amazing: with some time, software skills and electronics know-how you can use state-of-the art technology in DIY-electronics without spending plenty of money on professional software and equipment.
+In this talk I'll show you how it's done, things you need to consider (like wave impedance, terminations, length matching) and lessons I learnt along the way.</description>
+<persons>
+<person id='5233'>hunz</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='cdc39fc3-715d-4610-b633-3821e4762aa4' id='6651'>
+<date>2015-08-14T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6651-mythen_der_elektronikentwicklung</slug>
+<recording>
+<license>CC BY-SA</license>
+<optout>false</optout>
+</recording>
+<title>Mythen der Elektronikentwicklung</title>
+<subtitle>„Der Profi macht nur neue Fehler. Der Dummkopf wiederholt seine Fehler. Der Faule und der Feige machen keine Fehler.“</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Es gibt unzählige Möglichkeiten, ein Hardwareentwicklungsprojekt in den Sand zu setzen. Man muss nicht für alle davon selbst verantwortlich sein, um daraus zu lernen. Und nicht alles, was man irgendwo schon mal gehört hat, ist auch wirklich richtig.</abstract>
+<description>Es werden häufig vorkommende, aber auch exotischere und überraschende (potenzielle) Fehlerquellen bei Hardwareentwicklungen aufgezeigt. Besonderer Wert wird auf die „Mythen“ gelegt, falsche Fakten, die aber weit verbreitet sind und fast nie genauer hinterfragt werden.
+</description>
+<persons>
+<person id='2967'>luky</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+</day>
+<day date='2015-08-15' end='2015-08-16T02:00:00+02:00' index='3' start='2015-08-15T10:30:00+02:00'>
+<room name='Project 2501'>
+<event guid='6587bc79-27e5-4cf3-847b-77b0acc96682' id='6842'>
+<date>2015-08-15T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6842-hackerspace_design_patterns_2_0</slug>
+<recording>
+<license>cc by-sa</license>
+<optout>false</optout>
+</recording>
+<title>Hackerspace Design Patterns 2.0</title>
+<subtitle></subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The presentation of the Hackerspace Design Patterns at CCCamp 2007 / 24C3 started the international hackerspace movement!  These patterns described what has worked well, and not worked well, for the 40 or so hackerspaces existing at the time.  Now that over 2,000 have blossomed all over the planet, it is time to add Patterns from this collective experience.</abstract>
+<description>In 2007 there were about 40 hackerspaces in the world, mostly in Germany.  From their research of what worked well, and what did not work so well, at these hackerspaces, 3 German hackers created the Hackerspace Design Patterns.  Their presentation at CCCamp 2007 and 24C3 directly inspired the creation of several more hackerspaces, thus triggering an exponential growth of hackerspaces worldwide.
+
+Now, with over 2,000 hackerspaces listed on hackerspaces.org (a networking website that was also inspired by the original Patterns), it is time for the international hackerspace movement to benefit from this broad and diverse experience.
+
+Mitch Altman has visited about 250 hackerspaces worldwide, where he has gained collective knowledge from people at these spaces.  He also co-founded Noisebridge, where he gained first-hand experience of what has worked well, and not worked so well, at that space.  He would now like to share this collective experience to the world to help the next several years of hackerspaces with the expanded:  Hackerspace Design Patterns 2.0 .
+
+A workshop will take place immediately following this talk to deep-dive into the topic and for many of us to share our collective experience for the benefit of all.</description>
+<persons>
+<person id='1395'>Mitch</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='51565c6b-399f-4cf7-9d74-7ffd5d14f7af' id='6823'>
+<date>2015-08-15T11:15:00+02:00</date>
+<start>11:15</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6823-building_your_first_combat_robot</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Building your First Combat Robot</title>
+<subtitle>Nothing shows pride like letting others destroy what you’ve built!</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>A guide to selecting parts for your first combat robot.</abstract>
+<description>Designing your first (or second) combat robot is hard! You want to add everything, powerful weapons, invincible armour, you want it to be the fastest thing in the arena BUT there is a weight limit! This talk will cover ways of designing to this weight limit. It will get you thinking about mobility, weapon, armour and chassis. By the end you will be able to design a better robot for your first match!</description>
+<persons>
+<person id='5420'>Pinski1</person>
+</persons>
+<links>
+<link href='http://wiresandbits.co.uk/'>Wires and Bits</link>
+<link href='http://www.fightingrobots.co.uk/'>Fighting Robot Association UK</link>
+<link href='http://sparc.tools/'>SPARC Forum</link>
+<link href='http://robowars.org/forum/'>RoboWars Australia Forum</link>
+</links>
+</event>
+<event guid='9d7e656f-eb6d-4355-9d26-8bcf797e6681' id='6676'>
+<date>2015-08-15T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6676-digital_musical_instruments</slug>
+<recording>
+<license>https://creativecommons.org/licenses/by-sa/2.5/</license>
+<optout>false</optout>
+</recording>
+<title>Digital Musical Instruments</title>
+<subtitle>Evolution and design of new interfaces for musical expression</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Musical instrument designers have always brought together cutting-edge technology and a thorough understanding of ergonomics and interfaces tailored to the needs of musicians. This talk will present an introduction on the evolution of novel musical instruments and the most important design considerations.</abstract>
+<description>Musical instruments like the piano have been invented centuries ago, and have since been refined to perfection. 
+With the design of novel Digital Musical Instruments (DMIs, mainly consisting of an interface, a parameter mapping and a sound synthesis unit), we are measured and compared to these achievements of human craft and culture. 
+Wright and Wessel published an often cited ideal, stating that the perfect DMI should have a &quot;low entry fee&quot; and &quot;no ceiling on virtuosity&quot;. I will present several design considerations that can help achieve this. Although tailored to musical instruments, these principles are easily applied to any interaction design.
+Furthermore, I will give a non-exclusive tour of interesting achievements in DMI design of the 20th and 21st century.
+
+</description>
+<persons>
+<person id='5470'>Julian Vogels</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='ed4bcb3b-fe2d-4728-812d-a45dbd4d01db' id='6883'>
+<date>2015-08-15T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6883-iridium_hacking</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Iridium Hacking</title>
+<subtitle>please don't sue us</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Listening to satellites and decoding is fun. We show how you can do it with an Software Defined Radio and some spare time. And we show what interesting stuff you can expect to find.
+</abstract>
+<description>The Iridium satellite system provides voice and data coverage to satellite phones, pagers and integrated transceivers over Earth's entire surface. It was built by Motorola over 15 years ago, and parts of it remain unchanged to this day.
+
+Broadcasting messages all over the world sounded interesting enough to take a closer look. As Iridium is a proprietary system, documentation is scarce and hard to come by. But with the rise of software defined radio we can take a peek at what happens over the air.
+
+We will show that anyone can listen to the one-way communication pagers, but we have not been idle since our presentation at 31c3, and thanks to the help of some other hackers we can also show some interesting new stuff :)</description>
+<persons>
+<person id='2506'>Sec</person>
+<person id='5339'>schneider</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='f972cded-d26e-4461-b544-319089708e42' id='6801'>
+<date>2015-08-15T17:15:00+02:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6801-mier_failure_attempt_to_cc_license_as_mass_market_consume_good</slug>
+<recording>
+<license>cc-NC-3.0SA</license>
+<optout>false</optout>
+</recording>
+<title>Mier – failure attempt to CC license as mass market consume good</title>
+<subtitle>A creative drink for the commons</subtitle>
+<track>Failosophy</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Mier a creative commons Mate Beer that was launched in Berlin in 2012, made some waves as it tried to pave a path reserved only for software. In this presentation Fabricio, from Meta Mate, describes the ideas behind and challenges met in launching a CC NC 3.0SA drink inspired by the commons with mate.</abstract>
+<description>Mier could be considered a failed attempted where a CC 
+open source license could not break through in Germany without 
+extra capital and risks. And the notion of a CC license on a product was completely misunderstood in the mainstream and creative commons circles.
+
+As a concept the drink made break throughs, a decentrally produced beer with mate to keep drinkers alert, that could be easily reproduced according to local tastes and supported decentralized production of Mate. Perhaps this was too much of a threat to the brewing industry, whose 500 year celebration of the German brewing Purity Law, is ensuring that creative hacks in the standard beer recipe remain miminal.
+
+The topic is kind of cheesy but provides a light edge in a serious theme demonstrating that an art business approach that gets lots of press can fail badly.
+
+Mier had some wonderful moments including attention from all of the mainstream press and being presented at EHSM 2011 and as well as being highlighted in a 1337kultur.de podcast.
+
+But it has failed (at least until now).
+
+During this event Fabricio will share the history of Mier, the examples of how brewers misunderstood the open source concept behind it and outline the possible future steps including the creation of DIY Mier Brewing kits for the fans.</description>
+<persons>
+<person id='4172'>@oinfiltrado23</person>
+</persons>
+<links>
+<link href='http://mier.metamate.cc'>Mier’s Website</link>
+</links>
+</event>
+<event guid='b66681b5-d811-4359-a7b4-c97d9acd2877' id='6787'>
+<date>2015-08-15T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6787-vom_bordstein_bis_zu_bergeshohn</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Vom Bordstein bis zu Bergeshöhn</title>
+<subtitle>Computer haben Gefühle - Wir helfen ihnen diese auszudrücken.</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Fernab von Theorien zu Killerrobotern und der Privatsphärendebatte, die dem Machine Learning 2.0 seit den 2010ern anhängt, schaffen wir künstlerische Intelligenz - Einen Algorithmus, der Gedichte generiert. Basierend auf einer Technik, die die Funktionsweise des menschlichen Gehirns grundlegend nachahmt, lehren wir einer Maschine zu reimen wie Goethe und Schiller oder KIZ und Sido. Dieselbe Technik und deren Weiterentwicklung lassen sich seit 2012 Google und Facebook einiges kosten. Die Rede ist vom Deep Learning. Als Enthusiasten in diesem Bereich möchten wir zeigen, was man mit Deep Learning alles tun kann außer Gesichter erschreckend gut zu erkennen. 
+Zudem wollen wir die Zuschauer anregen über Mensch und Maschine und deren Bewusstsein und Interaktion zu philosophieren. Wenn das Experiment gelingt verschwimmen die Grenzen der Protagonisten. Zuschauer können live Gedichte mit eigenem Input vom Algorithmus generieren lassen.</abstract>
+<description>In den letzten Jahren habe ich mich viel mit dem  Machen von Musik beschäftigt. Dabei wurde mir bewusst, dass sich Songtexte im Allgemeinen sehr ähnlich sind. Warum sollte also nicht ein Algorithmus das Schreiben für mich übernehmen?
+
+So entstand folgende Idee: Man nehme ein Recurrent Neural Network (RNN) und trainiert dieses auf Basis aller deutschen Wikipedia-Einträge [1]. Das RNN lernt so die Wahrscheinlichkeiten mit der ein Wort  auf eine Reihe vorangegangener Worte folgt. Im nächsten Schritt feintunen wir das Modell mit Gedichten beispielsweise von Goethe und KIZ.
+
+Anschließend können wir uns ganze Texte vom Algorithmus generieren lassen, es bedarf lediglich der Eingabe einiger Worte. Wir können den Prozess zu jeder Zeit anhalten und Teile des generierten Texts verändern. Im besten Falle lernt der Algorithmus den Rhythmus und die Reime eines Gedichtes zu reproduzieren.
+
+Die Intention des hier vorgestellten Projekts ist, dass die vom Algorithmus generierten Texte von Menschen vorgetragen werden. Es handelt sich somit um einen Gegenentwurf zum weitverbreiteten Ansatz Menschen generierten Text von Algorithmen vorlesen zu lassen.
+</description>
+<persons>
+<person id='5584'>KARN</person>
+<person id='5726'>Maximilian Ilse</person>
+</persons>
+<links>
+<link href='http://arxiv.org/abs/1308.0850'>[1] Graves</link>
+<link href='http://www.cs.toronto.edu/~ilya/pubs/2011/LANG-RNN.pdf'>[2] Hinton</link>
+</links>
+</event>
+<event guid='b17ff452-d735-49b4-b91f-b8f7cd62dad2' id='6813'>
+<date>2015-08-15T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6813-update_vor_windows10_update_warnung</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Update: Vor Windows10 Update Warnung</title>
+<subtitle>Update (Patch) Debakel</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Microsoft versucht mal wieder, diesmal unter dem Deckmantel sicheren Bootens, den Besitzern die Kontrolle über ihre Persönlichen Computer zu entziehen. Bei der Einführung von Windows 10 eskaliert Microsoft gezielt seinen Machtanspruch und schleift bisher bewusst offengehaltene Wege für alternative Systeme. 
+
+Wir brauchen eine alternative Vertrauensarchitektur
+und zwar schnell.
+</abstract>
+<description>Microsoft versucht mal wieder, diesmal unter dem Deckmantel sicheren
+Bootens, den Besitzern die Kontrolle über ihre Persönlichen Computer zu entziehen. Bei der Einführung von Windows 10 eskaliert Microsoft gezielt seinen Machtanspruch und schleift bisher bewusst offengehaltene Wege für alternative Systeme. Die Folgen für die Entwicklung Freier Software sind dramatisch. Heute noch nutzbare (durch Microsoft jederzeit deaktivierbaren Hilfskonstruktionen) sind technisch und wettbewerbsrechtlich höchst problematisch.
+
+Die weiterhin anhaltenden Sicherheitsdebakel, lassen eine IT Welt, die ausschließlich auf dem guten Willen und die Fähigkeiten von Microsoft baut, Systeme sicher und bootbar zu halten, also höchst problematisch erscheinen. Da tröstet es auch wenig, dass aus Kostengründen kryptographisch problematische und leicht hackbare Sicherheitsbausteine verwendet werden. Wir brauchen eine alternative Vertrauensarchitektur und zwar schnell.
+</description>
+<persons>
+<person id='1545'>ruedi</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='2e6e3f84-3f82-4e72-981e-fd90e23d8112' id='6779'>
+<date>2015-08-15T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6779-bugged_files</slug>
+<recording>
+<license>GPL, any version is OK</license>
+<optout>false</optout>
+</recording>
+<title>Bugged Files</title>
+<subtitle>Is Your Document Telling on You?</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Certain file formats, like Microsoft Word and PDF, are known to have features that allow for outbound requests to be made when the file opens. Other file formats allow for similar interactions but are not well-known for allowing such functionality. In this talk, we explore various file formats and their ability to make outbound requests, as well as what that means from a security and privacy perspective. Most interestingly, these techniques are not built on mistakes, but intentional design decisions, meaning that they will not be fixed as bugs. From data loss prevention to de-anonymization to request forgery to NTLM credential capture, this presentation will explore what it means to have files that communicate to various endpoints when opened.</abstract>
+<description></description>
+<persons>
+<person id='5579'>Daniel &quot;unicornFurnace&quot; Crowley</person>
+<person id='5789'>Damon Smith</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='045e7aa9-5e12-4baf-98b2-e3fd31159851' id='6741'>
+<date>2015-08-15T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6741-resisting_surveillance_it_s_is_not_just_about_the_metadata</slug>
+<recording>
+<license>Public Domain</license>
+<optout>false</optout>
+</recording>
+<title>Resisting Surveillance: it's is not just about the metadata</title>
+<subtitle>The infiltration and physical surveillance of social movements.</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This talk is given by three activists who were all targeted by UK police spy Mark Kennedy and who have direct personal experience of that and other physical surveillance. It will look at experiences of infiltration of social  justice movements by the state and private contractors and some of our  responses. </abstract>
+<description>Over the past 5 years there has been an avalanche of revelations about the use of undercover agents against political movements: infiltrators that spend decades living and working with us, forming the most intimate relationships and accessing every single part of our lives. Infiltrators have been uncovered within political mobilisations in the UK, Germany, the USA, New Zealand, Spain etc., showing us that understanding offline security is just as vital as making our hardware and software secure. No matter how many layers of encryption we use, if our closest companions are infiltrators, sharing our homes, our lives, and our computers, there is nowhere to hide.
+   
+This talk is given by three activists who were all targeted by UK police spy Mark Kennedy and who have direct personal experience of that and other physical surveillance. It will look at experiences of infiltration of social justice movements by the state and private contractors, some of our responses, and how that might relate to digital privacy struggles and resistance to other parts of the surveillance state
+
+In an increasingly murky world of mass surveillance, cross-border cooperation, and political policing in the &quot;war on Terror&quot;, these flesh-and-blood undercover agents may be working for the state police or secret services, or come from the increasingly large market of private surveillance contractors.  A report on policing published in 2014 in the UK estimated  that in that country alone there are currently 1,229 of undercover police officers operating both on and offline. 
+
+If you believe that mass surveillance is wrong but targeted surveillance is necessary; if you believe you will not be targeted because you are not a dissident (or you just make tools for dissidents!); if you have ever thought you are too ineffectual to be of interest to the political police, then this talk is for you. This happened to us because we did not imagine the lengths they would go to, and we are speaking out because if people know this is happening they are forewarned and forearmed against it.
+
+BIOS of the speakers:
+
+*'Lily'* has been active in social and environmental justice movements since the mid-1990s and is one of 8 women suing the London Metropolitan Police following the discovery that her partner of two years was in fact a police spy, one of several undercover officers sent to infiltrate groups she was active in. After starting to speak out, at 31c3, about her experiences of years of undercover abuses, human rights violations, and institutionalised police sexism, she began, again,  to receive police harassment, and in March 2015, at the CTF in Valencia, found a police GPS/GSM tracking device underneath her car.
+
+contact: atikka at puscii dot nl
+
+http://www.theguardian.com/uk-news/undercover-with-paul-lewis-and-rob-evans/2015/mar/11/woman-suing-police-over-relationship-with-undercover-spy-finds-tracking-device-in-her-car-reports
+
+====
+
+*Jason* has been involved in anti-authoritarian social movements since the late-1980s, and  recently discovered that a supposed close friend was actually an undercover police officer who targeted him across European borders for a period of five years. He is making a film, Spied Upon, about activists opposing state repression, and has a strategic analysis of state spying from the times of the Russian Czar,  the East German Stasi and the FBIs Cointelpro, that provides a context for understanding his own more personal recent experiences.
+
+contact: jason at blackhelmetproductions dot net
+
+http://SpiedUpon.com
+
+====
+
+*Harry Halpin* is a Research Scientist at MIT working on cryptography, open standards, and decentralized social networking. For 5 years he was subjected to constant harassment, including laptop seizures, at borders and airports after he was placed on a 'terrorist'-style watch-list by by a British undercover police officer who was working with the FBI. He is currently fighting in court for the full disclosure of a Freedom of Information Act request detailing the contents of the 7,000+ pages the FBI has admitted they have collected, and fighting the Metropolitan Police in court over their use of 'national security' to violate Data Protection rules.
+
+contact: halpin at csail dot mit dot edu
+
+====
+
+*Useful Links*
+
+https://policespiesoutoflives.org.uk
+https://people.torproject.org/~ioerror/skunkworks/forensics/valencia-tracking-device/
+http://campaignopposingpolicesurveillance.com/2015/04/28/we-are-all-targets-now/
+http://www.verfassung-schuetzen.de/</description>
+<persons>
+<person id='5483'>&quot;Lily&quot;</person>
+<person id='3615'>harryhalpin</person>
+<person id='5742'>Jason</person>
+</persons>
+<links>
+<link href='http://spiedupon.com/'>Spied Upon film project </link>
+<link href='http://blackhelmetproductions.net/'>Black Helmet Productions</link>
+</links>
+</event>
+<event guid='bd046a46-8398-4b6f-b4e3-34f34e6f1ecc' id='6995'>
+<date>2015-08-15T22:30:00+02:00</date>
+<start>22:30</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6995-staatstrojaner_in_karlsruhe</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Staatstrojaner in Karlsruhe</title>
+<subtitle>Anhörung zur verdeckten Infiltration von IT-Systemen</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Im Juli hat sich das Bundesverfassungsgericht mit zwei Verfassungsbeschwerden gegen das BKA-Gesetz von 2008 auseinandergesetzt. Es ging in der mündlichen Anhörung auch wieder um den Einsatz von Staatstrojanern sowie weitere Überwachungsmaßnahmen.</abstract>
+<description>Der CCC ist in der Verhandlung befragt worden und hat eine Stellungnahme zu den technischen Fragen abgegeben. Auch die sog. „Quellen-TKÜ“ wurde erneut diskutiert. Es geht in dem Vortrag um die Knackpunkte in der Anhörung, die sich im Urteil niederschlagen könnten. </description>
+<persons>
+<person id='1630'>Constanze Kurz</person>
+</persons>
+<links>
+<link href='https://www.ccc.de/de/updates/2015/bkag'>Staatstrojaner erneut vor dem Bundesverfassungsgericht</link>
+<link href='https://www.ccc.de/en/updates/2015/bkag'>State Trojan again on trial in Constitutional Court</link>
+</links>
+</event>
+<event guid='d32891ed-c3ec-41b6-a586-234f2c9ce92b' id='7035'>
+<date>2015-08-16T00:00:00+02:00</date>
+<start>00:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-7035-the_hills_are_alive_with_the_sound_of_hacking_don_t_wake_the_monkeys</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>The hills are alive with the sound of hacking ... don't wake the monkeys!</title>
+<subtitle>The State of the Hack in India. A place to be^W hack in the Himalayas (and at the beach!)</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>We are a community of (hill)hackers from India and all over the world. We'd like to talk about how rewarding it is to setup a tiny CCCamp in the Himalayas, and how the hands-on collaborative approach works in the indian context. We'd also like to introduce various open spaces, communities, events and dialogues that are currently active in different parts of India. The history and diversity of open movements in India is inspiring hackers in the country to engage, contribute and learn from the global hacker movement.</abstract>
+<description>We call ourselves hillhackers as we regularly meet at hillhacks: a CCCamp-like event in the Himalayas. The event is focused around hacking and making but is also very much about knowledge sharing and the whole stack of themes of the open society.  We also do art, music and fun educational programmes at neighboring schools and colleges.
+
+We're having lots of fun and we'd like to invite you to join us. Copy and paste the CCC/C3 approach into your community and create your own community-driven event. Not only for the free and open community, but free and open by design and by the way its organised and conducted.
+
+Tonight we'll talk about hillhacks. We will explain what we have actually done at hillhacks 2014 and 2015, how we conquered the interesting and sometimes amusing challenges we encountered in the mountains, such as finding a suitable location, setting up, getting network there in the face of simian interference, paying the bills, and last but not least: getting &quot;the right people&quot; to do all the things.
+
+After that we introduce more community-driven events and spaces in India including various initiatives we feel strongly connected to.  We will present some of the exotic hacker- and makerspaces on the subcontinent, and the tech-community around these spaces.
+
+Finally we want to introduce some on-going important issues.  Primarily the big discussion about net-neutrality and the &quot;save-the-internet&quot; campaign which is a topic of significant interest in India right now.</description>
+<persons>
+<person id='4590'>sva</person>
+</persons>
+<links>
+<link href='http://hillhacks.in/'>hillhacks landing page</link>
+<link href='http://hackbeach.in/'>hackbeach (october-november in South India)</link>
+<link href='http://hillhacks.in/media'>pictures and videos</link>
+<link href='http://hillhacks.in/calendar'>schedule / calendar 2015</link>
+<link href='http://hillhacks.in/2014/calendar'>schedule / calendar 2014</link>
+<link href='http://hillhacks.in/topics'>List of Topics</link>
+</links>
+</event>
+</room>
+<room name='Simulacron-3'>
+<event guid='d0042aa3-5e7a-4a64-8bb5-c0cf4d639b1a' id='6939'>
+<date>2015-08-15T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6939-towards_universal_access_to_all_knowledge_internet_archive</slug>
+<recording>
+<license>public domain</license>
+<optout>false</optout>
+</recording>
+<title>Towards Universal Access to All Knowledge: Internet Archive</title>
+<subtitle></subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Advances in computing and communications mean that we can cost-effectively store
+every book, sound recording, movie, software package, and public web page ever created, and
+provide access to these collections via the Internet to students and adults all over the world.   By
+mostly using existing institutions and funding sources, we can build this as well as compensate
+authors within what is current worldwide library budget.
+
+20 petabytes and growing, the Internet Archive is the 250th most popular website.   This talk will discuss the technology and politics of building a large library.</abstract>
+<description></description>
+<persons>
+<person id='5653'>Brewster Kahle</person>
+</persons>
+<links>
+<link href='https://archive.org'>Internet Archive</link>
+<link href='https://openlibrary.org'>Open Library</link>
+</links>
+</event>
+<event guid='a707951f-7f9c-4c8e-8f4f-b837f3581b7b' id='6816'>
+<date>2015-08-15T11:15:00+02:00</date>
+<start>11:15</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6816-crypto_dawn</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Crypto Dawn</title>
+<subtitle>A To Do list for Cyptographic Research and Implementations</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Crypto seems to be the last line of defence in a wired world.  &quot;We mustimplement it, actively research it.&quot; (Eduard Snowden).  So let us at least discuss some To Do things.
+
+• How we can eliminate weak crypto algorithms from the last millennium
+  from our daily protocols?
+• How can we deal with the standardisation mess in the field of elliptic
+  curves cryptography?
+• Which protocols and algorithms are needed in a post quantum world?
+• How &quot;opportunistic&quot; should we encrypt the masses?
+
+Could we provide a &quot;moral, philosophical and technical commitment to enforce and defend our liberties&quot; Eduard Snowden has ask us for?</abstract>
+<description>Crypto Dawn: A To Do list for Cyptographic Research and Implementations
+
+Crypto seems to be the last line  of defence in a wired world.
+&quot;We must implement it, actively research it.&quot; (Eduard Snowden).
+So let us at least discuss some To Do things.
+
+- How we can eliminate weak crypto algorithms from the last millennium
+from our daily protocols?
+- How can we deal with the standardisation mess in the field of elliptic
+curves cryptography?
+- Which protocols and algorithms are needed in a post quantum world?
+- How &quot;opportunistic&quot; should we encrypt the masses?
+
+Could we provide a  &quot;moral, philosophical and technical commitment to
+enforce and defend our liberties&quot; Eduard Snowden has ask us for?</description>
+<persons>
+<person id='1545'>ruedi</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='0db2a162-8c2c-41cb-b027-15a243bede43' id='6863'>
+<date>2015-08-15T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>02:15</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6863-lightning_talks_day_3</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Lightning Talks: Day 3</title>
+<subtitle></subtitle>
+<track>Other</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick! </abstract>
+<description></description>
+<persons>
+<person id='4205'>zeltophil</person>
+<person id='5353'>sefischer</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='8e851e7a-d9d1-4074-a802-4e9d7a297a6a' id='6688'>
+<date>2015-08-15T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6688-a_practical_prototyping_primer</slug>
+<recording>
+<license>CC Share-and-share-alike</license>
+<optout>false</optout>
+</recording>
+<title>A practical prototyping primer</title>
+<subtitle>A rather unstructured selection of things I wished I knew 10 years ago.</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This will be a rapid-fire, tips-and-tricks lecture on practical prototyping.
+It will cover a series of practical tips, strategies &amp; techniques, illustrated with all the mistakes I made over the past 10 years designing &amp; building stuff.  
+The lecture  is intended for a non-specialized audience with a basic understanding of what a lasercutter, a 3D-printer and a milling machine does.</abstract>
+<description>Lieven Standaert coördinates Fablab Brussels for the department of Engineering Technology, Vrije Universiteit Brussel. 
+He teaches a hands-on robotics class to 2nd year engineering students.
+
+The talk wil cover:
+
+-different kinds of plastics. Some you can glue, some you can’t. Some you can laser cut, some you can’t.
+ Don’t say plastic, say PVC.
+
+-glues, do’s and don’t-s. Sometimes glue is great, often it sucks. 
+
+-safety equipment; good gloves and stuff. It costs money. It’s worth it.
+
+-What do you want in your toolbox if you are just starting out?
+ When do you buy the cheap Chinese stuff and where do you invest in more high-quality tools?
+
+-my favorite tools
+
+-metals, do’s and don’t –s . Welding vs bolting. 
+
+-types of bolts and nuts
+
+-prototyping and manufacturing techniques and strategies: 2d-metalwork, vacuum forming, design for assembly,…
+
+-design for 3D-printing
+
+I intend to develop this lecture into an introduction for my new students next October, who are just beginning to use the fablab machinery &amp; tools.
+
+I intend to develop this lecture into an introduction for my new students next October, who are just beginning to use the fablab machinery &amp; tools. So if you are an experienced builder some of this stuff might be too basic for you. 
+On the other hand I intend to give the kind of talk I enjoy watching myself.
+
+
+</description>
+<persons>
+<person id='5484'>Lieven Standaert</person>
+</persons>
+<links>
+<link href='www.fablab-brussels.be'>Fablab Brussels</link>
+</links>
+</event>
+<event guid='dcd095aa-67c7-4db0-8d95-1eea799da466' id='6793'>
+<date>2015-08-15T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6793-a_torifying_tale</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>A Torifying Tale</title>
+<subtitle>Our experiences of building and running Tor servers</subtitle>
+<track>Failosophy</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In the spirit of “Failosophy” we would like to give a brief talk about the mistakes we made, and lessons we learned, in running Tor bridge, relay, and exit nodes.</abstract>
+<description>In this talk we will highlight some of the challenges we have faced in building performant Tor relays and exit nodes. We have made plenty of mistakes, and learned from most of them. In the spirit of “Failosophy” we would like to share the lessons we learned so that other Tor operators don’t have to make those same mistakes. The talk will cover our experiences with abuse complaint handling, the challenges of measurement for funder reporting, challenges of server optimization, and the often tricky love and hate relationship with hosting providers.</description>
+<persons>
+<person id='5566'>Gustaf Bjorksten</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+</day>
+<day date='2015-08-16' end='2015-08-17T02:00:00+02:00' index='4' start='2015-08-16T10:30:00+02:00'>
+<room name='Project 2501'>
+<event guid='afe359da-56c9-4e76-8f56-45ed406494e5' id='6854'>
+<date>2015-08-16T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6854-carhacking_state_of_the_art</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Carhacking – state of the art</title>
+<subtitle></subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This lecture will give an introduction into car hacking by explaining the structure and the different protocols of a modern car. The different attack vectors and their relevance will be given. It is intended as a summary and will set things into perspective. </abstract>
+<description></description>
+<persons>
+<person id='4856'>Thilo Schumann</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='9a28ef84-3ba0-4c12-9f8a-115b30bc3ec0' id='6753'>
+<date>2015-08-16T11:15:00+02:00</date>
+<start>11:15</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6753-gotta_block_em_all</slug>
+<recording>
+<license>CC BY 3.0</license>
+<optout>false</optout>
+</recording>
+<title>Gotta Block’em all</title>
+<subtitle>Creating a usable tool against online trackers</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Today’s websites and mobile applications heavily rely on third party libraries: to display advertisement, to enable social networking, and to analyze their audience. The convenience of these third party libraries comes at the cost of privacy violations for their users.</abstract>
+<description>A number of blocking-tools tackle this privacy issue including Adblock Plus and Ghostery. In this talk we present an analysis on the effectiveness of today’s blocking tools. These blocking tools focus to a large extend on the traditional Desktop web-browser, while at the same time a global shift towards mobile devices can be observed.
+
+We present our open source project, called Usable Privacy Box (upribox), which aims to make tracker-blocking on mobile devices easy and usable.
+
+The talk starts of with a brief introduction on state-of-the-art methods to track users online. Hereby, we discuss traditional tracking cookies, super cookies, as well as fingerprinting. This first part should set the stage for our research and the goals of our privacy tool, and provide a brief overview on current research in the area of user tracking.
+
+The second part presents the primarily results of our study on user tracking. Our study analyzed the effectiveness of today’s tracker-blocking extensions on popular websites and Android applications.
+
+Finally, we present the Usable Privacy Box (upribox), which aims at making the protection against user tracking as easy as possible. The upribox creates its own Wifi network and filters advertisement and trackers transparently, without requiring additional configuration.</description>
+<persons>
+<person id='5496'>Markus Huber</person>
+</persons>
+<links>
+<link href='https://upribox.org'>upribox</link>
+</links>
+</event>
+<event guid='9db475b9-d3a3-42a0-aaa1-08ef21f7355a' id='6709'>
+<date>2015-08-16T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6709-notube</slug>
+<recording>
+<license>CC-BY 3.0 DE</license>
+<optout>false</optout>
+</recording>
+<title>NoTube</title>
+<subtitle>Investigating the dark side of meaning production</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In an age obsessed with digital preservation, constantly growing databases, search engine optimization and unlimited encyclopedias, the NoTube is here to investigate in the dark side of meaning production.</abstract>
+<description>The NoTube project questions, in a playful way, the implications of the Web2.0 philosophy of user-generated content. A website such as YouTube is built on the promises that each upload will be saved and preserved, regardless of its quality, usefulness, meaning or value. Therefore, the database of YouTube is constantly increasing in size, and the options for searching and filtering such large amount of data are essential. Keywords, links, descriptions and titles make each video more or less relevant according to the query of the user. Videos with zero views, with no keywords or storyline represent the dark side of YouTube’s inclusive approach. Such videos are all somewhere in there, however they are not expected to be found, seen or discussed. Searching for valueless content is a challenge for the user and a way of questioning the rationale behind YouTube, and the preservation of user-generated content in general.
+The NoTube project consist of two parts: the NoTube Contest and the FirstViewerTelevision
+
+1)NoTube Contest
+The winner of the NoTube Contest is the participant who manages to find the most valueless video on YouTube. A video uploaded on YouTube is generally oriented to a large audience, has a simple narrative and can be easily categorized. A NoTube video, instead, fails in every promise and contradicts viewers' expectations for a meaningful experience. A good NoTube video cannot be summarized, does not offer any keyword for searching it, is not linked by any other web site, has not been discussed and cannot be discussed. An ideal submission to the NoTube Contest should present NO evident reason to
+1) make
+2) publish
+3) watch
+such video.
+http://notubecontest.com
+
+2)FirstViewer Television
+The First-Viewer Television is an online streaming of zero-views videos from YouTube, updated every 2 hours. Any video of the First-Viewer Television is automatically eliminated from the playlist once shown for its first time.Thus, every streaming is unique and unrepeatable, and shows only videos that had no previous viewers
+The First-Viewer Television is available at http://firstviewer.tv/
+Further information about coding and how it works is available at https://github.com/iocose/FirstViewerTV
+</description>
+<persons>
+<person id='5514'>IOCOSE</person>
+</persons>
+<links>
+<link href='http://notubecontest.com/'>NoTube Contest</link>
+<link href='http://firstviewer.tv/'>First Viewer Television</link>
+</links>
+</event>
+<event guid='ee1c8597-45af-444e-bab6-339b3c077b89' id='6820'>
+<date>2015-08-16T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6820-mister_miss_mutig_open_stage_impro</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Mister &amp; Miss Mutig Open Stage Impro</title>
+<subtitle></subtitle>
+<track>Art &amp; Culture</track>
+<type>other</type>
+<language>de</language>
+<abstract>We, Die Improbanden, an improv group from Berlin, will perform an open stage show and ask the really courageous members of the audience to come on stage and improvise with us. Although we usually play in German, we can also perform in English, and we invite participants from the audience to play in their own native tongue.</abstract>
+<description>Wir stellen dem Publikum die Aufgabe, wirklich Mut zu zeigen. Wir, die Improbanden, fordern vier Zuschauer auf, mit uns gemeinsam auf der Bühne zu spielen. Jeder der Zuschauer bildet mit einem Improbanden ein Duo. Beide wissen nicht, was auf sie zukommen wird. In verschiedenen Runden werden die Teams Improvisationsaufgaben meistern und vom Publikum dafür Punkte erhalten. Nach und nach werden Zweierteams ausscheiden, bis nur noch ein Duo übrig ist – Mister &amp; Miss Mutig. Der Zuschauer aus dem Gewinner-Team wird dann Hauptheld einer abschließenden längeren Geschichte.
+Die Aufgabe und Herausforderung für uns Improbanden ist es, die Mitspieler fast unmerklich zu führen und sie hell erstrahlen zu lassen. Die Bühnenneulinge werden gar keine Zeit bekommen, Angst zu haben, wir machen die Mitspieler zu den Helden des Abends. Alle, auch die, die nicht weiterkommen, werden dabei als Gewinner von der Bühne gehen. Dabei wollen wir helfen, Hemmnisse abzubauen und zeigen, wie miteinander und gemeinsam schier unlösbare und riesig erscheinende Aufgaben gemeistert werden können.</description>
+<persons>
+<person id='5578'>Felix Müller</person>
+<person id='5723'>Mirko 'macro' Fichtner</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='c1f34fda-54f2-407c-b68c-44dafc820282' id='6973'>
+<date>2015-08-16T17:15:00+02:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6973-a_hackers_approach_to_building_electric_guitars</slug>
+<recording>
+<license>CC BY-NC</license>
+<optout>false</optout>
+</recording>
+<title>A Hackers Approach To Building Electric Guitars</title>
+<subtitle>Let's do everything except the pots by ourselves</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Let's build a Bass Guitar! Let's not buy hardware and instead learn about metal working and how to program a CNC. Let's not recreate a design but start from scratch. Let's ... do everything ourselves except the potentiometers.</abstract>
+<description></description>
+<persons>
+<person id='5430'>couchsofa</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='0e66ac36-d9c6-4900-b532-4f651dd39582' id='6711'>
+<date>2015-08-16T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6711-hardware_attacks_hacking_chips_on_the_very_cheap</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Hardware attacks: hacking chips on the (very) cheap</title>
+<subtitle>How to retrieve secret keys without going bankrupt</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Hardware attacks are becoming more and more common. Attacks like Power Analysis or Fault Injection are spread and well known nowadays and the recent hacks to gaming consoles or payment systems are a proof of it.
+Despite the increasing popularity of these attacks, the cost of the required tools has been unaffordable for most security enthusiasts. Projects like Chipwhisperer have significantly decreased the price of a hardware-hacking setup even below the 1000€ barrier, but it still can be too high for hackers that only wants to experiment for fun. We want to prove that money is not a concern if you want to introduce yourself to hardware hacking. Is it possible to perform side channel analysis or fault injection attacks with only 30 euros?</abstract>
+<description>In our lecture we will introduce the audience to advanced hardware attacks like side channel analysis or fault injection. We will also show how it is possible to perform those attacks using a cheap setup based on a 20€ microcontroller board and some spare hardware parts. Some of the attacks we will show include Voltage and Clock Glitching to modify the application flow control, Differential Fault Analysis to retrieving the RSA keys stored in a microcontroller and Differential Power Analysis to break DES. All these while spending less money than a night of beers!
+
+In addition to the lecture, we will also run a workshop where we will show you more advanced techniques to break into microcontrollers using professional tools. For more information about the workshop check &quot;Hacking hardware like a pro&quot; workshop
+</description>
+<persons>
+<person id='5508'>Ramiro Pareja &amp; Rafa Boix</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='ba581611-85dc-4e7c-924d-3ca10fe03d48' id='6766'>
+<date>2015-08-16T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6766-jumping_the_paywall</slug>
+<recording>
+<license>No license at all. anti-copyright/anti-copyleft. </license>
+<optout>false</optout>
+</recording>
+<title>Jumping the Paywall</title>
+<subtitle>How to freely share research without being arrested</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This presentation will identify and address two safety-critical problems permeating research today: lack of total free access to scholarship, and the looming threat of apprehension for trying to facilitate said free access. In other words, this presentation will explore how to procure access to all-too-often restricted content sequestered behind extortionate academic paywalls, and how to then safely freely disseminate said content without being apprehended. </abstract>
+<description>We will hypothesize workable solutions to the stated problem sets by presenting actionable intelligence and investigating tactical modes of engagement in the on-going copyfight  via the exploration of securing free access to scholarship (in the form of academic e-journal articles and e-books), and via developing avoidance strategies to forgo existent and emergent threats of apprehension resulting from participation in the practices of free access.  
+
+Topics covered will include:
+
+--&gt; Content access procurement (how to secure free access to knowledge from a variety of sources)
+--&gt; Operational security during field deployment (how to stay safe when procuring content from physical sources such as libraries)
+--&gt; Content Defanging (how to remove three problematic types of shackles from digital content: content protection, metadata, and watermarking identification and removal)
+--&gt; Content distribution (how to distribute the now-defanged content safely)</description>
+<persons>
+<person id='5570'>Storm Harding</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='a5f996a3-d0a7-44e7-ac1b-6373a297ccf3' id='6848'>
+<date>2015-08-16T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6848-helping_the_helpless</slug>
+<recording>
+<license>Creative Commons</license>
+<optout>false</optout>
+</recording>
+<title>Helping the Helpless</title>
+<subtitle>Targeted threats to civil society</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk we'll go through many examples of targeted surveillance employed by governments all around the world and we'll try to understand the taxonomy and nature of these attacks from a technical and from a political perspective. We'll find that many share common characteristics and that in many cases we have the capacity to identify, track and stop these attacks, often directed against journalists, dissidents and activists in their countries and in exile. With a little good will and coordination, we can all collectively have a concrete impact. Let's start now.</abstract>
+<description>We had a good run for a couple of years. Surveillance was mainstream and hackers' voices were heard. Snowden broke the barrier between the paranoids and the skeptics and amalgamated some consensus that all this surveillance is too much. But let's face it, we hoped for a better outcome. Surveillance bills are being passed in many European countries, the U.S. has taken little action and the United Kingdom is becoming the standard for privacy failures.
+
+Government hacking is on the rise, partially because of the increasing inability to wiretap due to the rise of encryption, but partially also because it has become inexpensive. While mass surveillance is a more obvious breach of human and constitutional rights, targeted surveillance is generally tolerated as a necessary evil. However, what we discovered is that this tolerance has nurtured not only an industry of surveillance, but an indiscriminate adoption of very invasive technologies and their legitimization and exemption from regulated use.
+
+At the same time, while only cypherpunks have picked up the slack and started pushing development of encrypted communication technologies, the rest of the security and tech community has done little in response to the revelations of the last years as well as to the general cry for help. Hyped vulnerabilities, hacking of cars and gadgets is making headlines again, while the global civil society remains under heavy attack and is left helpless.
+
+In this talk we'll go through many examples of targeted surveillance employed by governments all around the world and we'll try to understand the taxonomy and nature of these attacks from a technical and from a political perspective. We'll find that many share common characteristics and that in many cases we have the capacity to identify, track and stop these attacks, often directed against journalists, dissidents and activists in their countries and in exile.
+
+While civil society lacks the expertise and resources to research, understand and contrast these issues, the hacking and security communities exceeds and often drive the focus of their attention to rather unimportant problems. With a little good will and coordination, we can all collectively have a concrete impact, raise the cost of surveillance and make sure that those actually fighting for freedom and democracy around the world have the means to do so securely. Let's start now.
+</description>
+<persons>
+<person id='5602'>Claudio Guarnieri</person>
+</persons>
+<links>
+<link href='https://archive.today/RvIrU'>For Their Eyes Only: The Commercialization of Digital Spying</link>
+<link href='https://archive.today/JqI5j'>The Digital Arms Race: NSA Preps America for Future Battle</link>
+<link href='https://archive.today/ypjHY'>Secret Malware in European Union Attack Linkedin To U.S. and British Intelligence</link>
+<link href='https://archive.today/SfEof'>Hacking Team and the Targeting of Ethiopian Journalists</link>
+<link href='https://archive.today/bkhE5'>Mapping Hacking Team's &quot;Untraceable&quot; Spyware</link>
+<link href='https://www.youtube.com/watch?v=odJNjQCdus8'>Occupy Central and the Supression of Dissent</link>
+</links>
+</event>
+<event guid='cd66723d-23cc-40e7-9b76-f9b38dc576ab' id='6799'>
+<date>2015-08-16T21:15:00+02:00</date>
+<start>21:15</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6799-how_to_destroy_a_laptop_with_top_secrets</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>How to Destroy a Laptop with Top Secrets</title>
+<subtitle>How did GCHQ do it to the Guardian's copy of Snowden's files?</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In the summer of 2013, Guardian employees destroyed computers storing top secret documents from Snowden, on instruction and supervision from GCHQ. With access to the destroyed pieces, we investigated what GCHQ's instructions were and what we can learn from it about securely eradicating data on a machine.</abstract>
+<description>While the initial disclosures by Edward Snowden revealed how US authorities are conducting mass surveillance on the world's communications, further reporting by the Guardian newspaper uncovered that UK intelligence services were just as involved in this global spying apparatus. Faced with the prospect of further public scrutiny and accountability, the UK Government gave the Guardian newspaper an ultimatum: hand over the classified documents or destroy them.
+
+The Guardian decided that having the documents destroyed was the best option. By getting rid of only the documents stored on computers in the UK, it would allow Guardian journalists to continue their work from other locations while acquiescing to the Government's demand. However, rather than trust that the Guardian would destroy the information on their computers to the Government's satisfaction, GCHQ sent two representatives to supervise the operation. Typically, reliable destruction of such hardware in the circumstances would be to shred or melt all electronic components using a much larger version of the common paper shredder and leaving only the dust of the original devices. Indeed, some devices such as external USB sticks were turned to dust.
+
+Alternatively, it might have been expected that GCHQ would solely target the hard drives of the devices in question. The hard drives, after all, are one of the few components of a computer where user data is supposed to be retained after the power to the device is removed.
+
+Surprisingly, however, GCHQ were not just interested in hard drives nor did they destroy whole devices. An examination of the targeted hardware by Privacy International, with cooperation from the Guardian, has found the whole episode to be more troubling and puzzling than previously believed.
+
+During our investigation, we were surprised to learn that a few very specific components on devices, such as the keyboard, trackpad and monitor, were targeted along with apparently trivial chips on the main boards of laptops and desktops. Initial consultation with members of the technology community supported our identification of the components and that the actions of GCHQ were worth analysing further.
+
+In light of GCHQ's actions, we have asked hardware manufacturers to explain what these elements actually do: what information can be stored on a device, how much information it can retain, and for how long.</description>
+<persons>
+<person id='4905'>Mustafa Al-Bassam</person>
+<person id='5750'>Richard Tynan</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Simulacron-3'>
+<event guid='5d066320-5680-46f7-868e-71b6b5526b98' id='6737'>
+<date>2015-08-16T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6737-analogue_mission_simulations</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Analogue Mission Simulations</title>
+<subtitle>Wait what? Why not digital?</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>When you plan to send a rover to the moon, there are many things that can go wrong. Some are technical glitches, other are from the organisation. With an Analogue Mission Simulation we try to find those glitches before landing on the moon. In this presentation we plan to talk about the how, why and the neat technical challenges that come with such an event.</abstract>
+<description>An analogue mission simulation (AMS) tries to re-create the simulation as close as possible in a controlled environment. It covers simple things like:
+ - What is the first thing to do when you land on the moon?
+ - How hard is it to remote-control a vehicle in an unknown terrain when the connection sucks?
+ - How can you deal with the delay in communication?
+ - How well can you evaluate the risk involved in driving in certain terrains?
+ - How hard is it to get unstuck when you only have the two main cameras?
+
+While we do not know the answers to that question a-priori, the goal of the AMS is to find answers to those. But there are also several technical challenges that need to be overcome, and new technologies that need to be tested.</description>
+<persons>
+<person id='3798'>Karsten Becker</person>
+</persons>
+<links>
+<link href='http://ptscientists.com'>PTScientists</link>
+</links>
+</event>
+<event guid='951ce68f-b030-4ee7-b7a8-fa5b5ffba33e' id='6876'>
+<date>2015-08-16T11:15:00+02:00</date>
+<start>11:15</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6876-data_and_discrimination_representing_marginalised_communities_in_data</slug>
+<recording>
+<license>CC-BY</license>
+<optout>false</optout>
+</recording>
+<title>Data and discrimination: representing marginalised communities in data</title>
+<subtitle>The right to be counted, or the right to be left alone?</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In the past, marginalised communities have often been left uncounted when it comes to institutional datasets. Some argue that the right to be counted is a crucial step to addressing the needs of marginalised communities; but for others, the exact opposite is true. Anonymity and not being reflected in data is exactly what some communities want, and need. In this talk, I'll discuss both sides of the argument, with concrete examples of how the different strategies have been used in various situations. </abstract>
+<description>For some marginalised communities, not being represented in certain institutional datasets means their needs don't have a chance of being met. The first step for changing this, for many anti-discrimination campaigners, is to be counted and to appear in those datasets, and thus have a chance at being reflected in decision making that might stem from the data.
+
+In the eyes of many privacy campaigners, though, the exact opposite is true. Being reflected in data might do more harm to those marginalised communities, for whom operating under the radar or anonymously might be crucial to their livelihoods. 
+
+What can we learn from the way in which different marginalised communities have been reflected in data in the past? When discriminatory decisions have been made as a result of unrepresentative datasets, at what point were the mistakes made, and how could they have been mitigated? 
+
+</description>
+<persons>
+<person id='5622'>Zara Rahman</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='c61636b5-c011-4404-8caa-28ea1aae2804' id='6774'>
+<date>2015-08-16T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6774-for_women_in_tech_do</slug>
+<recording>
+<license>https://creativecommons.org/licenses/by/2.0/</license>
+<optout>false</optout>
+</recording>
+<title>for women in &quot;${tech[@]}&quot;; do</title>
+<subtitle>Let's talk, share and learn from each other.</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The lack of women in tech is evident in numbers and our experience. This imbalance has been in the focus of a public discussion, that has become increasingly difficult to follow and fueled by false accusations or false.
+
+So let's get together and try to understand what the underlying reasons are and what we can do to create a change. And most importantly ask ourselves: Why should we care? </abstract>
+<description>In the past years, we have witnessed a growing concern and discussion about the lack of women in software development, tech communities and computer science. The big gender imbalance is evident in numerous statistics and our own experience, but the partly heated up discussion makes it difficult to follow. 
+
+So what are the reasons for the imbalance and what can we do about it?
+
+In this talk we are going to learn how the presence of women in IT has changed over the course of a century. We will examine the current situation and try to understand for what reason the number of women has diminished. We will learn about the challenges, that keep women from entering the tech world and how we as key figures in the tech community can tackle these problems and learn from existing initiatives.
+
+In the end, we'll also deal with the most pressing question: &quot;Why should we care?&quot;
+
+Optionally, whoever is interested, is warmly welcome to join in a discussion/lunch/drinks afterwards, where we can share experience and thoughts about this in a smaller group
+The results and findings presented are part of a research paper I wrote in spring 2015.</description>
+<persons>
+<person id='5289'>Fiona</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='b1e09252-9961-43ad-a4c5-3d19d798c9dd' id='6864'>
+<date>2015-08-16T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>02:15</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6864-lightning_talks_day_4</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Lightning Talks: Day 4</title>
+<subtitle></subtitle>
+<track>Other</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Bring your infectious enthusiasm to an audience with a short attention span! Discuss a program, system or technique! Pitch your projects and ideas or try to rally a crew of people to your party or assembly! Whatever you bring, make it quick! </abstract>
+<description>Submission instructions will be available on the wiki!</description>
+<persons>
+<person id='4205'>zeltophil</person>
+<person id='5353'>sefischer</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='2ac1138c-ab29-419a-b8e2-39353fde0a9b' id='6969'>
+<date>2015-08-16T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6969-hackerfleet_-_what_happend</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Hackerfleet - what happend?</title>
+<subtitle>Opensource and Venture Capital, Softwaredevelopment and Future</subtitle>
+<track>Failosophy</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>We will explain how we entered the Venture Capital sphere and what happend there, ultimatly, this effort failed. While Ijon produced Business-Bullshit and Buzzword-Bingo and jumped through hoops for Investors, Riot developed the Software HFOS, which got quite far. </abstract>
+<description>The Hackerfleet is an organisation that wants to bring opensource to the seven Seas. They tried to aquire venture capital investment, but failed to do so. In this talk, they will explain what they experienced and with what (partially ridiculous) expectations they were met by investors.
+
+During the failed monetization efforts, the softwaredevelopment continued and produced results, the HFOS (Hackerfleet Operating System) will be shown on stage. It is a locally hosted, collaborative softwaresystem for nautical professionals and amateurs. 
+
+Think of the evolution between early officesoftware (LibreWriter) and Etherpad in terms of collaboration. HFOS is that exact same evolution, but for chart tables and navigators. 
+
+After the monetization efforts failed, the founders have no clue what best strategy to follow from now on. They will present several ideas and organize an open discussion in the c-base village after the talk to discuss these ideas. </description>
+<persons>
+<person id='5692'>ijon</person>
+<person id='5012'>riot</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='da24ba14-f53c-43c0-aa1e-8ccdf826a80f' id='6732'>
+<date>2015-08-16T19:15:00+02:00</date>
+<start>19:15</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6732-experimental_fermentation_institutes_network_efin</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Experimental Fermentation Institutes Network (EFIN)</title>
+<subtitle>fermenting together for better future</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This talk introduces the concept of experimental, educational and production centers which focus on fermentation arts and science. The range of the topics to cover is huge from new approaches in beer making, building up incubators to make it happen too many more. The places are community run, based on the open source concept of collaborating and sharing the results of their findings, functioning as a topical hackerspaces. They have strong ties with local communities in places where they are based, which needs they are trying to fulfill. They aim to collaborate internationally to promote this network of independent centers by strengthening the knowledge exchange by variety of means. We present both freshly established “facts on the ground“ and also the theoretical framework for creating new places and interlinking them together. Combining the fermentation arts of our ancestors, today’s science achievements with tomorrow’s technology is the aim!</abstract>
+<description>In these days there are many newcomers to the hacker movement. Facilities which would focus primarily on food and drink biotech following the basic hacker standards like independent forms of funding, open source collaboration etc. have been few if not missing in the movement so far. This talk is going to explain why is it important to have them - food &amp; drink biotech is a huge sector where mostly corporate doctrines ruled so far, having minimal ethical and moral challengers, therefore building up a know how fallowing the principles described above is crucial. This presentation will describe how the centers can be started based on previous experience. It will discuss variety of options how to get funding to open its doors and consequently how to keep the lights on. Also the legal structure like for-profit, non-profit etc will be discussed. 
+
+In summary the aim is to share the experience about how to start up places like this to stimulate their spread, interlinking them and helping them to prosper. It is also a call for building up place like this in Europe.  
+
+As a demonstration fallowing project can be run by the Experimental Fermentation Institute focusing on a fermentation biotech. This project is focused on promotion and development of food sustainability in local rural communities using variety of fermentation cultures and techniques. The goal is to use the regionally available alimentary resources, preserve them in the time of abundance for periods when they are scarce and process part of them into higher value products for recreational use and trade. This is going to be achieved by selecting appropriate fermentation cultures/microbes and adequate techniques which will be combining the traditional knowledge and state of the art technology, resulting in scheme aimed on small to medium production. Fermentation facility will be designed to suit the needs of rural areas including production, educational and experimental purposes. Next step will be creation of training program which will allow to the interested participants to master these techniques and carry out the production. As the final step, the participants will be motivated to start their own businesses supporting therefore the green collar worker scheme and local economy. All of the developments in this project will be based on open source approach and shared with community. </description>
+<persons>
+<person id='4137'>Frantisek Algoldor Apfelbeck</person>
+</persons>
+<links>
+<link href='http://frantisekapfelbeck.org/doku.php?id=chihiro'>Experimental Fermentation Center</link>
+<link href='https://events.ccc.de/camp/2015/wiki/Projects:Fhb_probiotic_drinks_everywhere'>Probiotic Drinks Everywhere</link>
+</links>
+</event>
+<event guid='b0be37e7-88fd-4f5c-bbd1-14b7e5f9a78d' id='6798'>
+<date>2015-08-16T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6798-fueling_the_revolution</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Fueling the Revolution</title>
+<subtitle>Personal production of bio-fuels</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Bio-fuels from waste can be part of the solution to stabilize climate change, but inaction by governments and industry means such fuels are not readily available. This talk will outline work being done to solve this problem at a personal level, by producing open source designs for equipment for local production of bio-fuels.</abstract>
+<description>Bio-fuels are better for the environment and a key way we could be reducing CO2 emissions. However in many countries bio-fuels are not available at gas stations. It is also a little known fact that all modern gasoline cars can run on bio-ethanol without issues, and all diesel cars can run on bio-diesel. While manufacturers do not optimize their cars for bio-fuels, it is a fairly straightforward process to do this by tuning the cars ECU (Electronic Control Unit). To solve this problem of a lack of bio-fuels production in the developing world (and even in many western nations also!), a group of technologists in Costa Rica are working on open source designs for personal bio-fuels production equipment. These designs aim to be cheap and simple to construct, and use various forms of bio-waste as the primary input to produce the fuels. In this talk I will discuss the global context and outline the project's goals. I will take the audience through the various processes required in the production of bio-fuels, and I will discuss the project's progress in designing and prototyping very small scale bio-fuels production equipment.</description>
+<persons>
+<person id='5566'>Gustaf Bjorksten</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+</day>
+<day date='2015-08-17' end='2015-08-17T19:30:00+02:00' index='5' start='2015-08-17T10:30:00+02:00'>
+<room name='Project 2501'>
+<event guid='58068b84-9261-4f5c-bb73-5c674fa5c45b' id='6859'>
+<date>2015-08-17T11:15:00+02:00</date>
+<start>11:15</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6859-the_quest_for_artificial_general_intelligence</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>The quest for artificial general intelligence</title>
+<subtitle>beyond the Turing test</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>A whirlwind tour of the past, present, and future for artificial general intelligence (also known as strong AI). This talk will begin with Alan Turing's original test. This is not the same as *the* Turing test everyone has heard of. We will look at the current state of the art covering such topics as:
+
+* How old does a human have to be to beat the current state of the art AI in answering science questions?
+* What are some other ways we can test AI?
+* How do we teach computers language?
+* How well can AI follow a written story?
+* How well can AI recognize what's in an image?
+* What basic things are easy for humans to do but very difficult for AI?
+* What are the common objections to the advancement of AI?
+* What does the future hold?
+
+As with anything that pushes the boundaries of what's possible, we'll also take a look at some hilarious failures with chat bots and image scene recognition.
+
+No prior knowledge about artificial intelligence is required for this talk.</abstract>
+<description>This talk will begin with a definition and a quick history of AI and some famous failed predictions. I'll cover the curious origin of Alan Turing's formulation of his test.
+
+The talk will cover general approaches in areas like how we teach AI to understand science, language, and images. I will address persistent problems, the current state of the art, and the formalization of tests preceding and succeeding the Turing test.
+
+The talk will conclude with the possible future and what happens after the Turing test is passed: including a discussion of whether recent caution about unconstrained AI is really warranted.</description>
+<persons>
+<person id='5458'>Luke Gotszling</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='843a5e16-cd65-4009-903e-8a201c8506c1' id='6783'>
+<date>2015-08-17T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>Project 2501</room>
+<slug>camp2015-6783-mainstreet_policing_meets_military-grade_surveillance</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Mainstreet Policing Meets Military-Grade Surveillance</title>
+<subtitle></subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In the United States, people increasingly understand that local police departments often possess high-tech military grade weapons and equipment designed for the battlefield. But what people don’t realize is that the same police departments often also possess very sophisticated surveillance technology that can be used to monitor, track and record the population as we all go about our everyday activities. The talk will explore the kinds of surveillance technologies now in the possession of ordinary police departments far from any crime or terrorism hotspots.
+</abstract>
+<description>In the United States, particularly after protests in Ferguson in the wake of the police killing of Michael Brown, people increasingly understand that local police departments often possess high-tech military grade weapons and equipment designed for the battlefield. But what people don’t realize is that the same police departments often also possess very sophisticated surveillance technology that can be used to monitor, track and record the population as we all go about our everyday activities. 
+
+From stingrays to aerial surveillance to license plate readers and cell phone tracking, police now possess the ability to track people that the intelligence services could only have dreamed of decades ago.  The talk will explore the kinds of surveillance technologies now in the possession of ordinary police departments far from any crime or terrorism hotspots. It will focus particularly on technologies of mass surveillance--ones that, like license plate readers, allow law enforcement agencies to monitor and record the movements or other activities of large numbers of people. It will discuss the origins of these technologies, and what is known about their use. Although the talk will focus on the U.S., similar technologies are present throughout Europe and audience members will be invited to talk about what's going on in their own communities. 
+
+</description>
+<persons>
+<person id='5583'>Catherine Crump</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='2cce4d76-619d-4f60-b7e9-28e8ee9d6483' id='6833'>
+<date>2015-08-17T12:45:00+02:00</date>
+<start>12:45</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6833-tls_interception_considered_harmful</slug>
+<recording>
+<license>CC0</license>
+<optout>false</optout>
+</recording>
+<title>TLS interception considered harmful</title>
+<subtitle>How Man-in-the-Middle filtering solutions harm the security of HTTPS</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>With the more widespread use of encrypted HTTPS connections many software vendors intercept these connections by installing a certificate into the user's browser. This is widely done by Antivirus applications, parental filter software or ad injection software. This can go horribly wrong, as the examples of Superfish and Privdog have shown. But even if implemented properly these solutions almost always decrease the security of HTTPS.</abstract>
+<description>In February a software called Superfish was detected preinstalled on Lenovo laptops that would intercept HTTPS connections by installing a certificate into the user's browser. This certificate was shared amongst different installations and therefore an extraction of the certificate allowed creating rogue certificates that would be accepted by many Lenovo laptops. Shortly after Superfish many other software products with the same or similar vulnerabilities were found. The speaker of this talk discovered that the software Privdog, advertised by the certificate authority Comodo, had an even worse vulnerability.
+
+Superfish and Privdog were extreme examples, but the technology of intercepting HTTPS connections by installing X.509 root certificates into the browser is widespread. These solutions are often part of software that is supposed to bring more security to the user - like Antivirus applications - but they lower the user's security. For example Kaspersky Antivirus users were still affected by the FREAK vulnerability months after the issue was found and fixed.
+
+The talk will first give an introduction into some problems in the TLS protocol that were found in recent years (BEAST, CRIME, FREAK, CA failures) and show some technologies that were invented to prevent common problems of TLS (e. g. HPKP). After that the speaker will give some examples of TLS interception software and how it endangers the security of the user.</description>
+<persons>
+<person id='2462'>hanno</person>
+</persons>
+<links>
+<link href='https://blog.hboeck.de/archives/869-How-Kaspersky-makes-you-vulnerable-to-the-FREAK-attack-and-other-ways-Antivirus-software-lowers-your-HTTPS-security.html'>How Kaspersky makes you vulnerable to the FREAK attack and other ways Antivirus software lowers your HTTPS security</link>
+<link href='https://blog.hboeck.de/archives/865-Software-Privdog-worse-than-Superfish.html'>Software Privdog worse than Superfish</link>
+</links>
+</event>
+<event guid='379a56ad-5123-4861-a656-c0d534d53a96' id='6870'>
+<date>2015-08-17T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6870-detecting_echoes_from_the_dawn_of_time</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Detecting echoes from the dawn of time</title>
+<subtitle>Nifty technologies that revolutionized astronomy</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Our understanding of the universe has exploded in the past 50 years, largely thanks to incredible advances in detector technology that allow us to precisely measure light and particles of all kinds. This talk will cover how technology has revolutionized the field of astronomy, focusing on some of these detector technologies and the discoveries they made possible. The future of astronomy involves large datasets and big computations. The field is starting to embrace open source software and hardware and the power of the internet to fuel new scientific discoveries. </abstract>
+<description>Almost every great leap in understanding in science was made possible by a new technology. For example, the field of biology changed forever after the microscope revealed the existence of cells. In this talk I will discuss some of the great leaps in technology in astronomy, and what those technologies have allowed us to learn about the nature of the universe. 
+
+The focus will be on discoveries made possible by modern detector technologies, using mm wavelength superconducting cryogenic bolometers and the cosmic microwave background as the example.
+
+Moving forward, astronomy is entering an era of big data. Computation is becoming an increasingly important part of astronomy, and as with any new technology, we can expect new scientific discoveries as it becomes mature. The field is starting to embrace open source software and hardware, and the power of the internet to fuel new scientific discoveries. </description>
+<persons>
+<person id='5459'>Liz</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='df27b8d8-cd90-4127-8952-cd4cfe756e38' id='6907'>
+<date>2015-08-17T17:15:00+02:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>Project 2501</room>
+<slug>camp2015-6907-let_s_encrypt</slug>
+<recording>
+<license>cc attribution</license>
+<optout>false</optout>
+</recording>
+<title>Let's Encrypt</title>
+<subtitle>A Certificate Authority To Encrypt the Entire Web</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Let's Encrypt is a new free and automated certificate authority, launching in summer 2015.  This talk will explain how Let's Encrypt works, and show you how to use it to automate HTTPS on a range of different Web, mail and other server types.  It will cover obtaining new certificates, renewing them automatically, and enabling various advanced TLS security features.  We also discuss the roadmap to a Web that is HTTPS by default.
+</abstract>
+<description>Let's Encrypt is a new certificate authority that is being launched by a collaboration between EFF, Mozilla, Cisco, Akamai, IdenTrust, and a team at the University of Michigan.  It will issue certificates for free, using a new automated protocol called ACME for verification of domain control and issuance.
+
+This talk will describe the features of the CA and available clients at launch; explore the security challenges inherent in building such a system; and its effect on the security of the CA marketplace as a whole. We will also update our place on the roadmap to a Web that uses HTTPS by default.</description>
+<persons>
+<person id='2822'>Peter Eckersley</person>
+</persons>
+<links>
+<link href='https://letsencrypt.org'>Let's Encrypt</link>
+<link href='https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web'>A Certificate Authority to Encrypt the Entire Web</link>
+</links>
+</event>
+<event guid='3064add4-ab1e-4d05-84b8-d753b9733097' id='6982'>
+<date>2015-08-17T18:30:00+02:00</date>
+<start>18:30</start>
+<duration>00:45</duration>
+<room>Project 2501</room>
+<slug>camp2015-6982-chaos_communication_camp_closing</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Chaos Communication Camp Closing</title>
+<subtitle>Goodbye!</subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<persons>
+<person id='1583'>hukl</person>
+<person id='5289'>Fiona</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Simulacron-3'>
+<event guid='a406971d-76aa-464c-9ce2-2e7c4a63fab5' id='6858'>
+<date>2015-08-17T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:30</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6858-satellite_imagery_in_agriculture</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Satellite Imagery in Agriculture</title>
+<subtitle>Questioning privacy, data protection, and autonomy in the field</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Satellite imagery has been used since the 1960s to monitor agricultural activities at a national and international level. It is only now that the image quality and cost feasibility have made satellite imagery available to individual farmers in application to crop quality analysis, yield prediction, and other measures related to precision farming.  Farmers can now pinpoint problem areas of their fields and address them on the spot, rather than blanketly spraying fertilizer and pesticides, which has the potential for environmental and economic benefits.  However, this development has launched agriculture into new territory ridden with issues of privacy, data protection, and autonomy of farm inputs and activities. This is a discussion of the state of affairs in agricultural earth observation and what we can do to ensure that it is used for improved practices and not against the producers of our food.</abstract>
+<description>In 2013 the artist Mishka Henner produced the work, &quot;Feedlots.&quot;  It is a series of satellite images he found of selected cattle feedlots across Texas.  Across the images one can objectively observe the the adverse effects of irresponsible farming practices.  This represents the transparency and accountability that satellite imagery can enable.
+
+At the same time, farmers were adopting precision agricultural technologies which used vegetation indices such as NDVI derived from near infra-red satellite imagery to track the progress of their crops and detect areas that didn't have enough water or nutrients.  The digitisation of fields and creation of field analysis software means that farmers can download the data on a USB stick, plug it into a tractor, and apply fertiliser exactly where it is needed, which brings environmental and economic benefits.
+
+However, as with the introduction of most new technologies there are potential issues that come along with our inexperience in these new territories.  Privacy issues related to who can access and order satellite imagery of different farms, and to what degree of resolution. Data security issues for farmers to work out with the agritech companies offering the internet based services. Questions of, 'who owns my data and what can they use it for?' are coming up across the cornfields of the Midwest of the United States.
+
+Additionally, companies that offer farming software also offer seeds, chemical fertilisers, and a whole suite of products that they oblige farmers to use.  Just as Apple encourages users to use their line of synchonised products, agritech firms want farmers to start farming literal apples with their line of seeds that correspond to the fertiliser, pesticide, and the price calculations of their cloud farm planning tool.
+
+These are issues that were never encountered by the agricultural community before, and recognition and new solutions at the onset of this new era are necessary for the future of our food.
+
+</description>
+<persons>
+<person id='5534'>Lisa Gutermuth</person>
+</persons>
+<links>
+<link href='http://mishkahenner.com/filter/works/Feedlots'>Mishka Henner's 'Feedlots'</link>
+</links>
+</event>
+<event guid='bd4515b7-fdcf-4d9b-8fc8-0ec47f5c8a80' id='6730'>
+<date>2015-08-17T12:45:00+02:00</date>
+<start>12:45</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6730-fpgas_for_everyone</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>FPGAs for everyone</title>
+<subtitle>Integrating FPGAs with standard personal computers</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>FPGAs are becoming more and more common in research and industrial projects. They are mostly used to accelerate problems of High Performance Computing. But standard personal computers can also benefit from them, e.g. with cryptographic accelerators, additional processor cores, hardware for special projects.
+This talk describes possible benefits for FPGAs in General Purpose Computing, and their requirements to the FPGA &lt;-&gt; Host connection and the operating system support.</abstract>
+<description>FPGAs are becoming more and more important in research and industrial projects. Many High Performance Computing systems rely on FPGAs to accelerate computations. Systems using FPGAs in this way are the Convey HC1, Copacobana from SciEngines and PCIe Accelerator Cards from Alpha Data. The main problem with these systems is, that normal Hackers can not afford these systems. But FPGAs allow the acceleration of task often needed by the hacker community, e.g. cryptography accelerators, cryptography/password crackers, bitcoin mining, and analog/digital converters. Therefore, it is very important to bring FPGAs into General Purpose Computing.
+
+The talk is organised in the following way:
+
+     *  a brief presentation of the available High Performance Computing
+        Systems
+     * a description of the benefits of the integration of FPGAs and 
+       standard computer systems
+     * an analysis of the requirements to the FPGA &lt;-&gt; Host
+       connection and the operating system support
+     * description of an example integration using Ethernet, a packet
+       switched Network on Chip and a new linux kernel subsystem
+</description>
+<persons>
+<person id='4218'>byterazor</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='2436bb76-f941-4d2d-8b88-188a0f9689d4' id='6920'>
+<date>2015-08-17T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6920-attacking_iot_telemetry</slug>
+<recording>
+<license>FDL 1.3</license>
+<optout>false</optout>
+</recording>
+<title>Attacking IoT Telemetry</title>
+<subtitle>A study of weaknesses in the pipeline of rapidly advancing sensory development</subtitle>
+<track>Security &amp; Hacking</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this hour long presentation, we consider weaknesses in the pipeline of advancing sensor developments and demonstrate passive and active attacks on hypothetical critical infrastructure using real sensor devices. This presentation does not use scare tactics, but rather hacks along in a playful and humorous way.</abstract>
+<description>We study three models of IoT system design, machine to machine (M2M), human to machine (H2M), and a hybrid M2M/H2M, considering attack vectors of each. We move to media, examining weak points in Bluetooth, WiFi, and copper cabled connectivity with mention to IPv6, ZigBee, and RFID as well. We cover typical protocols of IoT communications when collecting telemetry data and passing it on to a message bus. Moving to the science of telemetry, a field study illustrates typical use cases for sensor data collection. We wrap up by considering the points of weakness of a sensor connected critical infrastructure.
+
+Demonstrations of Bluetooth sensor communication, message publishing, server and architecture inspection, packet captures, and reverse engineering serve to illustrate the topics at hand. Attacks using Ubertooth, WiFi Pineapples, and LAN tap demonstrate the weakness of existing products.</description>
+<persons>
+<person id='4239'>Michael Schloh von Bennewitz</person>
+</persons>
+<links>
+<link href='http://lect.europalab.com/ccciotelm/'>Attacking Internet of Things Telemetry</link>
+</links>
+</event>
+<event guid='2ee47684-8114-4361-8f3e-8b61946d8335' id='6983'>
+<date>2015-08-17T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6983-infrastructure_review</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Infrastructure Review</title>
+<subtitle></subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<persons>
+<person id='5740'>arl4223</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='327922bb-5b63-416e-a6cb-8dcf73104037' id='6972'>
+<date>2015-08-17T17:15:00+02:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>Simulacron-3</room>
+<slug>camp2015-6972-living_with_the_lasersaur</slug>
+<recording>
+<license>CC-BY-3.0-DE</license>
+<optout>false</optout>
+</recording>
+<title>Living with the lasersaur</title>
+<subtitle>Experiences with the open source laser cutter</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>After a year with the Lasersaur, pro's and con's, mods, problems and general experiences with the DIY open soure laser cutter.</abstract>
+<description></description>
+<persons>
+<person id='4642'>Sarah</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+</day>
+</schedule>
