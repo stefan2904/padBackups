@@ -1,0 +1,45 @@
+LosFuzzys, Hacking and Ethics?
+
+http://losfuzzys.github.io/
+
+2015-10-
+
+# Related Links
+
+ * https://en.wikipedia.org/wiki/Hacker_ethic
+ * http://dasalte.ccc.de/hackerethics.en
+ * http://www.activism.net/cypherpunk/manifesto.html
+ * http://www2.fiu.edu/~mizrachs/hackethic.html
+ * http://www.issa.org/?page=codeofethics
+ * http://hacks.mit.edu/misc/ethics.html
+ * http://www.isg.rhul.ac.uk/~allan/
+
+## TODO
+
+ * Manifesto
+ * Ethical Hacking Policy
+ * No-Asshole Policy
+ * White Hats?
+ * Consequences?
+
+
+## DRAFT
+
+LosFuzzys is a group of people interested in information security, which occasionally participates in CTFs.
+
+Our interest in information security and technology in general is also our biggest motivation. We love challenges and CTFs provide a great way of practising information security related skills and also team-work in diverse teams. CTFs are collaborative and competitive at the same time and most importantly, they are fun.
+
+LosFuzzys welcomes people with different skill levels; a curious beginner is as much welcome as an experienced person. We also embrace different skill sets and diverse backgrounds.
+
+ * We believe in information sharing, open knowledge, in a responsible way.
+ * We believe in privacy and respect the privacy of others.
+ * We as a team do neither take part in or endorse unlawful activities.
+ * We think learning about attacks is essential to learning defensive skills.
+ * We think learning about attacks is essential in learning defensive skills.  ?
+ * We do not attack people outside of educational and/or competitive settings.
+ * We do not use the skills we learn during our training and competitions to do any harm.
+
+tl;dr; don't be eve!
+
+And (don't) feed the bugs (except delicious stacktraces)!
+
