@@ -25,5 +25,8 @@ PROTOKOLL:
 Startzeit: 
 Ende: 
 Anwesend: 
+Entschuldigt: stefan
 
+
+todo: protocoll here
 
