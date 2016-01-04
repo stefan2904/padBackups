@@ -13,23 +13,34 @@ Moderation:
 
 AGENDA/TO (~45 Minuten):
 
+ * Frauen-Cryptoparty 
  * Update on Enigmal-UI-Evalution developments (Ralph)
  * Discuss results from (preliminary) Heuristic Evaluation: are found issues *real* issues or actually vital aspects to PGP functionality? (Ralph)
- * wtf it going with Signal + Google Cloud Sercies + killing the websocket discussion? What are our toughts on this? (Ralph)
- * Topic für heute?
-
- * ...
-
- * <add your Agenda here (add high-priority TOPs above low-priority TOPs>
+ * wtf it going with Signal + Google Cloud Services + killing the websocket discussion? What are our toughts on this? (Ralph)
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 PROTOKOLL: 
-Startzeit: 
+Startzeit: 18:15
 Ende: 
-Anwesend: 
-Entschuldigt: stefan
+Anwesend: Gunter, Brigitte, Eva S, Bernhard, Ralph, Marc, Anton
+Entschuldigt: stefan, Olaf,
 
+Frauen-Cryptoparty 
 
-todo: protocoll here
+ * Orga/Vortrag: Eva, Brigitte
+ * Werbung: Lisa, Daniela, Marcell?
+ * Eher nicht: Sandra
+
+ * TODO:
+    - Termine:  KW09 (Anfang März):  Fr, 4.3. 15:00-18:00 vor Sprachgruppe (19:30)
+    - Ort: Spektral
+    - Titel:  Digital Selbstverteidigung für Frauen feat. Cryptoparty Graz
+    - Zielgruppe: "...für Frauen"
+    - Plattform: Desktop / Mobil
+
+ * Topics:
+    - Kurzvorstellung Enigmail durch EnigUsab Evaluator Girls! :-)
+    - Hilfe für Mobilfon wichtig: Signal Messenger
+        Eva S: xprivacy: fake data für tracking dienste (location, etc..)
 
