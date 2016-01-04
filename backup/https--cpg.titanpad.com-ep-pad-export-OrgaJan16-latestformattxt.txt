@@ -15,6 +15,7 @@ AGENDA/TO (~45 Minuten):
 
  * Update on Enigmal-UI-Evalution developments (Ralph)
  * Discuss results from (preliminary) Heuristic Evaluation: are found issues *real* issues or actually vital aspects to PGP functionality? (Ralph)
+ * wtf it going with Signal + Google Cloud Sercies + killing the websocket discussion? What are our toughts on this? (Ralph)
  * Topic für heute?
 
  * ...
