@@ -66,5 +66,5 @@ Security of PGP: Post Quantum Cryptography
     Here's the one-minute introduction: "Imagine that it's fifteen years from now. Somebody announces that he's built a large quantum computer. RSA is dead. DSA is dead. Elliptic curves, hyperelliptic curves, class groups, whatever, dead, dead, dead. So users are going to run around screaming and say 'Oh my God, what do we do?' Well, we still have secret-key cryptography, and we still have some public-key systems. There's hash trees. There's NTRU. There's McEliece. There's multivariate-quadratic systems. But we need more experience with these. We need algorithms. We need paddings, like OAEP. We need protocols. We need software, working software for these systems. We need speedups. We need to know what kind of key sizes to use. So come to PQCrypto and figure these things out before somebody builds a quantum computer." 
 For a twenty-minute introduction, read the following paper: Daniel J. Bernstein. "Introduction to post-quantum cryptography." http://www.springer.com/math/numbers/book/978-3-540-88701-0?detailsPage=samplePages
 
- * 
+ * FF Addon SSLeuth https://addons.mozilla.org/en-US/firefox/addon/ssleuth/?src=hp-dl-upandcoming
 
