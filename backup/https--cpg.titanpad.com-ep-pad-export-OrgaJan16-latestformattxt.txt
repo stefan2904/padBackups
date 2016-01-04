@@ -32,7 +32,7 @@ Frauen-Cryptoparty
  * Werbung: Lisa, Daniela, Marcell?
  * Eher nicht: Sandra
 
- * TODO:
+ * TODOs:
     - Termine:  KW09 (Anfang März):  Fr, 4.3. 15:00-18:00 vor Sprachgruppe (19:30)
     - Ort: Spektral
     - Titel:  Digital Selbstverteidigung für Frauen feat. Cryptoparty Graz
@@ -43,4 +43,28 @@ Frauen-Cryptoparty
     - Kurzvorstellung Enigmail durch EnigUsab Evaluator Girls! :-)
     - Hilfe für Mobilfon wichtig: Signal Messenger
         Eva S: xprivacy: fake data für tracking dienste (location, etc..)
+
+
+Safer Internet Day
+
+ * 10.2. am Kepler Gymnasium
+ * Mail + Browser-Tracking-Talks (Olaf,Anton)
+
+
+Signal + Google Services
+
+ * Signal Messenger bestes, das wir haben momentan.
+ * Notwendiges Übel
+ * TODO: research den technologischen grund
+        - google play vs. websockets (Ralph)
+        - metadaten leakage an google/apple
+
+
+Security of PGP: Post Quantum Cryptography
+
+ * https://pqcrypto.org/
+    Here's the one-minute introduction: "Imagine that it's fifteen years from now. Somebody announces that he's built a large quantum computer. RSA is dead. DSA is dead. Elliptic curves, hyperelliptic curves, class groups, whatever, dead, dead, dead. So users are going to run around screaming and say 'Oh my God, what do we do?' Well, we still have secret-key cryptography, and we still have some public-key systems. There's hash trees. There's NTRU. There's McEliece. There's multivariate-quadratic systems. But we need more experience with these. We need algorithms. We need paddings, like OAEP. We need protocols. We need software, working software for these systems. We need speedups. We need to know what kind of key sizes to use. So come to PQCrypto and figure these things out before somebody builds a quantum computer." 
+For a twenty-minute introduction, read the following paper: Daniel J. Bernstein. "Introduction to post-quantum cryptography." http://www.springer.com/math/numbers/book/978-3-540-88701-0?detailsPage=samplePages
+
+ * 
 
