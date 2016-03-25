@@ -2,8 +2,8 @@
 
 # update urls-list, etc
 git pull origin master
-git pull origin backup
 git checkout backup
+git pull origin backup
 git merge master
 
 BACKUPDIR=backup
