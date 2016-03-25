@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # update urls-list, etc
+git checkout master
 git pull origin master
 git checkout backup
 git pull origin backup
