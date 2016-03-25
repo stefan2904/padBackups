@@ -4,7 +4,8 @@
 git pull origin master
 git checkout backup
 git pull origin backup
-git merge master
+git merge -m "merged master into backup" master
+# git rebase master
 
 BACKUPDIR=backup
 TMPDIR=.
