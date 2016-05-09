@@ -1,0 +1,65 @@
+CryptoParty Graz - ORGATREFFEN
+
+Montag,  7. März 2016 - 18h, spektral
+
+Vorheriges Treffen: ?
+Nächstes Treffen: https://cpg.titanpad.com/OrgaApril16
+
+
+Protokollmensch: Marc
+Moderation: ?
+Anwesend: Gunther, Olaf, Marc, Patrick, Bernhard, Brigitte, Peter, Ralph
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+AGENDA/TO (~45 Minuten):
+
+ * Frauen* Cryptoparty Status
+ * HTU Cryptoparty Status
+ * HTL Kaindorf / HBLA Cryptoparty?
+ * Urania im Herbst?
+ * Update on Enigmal-UI-Evalution developments (Ralph)
+ * Cryptoparty at Linuxtage?
+ * Cryptoparty at Barcamp?
+ * Cryptoparty bei Forum SeniorInnen in der digitalen Welt, 28. 4. 11 - 17 Uhr
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+ * Frauen* Cryptoparty Status
+   * gibt kein Status, Brigitte ist jetzt 3 Wochen auf Urlaub und kümmert sich danach darum;
+ * 
+ * HTU Cryptoparty Status
+   * Anton und Bernhard kümmern sich drum, wird wahrscheinlich erst Richtung Juni was;
+ * 
+ * HTL Kaindorf / HBLA Cryptoparty?
+   * ist in Planung, Gunther steht in Kontakt mit dem Lehrer, Veranstaltung so 2-3h eher am Vormittag, 
+   * mögliche Themen: Tracking, Mails, Basics (wie funktionieren grundsätzliche Dinge, wem kann man vertrauen), Messenger, WLAN-Demo (arp-Spoofing), 
+   * wie fordern: Fahrtkostenerstattung, 200-300 Euro
+ * 
+ * Urania im Herbst?
+   * ja, muss in den nächsten Wochen angemeldet werden;
+   * mögliche Themen: Webtracking, IoT, Smartphones, allgemeine Einführung, ...
+   * wann: November
+ * 
+ * Update on Enigmal-UI-Evalution developments
+   * Ralph ist nicht da -- kein Update --
+   * Ralph kam später u. hat ein bisschen erzählt, was läuft :-)
+ * 
+ * Cryptoparty at Linuxtage?
+   * Keysigning: Stefan?, dieses Mal nur an einem Tag (Samstag) + eventuell informelles Keysigning (Freitag), 
+ * 
+ * Cryptoparty at Barcamp?
+   * eventuell machen Ralph und Keith was zum Enigmail Plugin;
+ * 
+ * Cryptoparty bei Forum SeniorInnen in der digitalen Welt, 28. 4. 11 - 17 Uhr
+   * Dauer 3x30min, macht Brigitte;
+ * 
+ * Cryptoparty Kasse --> Verein
+   * Olaf ist bis Sommer/Herbst auf Auslandssemester in Heidelberg und möchte das Cryptoparty-Vermögen an wen anders abgeben, 
+   * -> Verein? um finanzielle Sachen in Zukunft besser zu verwalten...
+   * Statutenvorlage bei nächster CryptoParty... dann Gründung/Anmeldung
+
+
+
+
