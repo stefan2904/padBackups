@@ -38,7 +38,7 @@ for URL in `cat $URLS`
   HTTPSTATUSCODE="$(wget -S --no-check-certificate -O ${TMPDIR}/${NAME}.tmp $URL 2>&1 | grep "HTTP/" | tail -1 | awk '{print $2}')"
   MD5EPDUMP=`md5sum $EPDUMPFILE | cut -d " " -f 1`
 
-  if (( $HTTPSTATUSCODE < 300 )) && (($HTTPSTATUSCODE >= 200 )); then
+  if [[ $HTTPSTATUSCODE -lt 300 ]] && [[ $HTTPSTATUSCODE -ge 200 ]]; then
     echo "HTTP Status Code Success:" $HTTPSTATUSCODE
 
         if [ $MD5BACKUP != $MD5EPDUMP ]; then
