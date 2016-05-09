@@ -1,0 +1,93 @@
+checkExit for exitmap 
+Let's find bad TOR exit nodes
+
+https://github.com/stefan2904/exitmap (check out all the branches)
+
+main text moved to https://verify.iaik.tugraz.at/teaching/akits1/bin/view/Main/AkIts2016CheckExit
+more technical text: below
+
+
+Tasks
+
+	* Understand problem
+	* Write code that checks certificates:
+		* Outside Tor: To test certificate retrieval and verify the code
+		* Using non-Tor browser: retrieve reference certificate
+		* Using Tor Browser: retrieve certificate for all sites in set SITES
+	* 1. Experiments:
+		* Set up a fake site
+		* Run script using fake site
+	* 2. Experiments:
+		* Define a set of sites: SITES (alexia top 1million, or so)
+		* Define a set of exit-nodes: EXITNODES (all?)
+		* Run script for all SITES using all EXITNODES
+
+
+Problem Description
+
+(Firefox is used as placeholder for all modern web-browsers which do not use TOR to access the Internet.)
+
+What is the setup?
+
+	* There are sites, which send you their (valid and non-selfsigned) certificate, but not the full chain required to validate the certificate
+	* Scenario A:
+		* Firefox is able to load the chain anyways -> no warning
+		* Tor Browser is not able to load the chain -> warning
+	* Scenario B:
+		* Firefox  is not able to load the chain -> warning
+		* Tor Browser is  is not able to load the chain -> warning
+
+Why is this a problem?
+
+	* Since there is always a warning (for a certain site, at least) users are accustomed to ignore it.
+	* This behaviour allows malicious exit nodes to MiTM on the trafic.
+
+Why is this a bigger problem for Tor Browser?
+
+	* Scenario A is a problem for both Tor and non-Tor browsers, but for Tor Browser exit nodes are an additional threat
+	* Scenario B is a problem for Tor Browser users, because Tor Browser does not store certificates 
+		* which may have been retrieved (via other sites or during earlier session)
+	* Exit nodes (and the networks they are connected to) can target Tor users specifically.
+
+
+Concept for the Code
+
+Parameters:
+	* Set of SITES
+	* Set of EXITNODES
+
+for each SITE in SITES:
+
+	* Outside Tor:
+		* Store FINGERPRINT
+
+	* Inside Tor (via exitmap):
+		* for each EXITNODE in EXITNODES:
+			* Make GET request to SITE (using urllib2?)
+			* Retrieve certificate (and chain?) used by site
+			* Store FINGERPRINT[EXITNODE] and compare with REF_FINGERPRINT
+				* if not equal:
+					* CDN used?
+					* load balancer used?
+					* MiTM?
+					* ...
+
+
+Concept for the 1. Experiments
+
+	* Configure a webserver in a way that it sends a valid (letsencrypt?) cert but not the chain
+	* Configure a webserver with a selfsigned cert
+
+TODO
+
+
+Concept for the 2. Experiments
+
+	* Try to find exitnodes that do MITM
+	* Run script for all the sites via all the exitnodes
+		* (Focus on sites which do not transmit a chain and/or are selfsigned?)
+
+TODO
+
+
+
