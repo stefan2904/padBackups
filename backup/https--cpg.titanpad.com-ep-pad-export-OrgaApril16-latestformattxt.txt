@@ -3,12 +3,13 @@ CryptoParty Graz - ORGATREFFEN
 Montag,  4. april 2016 - 18h, spektral
 
 Vorheriges Treffen: https://cpg.titanpad.com/OrgaMar16
-Nächstes Treffen: Mai
+Nächstes Treffen: https://cpg.titanpad.com/OrgaMai16
 
 
 Protokollmensch: 
 Moderation: 
 Anwesend: 
+Abwesend: Ralph (muss mich leider erholen heute :-/ )
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -20,11 +21,15 @@ AGENDA/TO (~45 Minuten):
  * Update on Enigmal-UI-Evalution developments (Ralph)
  * Cryptoparty at Linuxtage (Stefan macht Keysigning, braucht Hilfe dabei)
  * Cryptoparty Verein (?)
+   * Peter: Statuten vorschlag https://github.com/CryptoPartyGraz/Statuten
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 Protokoll:
 
+ * Update on Enigmal-UI-Evalution developments (Ralph)
+        Vortrag eingereicht @Linuxtage (Ich, Keith, die Studentinnen); Current stage:         
+        Jacqueline arbeitet sich in Enigmail UI-Sourcecode ein :-)
 
 
